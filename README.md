@@ -1,0 +1,1 @@
+This app allows users to explore SF restaurant health scores against other traits (e.g. average meal price and types of dish).
