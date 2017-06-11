@@ -3,5 +3,26 @@
     <head></head>
     <body>
         <h1>Restaurant health scores across San Francisco</h1>
+         <table border=1 cellpadding=7>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Inspection Date</th>
+                <th>Inspection Score</th>
+                <th>Risk Category</th>
+                <th>Violation Description</th>
+            </tr>
+            {% for obj in object_list %}
+            <tr>
+                <td>{{ obj.business_name }}</td>
+                <td>{{ obj.business_address }}</td>
+                <td>{{ obj.inspection_date }}</td>
+                <td>{{ obj.inspection_score }}</td>
+                <td>{{ obj.risk_category }}</td>
+                <td>{{ obj.violation_description }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
     </body>
 </html>
