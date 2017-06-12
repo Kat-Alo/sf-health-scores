@@ -2,8 +2,28 @@
 <html lang="en">
     <head></head>
     <body>
-        {{ object_list }}
-        <!-- {% for obj in object_list %}
+        <h1>Health Inspection record for {{ object_list[0]['business_name'] }}</h1>
+        <table border=1 cellpadding=7>
+            <tr>
+                <th>Date</th>
+                <th>Score</th>
+                <th>Risk Category</th>
+                <th>Violation Description</th>
+                <th>Inspection Type</th>
+                <th>Violation ID</th>
+
+            </tr>
+            {% for obj in object_list %}
+            <tr>
+                <td>{{ obj.inspection_date }}</td>
+                <td>{{ obj.inspection_score }}</td>
+                <td>{{ obj.risk_category }}</td>
+                <td>{{ obj.violation_description }}</td>
+                <td>{{ obj.inspection_type }}</td>
+                <td>{{ obj.violation_id }}</td>
+            </tr>
+            {% endfor %}
+        </table>        <!-- {% for obj in object_list %}
         <tr>
             <td>{{ obj.violation_description }}</td>
         </tr>
