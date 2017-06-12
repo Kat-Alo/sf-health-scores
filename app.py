@@ -17,11 +17,14 @@ def get_abbrev_csv():
     all_inspections = get_full_csv()
     for i in all_inspections:
         i['inspection_date'] = datetime.strptime(str(i['inspection_date'])[:10], "%m/%d/%Y")
-    new_list = sorted(all_inspections, key=itemgetter('inspection_date'))
+    new_list = sorted(all_inspections, key=itemgetter('inspection_date'), reverse=True)
     most_recent = []
     for n in new_list:
         if n.get('business_address') not in [d['business_address'] for d in most_recent]:
-            most_recent.append(n)
+            if n.get('inspection_score') is not '':
+                most_recent.append(n)
+
+    most_recent = sorted(most_recent, key=itemgetter('business_name'))
 
     return most_recent
 
