@@ -46,9 +46,14 @@ def index():
 def detail(name):
     template = 'detail.html'
     object_list = get_abbrev_csv()
+    full_list = get_full_csv()
+    business_list = []
     for row in object_list:
         if row['business_name'] == name:
-            return render_template(template, object=row)
+            for f in full_list:
+                if f['business_name'] == name:
+                    business_list.append(f)
+            return render_template(template, object_list=business_list)
     abort(404)
 
 if __name__ == '__main__':
