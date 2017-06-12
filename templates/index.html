@@ -14,7 +14,7 @@
             </tr>
             {% for obj in object_list %}
             <tr>
-                <td>{{ obj.business_name }}</td>
+                <td><a href="{{ obj.business_name }}/">{{ obj.business_name }}</a></td>
                 <td>{{ obj.business_address }}</td>
                 <td>{{ obj.inspection_date }}</td>
                 <td>{{ obj.inspection_score }}</td>
