@@ -13,7 +13,7 @@ def fetch_data(url, data_fname, dir_name, name, latitude, longitude):
     else:
         makedirs(dir_name, exist_ok = True)
         headers = {'Authorization': 'bearer %s' % access_token}
-        params = {'location': 'San Francisco', 'term': name, 'latitude': latitude, 'longitude':}
+        params = {'location': 'San Francisco', 'term': name, 'latitude': latitude, 'longitude': longitude}
         resp = requests.get(url=url, params=params, headers=headers)
         with open(data_fname, 'wb') as f:
             f.write(resp.content)
