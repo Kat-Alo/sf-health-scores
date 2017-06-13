@@ -1,0 +1,45 @@
+{
+  "phone": "+16506853700",
+  "display_phone": "(650) 685-3700",
+  "id": "draegers-market-san-mateo",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "222 E 4th Ave",
+      "San Mateo, CA 94401"
+    ],
+    "address1": "222 E 4th Ave",
+    "zip_code": "94401",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Mateo"
+  },
+  "distance": 26912.675780019996,
+  "rating": 4.0,
+  "name": "Draeger's Market",
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "cookingschools",
+      "title": "Cooking Schools"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "price": "$$$",
+  "url": "https://www.yelp.com/biz/draegers-market-san-mateo?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 511,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tEIL607VGDhW8cDgKLk8Wg/o.jpg",
+  "coordinates": {
+    "latitude": 37.5642587,
+    "longitude": -122.3220461
+  },
+  "transactions": []
+}

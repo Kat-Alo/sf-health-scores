@@ -1,0 +1,48 @@
+{
+  "phone": "+14152855200",
+  "display_phone": "(415) 285-5200",
+  "id": "jays-cheesesteak-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "3285 21st St",
+      "San Francisco, CA 94110"
+    ],
+    "address1": "3285 21st St",
+    "zip_code": "94110",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 12.918436111759998,
+  "rating": 3.5,
+  "name": "Jay's Cheesesteak",
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "cheesesteaks",
+      "title": "Cheesesteaks"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/jays-cheesesteak-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 459,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pjSxvkSzABe6jNaJMomjvA/o.jpg",
+  "coordinates": {
+    "latitude": 37.75679,
+    "longitude": -122.42084
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ]
+}

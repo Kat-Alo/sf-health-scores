@@ -1,0 +1,42 @@
+{
+  "phone": "+14157521171",
+  "display_phone": "(415) 752-1171",
+  "id": "japanese-tea-garden-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "75 Hagiwara Tea Garden Dr",
+      "Golden Gate Park",
+      "San Francisco, CA 94118"
+    ],
+    "address1": "75 Hagiwara Tea Garden Dr",
+    "zip_code": "94118",
+    "address3": "Golden Gate Park",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 1135.08037672,
+  "rating": 4.0,
+  "name": "Japanese Tea Garden",
+  "categories": [
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    },
+    {
+      "alias": "giftshops",
+      "title": "Gift Shops"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/japanese-tea-garden-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 1075,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jiNxicU9NQf3k_WcJTZ4GQ/o.jpg",
+  "coordinates": {
+    "latitude": 37.7700897295676,
+    "longitude": -122.470314657078
+  },
+  "transactions": []
+}

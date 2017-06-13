@@ -1,0 +1,37 @@
+{
+  "phone": "+14154091200",
+  "display_phone": "(415) 409-1200",
+  "id": "jebena-coffee-and-tea-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "994 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "address1": "994 Polk St",
+    "zip_code": "94109",
+    "address3": "",
+    "country": "US",
+    "address2": null,
+    "city": "San Francisco"
+  },
+  "distance": 809.782953647,
+  "rating": 3.5,
+  "name": "Jebena Coffee & Tea",
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/jebena-coffee-and-tea-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 145,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/00_AJXBDJruqOQq5R_fE_w/o.jpg",
+  "coordinates": {
+    "latitude": 37.7858575,
+    "longitude": -122.4197265
+  },
+  "transactions": []
+}

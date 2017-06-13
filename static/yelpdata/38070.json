@@ -1,0 +1,39 @@
+{
+  "phone": "+14083002565",
+  "display_phone": "(408) 300-2565",
+  "id": "charmed-events-group-cupertino",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "Cupertino, CA 95014"
+    ],
+    "address1": null,
+    "zip_code": "95014",
+    "address3": "",
+    "country": "US",
+    "address2": null,
+    "city": "Cupertino"
+  },
+  "distance": 60591.420864379994,
+  "rating": 4.5,
+  "name": "Charmed Events Group",
+  "categories": [
+    {
+      "alias": "eventplanning",
+      "title": "Party & Event Planning"
+    },
+    {
+      "alias": "wedding_planning",
+      "title": "Wedding Planning"
+    }
+  ],
+  "url": "https://www.yelp.com/biz/charmed-events-group-cupertino?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 20,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gful32WIFh6omFPzkPZoow/o.jpg",
+  "coordinates": {
+    "latitude": 37.32503,
+    "longitude": -122.02948
+  },
+  "transactions": []
+}

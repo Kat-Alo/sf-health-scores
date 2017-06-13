@@ -1,0 +1,37 @@
+{
+  "phone": "+14152856020",
+  "display_phone": "(415) 285-6020",
+  "id": "jims-restaurant-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "2420 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "address1": "2420 Mission St",
+    "zip_code": "94110",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 24.149133225419998,
+  "rating": 3.5,
+  "name": "Jim's Restaurant",
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/jims-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 159,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x_1QWPZspI9vPWCaM1HVmA/o.jpg",
+  "coordinates": {
+    "latitude": 37.75824,
+    "longitude": -122.41931
+  },
+  "transactions": []
+}

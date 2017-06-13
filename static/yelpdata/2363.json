@@ -1,0 +1,41 @@
+{
+  "phone": "+16508516777",
+  "display_phone": "(650) 851-6777",
+  "id": "thomas-fogarty-winery-woodside",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "19501 Skyline Blvd",
+      "Woodside, CA 94062"
+    ],
+    "address1": "19501 Skyline Blvd",
+    "zip_code": "94062",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "Woodside"
+  },
+  "distance": 47981.22968952,
+  "rating": 4.0,
+  "name": "Thomas Fogarty Winery",
+  "categories": [
+    {
+      "alias": "wineries",
+      "title": "Wineries"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "price": "$$$",
+  "url": "https://www.yelp.com/biz/thomas-fogarty-winery-woodside?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 185,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ADjxrg4BAalZa4Qm6LWgsw/o.jpg",
+  "coordinates": {
+    "latitude": 37.3426696271371,
+    "longitude": -122.219899775724
+  },
+  "transactions": []
+}

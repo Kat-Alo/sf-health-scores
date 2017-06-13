@@ -1,0 +1,35 @@
+{
+  "phone": "+19252838514",
+  "display_phone": "(925) 283-8514",
+  "id": "california-exterminating-service-alamo",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "Alamo, CA 94507"
+    ],
+    "address1": "",
+    "zip_code": "94507",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "Alamo"
+  },
+  "distance": 38080.97717254,
+  "rating": 4.0,
+  "name": "California Exterminating Service",
+  "categories": [
+    {
+      "alias": "pest_control",
+      "title": "Pest Control"
+    }
+  ],
+  "url": "https://www.yelp.com/biz/california-exterminating-service-alamo?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 72,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WZU6R2NsCmYHpMU1m3FeBA/o.jpg",
+  "coordinates": {
+    "latitude": 37.8541701,
+    "longitude": -121.993384707812
+  },
+  "transactions": []
+}

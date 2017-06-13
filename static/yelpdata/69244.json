@@ -1,0 +1,45 @@
+{
+  "phone": "+14152739192",
+  "display_phone": "(415) 273-9192",
+  "id": "jamber-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "858 Folsom St",
+      "San Francisco, CA 94107"
+    ],
+    "address1": "858 Folsom St",
+    "zip_code": "94107",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 19.827216859279996,
+  "rating": 4.0,
+  "name": "Jamber",
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "price": "$$",
+  "url": "https://www.yelp.com/biz/jamber-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 555,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_HW2BAzOY5vheJOsIXJbAw/o.jpg",
+  "coordinates": {
+    "latitude": 37.781147,
+    "longitude": -122.402664
+  },
+  "transactions": []
+}

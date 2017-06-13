@@ -1,0 +1,44 @@
+{
+  "phone": "+14154491200",
+  "display_phone": "(415) 449-1200",
+  "id": "jewish-family-and-childrens-services-san-francisco-2",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "2150 Post St",
+      "San Francisco, CA 94115"
+    ],
+    "address1": "2150 Post St",
+    "zip_code": "94115",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 5244.804298256,
+  "rating": 4.0,
+  "name": "Jewish Family & Children's Services",
+  "categories": [
+    {
+      "alias": "c_and_mh",
+      "title": "Counseling & Mental Health"
+    },
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "homehealthcare",
+      "title": "Home Health Care"
+    }
+  ],
+  "url": "https://www.yelp.com/biz/jewish-family-and-childrens-services-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 4,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a7tFzlaR_C0fWOlsAZ5iHA/o.jpg",
+  "coordinates": {
+    "latitude": 37.7848366,
+    "longitude": -122.4375073
+  },
+  "transactions": []
+}

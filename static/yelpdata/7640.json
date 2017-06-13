@@ -1,0 +1,37 @@
+{
+  "phone": "+14156823765",
+  "display_phone": "(415) 682-3765",
+  "id": "judah-mini-market-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "2264 Judah St",
+      "San Francisco, CA 94122"
+    ],
+    "address1": "2264 Judah St",
+    "zip_code": "94122",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 18.19504354336,
+  "rating": 3.0,
+  "name": "Judah Mini-Market",
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "price": "$$",
+  "url": "https://www.yelp.com/biz/judah-mini-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 11,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sxStAV-hzq3iSLfEIHoDtw/o.jpg",
+  "coordinates": {
+    "latitude": 37.76142,
+    "longitude": -122.48642
+  },
+  "transactions": []
+}

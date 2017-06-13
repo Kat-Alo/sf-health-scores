@@ -1,0 +1,42 @@
+{
+  "phone": "+14152908857",
+  "display_phone": "(415) 290-8857",
+  "id": "japacurry-truck-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94103"
+    ],
+    "address1": "",
+    "zip_code": "94103",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 989.6264572460001,
+  "rating": 4.0,
+  "name": "JapaCurry Truck",
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "japacurry",
+      "title": "Japanese Curry"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/japacurry-truck-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 378,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/G5SfTDobtQKJgVbX3iYhpg/o.jpg",
+  "coordinates": {
+    "latitude": 37.7731018066406,
+    "longitude": -122.411277770996
+  },
+  "transactions": [
+    "pickup"
+  ]
+}

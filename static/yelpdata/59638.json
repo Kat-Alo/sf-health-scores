@@ -1,0 +1,41 @@
+{
+  "phone": "+14158854605",
+  "display_phone": "(415) 885-4605",
+  "id": "house-of-prime-rib-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "1906 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ],
+    "address1": "1906 Van Ness Ave",
+    "zip_code": "94109",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 5823.099062099999,
+  "rating": 4.0,
+  "name": "House of Prime Rib",
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    }
+  ],
+  "price": "$$$",
+  "url": "https://www.yelp.com/biz/house-of-prime-rib-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 5738,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HLrjaMoAgYSac0vx71YpCA/o.jpg",
+  "coordinates": {
+    "latitude": 37.79338,
+    "longitude": -122.4225
+  },
+  "transactions": []
+}

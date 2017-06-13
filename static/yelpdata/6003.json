@@ -1,0 +1,40 @@
+{
+  "phone": "+14158229040",
+  "display_phone": "(415) 822-9040",
+  "id": "joseph-lee-recreation-center-san-francisco-2",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "1395 Mendell St",
+      "San Francisco, CA 94124"
+    ],
+    "address1": "1395 Mendell St",
+    "zip_code": "94124",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 77.21594651656,
+  "rating": 2.5,
+  "name": "Joseph Lee Recreation Center",
+  "categories": [
+    {
+      "alias": "recreation",
+      "title": "Recreation Centers"
+    },
+    {
+      "alias": "playgrounds",
+      "title": "Playgrounds"
+    }
+  ],
+  "url": "https://www.yelp.com/biz/joseph-lee-recreation-center-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 2,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n-bSqvOBXPSXbYhLxQtbvQ/o.jpg",
+  "coordinates": {
+    "latitude": 37.7351376947893,
+    "longitude": -122.390565276146
+  },
+  "transactions": []
+}

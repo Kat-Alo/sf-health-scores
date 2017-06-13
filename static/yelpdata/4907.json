@@ -1,0 +1,41 @@
+{
+  "phone": "+14154683413",
+  "display_phone": "(415) 468-3413",
+  "id": "jim-georgies-donuts-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "2462 San Bruno Ave",
+      "San Francisco, CA 94134"
+    ],
+    "address1": "2462 San Bruno Ave",
+    "zip_code": "94134",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 3933.11189219,
+  "rating": 4.0,
+  "name": "Jim Georgie's Donuts",
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/jim-georgies-donuts-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 120,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vIX4-ZEv-sHvDY7NooljSQ/o.jpg",
+  "coordinates": {
+    "latitude": 37.730785369873,
+    "longitude": -122.405235290527
+  },
+  "transactions": []
+}

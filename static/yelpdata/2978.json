@@ -1,0 +1,45 @@
+{
+  "phone": "+14158244190",
+  "display_phone": "(415) 824-4190",
+  "id": "jayn-bee-club-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "2736 20th St",
+      "San Francisco, CA 94110"
+    ],
+    "address1": "2736 20th St",
+    "zip_code": "94110",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 47.01764219254,
+  "rating": 4.0,
+  "name": "Jay'n Bee Club",
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "divebars",
+      "title": "Dive Bars"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/jayn-bee-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 180,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JNlqSxLIYq9sbNTSHZsWXQ/o.jpg",
+  "coordinates": {
+    "latitude": 37.7593722417239,
+    "longitude": -122.408788209756
+  },
+  "transactions": []
+}

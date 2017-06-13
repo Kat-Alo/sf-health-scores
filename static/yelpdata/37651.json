@@ -1,0 +1,45 @@
+{
+  "phone": "+14157812328",
+  "display_phone": "(415) 781-2328",
+  "id": "good-luck-cafe-and-deli-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "621 Kearny St",
+      "San Francisco, CA 94108"
+    ],
+    "address1": "621 Kearny St",
+    "zip_code": "94108",
+    "address3": "",
+    "country": "US",
+    "address2": null,
+    "city": "San Francisco"
+  },
+  "distance": 874.6498968239999,
+  "rating": 4.5,
+  "name": "Good Luck Cafe and Deli",
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/good-luck-cafe-and-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 350,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7diLgtddAjlrYm_62uLvUQ/o.jpg",
+  "coordinates": {
+    "latitude": 37.793838,
+    "longitude": -122.404846
+  },
+  "transactions": []
+}

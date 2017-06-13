@@ -1,0 +1,45 @@
+{
+  "phone": "+14156266750",
+  "display_phone": "(415) 626-6750",
+  "id": "jimss-sandwich-and-smoke-shop-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "600 20th St",
+      "San Francisco, CA 94107"
+    ],
+    "address1": "600 20th St",
+    "zip_code": "94107",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 14.906582560959999,
+  "rating": 3.5,
+  "name": "Jims's Sandwich & Smoke Shop",
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "tobaccoshops",
+      "title": "Tobacco Shops"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "price": "$$",
+  "url": "https://www.yelp.com/biz/jimss-sandwich-and-smoke-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 6,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/su0pcVQ-J38IVzjuaIaJhQ/o.jpg",
+  "coordinates": {
+    "latitude": 37.76067,
+    "longitude": -122.38777
+  },
+  "transactions": []
+}

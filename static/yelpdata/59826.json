@@ -1,0 +1,40 @@
+{
+  "phone": "+14155674400",
+  "display_phone": "(415) 567-4400",
+  "id": "jannah-san-francisco-3",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "1775 Fulton St",
+      "San Francisco, CA 94117"
+    ],
+    "address1": "1775 Fulton St",
+    "zip_code": "94117",
+    "address3": "",
+    "country": "US",
+    "address2": "",
+    "city": "San Francisco"
+  },
+  "distance": 18.69771284566,
+  "rating": 4.0,
+  "name": "Jannah",
+  "categories": [
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    }
+  ],
+  "price": "$$",
+  "url": "https://www.yelp.com/biz/jannah-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 312,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/52WM7XRwa9vC2fA3hQm5KA/o.jpg",
+  "coordinates": {
+    "latitude": 37.7757457,
+    "longitude": -122.4457548
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ]
+}

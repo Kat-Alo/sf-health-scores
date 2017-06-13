@@ -1,0 +1,48 @@
+{
+  "phone": "+14159222211",
+  "display_phone": "(415) 922-2211",
+  "id": "jakes-steaks-san-francisco",
+  "is_closed": false,
+  "location": {
+    "state": "CA",
+    "display_address": [
+      "3301 Buchanan St",
+      "San Francisco, CA 94123"
+    ],
+    "address1": "3301 Buchanan St",
+    "zip_code": "94123",
+    "address3": "",
+    "country": "US",
+    "address2": null,
+    "city": "San Francisco"
+  },
+  "distance": 12.132716733995998,
+  "rating": 4.0,
+  "name": "Jake's Steaks",
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "cheesesteaks",
+      "title": "Cheesesteaks"
+    }
+  ],
+  "price": "$",
+  "url": "https://www.yelp.com/biz/jakes-steaks-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "review_count": 555,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GeLAduvcaQVBIEZOHcPidg/o.jpg",
+  "coordinates": {
+    "latitude": 37.80054,
+    "longitude": -122.43298
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ]
+}
