@@ -13,7 +13,7 @@ def fetch_data(url, data_fname, dir_name, name, latitude, longitude):
     else:
         makedirs(dir_name, exist_ok = True)
         headers = {'Authorization': 'bearer %s' % access_token}
-        params = {'location': 'San Francisco', 'term': name, 'latitude': latitude, 'longitude':}
+        params = {'location': 'San Francisco', 'term': name, 'latitude': latitude, 'longitude': longitude}
         resp = requests.get(url=url, params=params, headers=headers)
         with open(data_fname, 'wb') as f:
             f.write(resp.content)
@@ -50,10 +50,17 @@ def get_yelp_data(business):
 def add_yelp_data(business_list):
     for b in business_list:
         json_file = get_yelp_data(b)
-        b['price'] = json_file["businesses"][0]["price"]
-        b['yelp_rating'] = json_file["businesses"][0]["rating"]
-        b['yelp_url'] = json_file["businesses"][0]['url']
-        b['category'] = json_file["businesses"][0]["categories"][0]["title"]
+        if "businesses" in json_file:
+            if 'price' in json_file['businesses'][0]:
+                b['price'] = json_file["businesses"][0]["price"]
+                b['yelp_rating'] = json_file["businesses"][0]["rating"]
+                b['yelp_url'] = json_file["businesses"][0]['url']
+                b['category'] = json_file["businesses"][0]["categories"][0]["title"]
+        else:
+            b['price'] = "Yelp does not have price data on this business."
+            b['yelp_rating'] = "Yelp does not have a rating for this business."
+            b['yelp_url'] = "Yelp does not have a profile for this business."
+            b['category'] = "Yelp does not have a category for this business."
 
     return business_list
 
