@@ -2,38 +2,46 @@
 <html lang="en">
     <head>
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
+                <link rel="stylesheet" href="/static/css/mystyles.css" />
+
         <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
     </head>
     <body>
+
+
         <div id="map" style="width:100%; height:300px;"></div>
+
+        <div class="container">
+
         <h1>Restaurant health scores across San Francisco</h1>
 
         <p>There are {{ object_list | length }} restaurants.</p>
 
-         <table border=1 cellpadding=7>
-            <tr>
-                <th>Name</th>
-                <th>Yelp rating</th>
-                <th>Address</th>
-                <th>Inspection Date</th>
-                <th>Inspection Score</th>
-                <th>Risk Category</th>
-                <th>Violation Description</th>
-            </tr>
-            {% for obj in object_list %}
-            <tr>
-                <td><a href="/business/{{ obj.business_id }}">{{ obj.business_name }}</a></td>
-                <td>{{ obj.yelp_rating }}</td>
+             <table border=1 cellpadding=7 class="table">
+                <tr>
+                    <th>Name</th>
+                    <th>Yelp rating</th>
+                    <th>Address</th>
+                    <th>Inspection Date</th>
+                    <th>Inspection Score</th>
+                    <th>Risk Category</th>
+                    <th>Violation Description</th>
+                </tr>
+                {% for obj in object_list %}
+                <tr>
+                    <td><a href="/business/{{ obj.business_id }}">{{ obj.business_name }}</a></td>
+                    <td>{{ obj.yelp_rating }}</td>
 
-                <td>{{ obj.business_address }}</td>
-                <td>{{ obj.inspection_date }}</td>
-                <td>{{ obj.inspection_score }}</td>
-                <td>{{ obj.risk_category }}</td>
-                <td>{{ obj.violation_description }}</td>
-            </tr>
-            {% endfor %}
+                    <td>{{ obj.business_address }}</td>
+                    <td>{{ obj.inspection_date }}</td>
+                    <td>{{ obj.inspection_score }}</td>
+                    <td>{{ obj.risk_category }}</td>
+                    <td>{{ obj.violation_description }}</td>
+                </tr>
+                {% endfor %}
         </table>
-
+        </div>
         <script type="text/javascript">
             var map = L.map('map').setView([37.775, -122.419], 12);
             var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
