@@ -1,7 +1,11 @@
 <!doctype html>
 <html lang="en">
-    <head></head>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
     <body>
+        <div id="map" style="width:100%; height:300px;"></div>
         <h1>Restaurant health scores across San Francisco</h1>
          <table border=1 cellpadding=7>
             <tr>
@@ -23,6 +27,39 @@
             </tr>
             {% endfor %}
         </table>
-
+        <script type="text/javascript">
+            var map = L.map('map').setView([37.775, -122.419], 12);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 18,
+                attribution: 'Data, imagery and map information provided by <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>.'
+            });
+            map.addLayer(osmLayer);
+            var data = {
+              "type": "FeatureCollection",
+              "features": [
+                {% for obj in object_list %}
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "business_name": "{{ obj.business_name }}"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [{{ obj.business_longitude }}, {{ obj.business_latitude }}]
+                  }
+                }{% if not loop.last %},{% endif %}
+                {% endfor %}
+              ]
+            };
+            var dataLayer = L.geoJson(data, {
+                onEachFeature: function(feature, layer) {
+                    layer.bindPopup(feature.properties.business_name);
+                }
+            });
+            map.addLayer(dataLayer);
+        </script>
     </body>
 </html>
+
+
+

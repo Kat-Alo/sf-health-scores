@@ -4,6 +4,7 @@ from flask import render_template
 from operator import itemgetter
 from datetime import date, datetime, time
 from flask import abort
+from yelp import add_yelp_data
 app = Flask(__name__)
 
 def get_full_csv():
@@ -32,7 +33,7 @@ def get_abbrev_csv():
 
     #sort list by restaurant name to make more navigable
     most_recent = sorted(most_recent, key=itemgetter('business_name'))
-
+    most_recent = add_yelp_data(most_recent)
     return most_recent
 
 
