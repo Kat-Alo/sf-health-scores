@@ -1,0 +1,41 @@
+{
+  "name": "Destination Baking Company",
+  "id": "destination-baking-company-san-francisco",
+  "display_phone": "(415) 469-0730",
+  "review_count": 251,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43228173013,
+    "latitude": 37.734663918065
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "598 Chenery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "598 Chenery St",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/destination-baking-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9ew88xVv7n3SB20C8wbYhQ/o.jpg",
+  "phone": "+14154690730",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 10.098595142478
+}

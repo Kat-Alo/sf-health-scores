@@ -1,0 +1,41 @@
+{
+  "name": "Chevron",
+  "id": "chevron-san-francisco-22",
+  "display_phone": "(415) 621-2570",
+  "review_count": 48,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4351621,
+    "latitude": 37.7626226
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2399 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "2399 Market St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/chevron-san-francisco-22?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9LFLQ2RXBfYRNHkd6zvp4g/o.jpg",
+  "phone": "+14156212570",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 44.50944235036
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Cumaica Coffee",
+  "id": "cumaica-coffee-san-francisco",
+  "display_phone": "(415) 551-2600",
+  "review_count": 99,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.415846329194,
+    "latitude": 37.7756093399956
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1398 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1398 Mission St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cumaica-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cuMOOyk4AUb0cR3azeEjdw/o.jpg",
+  "phone": "+14155512600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "internetcafe",
+      "title": "Internet Cafes"
+    }
+  ],
+  "distance": 2440.027877912
+}

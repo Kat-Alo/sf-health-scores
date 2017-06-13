@@ -1,0 +1,48 @@
+{
+  "name": "Arabian Nights Restaurant",
+  "id": "arabian-nights-restaurant-san-francisco",
+  "display_phone": "(415) 648-1444",
+  "review_count": 575,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.418782,
+    "latitude": 37.759515
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2345 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2345 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/arabian-nights-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OWjR4pa_zbI6GL5wNb1Bmg/o.jpg",
+  "phone": "+14156481444",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "arabian",
+      "title": "Arabian"
+    }
+  ],
+  "distance": 1560.2593142839999
+}

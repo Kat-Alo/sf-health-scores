@@ -1,0 +1,41 @@
+{
+  "name": "UCSF Medical Center",
+  "id": "ucsf-medical-center-san-francisco-11",
+  "display_phone": "(415) 476-1000",
+  "review_count": 265,
+  "coordinates": {
+    "longitude": -122.4576051,
+    "latitude": 37.7634394
+  },
+  "location": {
+    "address3": "University Of California",
+    "address2": "",
+    "address1": "505 Parnassus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94143",
+    "state": "CA",
+    "display_address": [
+      "505 Parnassus Ave",
+      "University Of California",
+      "San Francisco, CA 94143"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/ucsf-medical-center-san-francisco-11?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mEHQonl20HCfYDSg7Wci4g/o.jpg",
+  "phone": "+14154761000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    },
+    {
+      "alias": "medcenters",
+      "title": "Medical Centers"
+    }
+  ],
+  "distance": 3624.051180844
+}

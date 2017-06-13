@@ -1,0 +1,45 @@
+{
+  "name": "Cafe Mason",
+  "id": "cafe-mason-san-francisco",
+  "display_phone": "(415) 544-0320",
+  "review_count": 815,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.409877,
+    "latitude": 37.7866275
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "320 Mason St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "320 Mason St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/cafe-mason-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lP1K0Pc3h977kjI3zMt2gA/o.jpg",
+  "phone": "+14155440320",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 25.849753380879996
+}

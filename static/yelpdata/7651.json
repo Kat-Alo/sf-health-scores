@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "Safeway",
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.428271787771,
+    "latitude": 37.7690820684288
+  },
+  "review_count": 544,
+  "url": "https://www.yelp.com/biz/safeway-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 861-7660",
+  "distance": 1204.3671790862,
+  "id": "safeway-san-francisco-3",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BfLfhM2EA0mwBHO-6E0KHg/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "2020 Market St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "2020 Market St",
+      "San Francisco, CA 94114"
+    ],
+    "zip_code": "94114"
+  },
+  "phone": "+14158617660",
+  "rating": 2.5
+}

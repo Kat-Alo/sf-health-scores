@@ -1,0 +1,41 @@
+{
+  "name": "Bayshore Taqueria",
+  "id": "bayshore-taqueria-san-francisco",
+  "display_phone": "(415) 285-1100",
+  "review_count": 148,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4053719,
+    "latitude": 37.7430959
+  },
+  "location": {
+    "address3": "",
+    "address2": "Unit A",
+    "address1": "300 Bayshore Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "300 Bayshore Blvd",
+      "Unit A",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bayshore-taqueria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B0Jeuy5uSCyikyMw-jAbgQ/o.jpg",
+  "phone": "+14152851100",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 3358.194811138
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Bay Watch Restaurant",
+  "id": "bay-watch-restaurant-san-francisco",
+  "display_phone": "(415) 775-9673",
+  "review_count": 182,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.437301635742,
+    "latitude": 37.7999801635742
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2150 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2150 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bay-watch-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W4RZdmetbPbD7qlnvGTtUg/o.jpg",
+  "phone": "+14157759673",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 35.44601444658
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ayola",
+  "id": "ayola-san-francisco",
+  "display_phone": "(415) 348-0808",
+  "review_count": 617,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.400273,
+    "latitude": 37.7870726
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "118 New Montgomery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "118 New Montgomery St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ayola-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/65p5SNsqACD8-zrPmSy1gw/o.jpg",
+  "phone": "+14153480808",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    }
+  ],
+  "distance": 23.93190612156
+}

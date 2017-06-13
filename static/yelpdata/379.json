@@ -1,0 +1,41 @@
+{
+  "name": "Giant Scoop Cafe",
+  "id": "giant-scoop-cafe-san-francisco",
+  "display_phone": "(415) 467-5051",
+  "review_count": 14,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.403579354286,
+    "latitude": 37.7274189144373
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2708 San Bruno Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "2708 San Bruno Ave",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/giant-scoop-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V6L5sf9rD3oImDmEOhmCsQ/o.jpg",
+  "phone": "+14154675051",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 4.326507974094
+}

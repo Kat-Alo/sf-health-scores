@@ -1,0 +1,38 @@
+{
+  "name": "Caf\u00e9 Hana",
+  "id": "caf\u00e9-hana-san-francisco-3",
+  "display_phone": "(415) 658-7899",
+  "review_count": 162,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4303915,
+    "latitude": 37.785354
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 368",
+    "address1": "1737 Post St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1737 Post St",
+      "Ste 368",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/caf%C3%A9-hana-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yTsgYYUyKxZrQIkqV3G0bA/o.jpg",
+  "phone": "+14156587899",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 2760.101302878
+}

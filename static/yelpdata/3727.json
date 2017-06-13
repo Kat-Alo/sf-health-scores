@@ -1,0 +1,44 @@
+{
+  "name": "Ace Wasabi's Rock 'n' Roll Sushi",
+  "id": "ace-wasabis-rock-n-roll-sushi-san-francisco",
+  "display_phone": "(415) 567-4903",
+  "review_count": 586,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43813,
+    "latitude": 37.80016
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3339 Steiner St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "3339 Steiner St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ace-wasabis-rock-n-roll-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/40XaXS9Cv9enc9ClVfjpZg/o.jpg",
+  "phone": "+14155674903",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 14.96515770894
+}

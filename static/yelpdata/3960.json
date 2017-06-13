@@ -1,0 +1,45 @@
+{
+  "name": "Gap",
+  "id": "gap-san-francisco",
+  "display_phone": "(415) 391-8826",
+  "review_count": 42,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.398937,
+    "latitude": 37.7945979
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3 Embarcadero Ctr",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "3 Embarcadero Ctr",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/gap-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_IzPr0Y-2tK97JrGGCQ4gw/o.jpg",
+  "phone": "+14153918826",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "menscloth",
+      "title": "Men's Clothing"
+    },
+    {
+      "alias": "womenscloth",
+      "title": "Women's Clothing"
+    },
+    {
+      "alias": "childcloth",
+      "title": "Children's Clothing"
+    }
+  ],
+  "distance": 874.6274787177999
+}

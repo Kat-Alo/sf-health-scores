@@ -1,0 +1,45 @@
+{
+  "name": "Specialty's Caf\u00e9 & Bakery",
+  "id": "specialtys-caf\u00e9-and-bakery-san-francisco-40",
+  "display_phone": "(877) 502-2837",
+  "review_count": 407,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.402699127613,
+    "latitude": 37.7887970566674
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1 Post St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "1 Post St",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/specialtys-caf%C3%A9-and-bakery-san-francisco-40?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q_I4I3Bszo1RP41B2MWFsQ/o.jpg",
+  "phone": "+18775022837",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 137.4322044775
+}

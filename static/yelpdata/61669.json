@@ -1,0 +1,41 @@
+{
+  "name": "Good Eats Cafe",
+  "id": "good-eats-cafe-san-francisco",
+  "display_phone": "(415) 288-8612",
+  "review_count": 147,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40014,
+    "latitude": 37.79236
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 160",
+    "address1": "200 Pine St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "200 Pine St",
+      "Ste 160",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/good-eats-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nDqKM0S10fzNr7fycQFlPw/o.jpg",
+  "phone": "+14152888612",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 15.08634583896
+}

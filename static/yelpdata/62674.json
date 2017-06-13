@@ -1,0 +1,41 @@
+{
+  "name": "Chipotle Mexican Grill",
+  "id": "chipotle-mexican-grill-san-francisco-3",
+  "display_phone": "(415) 278-0461",
+  "review_count": 370,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.399303903705,
+    "latitude": 37.7904519797938
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "525 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "525 Market St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/chipotle-mexican-grill-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XnKf1vMry5fNmwfZZlCaEg/o.jpg",
+  "phone": "+14152780461",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 933.8004804143999
+}

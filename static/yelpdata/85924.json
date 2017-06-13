@@ -1,0 +1,45 @@
+{
+  "name": "Domino's Pizza",
+  "id": "dominos-pizza-san-francisco-4",
+  "display_phone": "(415) 647-8400",
+  "review_count": 148,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4056298,
+    "latitude": 37.7427642
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "320 Bay Shore Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "320 Bay Shore Blvd",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.5,
+  "url": "https://www.yelp.com/biz/dominos-pizza-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qdO3Pgrz3X0HRai1YN0MsA/o.jpg",
+  "phone": "+14156478400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 3364.14180524
+}

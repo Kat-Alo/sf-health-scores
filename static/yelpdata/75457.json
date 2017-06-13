@@ -1,0 +1,37 @@
+{
+  "name": "Doc Ricketts",
+  "id": "doc-ricketts-san-francisco",
+  "display_phone": "(415) 649-6191",
+  "review_count": 143,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.404770995701,
+    "latitude": 37.7966310797605
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "124 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "124 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/doc-ricketts-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mWP4jG8uhKevza2mVm0RsQ/o.jpg",
+  "phone": "+14156496191",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 4851.52602004
+}

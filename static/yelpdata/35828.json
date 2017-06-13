@@ -1,0 +1,41 @@
+{
+  "name": "Geneva Steak",
+  "id": "geneva-steak-san-francisco",
+  "display_phone": "(415) 586-6685",
+  "review_count": 81,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.441413879395,
+    "latitude": 37.7164344787598
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5130 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "5130 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/geneva-steak-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s03goPpmDT4g6v4bbSzVUg/o.jpg",
+  "phone": "+14155866685",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "cheesesteaks",
+      "title": "Cheesesteaks"
+    }
+  ],
+  "distance": 127.551138512
+}

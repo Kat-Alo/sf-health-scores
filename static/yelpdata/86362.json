@@ -1,0 +1,45 @@
+{
+  "name": "Aina",
+  "id": "aina-san-francisco-7",
+  "display_phone": "(415) 814-3815",
+  "review_count": 442,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39038,
+    "latitude": 37.75791
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "900 22nd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "900 22nd St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/aina-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EUgy2L1yKBR8tSwQngv4HA/o.jpg",
+  "phone": "+14158143815",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "hawaiian",
+      "title": "Hawaiian"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 4059.6711944599997
+}

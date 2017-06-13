@@ -1,0 +1,40 @@
+{
+  "name": "Golden Sai Gon",
+  "id": "golden-sai-gon-san-francisco",
+  "display_phone": "(415) 508-1918",
+  "review_count": 57,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4055051693,
+    "latitude": 37.7318177583916
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2428 San Bruno Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "2428 San Bruno Ave",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/golden-sai-gon-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LTVahqE0tPH5nADc8W84Og/o.jpg",
+  "phone": "+14155081918",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 4225.904912014
+}

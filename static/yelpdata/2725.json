@@ -1,0 +1,41 @@
+{
+  "name": "Bobo's",
+  "id": "bobos-san-francisco-14",
+  "display_phone": "(415) 441-8880",
+  "review_count": 1754,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.425744103705,
+    "latitude": 37.8014088795149
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1450 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1450 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bobos-san-francisco-14?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tzPulX3Z5DGNgpTql96uIw/o.jpg",
+  "phone": "+14154418880",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 28.20529284
+}

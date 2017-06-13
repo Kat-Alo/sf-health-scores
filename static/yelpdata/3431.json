@@ -1,0 +1,41 @@
+{
+  "name": "Bimbo's 365 Club",
+  "id": "bimbos-365-club-san-francisco",
+  "display_phone": "(415) 474-0365",
+  "review_count": 436,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.415504455566,
+    "latitude": 37.8039011522147
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1025 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "1025 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bimbos-365-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g3cCf3ggok8SXx1GabW7VQ/o.jpg",
+  "phone": "+14154740365",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    }
+  ],
+  "distance": 6.047520559495999
+}

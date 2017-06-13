@@ -1,0 +1,42 @@
+{
+  "name": "Ferry Plaza Wine Merchant",
+  "id": "ferry-plaza-wine-merchant-san-francisco",
+  "display_phone": "(415) 391-9400",
+  "review_count": 378,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.393016815186,
+    "latitude": 37.7953388901613
+  },
+  "location": {
+    "address3": "Shop 23",
+    "address2": "",
+    "address1": "1 Ferry Bldg",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Shop 23",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ferry-plaza-wine-merchant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GI3L3xpDAfkG4MnllLwpdA/o.jpg",
+  "phone": "+14153919400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 66.91734533476
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Humphry Slocombe Ice Cream",
+  "id": "humphry-slocombe-ice-cream-san-francisco-4",
+  "display_phone": "(415) 550-6971",
+  "review_count": 788,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.3938169,
+    "latitude": 37.7954033
+  },
+  "location": {
+    "address3": "Ferry Plaza Farmers Market",
+    "address2": "",
+    "address1": "1 Ferry Bldg",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Ferry Plaza Farmers Market",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v_05yNdQyHt4gjLcnLCBZQ/o.jpg",
+  "phone": "+14155506971",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 5398.666214559999
+}

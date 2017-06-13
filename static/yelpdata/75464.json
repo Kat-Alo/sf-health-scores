@@ -1,0 +1,45 @@
+{
+  "name": "Green Heart Foods Cafe",
+  "id": "green-heart-foods-cafe-san-francisco-3",
+  "display_phone": "(415) 800-8910",
+  "review_count": 67,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.415217394669,
+    "latitude": 37.7587579981467
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3321 20th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3321 20th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/green-heart-foods-cafe-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rl353qVaV4y87-07R96J2w/o.jpg",
+  "phone": "+14158008910",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 1881.642420142
+}

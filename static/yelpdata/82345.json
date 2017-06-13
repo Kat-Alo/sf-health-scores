@@ -1,0 +1,45 @@
+{
+  "name": "Blaze Fast-Fire'd Pizza",
+  "id": "blaze-fast-fired-pizza-san-francisco",
+  "display_phone": "(415) 242-6282",
+  "review_count": 371,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.476424537732,
+    "latitude": 37.7279517025056
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "157 Stonestown Galleria",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "157 Stonestown Galleria",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/blaze-fast-fired-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rEn5H0ZQtn1Z5cbIJvv-mg/o.jpg",
+  "phone": "+14152426282",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 5077.228552076
+}

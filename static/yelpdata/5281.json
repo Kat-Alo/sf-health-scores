@@ -1,0 +1,37 @@
+{
+  "name": "The Wonton Stand Food Truck - Eva's Catering",
+  "id": "the-wonton-stand-food-truck-evas-catering-san-francisco",
+  "display_phone": "(415) 828-1026",
+  "review_count": 5,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.393711676062,
+    "latitude": 37.7727943730332
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "290 Channel St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94158",
+    "state": "CA",
+    "display_address": [
+      "290 Channel St",
+      "San Francisco, CA 94158"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/the-wonton-stand-food-truck-evas-catering-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QUTZyU1EdWxMj07QLPIGHw/o.jpg",
+  "phone": "+14158281026",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 3996.4679065079995
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Do\u00f1a Tere's Market",
+  "id": "do\u00f1a-teres-market-san-francisco-3",
+  "display_phone": "",
+  "review_count": 49,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4104,
+    "latitude": 37.75776
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2780 21st St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2780 21st St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/do%C3%B1a-teres-market-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ga7f7GyxzMqTOjPDTvaqEQ/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "foodstands",
+      "title": "Food Stands"
+    }
+  ],
+  "distance": 8.77046767353
+}

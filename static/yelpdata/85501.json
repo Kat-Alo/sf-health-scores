@@ -1,0 +1,41 @@
+{
+  "name": "Connecticut Yankee",
+  "id": "connecticut-yankee-san-francisco",
+  "display_phone": "(415) 552-4440",
+  "review_count": 415,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.3978982,
+    "latitude": 37.7648964
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "100 Connecticut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "100 Connecticut St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/connecticut-yankee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d6G2M0pkxy5R3Xz77DIZ4A/o.jpg",
+  "phone": "+14155524440",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 3403.438025624
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Oda Restaurant and Brewery",
+  "id": "oda-restaurant-and-brewery-san-francisco",
+  "display_phone": "(415) 558-9450",
+  "review_count": 62,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39577,
+    "latitude": 37.76884
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 100",
+    "address1": "1500 Owens St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94158",
+    "state": "CA",
+    "display_address": [
+      "1500 Owens St",
+      "Ste 100",
+      "San Francisco, CA 94158"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/oda-restaurant-and-brewery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m4S8QM-b9JWtfaZ2_E1HMQ/o.jpg",
+  "phone": "+14155589450",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    }
+  ],
+  "distance": 3697.1515879279996
+}

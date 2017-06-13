@@ -1,0 +1,36 @@
+{
+  "name": "Harvey Milk Civil Rights Academy",
+  "id": "harvey-milk-civil-rights-academy-san-francisco",
+  "display_phone": "(415) 241-6276",
+  "review_count": 5,
+  "coordinates": {
+    "longitude": -122.43647,
+    "latitude": 37.75892
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4235 19th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "4235 19th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/harvey-milk-civil-rights-academy-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c_Z1epVHEzGzewHuBtR4NQ/o.jpg",
+  "phone": "+14152416276",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 16.96698032946
+}

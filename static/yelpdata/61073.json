@@ -1,0 +1,41 @@
+{
+  "name": "Fat Angel",
+  "id": "fat-angel-san-francisco",
+  "display_phone": "(415) 525-3013",
+  "review_count": 758,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.433185588489,
+    "latitude": 37.783385291338
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1740 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1740 O'Farrell St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/fat-angel-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/na362VItC1wi_5VKHg1VAQ/o.jpg",
+  "phone": "+14155253013",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    }
+  ],
+  "distance": 17.19569651158
+}

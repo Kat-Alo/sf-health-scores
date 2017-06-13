@@ -1,0 +1,44 @@
+{
+  "name": "Il Casaro Pizzeria & Mozzarella Bar",
+  "id": "il-casaro-pizzeria-and-mozzarella-bar-san-francisco",
+  "display_phone": "(415) 677-9455",
+  "review_count": 639,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4073981,
+    "latitude": 37.7984832
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "348 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "348 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/il-casaro-pizzeria-and-mozzarella-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K62xCcAyKVskvClKvAwz_A/o.jpg",
+  "phone": "+14156779455",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 4897.621058188
+}

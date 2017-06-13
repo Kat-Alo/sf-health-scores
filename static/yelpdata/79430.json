@@ -1,0 +1,41 @@
+{
+  "name": "Haight Street Market",
+  "id": "haight-street-market-san-francisco",
+  "display_phone": "(415) 255-0644",
+  "review_count": 397,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.44758,
+    "latitude": 37.77021
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1530 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1530 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/haight-street-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xxTEegRtZbv0AGJNsy0EMQ/o.jpg",
+  "phone": "+14152550644",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    }
+  ],
+  "distance": 1427.3604033256
+}

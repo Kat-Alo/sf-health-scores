@@ -1,0 +1,44 @@
+{
+  "name": "Larry Becker, DC, LAc",
+  "id": "larry-becker-dc-lac-san-francisco",
+  "display_phone": "(415) 752-4476",
+  "review_count": 12,
+  "coordinates": {
+    "longitude": -122.50276184082,
+    "latitude": 37.772216796875
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "875 42nd Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "875 42nd Ave",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/larry-becker-dc-lac-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FXwepf5sKF9k3mzhUw1DgQ/o.jpg",
+  "phone": "+14157524476",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chiropractors",
+      "title": "Chiropractors"
+    },
+    {
+      "alias": "acupuncture",
+      "title": "Acupuncture"
+    },
+    {
+      "alias": "tcm",
+      "title": "Traditional Chinese Medicine"
+    }
+  ],
+  "distance": 685.1429663544
+}

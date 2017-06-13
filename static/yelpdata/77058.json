@@ -1,0 +1,35 @@
+{
+  "name": "dKweddings",
+  "id": "dkweddings-san-leandro",
+  "display_phone": "(510) 363-7697",
+  "review_count": 94,
+  "coordinates": {
+    "longitude": -122.164573669434,
+    "latitude": 37.7165832519531
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Leandro",
+    "country": "US",
+    "zip_code": "94577",
+    "state": "CA",
+    "display_address": [
+      "San Leandro, CA 94577"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/dkweddings-san-leandro?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b8v632dp9AJis5wpULKpdQ/o.jpg",
+  "phone": "+15103637697",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "photographers",
+      "title": "Photographers"
+    }
+  ],
+  "distance": 23960.44776646
+}

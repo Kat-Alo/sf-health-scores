@@ -1,0 +1,39 @@
+{
+  "name": "Bottle Zup",
+  "id": "bottle-zup-san-francisco-4",
+  "display_phone": "(415) 895-8860",
+  "review_count": 83,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46315,
+    "latitude": 37.78325
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "354 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "354 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bottle-zup-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/emV0Nwj988ykjKm1PXl3_A/o.jpg",
+  "phone": "+14158958860",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 3418.627298412
+}

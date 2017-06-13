@@ -1,0 +1,37 @@
+{
+  "name": "Fog Hill Market",
+  "id": "fog-hill-market-san-francisco",
+  "display_phone": "(415) 781-8817",
+  "review_count": 38,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.405723571777,
+    "latitude": 37.8000679016113
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1300 Kearny St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "1300 Kearny St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/fog-hill-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NsWAyX9eI2ORnosuzkbmEA/o.jpg",
+  "phone": "+14157818817",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 7.800458749015999
+}

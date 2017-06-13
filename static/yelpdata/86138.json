@@ -1,0 +1,48 @@
+{
+  "name": "Baladie Gourmet Cafe",
+  "id": "baladie-gourmet-cafe-san-francisco-4",
+  "display_phone": "(415) 989-6629",
+  "review_count": 454,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.404394,
+    "latitude": 37.791357
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "337 Kearny St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "337 Kearny St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/baladie-gourmet-cafe-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yx9JPhCa-NmWp2_BNh30aQ/o.jpg",
+  "phone": "+14159896629",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    }
+  ],
+  "distance": 4405.037489668
+}

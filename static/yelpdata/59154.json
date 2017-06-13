@@ -1,0 +1,41 @@
+{
+  "name": "Bar Crudo",
+  "id": "bar-crudo-san-francisco",
+  "display_phone": "(415) 409-0679",
+  "review_count": 1665,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.438271045685,
+    "latitude": 37.7756673618778
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "655 Divisadero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "655 Divisadero St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bar-crudo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nLD6RSqM5elAX1v2aAPNOw/o.jpg",
+  "phone": "+14154090679",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "raw_food",
+      "title": "Live/Raw Food"
+    }
+  ],
+  "distance": 26.8755273848
+}

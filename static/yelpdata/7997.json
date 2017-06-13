@@ -1,0 +1,37 @@
+{
+  "name": "Costco",
+  "id": "costco-san-francisco",
+  "display_phone": "(415) 626-4388",
+  "review_count": 734,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.410840076057,
+    "latitude": 37.7709986669142
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "450 10th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "450 10th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/costco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CLjwBnR_GzfPXLQmmZ5j0w/o.jpg",
+  "phone": "+14156264388",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "wholesale_stores",
+      "title": "Wholesale Stores"
+    }
+  ],
+  "distance": 30.27645548376
+}

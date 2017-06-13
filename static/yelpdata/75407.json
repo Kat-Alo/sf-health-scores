@@ -1,0 +1,36 @@
+{
+  "is_closed": false,
+  "rating": 5.0,
+  "name": "49 Square Catering",
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.394950866699,
+    "latitude": 37.7504653930664
+  },
+  "review_count": 18,
+  "url": "https://www.yelp.com/biz/49-square-catering-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 834-5348",
+  "distance": 3828.1167803159997,
+  "id": "49-square-catering-san-francisco",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VhSBwZLGgY5ekNfg_xY77Q/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "1760M Cesar Chavez St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": null,
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "1760M Cesar Chavez St",
+      "San Francisco, CA 94124"
+    ],
+    "zip_code": "94124"
+  },
+  "phone": "+14158345348"
+}

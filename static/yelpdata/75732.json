@@ -1,0 +1,45 @@
+{
+  "name": "A.G. Ferrari Foods",
+  "id": "a-g-ferrari-foods-san-francisco-12",
+  "display_phone": "(415) 923-4470",
+  "review_count": 131,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.451483353967,
+    "latitude": 37.7868268737489
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3490 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3490 California St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/a-g-ferrari-foods-san-francisco-12?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AObxlyiRAjkSTAMpB9G48w/o.jpg",
+  "phone": "+14159234470",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "gourmet",
+      "title": "Specialty Food"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 3171.6228984
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Hotel Utah Saloon",
+  "id": "hotel-utah-saloon-san-francisco",
+  "display_phone": "(415) 546-6300",
+  "review_count": 540,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.398155927658,
+    "latitude": 37.7792883337397
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "500 4th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "500 4th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hotel-utah-saloon-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3qYZb_0x9NaUSHafh6FRuw/o.jpg",
+  "phone": "+14155466300",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "musicvenues",
+      "title": "Music Venues"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 26.296905281199997
+}

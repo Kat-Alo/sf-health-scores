@@ -1,0 +1,37 @@
+{
+  "name": "Bon Appetit Management Co",
+  "id": "bon-appetit-management-co-palo-alto-2",
+  "display_phone": "(650) 798-8000",
+  "review_count": 11,
+  "coordinates": {
+    "longitude": -122.16216,
+    "latitude": 37.44262
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 400",
+    "address1": "100 Hamilton Ave",
+    "city": "Palo Alto",
+    "country": "US",
+    "zip_code": "94301",
+    "state": "CA",
+    "display_address": [
+      "100 Hamilton Ave",
+      "Ste 400",
+      "Palo Alto, CA 94301"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.5,
+  "url": "https://www.yelp.com/biz/bon-appetit-management-co-palo-alto-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+16507988000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 42858.00845332
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Hotel Drisco",
+  "id": "hotel-drisco-san-francisco",
+  "display_phone": "(415) 346-2880",
+  "review_count": 86,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.443095,
+    "latitude": 37.79208
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2901 Pacific Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2901 Pacific Ave",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/hotel-drisco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v_4Pfcrvy67fKVykcIahtQ/o.jpg",
+  "phone": "+14153462880",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 22.24691426684
+}

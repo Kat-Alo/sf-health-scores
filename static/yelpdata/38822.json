@@ -1,0 +1,41 @@
+{
+  "name": "Contigo",
+  "id": "contigo-san-francisco-2",
+  "display_phone": "(415) 285-0250",
+  "review_count": 769,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.43424,
+    "latitude": 37.7509
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1320 Castro St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "1320 Castro St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/contigo-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ICDz424-bW-CjrAWwLy7ew/o.jpg",
+  "phone": "+14152850250",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "spanish",
+      "title": "Spanish"
+    },
+    {
+      "alias": "tapas",
+      "title": "Tapas Bars"
+    }
+  ],
+  "distance": 18.78641966646
+}

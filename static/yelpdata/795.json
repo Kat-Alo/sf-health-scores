@@ -1,0 +1,40 @@
+{
+  "name": "Ben & Jerry's",
+  "id": "ben-and-jerrys-san-francisco-4",
+  "display_phone": "(415) 263-7239",
+  "review_count": 50,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.407388091087,
+    "latitude": 37.7872017022129
+  },
+  "location": {
+    "address3": "Macy's Department Store",
+    "address2": "",
+    "address1": "170 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "170 O'Farrell St",
+      "Macy's Department Store",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/ben-and-jerrys-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WXG3GVZN8QOD5QVdbGA2dQ/o.jpg",
+  "phone": "+14152637239",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 2402.224320378
+}

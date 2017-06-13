@@ -1,0 +1,45 @@
+{
+  "name": "Flour Craft Bakery",
+  "id": "flour-craft-bakery-san-anselmo",
+  "display_phone": "(415) 453-3100",
+  "review_count": 87,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.5641111,
+    "latitude": 37.9768433
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "702 San Anselmo Ave",
+    "city": "San Anselmo",
+    "country": "US",
+    "zip_code": "94960",
+    "state": "CA",
+    "display_address": [
+      "702 San Anselmo Ave",
+      "San Anselmo, CA 94960"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/flour-craft-bakery-san-anselmo?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W8O6xT0mrTJuj3QQYUeb8g/o.jpg",
+  "phone": "+14154533100",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 26498.25302728
+}

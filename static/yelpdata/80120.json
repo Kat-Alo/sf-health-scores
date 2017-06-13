@@ -1,0 +1,44 @@
+{
+  "name": "STEEP Creamery & Tea",
+  "id": "steep-creamery-and-tea-san-francisco",
+  "display_phone": "(415) 606-9336",
+  "review_count": 101,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.391180229883,
+    "latitude": 37.7825348173521
+  },
+  "location": {
+    "address3": null,
+    "address2": "Ste 100",
+    "address1": "270 Brannan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "270 Brannan St",
+      "Ste 100",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/steep-creamery-and-tea-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wVa6xz7u9CUIVhCUaWmhnw/o.jpg",
+  "phone": "+14156069336",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "bubbletea",
+      "title": "Bubble Tea"
+    }
+  ],
+  "distance": 4649.4609911219995
+}

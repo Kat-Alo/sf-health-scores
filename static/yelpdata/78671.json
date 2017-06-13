@@ -1,0 +1,43 @@
+{
+  "name": "Choux Bakery",
+  "id": "choux-bakery-san-francisco-2",
+  "display_phone": "(415) 757-0722",
+  "review_count": 116,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4302821462,
+    "latitude": 37.7718525471645
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "248 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "248 Fillmore St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/choux-bakery-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bs-rDwRRXYAOuuISurFLzA/o.jpg",
+  "phone": "+14157570722",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 1333.3065825624
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Cable Car Cafe",
+  "id": "cable-car-cafe-san-francisco",
+  "display_phone": "(415) 982-3097",
+  "review_count": 215,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.408827,
+    "latitude": 37.7894845
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "519 Powell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "519 Powell St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cable-car-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/e8Ef-NbFXZY39vnG2XI63A/o.jpg",
+  "phone": "+14159823097",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    }
+  ],
+  "distance": 7.17104523128
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Emanuel Coffee",
+  "id": "emanuel-coffee-san-francisco-4",
+  "display_phone": "(415) 865-0522",
+  "review_count": 88,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43026,
+    "latitude": 37.77235
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "488 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "488 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/emanuel-coffee-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c-iaSqmlJzK0rmO38NXybA/o.jpg",
+  "phone": "+14158650522",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 1383.743201602
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Amitis Caf\u00e9",
+  "id": "amitis-caf\u00e9-san-francisco-2",
+  "display_phone": "(415) 563-2828",
+  "review_count": 102,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.445831298828,
+    "latitude": 37.7738456726074
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "800 Masonic Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "800 Masonic Ave",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/amitis-caf%C3%A9-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9xXFxj5ZncgBQqUoVKiN2w/o.jpg",
+  "phone": "+14155632828",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "poke",
+      "title": "Poke"
+    }
+  ],
+  "distance": 1660.985169006
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Chung King",
+  "id": "chung-king-san-francisco",
+  "display_phone": "(415) 986-3899",
+  "review_count": 152,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4053847,
+    "latitude": 37.7963159
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "606 Jackson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "606 Jackson St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/chung-king-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PEmAeBSavEF2U2M6wLGQ8g/o.jpg",
+  "phone": "+14159863899",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 23.79866886296
+}

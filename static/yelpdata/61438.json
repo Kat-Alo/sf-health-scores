@@ -1,0 +1,39 @@
+{
+  "name": "Green Chile Kitchen",
+  "id": "green-chile-kitchen-san-francisco",
+  "display_phone": "(415) 440-9411",
+  "review_count": 1185,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.44184360844,
+    "latitude": 37.777235430455
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1801 Mcallister St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1801 Mcallister St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/green-chile-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iojj-fDpfWVpQKRpmQ04Pg/o.jpg",
+  "phone": "+14154409411",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newmexican",
+      "title": "New Mexican Cuisine"
+    }
+  ],
+  "distance": 13.48839513814
+}

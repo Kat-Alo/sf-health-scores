@@ -1,0 +1,37 @@
+{
+  "name": "Alioto's Restaurant",
+  "id": "aliotos-restaurant-san-francisco",
+  "display_phone": "(415) 673-0183",
+  "review_count": 1328,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4160464356,
+    "latitude": 37.8086721169023
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "8 Fishermans Wharf",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "8 Fishermans Wharf",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/aliotos-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r_2KpVnjDs_0xSGoE4W42A/o.jpg",
+  "phone": "+14156730183",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 1519.3476384079997
+}

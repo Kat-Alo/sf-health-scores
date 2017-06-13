@@ -1,0 +1,45 @@
+{
+  "name": "Caffe Terzetto",
+  "id": "caffe-terzetto-san-francisco",
+  "display_phone": "(415) 592-8205",
+  "review_count": 57,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.38977642365,
+    "latitude": 37.769144308091
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "550 Gene Friend Way",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94158",
+    "state": "CA",
+    "display_address": [
+      "550 Gene Friend Way",
+      "San Francisco, CA 94158"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/caffe-terzetto-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lRBLuRt-T10ZqtaK2XAfRw/o.jpg",
+  "phone": "+14155928205",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "cakeshop",
+      "title": "Patisserie/Cake Shop"
+    }
+  ],
+  "distance": 5694.523900546
+}

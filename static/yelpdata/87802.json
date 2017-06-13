@@ -1,0 +1,44 @@
+{
+  "name": "Bernal Heights Pizzeria",
+  "id": "bernal-heights-pizzeria-san-francisco",
+  "display_phone": "(415) 400-5644",
+  "review_count": 127,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4227089,
+    "latitude": 37.7421874
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "59 30th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "59 30th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bernal-heights-pizzeria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Iga3dJL6FeDXri0rRSN2eQ/o.jpg",
+  "phone": "+14154005644",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 2383.9782671939997
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Cowgirl Creamery",
+  "id": "cowgirl-creamery-san-francisco",
+  "display_phone": "(415) 362-9350",
+  "review_count": 765,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.393485095124,
+    "latitude": 37.7958015092554
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 17",
+    "address1": "1 Ferry Bldg",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Ste 17",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cowgirl-creamery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vTuBaswfxMxQ-9c2PMW5-Q/o.jpg",
+  "phone": "+14153629350",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cheese",
+      "title": "Cheese Shops"
+    }
+  ],
+  "distance": 69.0809919203
+}

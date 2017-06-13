@@ -1,0 +1,48 @@
+{
+  "name": "Cako - Union Square",
+  "id": "cako-union-square-san-francisco-2",
+  "display_phone": "(415) 895-2256",
+  "review_count": 857,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40834,
+    "latitude": 37.78625
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "211 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "211 O'Farrell St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cako-union-square-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_wnzrEM9h-AHloLmU55K9w/o.jpg",
+  "phone": "+14158952256",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "cupcakes",
+      "title": "Cupcakes"
+    }
+  ],
+  "distance": 405.52945943299994
+}

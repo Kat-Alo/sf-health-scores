@@ -1,0 +1,41 @@
+{
+  "name": "Benkyodo Co",
+  "id": "benkyodo-co-san-francisco",
+  "display_phone": "(415) 922-1244",
+  "review_count": 781,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4299909,
+    "latitude": 37.7858539
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1747 Buchanan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1747 Buchanan St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/benkyodo-co-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZfQ2zgW2KrigRPmqRKJcaA/o.jpg",
+  "phone": "+14159221244",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "candy",
+      "title": "Candy Stores"
+    }
+  ],
+  "distance": 51.33642839238
+}

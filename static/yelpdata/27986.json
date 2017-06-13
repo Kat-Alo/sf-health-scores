@@ -1,0 +1,37 @@
+{
+  "name": "Beard Papa's Sweets Cafe",
+  "id": "beard-papas-sweets-cafe-san-mateo",
+  "display_phone": "(650) 342-7272",
+  "review_count": 276,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.32275,
+    "latitude": 37.5668
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "365 2nd Ave",
+    "city": "San Mateo",
+    "country": "US",
+    "zip_code": "94401",
+    "state": "CA",
+    "display_address": [
+      "365 2nd Ave",
+      "San Mateo, CA 94401"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/beard-papas-sweets-cafe-san-mateo?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pnEOC9H3bAqASuw6HzwXIQ/o.jpg",
+  "phone": "+16503427272",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 25353.936648299998
+}

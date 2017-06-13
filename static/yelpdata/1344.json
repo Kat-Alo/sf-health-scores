@@ -1,0 +1,37 @@
+{
+  "name": "Beanery",
+  "id": "beanery-san-francisco",
+  "display_phone": "(415) 661-1255",
+  "review_count": 279,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.466385270526,
+    "latitude": 37.7638261367704
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1307 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1307 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/beanery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9Ks5UW2TgCqH_6NLOM_PpQ/o.jpg",
+  "phone": "+14156611255",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 1800.096840474
+}

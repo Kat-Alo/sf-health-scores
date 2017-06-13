@@ -1,0 +1,37 @@
+{
+  "name": "Gold Club",
+  "id": "gold-club-san-francisco",
+  "display_phone": "(415) 536-0300",
+  "review_count": 375,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.39969,
+    "latitude": 37.78595
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "650 Howard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "650 Howard St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/gold-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UAFD-_jdjsarHkgFfq-SQw/o.jpg",
+  "phone": "+14155360300",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "adultentertainment",
+      "title": "Adult Entertainment"
+    }
+  ],
+  "distance": 20.0736921083
+}

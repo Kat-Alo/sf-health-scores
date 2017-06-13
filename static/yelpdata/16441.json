@@ -1,0 +1,37 @@
+{
+  "name": "Hawaiian Drive Inn",
+  "id": "hawaiian-drive-inn-san-francisco-2",
+  "display_phone": "(415) 656-0998",
+  "review_count": 109,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.404357910156,
+    "latitude": 37.7286415100098
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2600 San Bruno Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "2600 San Bruno Ave",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hawaiian-drive-inn-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pFaDcaXfdmO62rjJyGPaQg/o.jpg",
+  "phone": "+14156560998",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hawaiian",
+      "title": "Hawaiian"
+    }
+  ],
+  "distance": 22.0146768488
+}

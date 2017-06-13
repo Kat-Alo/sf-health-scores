@@ -1,0 +1,39 @@
+{
+  "name": "Dapper Dog",
+  "id": "dapper-dog-san-francisco-5",
+  "display_phone": "(415) 553-6332",
+  "review_count": 115,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.435066476464,
+    "latitude": 37.7622353285551
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "417 Castro St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "417 Castro St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dapper-dog-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RzexlkQ03dWKX6vk8dPnyw/o.jpg",
+  "phone": "+14155536332",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    }
+  ],
+  "distance": 185.698282519
+}

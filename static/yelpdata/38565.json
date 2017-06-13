@@ -1,0 +1,41 @@
+{
+  "name": "Artillery Apparel Gallery",
+  "id": "artillery-apparel-gallery-san-francisco",
+  "display_phone": "(415) 374-7841",
+  "review_count": 48,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4184054,
+    "latitude": 37.7530727
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2751 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2751 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/artillery-apparel-gallery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ik_vcgTsx35E9QQRd_MY1w/o.jpg",
+  "phone": "+14153747841",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "galleries",
+      "title": "Art Galleries"
+    },
+    {
+      "alias": "fashion",
+      "title": "Fashion"
+    }
+  ],
+  "distance": 217.8707272062
+}

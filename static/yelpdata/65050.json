@@ -1,0 +1,48 @@
+{
+  "name": "House of Banquet",
+  "id": "house-of-banquet-san-francisco",
+  "display_phone": "(415) 221-9888",
+  "review_count": 341,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.469360351562,
+    "latitude": 37.7824745178223
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "939 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "939 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/house-of-banquet-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MblUqDlDr4M5cwmh9QA80w/o.jpg",
+  "phone": "+14152219888",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    },
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 20.463179747079998
+}

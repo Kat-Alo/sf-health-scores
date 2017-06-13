@@ -1,0 +1,44 @@
+{
+  "name": "Cornerstone Academy",
+  "id": "cornerstone-academy-san-francisco-6",
+  "display_phone": "(415) 587-7256",
+  "review_count": 11,
+  "coordinates": {
+    "longitude": -122.418358249181,
+    "latitude": 37.7294545800502
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "801 Silver Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "801 Silver Ave",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cornerstone-academy-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lJq_kRm8COc8s1udYpj16A/o.jpg",
+  "phone": "+14155877256",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "preschools",
+      "title": "Preschools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 50.703827415839996
+}

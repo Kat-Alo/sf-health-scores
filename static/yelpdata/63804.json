@@ -1,0 +1,40 @@
+{
+  "name": "Bai Thong Thai",
+  "id": "bai-thong-thai-san-francisco",
+  "display_phone": "(415) 863-9335",
+  "review_count": 205,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42257,
+    "latitude": 37.77571
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "298 Gough St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "298 Gough St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/bai-thong-thai-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZRQ0pSL02r_u_SS22JG7pg/o.jpg",
+  "phone": "+14158639335",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 12.976266135319998
+}

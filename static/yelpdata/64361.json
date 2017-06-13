@@ -1,0 +1,43 @@
+{
+  "name": "Aroma Tea Shop",
+  "id": "aroma-tea-shop-san-francisco",
+  "display_phone": "(415) 668-3788",
+  "review_count": 198,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4642334,
+    "latitude": 37.7827671
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "302 6th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "302 6th Ave",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/aroma-tea-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2SiV11tlUkXIuFOKhs75-w/o.jpg",
+  "phone": "+14156683788",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    }
+  ],
+  "distance": 494.556377959
+}

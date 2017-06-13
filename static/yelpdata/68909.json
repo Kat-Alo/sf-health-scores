@@ -1,0 +1,47 @@
+{
+  "name": "Cafe La Flore",
+  "id": "cafe-la-flore-san-francisco-4",
+  "display_phone": "(415) 504-6798",
+  "review_count": 278,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47243,
+    "latitude": 37.76399
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1340 Irving St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1340 Irving St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cafe-la-flore-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F2YCeDpLVKLM1rmdfMa14g/o.jpg",
+  "phone": "+14155046798",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 20.956955836539997
+}

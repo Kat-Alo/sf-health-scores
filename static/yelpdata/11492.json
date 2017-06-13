@@ -1,0 +1,41 @@
+{
+  "name": "Burgermeister",
+  "id": "burgermeister-san-francisco-3",
+  "display_phone": "(415) 296-9907",
+  "review_count": 312,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41233,
+    "latitude": 37.8016
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "759 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "759 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/burgermeister-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XkX-PlKHhKKRAiFlkPguiA/o.jpg",
+  "phone": "+14152969907",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 9.5389927018
+}

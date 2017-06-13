@@ -1,0 +1,36 @@
+{
+  "name": "A Taste of Chicago",
+  "id": "a-taste-of-chicago-san-francisco",
+  "display_phone": "(510) 691-2940",
+  "review_count": 4,
+  "coordinates": {
+    "longitude": -122.371521,
+    "latitude": 37.8164825
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1-17 Treasure Island Rd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94130",
+    "state": "CA",
+    "display_address": [
+      "1-17 Treasure Island Rd",
+      "San Francisco, CA 94130"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/a-taste-of-chicago-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mq8k3Bo9rksvXYqVbXUdKQ/o.jpg",
+  "phone": "+15106912940",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodstands",
+      "title": "Food Stands"
+    }
+  ],
+  "distance": 8367.413459484
+}

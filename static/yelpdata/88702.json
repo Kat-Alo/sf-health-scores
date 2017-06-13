@@ -1,0 +1,45 @@
+{
+  "name": "Dancing Bull",
+  "id": "dancing-bull-san-francisco",
+  "display_phone": "(415) 221-5227",
+  "review_count": 127,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46479909867,
+    "latitude": 37.7807884516912
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "4217 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "4217 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/dancing-bull-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_KHTKasdyozzJsZkRYpQVA/o.jpg",
+  "phone": "+14152215227",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 3331.821751888
+}

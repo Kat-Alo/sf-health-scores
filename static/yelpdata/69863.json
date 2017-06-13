@@ -1,0 +1,43 @@
+{
+  "name": "Hongry Kong",
+  "id": "hongry-kong-belmont-2",
+  "display_phone": "(650) 336-5664",
+  "review_count": 159,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.279075622559,
+    "latitude": 37.5240325927734
+  },
+  "location": {
+    "address3": null,
+    "address2": null,
+    "address1": null,
+    "city": "Belmont",
+    "country": "US",
+    "zip_code": "94002",
+    "state": "CA",
+    "display_address": [
+      "Belmont, CA 94002"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hongry-kong-belmont-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Bn89mgsSc0rlvVVkcLYMLA/o.jpg",
+  "phone": "+16503365664",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 29947.94573758
+}

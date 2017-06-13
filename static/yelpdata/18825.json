@@ -1,0 +1,37 @@
+{
+  "name": "Fresca",
+  "id": "fresca-san-francisco-3",
+  "display_phone": "(415) 695-0549",
+  "review_count": 865,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4307588,
+    "latitude": 37.7514156
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3945 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "3945 24th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/fresca-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yGf1TQwBphu9Tr6Fo5uHdA/o.jpg",
+  "phone": "+14156950549",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "peruvian",
+      "title": "Peruvian"
+    }
+  ],
+  "distance": 7.5286357512599995
+}

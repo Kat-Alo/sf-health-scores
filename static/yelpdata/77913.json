@@ -1,0 +1,45 @@
+{
+  "name": "Cost Plus World Market",
+  "id": "cost-plus-world-market-daly-city",
+  "display_phone": "(650) 994-7090",
+  "review_count": 130,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.48234465177,
+    "latitude": 37.700207155122
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "423 Westlake Ctr",
+    "city": "Daly City",
+    "country": "US",
+    "zip_code": "94015",
+    "state": "CA",
+    "display_address": [
+      "423 Westlake Ctr",
+      "Daly City, CA 94015"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cost-plus-world-market-daly-city?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TfOOnwL7DUi3YqX3hihbGQ/o.jpg",
+  "phone": "+16509947090",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "furniture",
+      "title": "Furniture Stores"
+    },
+    {
+      "alias": "homedecor",
+      "title": "Home Decor"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 7863.648357577999
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Carl's Junior Restaurant",
+  "id": "carls-junior-restaurant-san-bruno-2",
+  "display_phone": "(650) 583-6491",
+  "review_count": 1,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.44865,
+    "latitude": 37.6196
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "130 Tehama Ct",
+    "city": "San Bruno",
+    "country": "US",
+    "zip_code": "94066",
+    "state": "CA",
+    "display_address": [
+      "130 Tehama Ct",
+      "San Bruno, CA 94066"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.0,
+  "url": "https://www.yelp.com/biz/carls-junior-restaurant-san-bruno-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+16505836491",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 18580.21976028
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Dong Bei Mama",
+  "id": "dong-bei-mama-san-francisco",
+  "display_phone": "(415) 221-4278",
+  "review_count": 241,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.470348,
+    "latitude": 37.780473
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4737 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "4737 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dong-bei-mama-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uhGFZrJ4UB37x7mOS0H9fA/o.jpg",
+  "phone": "+14152214278",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.303902181759998
+}

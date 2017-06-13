@@ -1,0 +1,37 @@
+{
+  "name": "Castro Village Wine Company",
+  "id": "castro-village-wine-company-san-francisco",
+  "display_phone": "(415) 864-4411",
+  "review_count": 52,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4352929156,
+    "latitude": 37.759172895204
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4121 19th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "4121 19th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/castro-village-wine-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9bViHiSZ9cr4dGXdvirAyg/o.jpg",
+  "phone": "+14158644411",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 19.696083008059997
+}

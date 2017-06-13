@@ -1,0 +1,47 @@
+{
+  "name": "Cajun House",
+  "id": "cajun-house-san-francisco-2",
+  "display_phone": "(415) 340-3180",
+  "review_count": 472,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.463170662522,
+    "latitude": 37.7826987327077
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "308 5th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "308 5th Ave",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cajun-house-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7h-bnrQrafHIJr9dOIYQgA/o.jpg",
+  "phone": "+14153403180",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cajun",
+      "title": "Cajun/Creole"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 14.057110144700001
+}

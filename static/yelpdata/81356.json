@@ -1,0 +1,38 @@
+{
+  "name": "Bon Appetit",
+  "id": "bon-appetit-san-francisco",
+  "display_phone": "(415) 422-2306",
+  "review_count": 24,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.450323845332,
+    "latitude": 37.7764981842121
+  },
+  "location": {
+    "address3": "University San Francisco",
+    "address2": "",
+    "address1": "2130 Fulton St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "2130 Fulton St",
+      "University San Francisco",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/bon-appetit-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MLHDl0_PcGXjqUjqLcC9mg/o.jpg",
+  "phone": "+14154222306",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 2120.454957686
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Amarena",
+  "id": "amarena-san-francisco-3",
+  "display_phone": "(415) 447-0441",
+  "review_count": 486,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4202447,
+    "latitude": 37.7976935
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2162 Larkin St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2162 Larkin St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/amarena-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L9MAp9JoCLn4mnPW2Q8m2w/o.jpg",
+  "phone": "+14154470441",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 29.338166811580003
+}

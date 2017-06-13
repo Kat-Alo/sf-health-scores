@@ -1,0 +1,45 @@
+{
+  "name": "Fresh Brew Coffee",
+  "id": "fresh-brew-coffee-san-francisco",
+  "display_phone": "(415) 567-0915",
+  "review_count": 388,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41177,
+    "latitude": 37.79001
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "882 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "882 Bush St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/fresh-brew-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G0xDrpOQyXxrrKnQrYm7iQ/o.jpg",
+  "phone": "+14155670915",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 3884.174759602
+}

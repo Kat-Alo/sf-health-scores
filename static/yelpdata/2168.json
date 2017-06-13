@@ -1,0 +1,45 @@
+{
+  "name": "Cafe Francisco",
+  "id": "cafe-francisco-san-francisco-2",
+  "display_phone": "(415) 397-2602",
+  "review_count": 210,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41199,
+    "latitude": 37.8046999
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2161 Powell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "2161 Powell St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cafe-francisco-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UNfys5_aU9EMttH6dpxsEg/o.jpg",
+  "phone": "+14153972602",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 24.73278290718
+}

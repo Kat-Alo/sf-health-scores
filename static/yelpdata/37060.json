@@ -1,0 +1,43 @@
+{
+  "name": "Halu",
+  "id": "halu-san-francisco",
+  "display_phone": "(415) 221-9165",
+  "review_count": 776,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.466495931149,
+    "latitude": 37.7826187759638
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "312 8th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "312 8th Ave",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/halu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/odH1-eJKsF6Qtxm1ky9fTQ/o.jpg",
+  "phone": "+14152219165",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    },
+    {
+      "alias": "izakaya",
+      "title": "Izakaya"
+    }
+  ],
+  "distance": 11.210005829279998
+}

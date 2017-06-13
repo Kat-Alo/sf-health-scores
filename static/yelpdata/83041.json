@@ -1,0 +1,45 @@
+{
+  "name": "SUPREME MMA Shop",
+  "id": "supreme-mma-shop-oakland-2",
+  "display_phone": "(510) 355-8792",
+  "review_count": 9,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.1963857,
+    "latitude": 37.7893359
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "4118 Macarthur Blvd",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94619",
+    "state": "CA",
+    "display_address": [
+      "4118 Macarthur Blvd",
+      "Oakland, CA 94619"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/supreme-mma-shop-oakland-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5dPjWTwApI-txilFNyajig/o.jpg",
+  "phone": "+15103558792",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sportswear",
+      "title": "Sports Wear"
+    },
+    {
+      "alias": "martialarts",
+      "title": "Martial Arts"
+    },
+    {
+      "alias": "screen_printing_tshirt_printing",
+      "title": "Screen Printing/T-Shirt Printing"
+    }
+  ],
+  "distance": 21342.35253304
+}

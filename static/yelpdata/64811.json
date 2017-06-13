@@ -1,0 +1,37 @@
+{
+  "name": "Cupcake Cove",
+  "id": "cupcake-cove-san-francisco",
+  "display_phone": "(415) 772-9942",
+  "review_count": 279,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40014,
+    "latitude": 37.79236
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "200 Pine St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "200 Pine St",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cupcake-cove-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QcXCkIIbMyMYD9_g68b_9Q/o.jpg",
+  "phone": "+14157729942",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 3.817570453428
+}

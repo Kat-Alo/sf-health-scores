@@ -1,0 +1,35 @@
+{
+  "name": "Soul Delight",
+  "id": "soul-delight-san-francisco-4",
+  "display_phone": "(415) 225-4397",
+  "review_count": 22,
+  "coordinates": {
+    "longitude": -122.407333178033,
+    "latitude": 37.7124384645775
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/soul-delight-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YqMCok_L9UZBu04bCFo4RQ/o.jpg",
+  "phone": "+14152254397",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 5965.9572770879995
+}

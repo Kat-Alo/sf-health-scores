@@ -1,0 +1,45 @@
+{
+  "name": "Don Chuys Mexi-Mercado",
+  "id": "don-chuys-mexi-mercado-san-francisco",
+  "display_phone": "(415) 585-8092",
+  "review_count": 55,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.42908783257,
+    "latitude": 37.7240306138992
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "544 Excelsior Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "544 Excelsior Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/don-chuys-mexi-mercado-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hLI6e7XGbKUyj2ndddHQ3Q/o.jpg",
+  "phone": "+14155858092",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 29.88856752894
+}

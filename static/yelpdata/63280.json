@@ -1,0 +1,41 @@
+{
+  "name": "Good Luck Market",
+  "id": "good-luck-market-san-francisco-2",
+  "display_phone": "(415) 682-8822",
+  "review_count": 5,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.479248,
+    "latitude": 37.742645
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1215 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "1215 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/good-luck-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6MTauigzPyTpQc4IdTvGpQ/o.jpg",
+  "phone": "+14156828822",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "farmersmarket",
+      "title": "Farmers Market"
+    },
+    {
+      "alias": "butcher",
+      "title": "Butcher"
+    }
+  ],
+  "distance": 24.187252052659996
+}

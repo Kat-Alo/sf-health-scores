@@ -1,0 +1,39 @@
+{
+  "name": "Amoura Cafe",
+  "id": "amoura-cafe-san-francisco-2",
+  "display_phone": "(415) 357-9611",
+  "review_count": 134,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4064352,
+    "latitude": 37.784657
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "865 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "865 Market St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/amoura-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1G5qepXQ52S_NL9ifKODGQ/o.jpg",
+  "phone": "+14153579611",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 45.47633382236
+}

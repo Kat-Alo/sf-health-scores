@@ -1,0 +1,47 @@
+{
+  "name": "Cool Cravings",
+  "id": "cool-cravings-san-francisco-2",
+  "display_phone": "(415) 771-4900",
+  "review_count": 64,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4403534,
+    "latitude": 37.78479
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1635 Divisadero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1635 Divisadero St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cool-cravings-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cSNmU_dQLm963JCOh4su6A/o.jpg",
+  "phone": "+14157714900",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 2655.7803435299998
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Golden Produce",
+  "id": "golden-produce-san-francisco",
+  "display_phone": "(415) 431-1536",
+  "review_count": 204,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.429194450378,
+    "latitude": 37.7684757724686
+  },
+  "location": {
+    "address3": "Between Duboce and Market",
+    "address2": "",
+    "address1": "172 Church St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "172 Church St",
+      "Between Duboce and Market",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/golden-produce-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UdcGt9nJbu9snTaeuRosaA/o.jpg",
+  "phone": "+14154311536",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    }
+  ],
+  "distance": 35.06763447248
+}

@@ -1,0 +1,40 @@
+{
+  "name": "China North Dumpling",
+  "id": "china-north-dumpling-san-francisco",
+  "display_phone": "(415) 665-9777",
+  "review_count": 123,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4780274,
+    "latitude": 37.7540632
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1311 Noriega St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1311 Noriega St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/china-north-dumpling-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U6lRLXo1KgfvSW2KGflqGg/o.jpg",
+  "phone": "+14156659777",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "shanghainese",
+      "title": "Shanghainese"
+    }
+  ],
+  "distance": 3733.580769102
+}

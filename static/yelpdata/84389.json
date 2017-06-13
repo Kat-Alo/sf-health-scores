@@ -1,0 +1,45 @@
+{
+  "name": "Izakaya Restaurant",
+  "id": "izakaya-restaurant-san-jose",
+  "display_phone": "(408) 452-8751",
+  "review_count": 498,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -121.9094,
+    "latitude": 37.36084
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1335 N 1st St",
+    "city": "San Jose",
+    "country": "US",
+    "zip_code": "95112",
+    "state": "CA",
+    "display_address": [
+      "1335 N 1st St",
+      "San Jose, CA 95112"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/izakaya-restaurant-san-jose?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UOcUo5Bzu-Q2MkGhNtmdbQ/o.jpg",
+  "phone": "+14084528751",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 64385.31921387999
+}

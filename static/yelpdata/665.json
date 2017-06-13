@@ -1,0 +1,45 @@
+{
+  "name": "Brazen Head",
+  "id": "brazen-head-san-francisco",
+  "display_phone": "(415) 921-7600",
+  "review_count": 566,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4322957,
+    "latitude": 37.7993037
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3166 Buchanan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "3166 Buchanan St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/brazen-head-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lDdMgHL2OdRZpyuJZx3PCQ/o.jpg",
+  "phone": "+14159217600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    }
+  ],
+  "distance": 21.750428048819998
+}

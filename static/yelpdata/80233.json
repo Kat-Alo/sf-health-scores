@@ -1,0 +1,37 @@
+{
+  "name": "Buffalo Kitchen",
+  "id": "buffalo-kitchen-san-francisco-2",
+  "display_phone": "(415) 586-2986",
+  "review_count": 36,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40593,
+    "latitude": 37.711803
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "107 Leland Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "107 Leland Ave",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/buffalo-kitchen-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ftDgmexIRDJIkyRqmwqMWA/o.jpg",
+  "phone": "+14155862986",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 6076.865586923999
+}

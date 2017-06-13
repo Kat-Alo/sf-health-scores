@@ -1,0 +1,37 @@
+{
+  "name": "Chrome Coffee Bar Powered By Cento",
+  "id": "chrome-coffee-bar-powered-by-cento-san-francisco",
+  "display_phone": "",
+  "review_count": 28,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.3968548,
+    "latitude": 37.7785801
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "580 4th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "580 4th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/chrome-coffee-bar-powered-by-cento-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9fVoWYH23xeqT3vIs736HA/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 3996.7517940839994
+}

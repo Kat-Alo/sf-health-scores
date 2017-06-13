@@ -1,0 +1,45 @@
+{
+  "name": "Mel's Drive-In",
+  "id": "mels-drive-in-san-francisco",
+  "display_phone": "(415) 387-2244",
+  "review_count": 648,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.454879760742,
+    "latitude": 37.7811698913574
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3355 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3355 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/mels-drive-in-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZlVodx7vEIOl6JHZ6VpuQA/o.jpg",
+  "phone": "+14153872244",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 911.6988992056
+}

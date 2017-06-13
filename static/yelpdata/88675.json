@@ -1,0 +1,37 @@
+{
+  "name": "Flywheel Coffee Roasters",
+  "id": "flywheel-coffee-roasters-san-francisco",
+  "display_phone": "(415) 682-4023",
+  "review_count": 332,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4533234,
+    "latitude": 37.7696991
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "672 Stanyan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "672 Stanyan St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/flywheel-coffee-roasters-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cNbCbx0jWc5F7Ij0PeycoA/o.jpg",
+  "phone": "+14156824023",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 1778.2249442700002
+}

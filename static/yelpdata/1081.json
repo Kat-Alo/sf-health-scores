@@ -1,0 +1,37 @@
+{
+  "name": "Arinell Pizza",
+  "id": "arinell-pizza-san-francisco",
+  "display_phone": "(415) 255-1303",
+  "review_count": 1010,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.421712145927,
+    "latitude": 37.7646907195257
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "509 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "509 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/arinell-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FokvMfg5i1vOB8t8e873mA/o.jpg",
+  "phone": "+14152551303",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 10.001583483542
+}

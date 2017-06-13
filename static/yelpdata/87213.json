@@ -1,0 +1,40 @@
+{
+  "name": "India Palace",
+  "id": "india-palace-alameda",
+  "display_phone": "(510) 814-8778",
+  "review_count": 487,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.27501,
+    "latitude": 37.77748
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "737 Buena Vista Ave",
+    "city": "Alameda",
+    "country": "US",
+    "zip_code": "94501",
+    "state": "CA",
+    "display_address": [
+      "737 Buena Vista Ave",
+      "Alameda, CA 94501"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/india-palace-alameda?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c5fdFbnh6thk3On-kPtumg/o.jpg",
+  "phone": "+15108148778",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 14304.925973939999
+}

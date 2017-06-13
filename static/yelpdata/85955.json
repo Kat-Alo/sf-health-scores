@@ -1,0 +1,40 @@
+{
+  "name": "India Clay Oven Restaurant & Bar",
+  "id": "india-clay-oven-restaurant-and-bar-san-francisco-3",
+  "display_phone": "(415) 751-0505",
+  "review_count": 29,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.430644324136,
+    "latitude": 37.7713472991294
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2436 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "2436 Clement St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/india-clay-oven-restaurant-and-bar-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qN2V4TsNDpyAShG1RJ9ZaA/o.jpg",
+  "phone": "+14157510505",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 1268.964911868
+}

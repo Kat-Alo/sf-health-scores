@@ -1,0 +1,47 @@
+{
+  "name": "Hang Ah Tea Room",
+  "id": "hang-ah-tea-room-san-francisco",
+  "display_phone": "(415) 982-5686",
+  "review_count": 456,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.407347857952,
+    "latitude": 37.7933637052774
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1 Pagoda Pl",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "1 Pagoda Pl",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hang-ah-tea-room-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zknM_phlS2xxFGyr8WgD1A/o.jpg",
+  "phone": "+14159825686",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    },
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 4416.417615609999
+}

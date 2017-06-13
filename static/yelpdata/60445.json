@@ -1,0 +1,40 @@
+{
+  "name": "Castro Coffee Company",
+  "id": "castro-coffee-company-san-francisco-2",
+  "display_phone": "(415) 552-6676",
+  "review_count": 172,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.434965349623,
+    "latitude": 37.7621868135634
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "427 Castro St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "427 Castro St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/castro-coffee-company-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-3JY8o6I78BUguCRcxtWvA/o.jpg",
+  "phone": "+14155526676",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 24.35218526256
+}

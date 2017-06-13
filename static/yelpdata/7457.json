@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "24th Street Cheese Company",
+  "categories": [
+    {
+      "alias": "cheese",
+      "title": "Cheese Shops"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.42936,
+    "latitude": 37.75136
+  },
+  "review_count": 134,
+  "url": "https://www.yelp.com/biz/24th-street-cheese-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 821-6658",
+  "distance": 17.01993405282,
+  "id": "24th-street-cheese-company-san-francisco",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ohTci7MjRjLauLY6F5B7Gw/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "3893 24th St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "3893 24th St",
+      "San Francisco, CA 94114"
+    ],
+    "zip_code": "94114"
+  },
+  "phone": "+14158216658",
+  "rating": 3.5
+}

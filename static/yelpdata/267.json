@@ -1,0 +1,44 @@
+{
+  "name": "Asa Sushi",
+  "id": "asa-sushi-san-francisco-2",
+  "display_phone": "(415) 345-8263",
+  "review_count": 142,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.44225,
+    "latitude": 37.79992
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2365 Chestnut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2365 Chestnut St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/asa-sushi-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yFAu-W8GtU4Il7zoFuwbPA/o.jpg",
+  "phone": "+14153458263",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 19.558030604179997
+}

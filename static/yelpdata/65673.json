@@ -1,0 +1,40 @@
+{
+  "name": "Doc's Classic",
+  "id": "docs-classic-oakland",
+  "display_phone": "(510) 962-9230",
+  "review_count": 202,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.289776126221,
+    "latitude": 37.8432069878802
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94609",
+    "state": "CA",
+    "display_address": [
+      "Oakland, CA 94609"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/docs-classic-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kPddGvWCWdlI2cKpWTPbOg/o.jpg",
+  "phone": "+15109629230",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 2443.054885518
+}

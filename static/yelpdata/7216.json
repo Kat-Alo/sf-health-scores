@@ -1,0 +1,37 @@
+{
+  "name": "El Chico Produce No 2",
+  "id": "el-chico-produce-no-2-san-francisco",
+  "display_phone": "(415) 587-6025",
+  "review_count": 22,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43522644043,
+    "latitude": 37.7245979309082
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4600 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "4600 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/el-chico-produce-no-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FvHupmJP5EmUMztNJUD5fA/o.jpg",
+  "phone": "+14155876025",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    }
+  ],
+  "distance": 21.34688282514
+}

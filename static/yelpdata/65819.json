@@ -1,0 +1,44 @@
+{
+  "name": "Chinese American International School",
+  "id": "chinese-american-international-school-san-francisco",
+  "display_phone": "(415) 865-6000",
+  "review_count": 10,
+  "coordinates": {
+    "longitude": -122.421522237605,
+    "latitude": 37.7754544673188
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "150 Oak St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "150 Oak St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/chinese-american-international-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zDFnIqrq35nunMLnuWo44Q/o.jpg",
+  "phone": "+14158656000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    },
+    {
+      "alias": "preschools",
+      "title": "Preschools"
+    }
+  ],
+  "distance": 2108.751837206
+}

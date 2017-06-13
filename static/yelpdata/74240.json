@@ -1,0 +1,41 @@
+{
+  "name": "Dollars & Sense: Taxes & Accounting",
+  "id": "dollars-and-sense-taxes-and-accounting-oakland",
+  "display_phone": "(510) 333-6396",
+  "review_count": 44,
+  "coordinates": {
+    "longitude": -122.2459812,
+    "latitude": 37.8103796
+  },
+  "location": {
+    "address3": "Co-Munity",
+    "address2": "",
+    "address1": "3207 Lakeshore Ave",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94610",
+    "state": "CA",
+    "display_address": [
+      "3207 Lakeshore Ave",
+      "Co-Munity",
+      "Oakland, CA 94610"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/dollars-and-sense-taxes-and-accounting-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vGFgd5YDieTm5OiCFtZnVw/o.jpg",
+  "phone": "+15103336396",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "accountants",
+      "title": "Accountants"
+    },
+    {
+      "alias": "taxservices",
+      "title": "Tax Services"
+    }
+  ],
+  "distance": 17619.05914802
+}

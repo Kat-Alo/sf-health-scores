@@ -1,0 +1,45 @@
+{
+  "name": "It's Tops Coffee Shop",
+  "id": "its-tops-coffee-shop-san-francisco",
+  "display_phone": "(415) 431-6395",
+  "review_count": 428,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4236388,
+    "latitude": 37.7714306
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1801 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1801 Market St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/its-tops-coffee-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_0_lgJG0ae84sfhpojSsRg/o.jpg",
+  "phone": "+14154316395",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "waffles",
+      "title": "Waffles"
+    }
+  ],
+  "distance": 16.42089908066
+}

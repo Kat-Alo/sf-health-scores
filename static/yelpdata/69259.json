@@ -1,0 +1,48 @@
+{
+  "name": "Goat Hill Pizza",
+  "id": "goat-hill-pizza-san-francisco-6",
+  "display_phone": "(415) 242-4628",
+  "review_count": 159,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46797,
+    "latitude": 37.73929
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "170 W Portal Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "170 W Portal Ave",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/goat-hill-pizza-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ot9ZzDORzZDyxzTlcY-Kug/o.jpg",
+  "phone": "+14152424628",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 24.16093612498
+}

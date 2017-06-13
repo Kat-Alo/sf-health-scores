@@ -1,0 +1,49 @@
+{
+  "name": "Gold Coast Grill & Catering",
+  "id": "gold-coast-grill-and-catering-san-francisco",
+  "display_phone": "(415) 338-1674",
+  "review_count": 68,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.478688811053,
+    "latitude": 37.7219757478197
+  },
+  "location": {
+    "address3": "Sfsu Cesar Chavez Student Center Plaza Level",
+    "address2": "Ste C-134",
+    "address1": "1650 Holloway Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "1650 Holloway Ave",
+      "Ste C-134",
+      "Sfsu Cesar Chavez Student Center Plaza Level",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/gold-coast-grill-and-catering-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-8RIVcBBk5aF2C0HXy4ZVw/o.jpg",
+  "phone": "+14153381674",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 133.86645260376
+}

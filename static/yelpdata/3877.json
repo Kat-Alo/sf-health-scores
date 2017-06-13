@@ -1,0 +1,45 @@
+{
+  "name": "Balboa Cafe",
+  "id": "balboa-cafe-san-francisco",
+  "display_phone": "(415) 921-3944",
+  "review_count": 524,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.435910701752,
+    "latitude": 37.7988179773092
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3199 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "3199 Fillmore St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/balboa-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3oknNnjsvejV_GDmyKDs0w/o.jpg",
+  "phone": "+14159213944",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 2.9227172241119996
+}

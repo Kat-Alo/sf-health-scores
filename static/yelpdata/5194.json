@@ -1,0 +1,35 @@
+{
+  "name": "The Milk Maid",
+  "id": "the-milk-maid-san-francisco",
+  "display_phone": "(401) 301-7690",
+  "review_count": 24,
+  "coordinates": {
+    "longitude": -122.44358,
+    "latitude": 37.7221
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/the-milk-maid-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CFc1i0RJ2l4czKeBdD9MBg/o.jpg",
+  "phone": "+14013017690",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cookingschools",
+      "title": "Cooking Schools"
+    }
+  ],
+  "distance": 993.120334386
+}

@@ -1,0 +1,45 @@
+{
+  "name": "BBC Cafe",
+  "id": "bbc-cafe-san-francisco",
+  "display_phone": "(415) 467-2051",
+  "review_count": 14,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40062713623,
+    "latitude": 37.7259330749512
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1485 Bay Shore Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "1485 Bay Shore Blvd",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bbc-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9oE8RlwWd_a22W4XTEh-Ew/o.jpg",
+  "phone": "+14154672051",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 55.7509815876
+}

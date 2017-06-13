@@ -1,0 +1,45 @@
+{
+  "name": "Irish Times",
+  "id": "irish-times-san-francisco-2",
+  "display_phone": "(415) 217-5060",
+  "review_count": 279,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.401671,
+    "latitude": 37.794075
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "500 Sacramento St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "500 Sacramento St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/irish-times-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1u_Evjah3FF1moyCtkMPHw/o.jpg",
+  "phone": "+14152175060",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "irish",
+      "title": "Irish"
+    },
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    }
+  ],
+  "distance": 35.53272568578
+}

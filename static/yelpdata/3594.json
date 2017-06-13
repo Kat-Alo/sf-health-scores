@@ -1,0 +1,43 @@
+{
+  "name": "Celia's By The Beach",
+  "id": "celias-by-the-beach-san-francisco",
+  "display_phone": "(415) 759-8741",
+  "review_count": 282,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.505205,
+    "latitude": 37.760244
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4019 Judah St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "4019 Judah St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/celias-by-the-beach-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bIwgu8GwM7-z4kZQ2Wl2eA/o.jpg",
+  "phone": "+14157598741",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    }
+  ],
+  "distance": 19.9474796188
+}

@@ -1,0 +1,41 @@
+{
+  "is_closed": false,
+  "price": "$$$$",
+  "name": "Maruya",
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4183186,
+    "latitude": 37.7649327
+  },
+  "review_count": 292,
+  "url": "https://www.yelp.com/biz/maruya-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 503-0702",
+  "distance": 1848.0279746279998,
+  "id": "maruya-san-francisco",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sSgZhEA38_hc32Bsaxm3Ww/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "2931 16th St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "2931 16th St",
+      "San Francisco, CA 94103"
+    ],
+    "zip_code": "94103"
+  },
+  "phone": "+14155030702",
+  "rating": 4.0
+}

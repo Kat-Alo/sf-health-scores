@@ -1,0 +1,47 @@
+{
+  "name": "Daily Health Food Center",
+  "id": "daily-health-food-center-san-francisco",
+  "display_phone": "(415) 681-7675",
+  "review_count": 82,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46672,
+    "latitude": 37.76526
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1235 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1235 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/daily-health-food-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8zsuuFU840owv_Nt5qFKwg/o.jpg",
+  "phone": "+14156817675",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "raw_food",
+      "title": "Live/Raw Food"
+    }
+  ],
+  "distance": 1823.2776129
+}

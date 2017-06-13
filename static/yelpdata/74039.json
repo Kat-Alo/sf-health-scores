@@ -1,0 +1,42 @@
+{
+  "name": "Boba Guys",
+  "id": "boba-guys-san-francisco-7",
+  "display_phone": "(415) 967-2622",
+  "review_count": 240,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.423546388745,
+    "latitude": 37.7728849972724
+  },
+  "location": {
+    "address3": null,
+    "address2": "Ste 308",
+    "address1": "8 Octavia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "8 Octavia St",
+      "Ste 308",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/boba-guys-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JMZuOh2V-AldBYZQOvt9Zg/o.jpg",
+  "phone": "+14159672622",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "bubbletea",
+      "title": "Bubble Tea"
+    }
+  ],
+  "distance": 1749.9330689380001
+}

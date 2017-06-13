@@ -1,0 +1,41 @@
+{
+  "name": "Chapeau!",
+  "id": "chapeau-san-francisco",
+  "display_phone": "(415) 387-0408",
+  "review_count": 2426,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.460693359375,
+    "latitude": 37.7833671569824
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "126 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "126 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/chapeau-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qAdGIt3Gd0eTXwW0WjZamw/o.jpg",
+  "phone": "+14153870408",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 3284.2660767559996
+}

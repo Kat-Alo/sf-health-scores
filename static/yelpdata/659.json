@@ -1,0 +1,41 @@
+{
+  "name": "Golden Coffee Shop",
+  "id": "golden-coffee-shop-san-francisco",
+  "display_phone": "(415) 922-0537",
+  "review_count": 388,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4153505,
+    "latitude": 37.7882027
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "901 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "901 Sutter St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/golden-coffee-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iYLNmMz6G7c3hY9kpmVEDw/o.jpg",
+  "phone": "+14159220537",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 14.01117797176
+}

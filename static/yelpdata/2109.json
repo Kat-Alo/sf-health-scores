@@ -1,0 +1,45 @@
+{
+  "name": "Anh Hong",
+  "id": "anh-hong-berkeley-3",
+  "display_phone": "(510) 981-1789",
+  "review_count": 324,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.269123,
+    "latitude": 37.872354
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2067 University Ave",
+    "city": "Berkeley",
+    "country": "US",
+    "zip_code": "94704",
+    "state": "CA",
+    "display_address": [
+      "2067 University Ave",
+      "Berkeley, CA 94704"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/anh-hong-berkeley-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QJt5RJ-qdz3NvSL4kQZqjA/o.jpg",
+  "phone": "+15109811789",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    },
+    {
+      "alias": "beerbar",
+      "title": "Beer Bar"
+    }
+  ],
+  "distance": 16101.98261022
+}

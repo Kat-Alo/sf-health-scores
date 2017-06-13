@@ -1,0 +1,41 @@
+{
+  "name": "Hot Sauce and Panko",
+  "id": "hot-sauce-and-panko-san-francisco",
+  "display_phone": "(415) 359-1908",
+  "review_count": 840,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.417876198887,
+    "latitude": 37.7945165216685
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1468 Hyde St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1468 Hyde St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/hot-sauce-and-panko-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vKQD4EF6xk7_ryHtgiTAJA/o.jpg",
+  "phone": "+14153591908",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "gourmet",
+      "title": "Specialty Food"
+    }
+  ],
+  "distance": 4078.9901946219998
+}

@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "7-Eleven",
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.464958190918,
+    "latitude": 37.7265777587891
+  },
+  "review_count": 30,
+  "url": "https://www.yelp.com/biz/7-eleven-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 584-7111",
+  "distance": 41.87996908314,
+  "id": "7-eleven-san-francisco-3",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Cv4r4eo83rrfo2rHcE7lXA/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "2000 Ocean Ave",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "2000 Ocean Ave",
+      "San Francisco, CA 94127"
+    ],
+    "zip_code": "94127"
+  },
+  "phone": "+14155847111",
+  "rating": 3.0
+}

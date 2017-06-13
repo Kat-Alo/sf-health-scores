@@ -1,0 +1,36 @@
+{
+  "name": "Bryant Shell No 4",
+  "id": "bryant-shell-no-4-san-francisco",
+  "display_phone": "(415) 495-5833",
+  "review_count": 11,
+  "coordinates": {
+    "longitude": -122.398025512695,
+    "latitude": 37.7799072265625
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "598 Bryant St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "598 Bryant St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.5,
+  "url": "https://www.yelp.com/biz/bryant-shell-no-4-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EY23DnwfyTjZCJ6hQWlHVA/o.jpg",
+  "phone": "+14154955833",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    }
+  ],
+  "distance": 25.54162753514
+}

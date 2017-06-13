@@ -1,0 +1,37 @@
+{
+  "name": "Burger King",
+  "id": "burger-king-san-francisco-6",
+  "display_phone": "(415) 386-5077",
+  "review_count": 61,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46126,
+    "latitude": 37.78146
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3900 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3900 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/burger-king-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RF_FYpKySNKBUphLJu-WUQ/o.jpg",
+  "phone": "+14153865077",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 3153.1367316879996
+}

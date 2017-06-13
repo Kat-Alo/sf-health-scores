@@ -1,0 +1,37 @@
+{
+  "name": "Gourmet Catering Bay Area",
+  "id": "gourmet-catering-bay-area-san-francisco",
+  "display_phone": "(415) 412-0801",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.398864746094,
+    "latitude": 37.7456092834473
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste Z",
+    "address1": "2200 Jerrold Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "2200 Jerrold Ave",
+      "Ste Z",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/gourmet-catering-bay-area-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gcwKocIpk2mDVKANvdBJLg/o.jpg",
+  "phone": "+14154120801",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 3697.2619886519997
+}

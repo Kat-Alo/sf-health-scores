@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "5 Tea House",
+  "categories": [
+    {
+      "alias": "bubbletea",
+      "title": "Bubble Tea"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.404394377602,
+    "latitude": 37.7297882161009
+  },
+  "review_count": 117,
+  "url": "https://www.yelp.com/biz/5-tea-house-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 468-8123",
+  "distance": 7.937989082999999,
+  "id": "5-tea-house-san-francisco-2",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c5NvKSfwkhjyxpjSE2WKtg/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "2527 San Bruno Ave",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "2527 San Bruno Ave",
+      "San Francisco, CA 94134"
+    ],
+    "zip_code": "94134"
+  },
+  "phone": "+14154688123",
+  "rating": 3.0
+}

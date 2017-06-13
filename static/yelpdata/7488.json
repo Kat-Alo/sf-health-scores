@@ -1,0 +1,37 @@
+{
+  "name": "Europa Express 2",
+  "id": "europa-express-2-san-francisco",
+  "display_phone": "(415) 751-1551",
+  "review_count": 37,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.5099386,
+    "latitude": 37.7741786
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "750 La Playa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "750 La Playa St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/europa-express-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/l2HJ00b3YNB6oU_9YXg4Jw/o.jpg",
+  "phone": "+14157511551",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 27.908208675999997
+}

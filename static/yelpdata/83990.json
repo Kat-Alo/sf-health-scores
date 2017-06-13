@@ -1,0 +1,41 @@
+{
+  "name": "Counter Offer",
+  "id": "counter-offer-san-francisco",
+  "display_phone": "(415) 824-1800",
+  "review_count": 15,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.417151282963,
+    "latitude": 37.7603002510241
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "800 S Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "800 S Van Ness Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/counter-offer-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TkPrV89sLwN9LcYSWCZ9VQ/o.jpg",
+  "phone": "+14158241800",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "distance": 1697.468424004
+}

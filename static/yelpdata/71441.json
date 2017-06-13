@@ -1,0 +1,45 @@
+{
+  "name": "Eva's Coffee",
+  "id": "evas-coffee-san-francisco",
+  "display_phone": "(415) 829-2421",
+  "review_count": 28,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.425331,
+    "latitude": 37.800918
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1443 A Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1443 A Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/evas-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l-bAmNyEHn7cZ8ya30NDbw/o.jpg",
+  "phone": "+14158292421",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 4554.4389592279995
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Congregation of Sherith",
+  "id": "congregation-sherith-israel-san-francisco-2",
+  "display_phone": "(415) 346-1720",
+  "review_count": 38,
+  "coordinates": {
+    "longitude": -122.4318,
+    "latitude": 37.78946
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2266 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2266 California St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/congregation-sherith-israel-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gyQz6pbmaPjSA1D_Xwzb5A/o.jpg",
+  "phone": "+14153461720",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "synagogues",
+      "title": "Synagogues"
+    }
+  ],
+  "distance": 29.96345494716
+}

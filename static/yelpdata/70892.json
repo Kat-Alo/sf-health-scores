@@ -1,0 +1,39 @@
+{
+  "name": "Happy Cafe",
+  "id": "happy-cafe-san-francisco",
+  "display_phone": "(415) 751-1022",
+  "review_count": 13,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4695124,
+    "latitude": 37.782896
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "952 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "952 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/happy-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QSEdW2ojUxGM6QVKLtvwNw/o.jpg",
+  "phone": "+14157511022",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 19.61543093396
+}

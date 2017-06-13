@@ -1,0 +1,45 @@
+{
+  "name": "Amasia Hide's Sushi Bar",
+  "id": "amasia-hides-sushi-bar-san-francisco",
+  "display_phone": "(415) 861-7000",
+  "review_count": 295,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4331936783,
+    "latitude": 37.766762804295
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "149 Noe St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "149 Noe St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/amasia-hides-sushi-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HQPdCxkvGcjork2qSw13yQ/o.jpg",
+  "phone": "+14158617000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 9.474645977778
+}

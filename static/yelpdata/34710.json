@@ -1,0 +1,45 @@
+{
+  "name": "Dolce Spazio Dessert Cafe",
+  "id": "dolce-spazio-dessert-cafe-los-gatos",
+  "display_phone": "(408) 395-1335",
+  "review_count": 386,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -121.982141931322,
+    "latitude": 37.2267058060453
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "221 N Santa Cruz Ave",
+    "city": "Los Gatos",
+    "country": "US",
+    "zip_code": "95030",
+    "state": "CA",
+    "display_address": [
+      "221 N Santa Cruz Ave",
+      "Los Gatos, CA 95030"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dolce-spazio-dessert-cafe-los-gatos?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kdetvGUfCvtYj-cvwQVarQ/o.jpg",
+  "phone": "+14083951335",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "gelato",
+      "title": "Gelato"
+    }
+  ],
+  "distance": 73222.07801602
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Crazy Sushi",
+  "id": "crazy-sushi-elk-grove",
+  "display_phone": "(916) 691-2228",
+  "review_count": 493,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -121.417251690807,
+    "latitude": 38.4244596488079
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 140",
+    "address1": "7419 Laguna Blvd",
+    "city": "Elk Grove",
+    "country": "US",
+    "zip_code": "95758",
+    "state": "CA",
+    "display_address": [
+      "7419 Laguna Blvd",
+      "Ste 140",
+      "Elk Grove, CA 95758"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/crazy-sushi-elk-grove?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mrpToSVEE1I52jpUjTrIBw/o.jpg",
+  "phone": "+19166912228",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 115754.09694959999
+}

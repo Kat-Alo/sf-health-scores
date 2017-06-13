@@ -1,0 +1,45 @@
+{
+  "name": "Cigar Bar & Grill",
+  "id": "cigar-bar-and-grill-san-francisco",
+  "display_phone": "(415) 398-0850",
+  "review_count": 756,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4035724,
+    "latitude": 37.7970048
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "850 Montgomery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "850 Montgomery St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cigar-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EQnjlKO-YaqPftK5TxIYgQ/o.jpg",
+  "phone": "+14153980850",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "tobaccoshops",
+      "title": "Tobacco Shops"
+    }
+  ],
+  "distance": 14.90652301538
+}

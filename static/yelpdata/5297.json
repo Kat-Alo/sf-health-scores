@@ -1,0 +1,43 @@
+{
+  "name": "El Norteno Taco Truck",
+  "id": "el-norteno-taco-truck-san-francisco",
+  "display_phone": "(415) 756-1220",
+  "review_count": 155,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4025523,
+    "latitude": 37.7758202
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "801 Bryant St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "801 Bryant St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/el-norteno-taco-truck-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q__scmnKcS2l7ILsc1hvBQ/o.jpg",
+  "phone": "+14157561220",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 58.208540328
+}

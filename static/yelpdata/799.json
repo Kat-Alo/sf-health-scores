@@ -1,0 +1,37 @@
+{
+  "name": "Courtyard San Francisco Fisherman's Wharf",
+  "id": "courtyard-san-francisco-fishermans-wharf-san-francisco",
+  "display_phone": "(415) 775-3800",
+  "review_count": 108,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.418313660655,
+    "latitude": 37.8071447927878
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "580 Beach St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "580 Beach St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/courtyard-san-francisco-fishermans-wharf-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SmVpLORMBEs2p97BBuHmwQ/o.jpg",
+  "phone": "+14157753800",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 33.41042626352
+}

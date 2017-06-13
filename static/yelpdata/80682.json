@@ -1,0 +1,38 @@
+{
+  "name": "Cozy Cafe",
+  "id": "cozy-cafe-san-francisco-2",
+  "display_phone": "(415) 922-4826",
+  "review_count": 27,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4160385,
+    "latitude": 37.7881508
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste C",
+    "address1": "965 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "965 Sutter St",
+      "Ste C",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cozy-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yv6Txi10nm6ALk9DCkxk3w/o.jpg",
+  "phone": "+14159224826",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 3512.4614764519997
+}

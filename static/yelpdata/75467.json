@@ -1,0 +1,45 @@
+{
+  "name": "CrepeCone by Sophie",
+  "id": "crepecone-by-sophie-san-francisco",
+  "display_phone": "(415) 795-1331",
+  "review_count": 64,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4021905,
+    "latitude": 37.7701704
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "684 King St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "684 King St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/crepecone-by-sophie-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XPptXp0BLYTxnuvjbG3-Hg/o.jpg",
+  "phone": "+14157951331",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "gelato",
+      "title": "Gelato"
+    },
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    }
+  ],
+  "distance": 3182.8399981999996
+}

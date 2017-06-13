@@ -1,0 +1,40 @@
+{
+  "name": "El Gran Taco Loco",
+  "id": "el-gran-taco-loco-san-francisco",
+  "display_phone": "(415) 695-0621",
+  "review_count": 175,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4213,
+    "latitude": 37.74387
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3306 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3306 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/el-gran-taco-loco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tsZ6a9U-L1o-GJD_I4eDBA/o.jpg",
+  "phone": "+14156950621",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 20.05125308068
+}

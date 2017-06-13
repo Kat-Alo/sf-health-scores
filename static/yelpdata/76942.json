@@ -1,0 +1,41 @@
+{
+  "name": "Dumpling Kitchen",
+  "id": "dumpling-kitchen-san-francisco",
+  "display_phone": "(415) 682-8938",
+  "review_count": 987,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.48701,
+    "latitude": 37.7423
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1935 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "1935 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dumpling-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5mUKAyVQd7FM0u9rLI8Fdw/o.jpg",
+  "phone": "+14156828938",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "shanghainese",
+      "title": "Shanghainese"
+    },
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 4903.427556908
+}

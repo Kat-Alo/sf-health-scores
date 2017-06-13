@@ -1,0 +1,42 @@
+{
+  "name": "The Original Ghirardelli Ice Cream & Chocolate Shop",
+  "id": "the-original-ghirardelli-ice-cream-and-chocolate-shop-san-francisco",
+  "display_phone": "(415) 474-3938",
+  "review_count": 1980,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.422949041809,
+    "latitude": 37.8058331714633
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ghirardelli Square",
+    "address1": "900 North Point",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "900 North Point",
+      "Ghirardelli Square",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/the-original-ghirardelli-ice-cream-and-chocolate-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EMR-KQjUJ4L-q9Xc_BXFog/o.jpg",
+  "phone": "+14154743938",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "chocolate",
+      "title": "Chocolatiers & Shops"
+    }
+  ],
+  "distance": 45.7990483352
+}

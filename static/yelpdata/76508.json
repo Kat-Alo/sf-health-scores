@@ -1,0 +1,45 @@
+{
+  "name": "Icy Yama",
+  "id": "icy-yama-san-francisco",
+  "display_phone": "(415) 702-6287",
+  "review_count": 35,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.493688836694,
+    "latitude": 37.7794889342117
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "6909 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "6909 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/icy-yama-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LfBzWCU1sVMui-YIa-Et2A/o.jpg",
+  "phone": "+14157026287",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 5439.52494315
+}

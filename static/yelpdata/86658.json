@@ -1,0 +1,44 @@
+{
+  "name": "Clay Oven Indian Cuisine",
+  "id": "clay-oven-indian-cuisine-san-francisco",
+  "display_phone": "(415) 826-2400",
+  "review_count": 203,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4267048,
+    "latitude": 37.7438745
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1689 Church St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "1689 Church St",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/clay-oven-indian-cuisine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wEcCcfK6lO1dZxFNqeBDiQ/o.jpg",
+  "phone": "+14158262400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 2077.8563716219996
+}

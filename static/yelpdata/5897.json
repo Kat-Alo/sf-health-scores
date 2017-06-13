@@ -1,0 +1,36 @@
+{
+  "name": "Leland High School",
+  "id": "leland-high-school-san-jose",
+  "display_phone": "(408) 535-6290",
+  "review_count": 12,
+  "coordinates": {
+    "longitude": -121.84450890617,
+    "latitude": 37.218062910904
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "6677 Camden Ave",
+    "city": "San Jose",
+    "country": "US",
+    "zip_code": "95120",
+    "state": "CA",
+    "display_address": [
+      "6677 Camden Ave",
+      "San Jose, CA 95120"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/leland-high-school-san-jose?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bkJxp-9NJcjhwHBSQhqbmg/o.jpg",
+  "phone": "+14085356290",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 73570.575765
+}

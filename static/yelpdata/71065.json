@@ -1,0 +1,45 @@
+{
+  "name": "Whole Foods Market",
+  "id": "whole-foods-market-cupertino-3",
+  "display_phone": "(408) 257-7000",
+  "review_count": 863,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.0395887,
+    "latitude": 37.3236052
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "20955 Stevens Creek Blvd",
+    "city": "Cupertino",
+    "country": "US",
+    "zip_code": "95014",
+    "state": "CA",
+    "display_address": [
+      "20955 Stevens Creek Blvd",
+      "Cupertino, CA 95014"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/whole-foods-market-cupertino-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wcFMUMw9HAUvSBD-CydBmA/o.jpg",
+  "phone": "+14082577000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "organic_stores",
+      "title": "Organic Stores"
+    }
+  ],
+  "distance": 61056.8951006
+}

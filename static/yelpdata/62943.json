@@ -1,0 +1,40 @@
+{
+  "name": "Irving Pizza",
+  "id": "irving-pizza-san-francisco-5",
+  "display_phone": "(415) 771-0110",
+  "review_count": 195,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41867,
+    "latitude": 37.78628
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "928 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "928 Geary St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/irving-pizza-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xG1QxpXf8ZWb_gblAmdvZQ/o.jpg",
+  "phone": "+14157710110",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 22.28790737532
+}

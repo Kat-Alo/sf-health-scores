@@ -1,0 +1,47 @@
+{
+  "name": "DNA Pizza",
+  "id": "dna-pizza-san-francisco",
+  "display_phone": "(415) 626-0166",
+  "review_count": 313,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41263,
+    "latitude": 37.7711
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "371 11th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "371 11th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/dna-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bQuezkw2_saB9ZvupGZI_Q/o.jpg",
+  "phone": "+14156260166",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 23.58223355438
+}

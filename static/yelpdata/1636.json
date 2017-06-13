@@ -1,0 +1,37 @@
+{
+  "name": "Axum Cafe",
+  "id": "axum-cafe-san-francisco",
+  "display_phone": "(415) 252-7912",
+  "review_count": 372,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43362,
+    "latitude": 37.77193
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "698 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "698 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/axum-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M2pHsCNljorLwrzUgMhdEw/o.jpg",
+  "phone": "+14152527912",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "ethiopian",
+      "title": "Ethiopian"
+    }
+  ],
+  "distance": 15.381660533629999
+}

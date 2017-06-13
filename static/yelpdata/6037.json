@@ -1,0 +1,36 @@
+{
+  "name": "Castro Senior Center",
+  "id": "castro-senior-center-san-francisco",
+  "display_phone": "(415) 863-3507",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.437477111816,
+    "latitude": 37.7603073120117
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "110 Diamond St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "110 Diamond St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/castro-senior-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/amdx8-mWGGT7MwqtR62IEQ/o.jpg",
+  "phone": "+14158633507",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seniorcenters",
+      "title": "Senior Centers"
+    }
+  ],
+  "distance": 21.49968483012
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Alamo Drafthouse Cinema - New Mission",
+  "id": "alamo-drafthouse-cinema-new-mission-san-francisco",
+  "display_phone": "(415) 549-5959",
+  "review_count": 472,
+  "coordinates": {
+    "longitude": -122.41934,
+    "latitude": 37.7561899
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2550 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2550 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-new-mission-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ff1mR_0lV7mBDrMhd4c35A/o.jpg",
+  "phone": "+14155495959",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "movietheaters",
+      "title": "Cinema"
+    }
+  ],
+  "distance": 1603.9219959559998
+}

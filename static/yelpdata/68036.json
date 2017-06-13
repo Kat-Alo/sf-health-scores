@@ -1,0 +1,40 @@
+{
+  "name": "City Chopsticks",
+  "id": "city-chopsticks-san-francisco",
+  "display_phone": "(415) 563-1085",
+  "review_count": 279,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.411566972733,
+    "latitude": 37.7896669048226
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "883 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "883 Bush St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/city-chopsticks-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pyiu7LvQLcX7kf9MTwKiOA/o.jpg",
+  "phone": "+14155631085",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 22.35235178628
+}

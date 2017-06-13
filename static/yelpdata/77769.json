@@ -1,0 +1,36 @@
+{
+  "name": "Ap's Cafe",
+  "id": "aps-cafe-san-francisco",
+  "display_phone": "(415) 642-1316",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.43438,
+    "latitude": 37.75143
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4108 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "4108 24th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/aps-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+14156421316",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 1069.4418354799998
+}

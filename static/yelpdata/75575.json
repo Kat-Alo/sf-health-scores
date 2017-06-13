@@ -1,0 +1,44 @@
+{
+  "name": "Planet Granite",
+  "id": "planet-granite-sunnyvale-3",
+  "display_phone": "(408) 991-9090",
+  "review_count": 418,
+  "coordinates": {
+    "longitude": -122.01054,
+    "latitude": 37.38439
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "815 Stewart Dr",
+    "city": "Sunnyvale",
+    "country": "US",
+    "zip_code": "94085",
+    "state": "CA",
+    "display_address": [
+      "815 Stewart Dr",
+      "Sunnyvale, CA 94085"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/planet-granite-sunnyvale-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nFoK_myU5QyyFZE9pbg27w/o.jpg",
+  "phone": "+14089919090",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "climbing",
+      "title": "Climbing"
+    },
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "healthtrainers",
+      "title": "Trainers"
+    }
+  ],
+  "distance": 56223.11849142
+}

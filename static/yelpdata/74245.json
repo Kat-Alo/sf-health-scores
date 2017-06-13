@@ -1,0 +1,41 @@
+{
+  "name": "Foxtail Catering and Events",
+  "id": "foxtail-catering-and-events-san-francisco",
+  "display_phone": "(415) 282-2600",
+  "review_count": 31,
+  "coordinates": {
+    "longitude": -122.3878253,
+    "latitude": 37.7570539
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 311",
+    "address1": "2565 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2565 3rd St",
+      "Ste 311",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/foxtail-catering-and-events-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QYZsNFAr1nbX1d86EZMEuw/o.jpg",
+  "phone": "+14152822600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "eventplanning",
+      "title": "Party & Event Planning"
+    },
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 4295.6986082
+}

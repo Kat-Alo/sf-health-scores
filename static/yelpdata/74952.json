@@ -1,0 +1,45 @@
+{
+  "name": "Applebee's",
+  "id": "applebees-san-francisco-2",
+  "display_phone": "(415) 749-9025",
+  "review_count": 320,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4154024,
+    "latitude": 37.8079809
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2770 Taylor St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "2770 Taylor St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/applebees-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RdSvM6PR2_yI7fDIs9VnBg/o.jpg",
+  "phone": "+14157499025",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    }
+  ],
+  "distance": 5552.142050197999
+}

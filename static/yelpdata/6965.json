@@ -1,0 +1,37 @@
+{
+  "name": "Ultimate Grounds Et Al Coffee & Tea",
+  "id": "ultimate-grounds-et-al-coffee-and-tea-oakland",
+  "display_phone": "(510) 482-8206",
+  "review_count": 123,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.2224,
+    "latitude": 37.80762
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4225 Park Blvd",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94602",
+    "state": "CA",
+    "display_address": [
+      "4225 Park Blvd",
+      "Oakland, CA 94602"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ultimate-grounds-et-al-coffee-and-tea-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ou1akcekwfPoxETfw_KJnA/o.jpg",
+  "phone": "+15104828206",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 16432.499203379997
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Belden Taverna",
+  "id": "belden-taverna-san-francisco",
+  "display_phone": "(415) 986-8887",
+  "review_count": 366,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40365,
+    "latitude": 37.79142
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "52 Belden Pl",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "52 Belden Pl",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/belden-taverna-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hxXesnrOJJ2zZQZ3KycH0w/o.jpg",
+  "phone": "+14159868887",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 8.30400208387
+}

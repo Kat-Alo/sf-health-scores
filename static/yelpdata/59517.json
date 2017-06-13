@@ -1,0 +1,44 @@
+{
+  "name": "Beautifull",
+  "id": "beautifull-san-francisco",
+  "display_phone": "(415) 728-9080",
+  "review_count": 383,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.450248,
+    "latitude": 37.786487
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3401 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3401 California St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/beautifull-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HsZiE6fJ55KqeyHyIbHifQ/o.jpg",
+  "phone": "+14157289080",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 33.25500425302
+}

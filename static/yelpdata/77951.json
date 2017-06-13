@@ -1,0 +1,41 @@
+{
+  "name": "Hahn's Hibachi",
+  "id": "hahns-hibachi-san-francisco",
+  "display_phone": "(415) 731-3721",
+  "review_count": 166,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4637205,
+    "latitude": 37.7640259
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "535 Irving St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "535 Irving St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hahns-hibachi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JXBgnXhGo5f7Ap-UNsmRCA/o.jpg",
+  "phone": "+14157313721",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    }
+  ],
+  "distance": 2418.0267517059997
+}

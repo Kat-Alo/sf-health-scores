@@ -1,0 +1,41 @@
+{
+  "name": "Hot Pot Garden",
+  "id": "hot-pot-garden-millbrae",
+  "display_phone": "(650) 239-9660",
+  "review_count": 244,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.389761283994,
+    "latitude": 37.6002518328442
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "195 El Camino Real",
+    "city": "Millbrae",
+    "country": "US",
+    "zip_code": "94030",
+    "state": "CA",
+    "display_address": [
+      "195 El Camino Real",
+      "Millbrae, CA 94030"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hot-pot-garden-millbrae?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZfvZrBPPkemjC5Hm-zAX1Q/o.jpg",
+  "phone": "+16502399660",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    },
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 17648.717674879998
+}

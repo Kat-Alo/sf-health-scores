@@ -1,0 +1,41 @@
+{
+  "name": "Allstar Donuts & Burgers",
+  "id": "allstar-donuts-and-burgers-san-francisco",
+  "display_phone": "(415) 921-5541",
+  "review_count": 21,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41537,
+    "latitude": 37.7819
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "290 Golden Gate Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "290 Golden Gate Ave",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/allstar-donuts-and-burgers-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CUNa0i96NXY54v86N1As6Q/o.jpg",
+  "phone": "+14159215541",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    }
+  ],
+  "distance": 16.18497466468
+}

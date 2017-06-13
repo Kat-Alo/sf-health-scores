@@ -1,0 +1,45 @@
+{
+  "name": "Birba",
+  "id": "birba-san-francisco",
+  "display_phone": "(415) 549-7612",
+  "review_count": 61,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42421,
+    "latitude": 37.77787
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "458 Grove St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "458 Grove St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/birba-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8dyRRdC3SKXB-g3Ft90twA/o.jpg",
+  "phone": "+14155497612",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 2157.725501812
+}

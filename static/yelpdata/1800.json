@@ -1,0 +1,43 @@
+{
+  "name": "Bravo Pizza",
+  "id": "bravo-pizza-san-francisco",
+  "display_phone": "(415) 585-8500",
+  "review_count": 326,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.440801,
+    "latitude": 37.716528
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5145 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "5145 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [
+    "delivery"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bravo-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wC07iLeI4Rs_EoIrFesV-Q/o.jpg",
+  "phone": "+14155858500",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 6.51695956574
+}

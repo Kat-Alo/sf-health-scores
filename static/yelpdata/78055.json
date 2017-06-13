@@ -1,0 +1,45 @@
+{
+  "name": "Nojo Ramen Tavern",
+  "id": "nojo-ramen-tavern-san-francisco-2",
+  "display_phone": "(415) 896-4587",
+  "review_count": 285,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42151,
+    "latitude": 37.77669
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "231 Franklin St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "231 Franklin St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/nojo-ramen-tavern-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5-eUJvJc2CjPq3cy-zSyxg/o.jpg",
+  "phone": "+14158964587",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "ramen",
+      "title": "Ramen"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 2195.3270871759996
+}

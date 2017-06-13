@@ -1,0 +1,41 @@
+{
+  "name": "Andersen Bakery",
+  "id": "andersen-bakery-san-francisco-5",
+  "display_phone": "(415) 249-0890",
+  "review_count": 73,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.399313,
+    "latitude": 37.793055
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "235 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "235 California St",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/andersen-bakery-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lWTCCmFhSef9QGopmYTaHw/o.jpg",
+  "phone": "+14152490890",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 27.5017215788
+}

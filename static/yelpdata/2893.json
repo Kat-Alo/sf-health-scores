@@ -1,0 +1,45 @@
+{
+  "name": "Foreign Cinema",
+  "id": "foreign-cinema-san-francisco",
+  "display_phone": "(415) 648-7600",
+  "review_count": 4165,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.41925,
+    "latitude": 37.75637
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2534 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2534 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/foreign-cinema-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ynyfg9pp8v8UaTtFFOh98A/o.jpg",
+  "phone": "+14156487600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 26.1581801732
+}

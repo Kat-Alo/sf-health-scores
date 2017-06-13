@@ -1,0 +1,45 @@
+{
+  "name": "Hai Ky Mi Gia",
+  "id": "hai-ky-mi-gia-san-francisco",
+  "display_phone": "(415) 771-2577",
+  "review_count": 727,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.417953491211,
+    "latitude": 37.7840538024902
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "707 Ellis St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "707 Ellis St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/hai-ky-mi-gia-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0dx8AHeL2OYsp84xXLL-RA/o.jpg",
+  "phone": "+14157712577",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 15.329045576339999
+}

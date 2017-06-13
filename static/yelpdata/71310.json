@@ -1,0 +1,37 @@
+{
+  "name": "Golden King Vietnamese Restaurant",
+  "id": "golden-king-vietnamese-restaurant-san-francisco",
+  "display_phone": "(415) 217-6888",
+  "review_count": 190,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40578,
+    "latitude": 37.79422
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "757 Clay St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "757 Clay St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/golden-king-vietnamese-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CWAW_BGhGS5E-X4NhJdM0Q/o.jpg",
+  "phone": "+14152176888",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 17.0824681772
+}

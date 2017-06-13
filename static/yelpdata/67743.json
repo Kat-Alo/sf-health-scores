@@ -1,0 +1,44 @@
+{
+  "name": "After Osha",
+  "id": "after-osha-san-francisco-2",
+  "display_phone": "(415) 397-6742",
+  "review_count": 347,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4075209,
+    "latitude": 37.789485
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "432 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "432 Sutter St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/after-osha-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ccFO87YeY3epCTK3-m4g9A/o.jpg",
+  "phone": "+14153976742",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 8.170094535159999
+}

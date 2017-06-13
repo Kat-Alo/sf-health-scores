@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "rating": 3.5,
+  "name": "Gracepoint Berkeley",
+  "categories": [
+    {
+      "alias": "churches",
+      "title": "Churches"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.2590133,
+    "latitude": 37.8597439
+  },
+  "review_count": 41,
+  "url": "https://www.yelp.com/biz/gracepoint-berkeley-berkeley?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(510) 522-2467",
+  "distance": 17876.16569708,
+  "id": "gracepoint-berkeley-berkeley",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SHaw9AGkF3FPh3BBs7K8IQ/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "2797 Telegraph Ave",
+    "country": "US",
+    "city": "Berkeley",
+    "address2": "",
+    "address3": "Willard Auditorium",
+    "state": "CA",
+    "display_address": [
+      "2797 Telegraph Ave",
+      "Willard Auditorium",
+      "Berkeley, CA 94705"
+    ],
+    "zip_code": "94705"
+  },
+  "phone": "+15105222467"
+}

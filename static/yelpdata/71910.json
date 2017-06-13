@@ -1,0 +1,45 @@
+{
+  "name": "Giorgio's Pizzeria",
+  "id": "giorgios-pizzeria-san-francisco-5",
+  "display_phone": "(415) 668-1266",
+  "review_count": 839,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.461083021665,
+    "latitude": 37.7829999120287
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "151 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "151 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/giorgios-pizzeria-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LZjKHKI_EGwxMvR_jBlrig/o.jpg",
+  "phone": "+14156681266",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 3275.4674931079994
+}

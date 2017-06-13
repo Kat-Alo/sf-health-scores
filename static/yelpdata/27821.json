@@ -1,0 +1,45 @@
+{
+  "name": "Duboce Park Cafe",
+  "id": "duboce-park-cafe-san-francisco",
+  "display_phone": "(415) 621-1108",
+  "review_count": 404,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4315675,
+    "latitude": 37.7692179
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2 Sanchez St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "2 Sanchez St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/duboce-park-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NQ2RTvxJOlQeh52wgvINKg/o.jpg",
+  "phone": "+14156211108",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 17.13192963276
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Cocotte",
+  "id": "cocotte-san-francisco",
+  "display_phone": "(415) 292-4415",
+  "review_count": 385,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.4183072,
+    "latitude": 37.7948581
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1521 Hyde St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1521 Hyde St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cocotte-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d1rOCf76oKyLuYAso3a6IA/o.jpg",
+  "phone": "+14152924415",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 15.691126154920001
+}

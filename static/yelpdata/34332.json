@@ -1,0 +1,37 @@
+{
+  "name": "California Spirit Elite",
+  "id": "california-spirit-elite-dublin",
+  "display_phone": "(925) 556-1095",
+  "review_count": 5,
+  "coordinates": {
+    "longitude": -121.9144348,
+    "latitude": 37.7106183
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste P",
+    "address1": "6800 Sierra Ct",
+    "city": "Dublin",
+    "country": "US",
+    "zip_code": "94568",
+    "state": "CA",
+    "display_address": [
+      "6800 Sierra Ct",
+      "Ste P",
+      "Dublin, CA 94568"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/california-spirit-elite-dublin?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8YO4IEdiSLhIA4UqpR6qag/o.jpg",
+  "phone": "+19255561095",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "amateursportsteams",
+      "title": "Amateur Sports Teams"
+    }
+  ],
+  "distance": 42491.64059298
+}

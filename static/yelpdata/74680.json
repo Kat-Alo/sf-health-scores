@@ -1,0 +1,43 @@
+{
+  "name": "Aliment",
+  "id": "aliment-san-francisco",
+  "display_phone": "(415) 829-2737",
+  "review_count": 400,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41019,
+    "latitude": 37.79012
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "786 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "786 Bush St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/aliment-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qZyYEP3tY5ERvCWF9hCeOA/o.jpg",
+  "phone": "+14158292737",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 3986.016369746
+}

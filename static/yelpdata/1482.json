@@ -1,0 +1,44 @@
+{
+  "name": "A2 Cafe",
+  "id": "a2-cafe-san-francisco",
+  "display_phone": "(415) 863-8169",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.399702357602,
+    "latitude": 37.7671045053891
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "1111 8th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "1111 8th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/a2-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+14158638169",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 59.807805859599995
+}

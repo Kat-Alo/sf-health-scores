@@ -1,0 +1,41 @@
+{
+  "name": "George's Zoo Liquor Deli",
+  "id": "georges-zoo-liquor-deli-san-francisco",
+  "display_phone": "(415) 664-3215",
+  "review_count": 153,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.501571848989,
+    "latitude": 37.7354709059
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2560 Sloat Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "2560 Sloat Blvd",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/georges-zoo-liquor-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gL2piYygUi6q_kMTst6TcQ/o.jpg",
+  "phone": "+14156643215",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 16.1910386578
+}

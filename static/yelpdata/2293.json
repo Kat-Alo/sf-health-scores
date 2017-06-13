@@ -1,0 +1,41 @@
+{
+  "name": "Gold Mirror Italian Restaurant",
+  "id": "gold-mirror-italian-restaurant-san-francisco",
+  "display_phone": "(415) 564-0401",
+  "review_count": 241,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.47482,
+    "latitude": 37.7433
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "800 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "800 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/gold-mirror-italian-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YlQSeX8Uv_pe8EihxQ6sfA/o.jpg",
+  "phone": "+14155640401",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 21.722374033939996
+}

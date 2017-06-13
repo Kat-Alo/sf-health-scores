@@ -1,0 +1,45 @@
+{
+  "name": "Bartlett Hall",
+  "id": "bartlett-hall-san-francisco",
+  "display_phone": "(415) 433-4332",
+  "review_count": 601,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.408723160625,
+    "latitude": 37.7863779183055
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "242 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "242 O'Farrell St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bartlett-hall-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5HuP5P-32QtHh-6kSZUQCw/o.jpg",
+  "phone": "+14154334332",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    }
+  ],
+  "distance": 3736.899389116
+}

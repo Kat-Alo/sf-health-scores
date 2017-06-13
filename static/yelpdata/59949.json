@@ -1,0 +1,43 @@
+{
+  "name": "Aicha",
+  "id": "aicha-san-francisco",
+  "display_phone": "(415) 345-9947",
+  "review_count": 392,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.420446,
+    "latitude": 37.788917
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1303 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1303 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/aicha-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LVHqgDZTlThSEey0oyCEEA/o.jpg",
+  "phone": "+14153459947",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "moroccan",
+      "title": "Moroccan"
+    },
+    {
+      "alias": "halal",
+      "title": "Halal"
+    }
+  ],
+  "distance": 7.394277748284
+}

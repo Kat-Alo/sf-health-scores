@@ -1,0 +1,42 @@
+{
+  "name": "Andersen Bakery",
+  "id": "andersen-bakery-san-francisco",
+  "display_phone": "(415) 345-1046",
+  "review_count": 210,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4303915,
+    "latitude": 37.785354
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 304",
+    "address1": "1737 Post St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1737 Post St",
+      "Ste 304",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/andersen-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o0ITdMCrJNzsSvRoQo2IZQ/o.jpg",
+  "phone": "+14153451046",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 15.570266330259999
+}

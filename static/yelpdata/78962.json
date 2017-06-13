@@ -1,0 +1,44 @@
+{
+  "name": "Barry's Bootcamp",
+  "id": "barrys-bootcamp-san-francisco",
+  "display_phone": "(415) 546-3996",
+  "review_count": 190,
+  "coordinates": {
+    "longitude": -122.3927344,
+    "latitude": 37.7777232
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "236 King St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "236 King St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/barrys-bootcamp-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G2S-RwweR3nAEPA5g44dzg/o.jpg",
+  "phone": "+14155463996",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bootcamps",
+      "title": "Boot Camps"
+    },
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "healthtrainers",
+      "title": "Trainers"
+    }
+  ],
+  "distance": 4273.701666278
+}

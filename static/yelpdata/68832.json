@@ -1,0 +1,39 @@
+{
+  "name": "Bayshore Farmer's Market",
+  "id": "bayshore-farmers-market-san-francisco",
+  "display_phone": "(415) 647-1806",
+  "review_count": 15,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4053719,
+    "latitude": 37.7430959
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "300 Bayshore Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "300 Bayshore Blvd",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bayshore-farmers-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mVjH_4dxlNNlik9HKU1KnQ/o.jpg",
+  "phone": "+14156471806",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "farmersmarket",
+      "title": "Farmers Market"
+    }
+  ],
+  "distance": 27.103934573639997
+}

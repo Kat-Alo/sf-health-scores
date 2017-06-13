@@ -1,0 +1,45 @@
+{
+  "name": "Chowder Hut Fresh Grill",
+  "id": "chowder-hut-fresh-grill-san-francisco",
+  "display_phone": "(415) 776-1849",
+  "review_count": 317,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.415638534856,
+    "latitude": 37.8087811071778
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2890 Taylor St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "2890 Taylor St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/chowder-hut-fresh-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IrngZ521HCm3Ff9MAoFXVA/o.jpg",
+  "phone": "+14157761849",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 21.86849084056
+}

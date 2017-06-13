@@ -1,0 +1,39 @@
+{
+  "name": "Caffe Delle Stelle",
+  "id": "caffe-delle-stelle-san-francisco",
+  "display_phone": "(415) 252-1110",
+  "review_count": 371,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.422794701726,
+    "latitude": 37.7767677151326
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "395 Hayes St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "395 Hayes St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/caffe-delle-stelle-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GZQjQgXGNvEjKuZ2H27rQA/o.jpg",
+  "phone": "+14152521110",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 15.0849392758
+}

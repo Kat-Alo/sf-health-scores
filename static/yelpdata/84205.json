@@ -1,0 +1,45 @@
+{
+  "name": "Common Sage",
+  "id": "common-sage-san-francisco",
+  "display_phone": "(415) 580-7178",
+  "review_count": 112,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.420708946884,
+    "latitude": 37.7913965249709
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1552 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1552 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/common-sage-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CpiX96e6wr4LE017-Mc0RA/o.jpg",
+  "phone": "+14155807178",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "ramen",
+      "title": "Ramen"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 3662.56091677
+}

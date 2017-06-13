@@ -1,0 +1,44 @@
+{
+  "name": "Mission Cultural Center For Latino Arts",
+  "id": "mission-cultural-center-for-latino-arts-san-francisco",
+  "display_phone": "(415) 821-1155",
+  "review_count": 32,
+  "coordinates": {
+    "longitude": -122.41855605524,
+    "latitude": 37.750949621428
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2868 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2868 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/mission-cultural-center-for-latino-arts-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xeDQHXfzZMBnq7bd4CEbGQ/o.jpg",
+  "phone": "+14158211155",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "artschools",
+      "title": "Art Schools"
+    },
+    {
+      "alias": "dancestudio",
+      "title": "Dance Studios"
+    },
+    {
+      "alias": "culturalcenter",
+      "title": "Cultural Center"
+    }
+  ],
+  "distance": 1758.28039365
+}

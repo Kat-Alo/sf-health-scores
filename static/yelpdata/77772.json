@@ -1,0 +1,48 @@
+{
+  "name": "Happy Donut",
+  "id": "happy-donut-san-francisco-4",
+  "display_phone": "(415) 398-6769",
+  "review_count": 183,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.399861812592,
+    "latitude": 37.7914473955388
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 101",
+    "address1": "100 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "100 Bush St",
+      "Ste 101",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/happy-donut-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bY5RYkldrPfgTztB3_zn7Q/o.jpg",
+  "phone": "+14153986769",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 4677.183481962
+}

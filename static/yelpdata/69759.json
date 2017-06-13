@@ -1,0 +1,44 @@
+{
+  "name": "Fish N Gari",
+  "id": "fish-n-gari-san-francisco",
+  "display_phone": "(415) 814-3889",
+  "review_count": 165,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.421041876078,
+    "latitude": 37.7926421910524
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1718 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1718 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/fish-n-gari-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BsFjuVz2WWgbJSsVe9EW5g/o.jpg",
+  "phone": "+14158143889",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 14.6691180066
+}

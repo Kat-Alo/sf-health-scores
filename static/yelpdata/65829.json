@@ -1,0 +1,41 @@
+{
+  "name": "Chambers",
+  "id": "chambers-san-francisco-3",
+  "display_phone": "(415) 496-5178",
+  "review_count": 813,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4179174,
+    "latitude": 37.7831646
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "601 Eddy St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "601 Eddy St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/chambers-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oye12LTR8BHm_U1BVok3Qg/o.jpg",
+  "phone": "+14154965178",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 16.44542622693
+}

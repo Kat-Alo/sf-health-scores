@@ -1,0 +1,47 @@
+{
+  "name": "Fog Baby Cafe",
+  "id": "fog-baby-cafe-san-francisco",
+  "display_phone": "(415) 221-2466",
+  "review_count": 96,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4965801,
+    "latitude": 37.775881
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "3516 Balboa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "3516 Balboa St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/fog-baby-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9S9vs6MUXE0oueAZQ-b0SQ/o.jpg",
+  "phone": "+14152212466",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 5539.343934782
+}

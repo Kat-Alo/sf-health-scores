@@ -1,0 +1,45 @@
+{
+  "name": "Boss Supermarket",
+  "id": "boss-supermarket-san-francisco",
+  "display_phone": "(415) 682-7287",
+  "review_count": 2,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.49136813334,
+    "latitude": 37.7534434869457
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "2551 Noriega St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "2551 Noriega St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/boss-supermarket-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+14156827287",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "intlgrocery",
+      "title": "International Grocery"
+    }
+  ],
+  "distance": 4899.103260327999
+}

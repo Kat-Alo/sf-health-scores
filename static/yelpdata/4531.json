@@ -1,0 +1,48 @@
+{
+  "name": "AK Subs",
+  "id": "ak-subs-san-francisco",
+  "display_phone": "(415) 241-9600",
+  "review_count": 357,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.408493041992,
+    "latitude": 37.7740173339844
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "397 8th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "397 8th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ak-subs-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PJtyEWtRALLnmvtycwAfrg/o.jpg",
+  "phone": "+14152419600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 20.829113085619998
+}

@@ -1,0 +1,45 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "398 Brasserie",
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "brasseries",
+      "title": "Brasseries"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.409832238029,
+    "latitude": 37.7872908639103
+  },
+  "review_count": 222,
+  "url": "https://www.yelp.com/biz/398-brasserie-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 654-5061",
+  "distance": 3752.862271642,
+  "id": "398-brasserie-san-francisco",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/URrEfVOm6QNI93SahQNeEQ/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "398 Geary St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": null,
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "398 Geary St",
+      "San Francisco, CA 94102"
+    ],
+    "zip_code": "94102"
+  },
+  "phone": "+14156545061",
+  "rating": 3.5
+}

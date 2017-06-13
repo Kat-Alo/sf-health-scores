@@ -1,0 +1,45 @@
+{
+  "name": "Bluxome Street Winery",
+  "id": "bluxome-street-winery-san-francisco",
+  "display_phone": "(415) 543-5353",
+  "review_count": 118,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.3968428,
+    "latitude": 37.7767348
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "53 Bluxome St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "53 Bluxome St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bluxome-street-winery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o0UdXbGotH4L3evuwVIvtQ/o.jpg",
+  "phone": "+14155435353",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "wineries",
+      "title": "Wineries"
+    }
+  ],
+  "distance": 3901.0961650319996
+}

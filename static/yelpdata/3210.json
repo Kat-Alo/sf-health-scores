@@ -1,0 +1,41 @@
+{
+  "name": "IHOP",
+  "id": "ihop-san-francisco",
+  "display_phone": "(415) 837-0221",
+  "review_count": 170,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41250038147,
+    "latitude": 37.8077229112387
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "200 Beach St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "200 Beach St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/ihop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HSL5c8eSvDl1Nfk2Sh0Cxw/o.jpg",
+  "phone": "+14158370221",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 62.1839159026
+}

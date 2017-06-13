@@ -1,0 +1,45 @@
+{
+  "name": "Archimedes Banya",
+  "id": "archimedes-banya-san-francisco-2",
+  "display_phone": "(415) 206-9000",
+  "review_count": 398,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.37253,
+    "latitude": 37.73034
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "748 Innes Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "748 Innes Ave",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/archimedes-banya-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/flodx9_ezErUY0nGLOKiUw/o.jpg",
+  "phone": "+14152069000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "spas",
+      "title": "Day Spas"
+    },
+    {
+      "alias": "massage",
+      "title": "Massage"
+    },
+    {
+      "alias": "saunas",
+      "title": "Saunas"
+    }
+  ],
+  "distance": 6541.652634964001
+}

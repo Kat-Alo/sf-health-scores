@@ -1,0 +1,44 @@
+{
+  "name": "Bamboo Restaurant",
+  "id": "bamboo-restaurant-san-francisco-2",
+  "display_phone": "(415) 775-3679",
+  "review_count": 372,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.420634180307,
+    "latitude": 37.790037766099
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1441 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1441 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/bamboo-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ttdHwOM4BEhorrmtH2Z08g/o.jpg",
+  "phone": "+14157753679",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 10.60436290708
+}

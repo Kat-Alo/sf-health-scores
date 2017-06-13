@@ -7,9 +7,13 @@
     <body>
         <div id="map" style="width:100%; height:300px;"></div>
         <h1>Restaurant health scores across San Francisco</h1>
+
+        <p>There are {{ object_list | length }} restaurants.</p>
+
          <table border=1 cellpadding=7>
             <tr>
                 <th>Name</th>
+                <th>Yelp rating</th>
                 <th>Address</th>
                 <th>Inspection Date</th>
                 <th>Inspection Score</th>
@@ -18,7 +22,9 @@
             </tr>
             {% for obj in object_list %}
             <tr>
-                <td><a href="{{ obj.business_name }}/">{{ obj.business_name }}</a></td>
+                <td><a href="/business/{{ obj.business_id }}">{{ obj.business_name }}</a></td>
+                <td>{{ obj.yelp_rating }}</td>
+
                 <td>{{ obj.business_address }}</td>
                 <td>{{ obj.inspection_date }}</td>
                 <td>{{ obj.inspection_score }}</td>
@@ -27,6 +33,7 @@
             </tr>
             {% endfor %}
         </table>
+
         <script type="text/javascript">
             var map = L.map('map').setView([37.775, -122.419], 12);
             var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -38,16 +45,21 @@
               "type": "FeatureCollection",
               "features": [
                 {% for obj in object_list %}
-                {
-                  "type": "Feature",
-                  "properties": {
-                    "business_name": "{{ obj.business_name }}"
-                  },
-                  "geometry": {
-                    "type": "Point",
-                    "coordinates": [{{ obj.business_longitude }}, {{ obj.business_latitude }}]
-                  }
-                }{% if not loop.last %},{% endif %}
+                {% if obj['business_latitude'] %}
+                    {
+                      "type": "Feature",
+                      "properties": {
+                        "business_name": "{{ obj.business_name }}"
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [{{ obj.business_longitude }}, {{ obj.business_latitude }}]
+                      }
+                    }
+
+
+                    {% if not loop.last %},{% endif %}
+                {%endif%}
                 {% endfor %}
               ]
             };

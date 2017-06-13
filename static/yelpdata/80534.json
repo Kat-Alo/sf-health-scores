@@ -1,0 +1,40 @@
+{
+  "name": "American Conservatory Theater: The Geary Theater",
+  "id": "american-conservatory-theater-the-geary-theater-san-francisco-2",
+  "display_phone": "(415) 749-2228",
+  "review_count": 265,
+  "coordinates": {
+    "longitude": -122.410209,
+    "latitude": 37.786807
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "415 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "415 Geary St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/american-conservatory-theater-the-geary-theater-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LjQoqTumoV_asKN4TCdTtA/o.jpg",
+  "phone": "+14157492228",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "theater",
+      "title": "Performing Arts"
+    },
+    {
+      "alias": "artschools",
+      "title": "Art Schools"
+    }
+  ],
+  "distance": 3690.269084484
+}

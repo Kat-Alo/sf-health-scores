@@ -1,0 +1,37 @@
+{
+  "name": "Harris' Restaurant",
+  "id": "harris-restaurant-san-francisco",
+  "display_phone": "(415) 673-1888",
+  "review_count": 1584,
+  "price": "$$$$",
+  "coordinates": {
+    "longitude": -122.422997,
+    "latitude": 37.794966
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2100 Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2100 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/harris-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cqsaaeINjn4qgUPKI9vk7w/o.jpg",
+  "phone": "+14156731888",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    }
+  ],
+  "distance": 16.834367494779997
+}

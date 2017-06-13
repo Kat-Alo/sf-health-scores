@@ -1,0 +1,36 @@
+{
+  "name": "Chinese Hospital",
+  "id": "chinese-hospital-san-francisco-3",
+  "display_phone": "(415) 982-2400",
+  "review_count": 51,
+  "coordinates": {
+    "longitude": -122.409311,
+    "latitude": 37.7957053
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "845 Jackson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "845 Jackson St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/chinese-hospital-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vkkiKGCm9pjC0tqCTrpI2Q/o.jpg",
+  "phone": "+14159822400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "distance": 12.9372911392
+}

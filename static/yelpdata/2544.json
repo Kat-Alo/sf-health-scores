@@ -1,0 +1,40 @@
+{
+  "name": "Emperor Palace Restaurant",
+  "id": "emperor-palace-restaurant-san-francisco",
+  "display_phone": "(415) 750-0170",
+  "review_count": 120,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.464415207505,
+    "latitude": 37.7772362530231
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "530 Balboa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "530 Balboa St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/emperor-palace-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3lMzpsZA9ZfCYRYZ6osKMA/o.jpg",
+  "phone": "+14157500170",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 19.248142531139997
+}

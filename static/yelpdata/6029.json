@@ -1,0 +1,46 @@
+{
+  "name": "Arizmendi Bakery",
+  "id": "arizmendi-bakery-san-rafael",
+  "display_phone": "(415) 456-4093",
+  "review_count": 195,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.52686925343,
+    "latitude": 37.973151555215
+  },
+  "location": {
+    "address3": "Rafael Town Center Plz",
+    "address2": "",
+    "address1": "1002 4th St",
+    "city": "San Rafael",
+    "country": "US",
+    "zip_code": "94901",
+    "state": "CA",
+    "display_address": [
+      "1002 4th St",
+      "Rafael Town Center Plz",
+      "San Rafael, CA 94901"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/arizmendi-bakery-san-rafael?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2EyhWleSawA4aaeL8m8n6w/o.jpg",
+  "phone": "+14154564093",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 24900.48740056
+}

@@ -1,0 +1,37 @@
+{
+  "name": "El Faro",
+  "id": "el-faro-san-francisco-3",
+  "display_phone": "(415) 495-4426",
+  "review_count": 180,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.397972,
+    "latitude": 37.789852
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "82 1st St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "82 1st St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/el-faro-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6BvKf_NLBWs1PSEbJ8gu4w/o.jpg",
+  "phone": "+14154954426",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 3728.26302694
+}

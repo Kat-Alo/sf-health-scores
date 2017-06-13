@@ -1,0 +1,36 @@
+{
+  "name": "Eurest Dining Services",
+  "id": "eurest-dining-services-fremont",
+  "display_phone": "(510) 656-1915",
+  "review_count": 2,
+  "coordinates": {
+    "longitude": -121.9421463,
+    "latitude": 37.4935188
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "45500 Fremont Blvd",
+    "city": "Fremont",
+    "country": "US",
+    "zip_code": "94538",
+    "state": "CA",
+    "display_address": [
+      "45500 Fremont Blvd",
+      "Fremont, CA 94538"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/eurest-dining-services-fremont?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+15106561915",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 51624.02227839999
+}

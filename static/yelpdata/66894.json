@@ -1,0 +1,47 @@
+{
+  "name": "Clancey's Market & Deli",
+  "id": "clanceys-market-and-deli-san-francisco",
+  "display_phone": "(415) 681-9569",
+  "review_count": 133,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.50042,
+    "latitude": 37.76267
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3960 Irving St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "3960 Irving St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/clanceys-market-and-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vBGhJck91_g4CmAY4GXIJw/o.jpg",
+  "phone": "+14156819569",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 15.086402165859997
+}

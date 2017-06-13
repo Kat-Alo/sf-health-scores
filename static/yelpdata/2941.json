@@ -1,0 +1,41 @@
+{
+  "name": "Harrington's Bar & Grill",
+  "id": "harringtons-bar-and-grill-san-francisco",
+  "display_phone": "(415) 392-7595",
+  "review_count": 317,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39919,
+    "latitude": 37.794
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "245 Front St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "245 Front St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/harringtons-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q3N6GBBX94Qro2-DXxY0IA/o.jpg",
+  "phone": "+14153927595",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "irish_pubs",
+      "title": "Irish Pub"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 23.95698607612
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Balboa Theater",
+  "id": "balboa-theater-san-francisco",
+  "display_phone": "(415) 221-8184",
+  "review_count": 326,
+  "coordinates": {
+    "longitude": -122.498062133789,
+    "latitude": 37.7760429382324
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3630 Balboa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "3630 Balboa St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/balboa-theater-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x3uRq_ypgw700qajmFjJ7w/o.jpg",
+  "phone": "+14152218184",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "movietheaters",
+      "title": "Cinema"
+    }
+  ],
+  "distance": 47.98183962938
+}

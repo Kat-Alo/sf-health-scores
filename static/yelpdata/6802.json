@@ -1,0 +1,41 @@
+{
+  "name": "Easy Money",
+  "id": "easy-money-san-francisco",
+  "display_phone": "(415) 731-3538",
+  "review_count": 44,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4827903,
+    "latitude": 37.7634479
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2312 Irving St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "2312 Irving St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/easy-money-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Yi1gMGhAn2gy5BzirRTB5Q/o.jpg",
+  "phone": "+14157313538",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 28.422310729659998
+}

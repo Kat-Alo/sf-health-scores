@@ -1,0 +1,47 @@
+{
+  "name": "Alimento",
+  "id": "alimento-san-francisco-2",
+  "display_phone": "(415) 296-9463",
+  "review_count": 509,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.409221,
+    "latitude": 37.799561
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "507 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "507 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/alimento-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WDRbAihCW-9mOOjO42ABXQ/o.jpg",
+  "phone": "+14152969463",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "gelato",
+      "title": "Gelato"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 4920.173544278
+}

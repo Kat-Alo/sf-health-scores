@@ -1,0 +1,47 @@
+{
+  "name": "Coffee Mine",
+  "id": "coffee-mine-san-francisco",
+  "display_phone": "",
+  "review_count": 65,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.415017185791,
+    "latitude": 37.7765317759266
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "79 9th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "79 9th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/coffee-mine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XawCwRexq_A9W8vLChHUrg/o.jpg",
+  "phone": "",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 748.3512593538
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Artis Coffee",
+  "id": "artis-coffee-san-francisco-3",
+  "display_phone": "(415) 655-3576",
+  "review_count": 146,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4249268,
+    "latitude": 37.7773209
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "537 Octavia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "537 Octavia St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/artis-coffee-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/61CHrsyl1WIeZU72UCoLxg/o.jpg",
+  "phone": "+14156553576",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2084.5254765819996
+}

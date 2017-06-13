@@ -1,0 +1,39 @@
+{
+  "name": "JT Restaurant",
+  "id": "jt-restaurant-san-francisco",
+  "display_phone": "(415) 571-5108",
+  "review_count": 28,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4075065,
+    "latitude": 37.7816179182192
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "953 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "953 Mission St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/jt-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iayTUmZb4F9WYziu1_ocUg/o.jpg",
+  "phone": "+14155715108",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "filipino",
+      "title": "Filipino"
+    }
+  ],
+  "distance": 25.035277672259998
+}

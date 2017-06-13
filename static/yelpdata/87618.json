@@ -1,0 +1,37 @@
+{
+  "name": "Alex Bakery",
+  "id": "alex-bakery-san-francisco",
+  "display_phone": "(628) 899-8363",
+  "review_count": 110,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.463958740234,
+    "latitude": 37.7827224731445
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "431 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "431 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/alex-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C0ku79C5RaY2aTPX8HVcsg/o.jpg",
+  "phone": "+16288998363",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 3428.991448012
+}

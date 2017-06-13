@@ -1,0 +1,41 @@
+{
+  "name": "Bi-Rite Creamery",
+  "id": "bi-rite-creamery-san-francisco",
+  "display_phone": "(415) 626-5600",
+  "review_count": 8844,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4257548,
+    "latitude": 37.7615877
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "3692 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3692 18th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bi-rite-creamery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p73fDPH0TplsIXoEBlzjPg/o.jpg",
+  "phone": "+14156265600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 14.761016148619998
+}

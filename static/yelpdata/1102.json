@@ -1,0 +1,45 @@
+{
+  "name": "Hoang Dat Coffee Shop",
+  "id": "hoang-dat-coffee-shop-san-francisco",
+  "display_phone": "(415) 923-5254",
+  "review_count": 85,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41857,
+    "latitude": 37.78625
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "930 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "930 Geary St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/hoang-dat-coffee-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mIcETvgLQWcaeWoDCZCmUA/o.jpg",
+  "phone": "+14159235254",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 22.915232935339997
+}

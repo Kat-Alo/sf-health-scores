@@ -1,0 +1,41 @@
+{
+  "name": "Elite Audio Coffee Bar",
+  "id": "elite-audio-coffee-bar-san-francisco",
+  "display_phone": "(415) 795-1149",
+  "review_count": 185,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.402862548828,
+    "latitude": 37.7802696228027
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "893A Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "893A Folsom St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/elite-audio-coffee-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nyU0_VLKzCxfDBbiywKBIw/o.jpg",
+  "phone": "+14157951149",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 2614.64400379
+}

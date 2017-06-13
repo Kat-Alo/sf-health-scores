@@ -1,0 +1,43 @@
+{
+  "name": "Wine Country Limousine",
+  "id": "wine-country-limousine-san-francisco-2",
+  "display_phone": "(415) 312-3773",
+  "review_count": 48,
+  "coordinates": {
+    "longitude": -122.415405273438,
+    "latitude": 37.7497024536133
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/wine-country-limousine-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nsz7pwf5z6EPq37yljTSTA/o.jpg",
+  "phone": "+14153123773",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "limos",
+      "title": "Limos"
+    },
+    {
+      "alias": "tours",
+      "title": "Tours"
+    },
+    {
+      "alias": "airport_shuttles",
+      "title": "Airport Shuttles"
+    }
+  ],
+  "distance": 2095.273453772
+}

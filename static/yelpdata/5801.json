@@ -1,0 +1,36 @@
+{
+  "name": "Leonard Flynn Elementary School",
+  "id": "leonard-flynn-elementary-school-san-francisco",
+  "display_phone": "(415) 695-5770",
+  "review_count": 5,
+  "coordinates": {
+    "longitude": -122.412008196115,
+    "latitude": 37.7482449263334
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3125 Cesar Chavez St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3125 Cesar Chavez St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/leonard-flynn-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xKLvxjx6eM7kFPlGuNBATA/o.jpg",
+  "phone": "+14156955770",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 5.793407704703999
+}

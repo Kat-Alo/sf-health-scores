@@ -1,0 +1,40 @@
+{
+  "name": "Cha-Am",
+  "id": "cha-am-san-francisco",
+  "display_phone": "(415) 546-9711",
+  "review_count": 329,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.399068,
+    "latitude": 37.783524
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "701 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "701 Folsom St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/cha-am-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1WcWFjRwUsdImVizVrIflA/o.jpg",
+  "phone": "+14155469711",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 27.277405332239997
+}

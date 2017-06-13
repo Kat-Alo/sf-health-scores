@@ -1,0 +1,47 @@
+{
+  "name": "Tony's Cable Car Restaurant",
+  "id": "tonys-cable-car-restaurant-san-francisco",
+  "display_phone": "(415) 931-2416",
+  "review_count": 351,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.444865700057,
+    "latitude": 37.7828298816121
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2500 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2500 Geary Blvd",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/tonys-cable-car-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7f3AxobvEUiPpZlZase8FQ/o.jpg",
+  "phone": "+14159312416",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 3494.70273142
+}

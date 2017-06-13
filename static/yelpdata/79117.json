@@ -1,0 +1,48 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "1428 HAIGHT Patio Cafe & Crepery",
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.445868540619,
+    "latitude": 37.7701485211239
+  },
+  "review_count": 208,
+  "url": "https://www.yelp.com/biz/1428-haight-patio-cafe-and-crepery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 864-8484",
+  "distance": 1320.6239694781998,
+  "id": "1428-haight-patio-cafe-and-crepery-san-francisco",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VHf7PihAjQtfin0BEl-CZw/o.jpg",
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "address1": "1428 Haight St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "1428 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "zip_code": "94117"
+  },
+  "phone": "+14158648484",
+  "rating": 4.0
+}

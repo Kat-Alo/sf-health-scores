@@ -1,0 +1,45 @@
+{
+  "name": "San Pedro Square Market",
+  "id": "san-pedro-square-market-san-jose",
+  "display_phone": "",
+  "review_count": 750,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -121.8941835,
+    "latitude": 37.3366485
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "87 N San Pedro St",
+    "city": "San Jose",
+    "country": "US",
+    "zip_code": "95110",
+    "state": "CA",
+    "display_address": [
+      "87 N San Pedro St",
+      "San Jose, CA 95110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/san-pedro-square-market-san-jose?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BeZwgjljyfAfqFiiXr6YdQ/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "musicvenues",
+      "title": "Music Venues"
+    },
+    {
+      "alias": "restaurants",
+      "title": "Restaurants"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 66519.976758
+}

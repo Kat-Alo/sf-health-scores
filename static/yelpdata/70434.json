@@ -1,0 +1,39 @@
+{
+  "name": "Burrito Loco",
+  "id": "burrito-loco-san-francisco",
+  "display_phone": "(415) 665-4677",
+  "review_count": 86,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.465664009698,
+    "latitude": 37.7409191052678
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "850 Ulloa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "850 Ulloa St",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/burrito-loco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dRXPvJeBydPWl5gEByFI9w/o.jpg",
+  "phone": "+14156654677",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 6.133508561299999
+}

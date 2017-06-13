@@ -1,0 +1,39 @@
+{
+  "name": "A Desi Cafe",
+  "id": "a-desi-cafe-san-francisco-3",
+  "display_phone": "(415) 759-9088",
+  "review_count": 173,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.47985,
+    "latitude": 37.75387
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1501 Noriega St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1501 Noriega St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/a-desi-cafe-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q337WPgL_IvUzRKLIQ-aqw/o.jpg",
+  "phone": "+14157599088",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 3895.838451252
+}

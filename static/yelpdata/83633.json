@@ -1,0 +1,45 @@
+{
+  "name": "As Quoted",
+  "id": "as-quoted-san-francisco",
+  "display_phone": "(415) 914-0689",
+  "review_count": 107,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.45218,
+    "latitude": 37.78728
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3613 Sacramento St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3613 Sacramento St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/as-quoted-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m7VpDulC4B61JYZs86DmIQ/o.jpg",
+  "phone": "+14159140689",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 3246.96575984
+}

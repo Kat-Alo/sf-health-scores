@@ -1,0 +1,41 @@
+{
+  "name": "Polk & Green Produce Market",
+  "id": "polk-and-green-produce-market-san-francisco",
+  "display_phone": "(415) 776-3099",
+  "review_count": 34,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.421842,
+    "latitude": 37.7971806
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2222 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2222 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/polk-and-green-produce-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qBP2QVoW7c4KzjfvXDDHDA/o.jpg",
+  "phone": "+14157763099",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 13.82982144716
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Diamond Cafe",
+  "id": "diamond-cafe-san-francisco",
+  "display_phone": "(415) 655-3674",
+  "review_count": 86,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43616884886,
+    "latitude": 37.7512897856745
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "751 Diamond St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "751 Diamond St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/diamond-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IQWHsygpjGcUSs-yN88swA/o.jpg",
+  "phone": "+14156553674",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    }
+  ],
+  "distance": 1068.7684393437999
+}

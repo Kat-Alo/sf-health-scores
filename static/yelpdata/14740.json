@@ -1,0 +1,45 @@
+{
+  "name": "Eggettes",
+  "id": "eggettes-san-francisco",
+  "display_phone": "(415) 681-8818",
+  "review_count": 486,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.497573852539,
+    "latitude": 37.753547668457
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3136 Noriega St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "3136 Noriega St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/eggettes-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lr_wyBJRq8IxdM6ZY1eRRg/o.jpg",
+  "phone": "+14156818818",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bubbletea",
+      "title": "Bubble Tea"
+    },
+    {
+      "alias": "waffles",
+      "title": "Waffles"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 18.67572765192
+}

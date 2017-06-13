@@ -1,0 +1,37 @@
+{
+  "name": "Bi-Rite Market",
+  "id": "bi-rite-market-san-francisco-3",
+  "display_phone": "(415) 551-7900",
+  "review_count": 388,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.437564575518,
+    "latitude": 37.7745126368117
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "550 Divisadero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "550 Divisadero St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bi-rite-market-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lPXQHbbrnLNCY7NMJ2Yggg/o.jpg",
+  "phone": "+14155517900",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 1517.041695589
+}

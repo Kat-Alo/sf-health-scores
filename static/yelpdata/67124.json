@@ -1,0 +1,39 @@
+{
+  "name": "Alicia's Tamales Los Mayas",
+  "id": "alicias-tamales-los-mayas-hayward",
+  "display_phone": "(510) 277-4438",
+  "review_count": 61,
+  "coordinates": {
+    "longitude": -122.1189921,
+    "latitude": 37.6473518
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "23682 Clawiter Rd",
+    "city": "Hayward",
+    "country": "US",
+    "zip_code": "94545",
+    "state": "CA",
+    "display_address": [
+      "23682 Clawiter Rd",
+      "Hayward, CA 94545"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/alicias-tamales-los-mayas-hayward?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LGl8JmvUH0pYLjDtGV2C1g/o.jpg",
+  "phone": "+15102774438",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 30126.870549440002
+}

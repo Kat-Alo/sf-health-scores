@@ -1,0 +1,48 @@
+{
+  "name": "Durso Cafe & Juice Bar",
+  "id": "durso-cafe-and-juice-bar-san-francisco",
+  "display_phone": "(415) 369-9442",
+  "review_count": 209,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39369,
+    "latitude": 37.7781
+  },
+  "location": {
+    "address3": null,
+    "address2": null,
+    "address1": "236 Townsend St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "236 Townsend St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/durso-cafe-and-juice-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vZ1JCd2-OkZnupOWzXBh3A/o.jpg",
+  "phone": "+14153699442",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 4216.76369988
+}

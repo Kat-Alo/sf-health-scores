@@ -1,0 +1,47 @@
+{
+  "name": "Chomp N' Swig",
+  "id": "chomp-n-swig-san-francisco",
+  "display_phone": "(415) 683-5946",
+  "review_count": 273,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47592,
+    "latitude": 37.78221
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1541 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "1541 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/chomp-n-swig-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YHeDDzgsoT-kC745l4TxZg/o.jpg",
+  "phone": "+14156835946",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "beerbar",
+      "title": "Beer Bar"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 14.972510783399997
+}

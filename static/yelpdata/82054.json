@@ -1,0 +1,40 @@
+{
+  "name": "Built Custom Burgers Stonestown",
+  "id": "built-custom-burgers-stonestown-san-francisco-3",
+  "display_phone": "(415) 682-4720",
+  "review_count": 211,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.476501442853,
+    "latitude": 37.7279968430424
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 158",
+    "address1": "3251 20th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Ste 158",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/built-custom-burgers-stonestown-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ek2OjwpxAR7Y9dW5KcwlLg/o.jpg",
+  "phone": "+14156824720",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 5078.2063870599995
+}

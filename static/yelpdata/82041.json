@@ -1,0 +1,37 @@
+{
+  "name": "Hotel Vitale",
+  "id": "hotel-vitale-san-francisco-4",
+  "display_phone": "(415) 278-3700",
+  "review_count": 431,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.392735183239,
+    "latitude": 37.7936187
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "8 Mission Street",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "8 Mission Street",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/hotel-vitale-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8H_QV9OkXWxpmmhDRGsi_g/o.jpg",
+  "phone": "+14152783700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 5290.852021808
+}

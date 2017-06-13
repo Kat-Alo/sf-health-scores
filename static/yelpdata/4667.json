@@ -1,0 +1,36 @@
+{
+  "name": "CineArts at the Empire",
+  "id": "cinearts-at-the-empire-san-francisco",
+  "display_phone": "(415) 661-2539",
+  "review_count": 165,
+  "coordinates": {
+    "longitude": -122.4666518,
+    "latitude": 37.7398382
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "85 W Portal Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "85 W Portal Ave",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cinearts-at-the-empire-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_t1aMCzazj26bgIMKWONQw/o.jpg",
+  "phone": "+14156612539",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "movietheaters",
+      "title": "Cinema"
+    }
+  ],
+  "distance": 23.08336229448
+}

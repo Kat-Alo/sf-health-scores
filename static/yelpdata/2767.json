@@ -1,0 +1,45 @@
+{
+  "name": "Creations Dessert House",
+  "id": "creations-dessert-house-san-francisco",
+  "display_phone": "(415) 668-8812",
+  "review_count": 942,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47542,
+    "latitude": 37.78024
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "5217 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "5217 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/creations-dessert-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rvMJxBsiXw9N1MGmEcuIWQ/o.jpg",
+  "phone": "+14156688812",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 24.09204349826
+}

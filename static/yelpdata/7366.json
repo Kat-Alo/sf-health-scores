@@ -1,0 +1,41 @@
+{
+  "name": "All States Best Foods",
+  "id": "all-states-best-foods-san-francisco",
+  "display_phone": "(415) 642-3230",
+  "review_count": 21,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.397590637207,
+    "latitude": 37.7597427368164
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1607 20th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "1607 20th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/all-states-best-foods-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iCmKYNikKKpEp3Oc-hnvXQ/o.jpg",
+  "phone": "+14156423230",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 16.29078233232
+}

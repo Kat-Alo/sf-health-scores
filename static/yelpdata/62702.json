@@ -1,0 +1,41 @@
+{
+  "name": "Comstock Saloon",
+  "id": "comstock-saloon-san-francisco",
+  "display_phone": "(415) 617-0071",
+  "review_count": 809,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.405046522617,
+    "latitude": 37.7967419475317
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "155 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "155 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/comstock-saloon-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6vAqJH5xEqPY2rFyIrSP8Q/o.jpg",
+  "phone": "+14156170071",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 65.66542043668001
+}

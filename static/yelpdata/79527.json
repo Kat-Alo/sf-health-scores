@@ -1,0 +1,43 @@
+{
+  "name": "Huxley",
+  "id": "huxley-san-francisco",
+  "display_phone": "(415) 800-8223",
+  "review_count": 210,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.417232468724,
+    "latitude": 37.7863281041241
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "846 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "846 Geary St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/huxley-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gICutBIRufjrMIwJLNBJZw/o.jpg",
+  "phone": "+14158008223",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 3293.6720253199996
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Columbus Cafe",
+  "id": "columbus-cafe-san-francisco",
+  "display_phone": "(415) 274-2599",
+  "review_count": 333,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40841,
+    "latitude": 37.79976
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "562 Green St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "562 Green St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/columbus-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zceSqiMr5xuzKc8Gk4a7mA/o.jpg",
+  "phone": "+14152742599",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "divebars",
+      "title": "Dive Bars"
+    },
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 20.4044678052
+}

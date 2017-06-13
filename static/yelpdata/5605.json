@@ -1,0 +1,44 @@
+{
+  "name": "Prime Time Athletic Club",
+  "id": "prime-time-athletic-club-burlingame",
+  "display_phone": "(650) 697-7311",
+  "review_count": 169,
+  "coordinates": {
+    "longitude": -122.37659,
+    "latitude": 37.59711
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1730 Rollins Rd",
+    "city": "Burlingame",
+    "country": "US",
+    "zip_code": "94010",
+    "state": "CA",
+    "display_address": [
+      "1730 Rollins Rd",
+      "Burlingame, CA 94010"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/prime-time-athletic-club-burlingame?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P9w7Y3tvVQUuQeMDBu9U6g/o.jpg",
+  "phone": "+16506977311",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "sports_clubs",
+      "title": "Sports Clubs"
+    },
+    {
+      "alias": "massage_therapy",
+      "title": "Massage Therapy"
+    }
+  ],
+  "distance": 22128.76778942
+}

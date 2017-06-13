@@ -1,0 +1,41 @@
+{
+  "name": "Dartealing Lounge",
+  "id": "dartealing-lounge-san-francisco",
+  "display_phone": "(415) 644-0142",
+  "review_count": 378,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39645,
+    "latitude": 37.7815
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "470 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "470 3rd St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dartealing-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Urxf7DwijdIww5hEyWtIpw/o.jpg",
+  "phone": "+14156440142",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    }
+  ],
+  "distance": 19.38459042304
+}

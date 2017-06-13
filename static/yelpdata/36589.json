@@ -1,0 +1,36 @@
+{
+  "name": "Catering With Style",
+  "id": "catering-with-style-san-francisco",
+  "display_phone": "(415) 285-8863",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.408988952637,
+    "latitude": 37.7493476867676
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2800 Bryant St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2800 Bryant St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/catering-with-style-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5a-09NLZ2EAZCOBPQo35MQ/o.jpg",
+  "phone": "+14152858863",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 28.921891708499995
+}

@@ -1,0 +1,47 @@
+{
+  "name": "El Cafetazo",
+  "id": "el-cafetazo-san-francisco",
+  "display_phone": "(415) 522-0220",
+  "review_count": 71,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.421567589045,
+    "latitude": 37.7648826688528
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3078 16th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "3078 16th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/el-cafetazo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JQ9HVvsWDbOFurpsQefz4Q/o.jpg",
+  "phone": "+14155220220",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 11.68158992481
+}

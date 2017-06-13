@@ -1,0 +1,41 @@
+{
+  "name": "Roots Restaurant",
+  "id": "roots-restaurant-san-francisco",
+  "display_phone": "(415) 659-0349",
+  "review_count": 153,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.40519,
+    "latitude": 37.79071
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "466 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "466 Bush St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/roots-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/89PgZ6gyneagnoHg3DAbUg/o.jpg",
+  "phone": "+14156590349",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 292.4477842072
+}

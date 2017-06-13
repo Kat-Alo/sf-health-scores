@@ -1,0 +1,40 @@
+{
+  "name": "Cuisine of Nepal",
+  "id": "cuisine-of-nepal-san-francisco",
+  "display_phone": "(415) 647-2222",
+  "review_count": 203,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42318,
+    "latitude": 37.74097
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3486 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3486 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cuisine-of-nepal-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6CFrkfUMWat1qmD1UK0YQg/o.jpg",
+  "phone": "+14156472222",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "himalayan",
+      "title": "Himalayan/Nepalese"
+    }
+  ],
+  "distance": 2502.5961202999997
+}

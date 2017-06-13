@@ -1,0 +1,47 @@
+{
+  "name": "Escape From New York Pizza",
+  "id": "escape-from-new-york-pizza-san-francisco-3",
+  "display_phone": "(415) 668-5577",
+  "review_count": 947,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4512722,
+    "latitude": 37.7694456
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1737 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1737 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/escape-from-new-york-pizza-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZHziQtdBkRuuV3zncw63Ng/o.jpg",
+  "phone": "+14156685577",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 3195.758331314
+}

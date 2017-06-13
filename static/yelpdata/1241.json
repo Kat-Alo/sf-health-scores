@@ -1,0 +1,41 @@
+{
+  "name": "Banhwich",
+  "id": "banhwich-san-francisco",
+  "display_phone": "(415) 665-2233",
+  "review_count": 184,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47815,
+    "latitude": 37.74278
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1105 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "1105 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/banhwich-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lghGIac6Ntopq8SkREtMRw/o.jpg",
+  "phone": "+14156652233",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 20.550708530999998
+}

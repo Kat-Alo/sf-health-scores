@@ -1,0 +1,37 @@
+{
+  "name": "A-1 Cafe & Bakery",
+  "id": "a-1-cafe-and-bakery-san-francisco-2",
+  "display_phone": "(415) 584-6923",
+  "review_count": 28,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46078,
+    "latitude": 37.72455
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1727 Ocean Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "1727 Ocean Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/a-1-cafe-and-bakery-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0hph84_eeH0WmncxlloRXA/o.jpg",
+  "phone": "+14155846923",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 22.42150029806
+}

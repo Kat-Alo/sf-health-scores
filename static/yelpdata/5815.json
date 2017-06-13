@@ -1,0 +1,36 @@
+{
+  "name": "Alvarado Elementary School",
+  "id": "alvarado-elementary-school-san-francisco",
+  "display_phone": "(415) 695-5695",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.438683435321,
+    "latitude": 37.753838673234
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "625 Douglass St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "625 Douglass St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/alvarado-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UOb_9eEbyUH-S-M7C71Giw/o.jpg",
+  "phone": "+14156955695",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 15.476538368659998
+}

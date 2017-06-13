@@ -1,0 +1,41 @@
+{
+  "name": "Gelateria Naia",
+  "id": "gelateria-naia-san-francisco-2",
+  "display_phone": "(415) 677-9280",
+  "review_count": 900,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.409467441211,
+    "latitude": 37.7999102444365
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "520 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "520 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/gelateria-naia-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OwZclVdGKprZ9hM3w-8U6A/o.jpg",
+  "phone": "+14156779280",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "gelato",
+      "title": "Gelato"
+    }
+  ],
+  "distance": 19.461958638869998
+}

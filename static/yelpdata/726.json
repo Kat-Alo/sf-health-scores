@@ -1,0 +1,40 @@
+{
+  "name": "Ben Wah",
+  "id": "ben-wah-san-francisco",
+  "display_phone": "(415) 921-0188",
+  "review_count": 76,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.440200805664,
+    "latitude": 37.7883529663086
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2786 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2786 California St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/ben-wah-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LzVTs4inytVkgpOroRJJrA/o.jpg",
+  "phone": "+14159210188",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.4720074008
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Dynamo Donut & Coffee",
+  "id": "dynamo-donut-and-coffee-san-francisco-4",
+  "display_phone": "(415) 920-1978",
+  "review_count": 1725,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.407676,
+    "latitude": 37.752971
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2760 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2760 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dynamo-donut-and-coffee-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8-b9sy2cf5nEMu7C6_V83w/o.jpg",
+  "phone": "+14159201978",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    }
+  ],
+  "distance": 7.110913851519999
+}

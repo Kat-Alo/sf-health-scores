@@ -1,0 +1,45 @@
+{
+  "name": "EPIC Steak",
+  "id": "epic-steak-san-francisco",
+  "display_phone": "(415) 369-9955",
+  "review_count": 1815,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.389448990853,
+    "latitude": 37.7908179090105
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "369 The Embarcadero",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "369 The Embarcadero",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/epic-steak-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cC-1cQUIqLhlvLc2CW-fPQ/o.jpg",
+  "phone": "+14153699955",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 245.1897726016
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Atami Sushi Bar & Grill",
+  "id": "atami-sushi-bar-and-grill-san-francisco",
+  "display_phone": "(415) 614-1958",
+  "review_count": 237,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42894,
+    "latitude": 37.80107
+  },
+  "location": {
+    "address3": "",
+    "address2": "#A",
+    "address1": "1662 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1662 Lombard St",
+      "#A",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/atami-sushi-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h4g8y9CEy-mkM9MKlo6_2g/o.jpg",
+  "phone": "+14156141958",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 20.956785246499997
+}

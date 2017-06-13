@@ -1,0 +1,41 @@
+{
+  "name": "Giordano Bros",
+  "id": "giordano-bros-san-francisco-2",
+  "display_phone": "(415) 437-2767",
+  "review_count": 359,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42222,
+    "latitude": 37.76514
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3108 16th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "3108 16th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/giordano-bros-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g_Vat3LjSjE9pPUsCBhRRw/o.jpg",
+  "phone": "+14154372767",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 26.839685773659998
+}

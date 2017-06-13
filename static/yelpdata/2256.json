@@ -1,0 +1,37 @@
+{
+  "name": "Blue Danube Coffee House",
+  "id": "blue-danube-coffee-house-san-francisco",
+  "display_phone": "(415) 221-9041",
+  "review_count": 657,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46251,
+    "latitude": 37.78323
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "306 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "306 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/blue-danube-coffee-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zqbxx5axMBqBwzaHPhS6Lw/o.jpg",
+  "phone": "+14152219041",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 20.95686732284
+}

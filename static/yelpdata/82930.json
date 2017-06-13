@@ -1,0 +1,37 @@
+{
+  "name": "Blue Bottle Coffee",
+  "id": "blue-bottle-coffee-san-francisco-8",
+  "display_phone": "(510) 653-3394",
+  "review_count": 1618,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.423211,
+    "latitude": 37.77638
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "315 Linden St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "315 Linden St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/blue-bottle-coffee-san-francisco-8?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0quAAk1_A42TYCNen-t7Tw/o.jpg",
+  "phone": "+15106533394",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2077.650858904
+}

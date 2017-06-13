@@ -1,0 +1,41 @@
+{
+  "name": "IHOP",
+  "id": "ihop-san-francisco-2",
+  "display_phone": "(415) 921-4004",
+  "review_count": 197,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.439018249512,
+    "latitude": 37.799186706543
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2299 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2299 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/ihop-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I2nnJjDG-P0A79bHYAYlCw/o.jpg",
+  "phone": "+14159214004",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 25.700442034359998
+}

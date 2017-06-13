@@ -1,0 +1,37 @@
+{
+  "name": "Cova Hotel",
+  "id": "cova-hotel-san-francisco",
+  "display_phone": "(415) 771-3000",
+  "review_count": 134,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.417,
+    "latitude": 37.78401
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "655 Ellis St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "655 Ellis St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cova-hotel-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IGH6Fkxi-cW242p15OPuBw/o.jpg",
+  "phone": "+14157713000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 34.214449308839995
+}

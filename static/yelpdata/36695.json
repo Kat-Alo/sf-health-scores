@@ -1,0 +1,45 @@
+{
+  "name": "Golden Natural Foods",
+  "id": "golden-natural-foods-san-francisco",
+  "display_phone": "(415) 864-2107",
+  "review_count": 134,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42944,
+    "latitude": 37.76885
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "130 Church St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "130 Church St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/golden-natural-foods-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/skQK8ffutfWZxtRHIp7ESQ/o.jpg",
+  "phone": "+14158642107",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    }
+  ],
+  "distance": 15.569160713679999
+}

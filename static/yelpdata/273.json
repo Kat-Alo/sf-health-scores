@@ -1,0 +1,40 @@
+{
+  "name": "Hai Sun",
+  "id": "hai-sun-san-francisco",
+  "display_phone": "(415) 346-4792",
+  "review_count": 129,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43134,
+    "latitude": 37.80007
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3137 Laguna St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "3137 Laguna St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/hai-sun-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mZAR3fD_D4t5_OnaGHiiwA/o.jpg",
+  "phone": "+14153464792",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 32.22804416552
+}

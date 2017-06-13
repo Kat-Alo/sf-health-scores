@@ -1,0 +1,39 @@
+{
+  "name": "Dave's Food Store",
+  "id": "daves-food-store-san-francisco",
+  "display_phone": "(415) 282-3939",
+  "review_count": 20,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.397415161133,
+    "latitude": 37.759765625
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1601 20th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "1601 20th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/daves-food-store-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EMh4Fy78QhiU70aANYrkmw/o.jpg",
+  "phone": "+14152823939",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 8.718832804299998
+}

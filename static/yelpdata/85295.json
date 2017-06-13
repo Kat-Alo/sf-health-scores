@@ -1,0 +1,37 @@
+{
+  "name": "Red Hill Station",
+  "id": "red-hill-station-san-francisco",
+  "display_phone": "(415) 757-0480",
+  "review_count": 212,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.414459228516,
+    "latitude": 37.7390785217285
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "803 Cortland Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "803 Cortland Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/red-hill-station-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7tUjEWkWLSvoPVBl0700ww/o.jpg",
+  "phone": "+14157570480",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 3102.265494288
+}

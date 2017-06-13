@@ -1,0 +1,45 @@
+{
+  "name": "Celtic Coffee Company",
+  "id": "celtic-coffee-company-san-francisco",
+  "display_phone": "(415) 255-0208",
+  "review_count": 197,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4144406,
+    "latitude": 37.7809433
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "142 McAllister St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "142 McAllister St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/celtic-coffee-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/buZRfFLJSi9WZiNdTC7UJg/o.jpg",
+  "phone": "+14152550208",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 2951.084899358
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Henry's House of Coffee",
+  "id": "henrys-house-of-coffee-san-francisco",
+  "display_phone": "(415) 681-9363",
+  "review_count": 265,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.481224,
+    "latitude": 37.754291
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1618 Noriega St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1618 Noriega St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/henrys-house-of-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yRSwSbXrcSwaJaM8FqJbDA/o.jpg",
+  "phone": "+14156819363",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "coffeeroasteries",
+      "title": "Coffee Roasteries"
+    }
+  ],
+  "distance": 23.381688868959998
+}

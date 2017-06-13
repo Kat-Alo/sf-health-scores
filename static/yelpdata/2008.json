@@ -1,0 +1,42 @@
+{
+  "name": "Hook & Cook",
+  "id": "hook-and-cook-san-francisco",
+  "display_phone": "(415) 981-4318",
+  "review_count": 129,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.410097790213,
+    "latitude": 37.8092691317962
+  },
+  "location": {
+    "address3": "Bldg B, Level 1",
+    "address2": "",
+    "address1": "Pier 39",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "Pier 39",
+      "Bldg B, Level 1",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/hook-and-cook-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UPvmV8IHTYrfoZFepNpgYA/o.jpg",
+  "phone": "+14159814318",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "fishnchips",
+      "title": "Fish & Chips"
+    }
+  ],
+  "distance": 5167.08218856
+}

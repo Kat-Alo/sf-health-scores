@@ -1,0 +1,41 @@
+{
+  "name": "Hogwash",
+  "id": "hogwash-san-francisco",
+  "display_phone": "(415) 361-5500",
+  "review_count": 632,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4099292,
+    "latitude": 37.7891754
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "582 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "582 Sutter St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/hogwash-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yH4icakrVBLn-o2guHwoWA/o.jpg",
+  "phone": "+14153615500",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    },
+    {
+      "alias": "beerbar",
+      "title": "Beer Bar"
+    }
+  ],
+  "distance": 3914.0927120699994
+}

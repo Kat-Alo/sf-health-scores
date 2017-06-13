@@ -1,0 +1,44 @@
+{
+  "name": "Coqueta",
+  "id": "coqueta-san-francisco",
+  "display_phone": "(415) 704-8866",
+  "review_count": 1426,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.396616339684,
+    "latitude": 37.7984671979957
+  },
+  "location": {
+    "address3": "Pier 5",
+    "address2": "",
+    "address1": "The Embarcadero",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "The Embarcadero",
+      "Pier 5",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/coqueta-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4KeM4_kJh3S1_jCSP0uYXQ/o.jpg",
+  "phone": "+14157048866",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "spanish",
+      "title": "Spanish"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 44.485772177639994
+}

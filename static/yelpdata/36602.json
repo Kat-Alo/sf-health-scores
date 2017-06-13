@@ -1,0 +1,45 @@
+{
+  "name": "Cafe Insalata",
+  "id": "cafe-insalata-san-francisco",
+  "display_phone": "(415) 398-4737",
+  "review_count": 56,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.399684546647,
+    "latitude": 37.7968666419763
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "209 Jackson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "209 Jackson St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cafe-insalata-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1amCmdAkKDaB9wm5XrRtfQ/o.jpg",
+  "phone": "+14153984737",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 12.464368877459998
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Phillip and Sala Burton High School",
+  "id": "phillip-and-sala-burton-high-school-san-francisco",
+  "display_phone": "(415) 469-4550",
+  "review_count": 9,
+  "coordinates": {
+    "longitude": -122.4052734,
+    "latitude": 37.7206879
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "400 Mansell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "400 Mansell St",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/phillip-and-sala-burton-high-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/onwJF99WOVOTF76JH8IZpA/o.jpg",
+  "phone": "+14154694550",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    },
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 89.0145105146
+}

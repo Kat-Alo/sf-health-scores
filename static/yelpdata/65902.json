@@ -1,0 +1,41 @@
+{
+  "name": "Annakoot",
+  "id": "annakoot-san-francisco",
+  "display_phone": "",
+  "review_count": 5,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.394540980458,
+    "latitude": 37.7945636809339
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "Justin Herman Plz",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "Justin Herman Plz",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/annakoot-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DPpeTnaO6i55JmUYD1Tn6g/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 2700.4358270479997
+}

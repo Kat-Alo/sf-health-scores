@@ -1,0 +1,45 @@
+{
+  "name": "Eden Cafe",
+  "id": "eden-cafe-san-francisco",
+  "display_phone": "(415) 861-1888",
+  "review_count": 26,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.42107,
+    "latitude": 37.7749499
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "47 Franklin St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "47 Franklin St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/eden-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eHjG6xtvBKca1O9bIn95dw/o.jpg",
+  "phone": "+14158611888",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 2074.5660759919997
+}

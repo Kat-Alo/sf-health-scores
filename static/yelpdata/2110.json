@@ -1,0 +1,40 @@
+{
+  "name": "A La Turca Restaurant",
+  "id": "a-la-turca-restaurant-san-francisco",
+  "display_phone": "(415) 345-1011",
+  "review_count": 665,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.417594909668,
+    "latitude": 37.7859725952148
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "869 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "869 Geary St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/a-la-turca-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ruBsSoTNiSQErLjBjY4ioA/o.jpg",
+  "phone": "+14153451011",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "turkish",
+      "title": "Turkish"
+    }
+  ],
+  "distance": 10.793427526543999
+}

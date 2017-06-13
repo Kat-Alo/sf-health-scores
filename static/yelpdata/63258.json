@@ -1,0 +1,45 @@
+{
+  "name": "Greenhouse Cafe",
+  "id": "greenhouse-cafe-san-francisco-2",
+  "display_phone": "(415) 742-5545",
+  "review_count": 359,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4694073,
+    "latitude": 37.7374952
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "329 W Portal Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "329 W Portal Ave",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/greenhouse-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fyrhK4q7CZpwWrftxOzvzg/o.jpg",
+  "phone": "+14157425545",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    }
+  ],
+  "distance": 9.305106193062
+}

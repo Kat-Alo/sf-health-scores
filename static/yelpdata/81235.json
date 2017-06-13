@@ -1,0 +1,40 @@
+{
+  "name": "Burmese Kitchen",
+  "id": "burmese-kitchen-san-francisco-2",
+  "display_phone": "(415) 474-5569",
+  "review_count": 193,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46033,
+    "latitude": 37.78088
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3815 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3815 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/burmese-kitchen-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hzNqgIaXYk_hky4u30Tc_A/o.jpg",
+  "phone": "+14154745569",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burmese",
+      "title": "Burmese"
+    }
+  ],
+  "distance": 3068.211216152
+}

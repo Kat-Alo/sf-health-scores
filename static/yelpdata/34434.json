@@ -1,0 +1,44 @@
+{
+  "name": "Fang",
+  "id": "fang-san-francisco-2",
+  "display_phone": "(415) 777-8568",
+  "review_count": 1280,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.399874,
+    "latitude": 37.785795
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "660 Howard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "660 Howard St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/fang-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v32NDNjl6fALjcbcDxR5yg/o.jpg",
+  "phone": "+14157778568",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 20.21360651856
+}

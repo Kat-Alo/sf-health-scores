@@ -1,0 +1,47 @@
+{
+  "name": "Anda Piroshki",
+  "id": "anda-piroshki-san-francisco",
+  "display_phone": "(415) 821-9905",
+  "review_count": 102,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41799,
+    "latitude": 37.7394
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "331 Cortland",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "331 Cortland",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/anda-piroshki-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-vKv3Dc2E0qEs9StK7c9iw/o.jpg",
+  "phone": "+14158219905",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "russian",
+      "title": "Russian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2889.3037851639997
+}

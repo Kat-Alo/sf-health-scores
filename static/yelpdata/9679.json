@@ -1,0 +1,37 @@
+{
+  "name": "Garden Bakery",
+  "id": "garden-bakery-san-francisco",
+  "display_phone": "(415) 397-5838",
+  "review_count": 99,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.407974153757,
+    "latitude": 37.7958199381828
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "765 Jackson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "765 Jackson St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/garden-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rRX8g5BqkaNOZXK83YyOTw/o.jpg",
+  "phone": "+14153975838",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 292.1531945202
+}

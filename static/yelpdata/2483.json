@@ -1,0 +1,45 @@
+{
+  "name": "Caffe Union",
+  "id": "caffe-union-san-francisco",
+  "display_phone": "(415) 673-4119",
+  "review_count": 177,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42952,
+    "latitude": 37.79798
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1830 Union St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1830 Union St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/caffe-union-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7_V4uL3R9OTrpNLcrQX2rA/o.jpg",
+  "phone": "+14156734119",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 12.88316340231
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Farm Fresh To You Store",
+  "id": "farm-fresh-to-you-store-san-francisco-3",
+  "display_phone": "(800) 796-6009",
+  "review_count": 579,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.393686,
+    "latitude": 37.795491
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 9",
+    "address1": "1 Ferry Bldg",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Ste 9",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/farm-fresh-to-you-store-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ojcilYKk4bf0W8p8SIu9sA/o.jpg",
+  "phone": "+18007966009",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    }
+  ],
+  "distance": 30.594192307979995
+}

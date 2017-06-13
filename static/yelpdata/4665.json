@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "7-Eleven",
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.49004,
+    "latitude": 37.74266
+  },
+  "review_count": 56,
+  "url": "https://www.yelp.com/biz/7-eleven-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 665-4747",
+  "distance": 18.409381881919998,
+  "id": "7-eleven-san-francisco-2",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CQ8QSmrmfAcSGRAdGEgIxA/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "2222 Taraval St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "2222 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "zip_code": "94116"
+  },
+  "phone": "+14156654747",
+  "rating": 3.0
+}

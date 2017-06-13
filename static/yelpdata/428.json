@@ -1,0 +1,45 @@
+{
+  "name": "Caffe Ambrosia",
+  "id": "caffe-ambrosia-san-francisco",
+  "display_phone": "(415) 362-0538",
+  "review_count": 280,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4025142,
+    "latitude": 37.7902092
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "14 Trinity Pl",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "14 Trinity Pl",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/caffe-ambrosia-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QzQrz21NDWt-85giKcwtqQ/o.jpg",
+  "phone": "+14153620538",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 47.1024608479
+}

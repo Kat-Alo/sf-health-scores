@@ -1,0 +1,37 @@
+{
+  "name": "Happy Donuts",
+  "id": "happy-donuts-san-francisco-15",
+  "display_phone": "(415) 386-1650",
+  "review_count": 39,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4516594,
+    "latitude": 37.7695202
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1794 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1794 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/happy-donuts-san-francisco-15?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iH_VUwKmXcntUHpZ0Tr3_g/o.jpg",
+  "phone": "+14153861650",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    }
+  ],
+  "distance": 10.527658544
+}

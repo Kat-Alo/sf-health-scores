@@ -1,0 +1,40 @@
+{
+  "name": "Bonita Taqueria Y Rotisserie",
+  "id": "bonita-taqueria-y-rotisserie-san-francisco",
+  "display_phone": "(415) 801-5599",
+  "review_count": 184,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4403992,
+    "latitude": 37.8000984
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2257 Chestnut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2257 Chestnut St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bonita-taqueria-y-rotisserie-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vLjEWCWjdbb_ouH1H0HiQg/o.jpg",
+  "phone": "+14158015599",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 4372.739806142
+}

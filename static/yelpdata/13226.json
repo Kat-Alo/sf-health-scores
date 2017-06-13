@@ -1,0 +1,41 @@
+{
+  "name": "California Wine Merchant",
+  "id": "california-wine-merchant-san-francisco",
+  "display_phone": "(415) 567-0646",
+  "review_count": 259,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.438187897205,
+    "latitude": 37.8005151450634
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2113 Chestnut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2113 Chestnut St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/california-wine-merchant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wYmIGCZ7jaDtPSKVLWYToQ/o.jpg",
+  "phone": "+14155670646",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 13.16648368596
+}

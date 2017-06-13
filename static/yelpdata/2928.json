@@ -1,0 +1,41 @@
+{
+  "name": "San Francisco Elks Lodge No. 3",
+  "id": "san-francisco-elks-lodge-no-3-san-francisco",
+  "display_phone": "(415) 421-5231",
+  "review_count": 39,
+  "coordinates": {
+    "longitude": -122.409351851776,
+    "latitude": 37.7883780642208
+  },
+  "location": {
+    "address3": "Kensington Hotel",
+    "address2": "",
+    "address1": "450 Post St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "450 Post St",
+      "Kensington Hotel",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/san-francisco-elks-lodge-no-3-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GsxQfwh8tHO5o-rbW_z-TA/o.jpg",
+  "phone": "+14154215231",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "social_clubs",
+      "title": "Social Clubs"
+    }
+  ],
+  "distance": 22.050351088579998
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Blue Barn Gourmet",
+  "id": "blue-barn-gourmet-san-francisco",
+  "display_phone": "(415) 441-3232",
+  "review_count": 779,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4380926,
+    "latitude": 37.8004265
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2105 Chestnut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2105 Chestnut St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/blue-barn-gourmet-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S8B_XhmnU3j6Vv1uqXsY4w/o.jpg",
+  "phone": "+14154413232",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 14.46387243904
+}

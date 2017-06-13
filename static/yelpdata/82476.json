@@ -1,0 +1,39 @@
+{
+  "name": "Chim",
+  "id": "chim-san-francisco",
+  "display_phone": "(415) 433-2222",
+  "review_count": 69,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4039612,
+    "latitude": 37.7943192
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "653 Clay St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "653 Clay St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/chim-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PYNKl2JXRd1wgO7r1cf8cg/o.jpg",
+  "phone": "+14154332222",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 4690.091837168
+}

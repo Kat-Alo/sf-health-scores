@@ -1,0 +1,41 @@
+{
+  "name": "Bella Lucca",
+  "id": "bella-lucca-san-francisco",
+  "display_phone": "(415) 776-6777",
+  "review_count": 112,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41028085351,
+    "latitude": 37.7871590852737
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "418 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "418 Geary Blvd",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/bella-lucca-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/07Q7XnyH4xjaGzQhYm0Ipw/o.jpg",
+  "phone": "+14157766777",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 28.238403401159996
+}

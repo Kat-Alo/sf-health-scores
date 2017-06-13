@@ -1,0 +1,43 @@
+{
+  "name": "Ali Baba's Cave",
+  "id": "ali-babas-cave-san-francisco",
+  "display_phone": "(415) 863-3054",
+  "review_count": 475,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4212407,
+    "latitude": 37.7602469
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "799 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "799 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/ali-babas-cave-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MsmLiJEY9_gpfLQphpoMOA/o.jpg",
+  "phone": "+14158633054",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    }
+  ],
+  "distance": 16.64590573408
+}

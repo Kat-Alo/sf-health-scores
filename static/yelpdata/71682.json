@@ -1,0 +1,38 @@
+{
+  "name": "Bernie's",
+  "id": "bernies-san-francisco-2",
+  "display_phone": "",
+  "review_count": 40,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.403426,
+    "latitude": 37.789311
+  },
+  "location": {
+    "address3": "Crocker Galleria",
+    "address2": "",
+    "address1": "50 Post St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "50 Post St",
+      "Crocker Galleria",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bernies-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WedZBOWfFmVA0vwDW54XKQ/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 56.7580582794
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Basa Seafood Express",
+  "id": "basa-seafood-express-san-francisco",
+  "display_phone": "(415) 550-2388",
+  "review_count": 465,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41338,
+    "latitude": 37.75276
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3064 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3064 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/basa-seafood-express-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WQMpdnfArH_89AzBKU8jgQ/o.jpg",
+  "phone": "+14155502388",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 12.883355718439999
+}

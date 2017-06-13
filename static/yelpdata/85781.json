@@ -1,0 +1,45 @@
+{
+  "name": "Domino's Pizza",
+  "id": "dominos-pizza-san-francisco-5",
+  "display_phone": "(415) 776-0400",
+  "review_count": 274,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.417601943016,
+    "latitude": 37.7862196415663
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "876 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "876 Geary St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.5,
+  "url": "https://www.yelp.com/biz/dominos-pizza-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eQwLFWfL9QPEk2g7jh_qzQ/o.jpg",
+  "phone": "+14157760400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 3271.754745728
+}

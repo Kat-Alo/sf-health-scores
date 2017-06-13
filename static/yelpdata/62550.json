@@ -1,0 +1,41 @@
+{
+  "name": "ANZU Restaurant & Bar",
+  "id": "anzu-restaurant-and-bar-san-francisco",
+  "display_phone": "(415) 394-1100",
+  "review_count": 517,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.40934073925,
+    "latitude": 37.7855673738098
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "222 Mason St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "222 Mason St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/anzu-restaurant-and-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KlS5sK0kHnaM95A-V18DcQ/o.jpg",
+  "phone": "+14153941100",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 16.660792129079997
+}

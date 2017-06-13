@@ -1,0 +1,40 @@
+{
+  "name": "California Academy of Sciences",
+  "id": "california-academy-of-sciences-san-francisco",
+  "display_phone": "(415) 379-8000",
+  "review_count": 2703,
+  "coordinates": {
+    "longitude": -122.466041,
+    "latitude": 37.769816
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "55 Music Concourse Dr",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "55 Music Concourse Dr",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/california-academy-of-sciences-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qAusSZw-_hQssBrHEupMrw/o.jpg",
+  "phone": "+14153798000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "museums",
+      "title": "Museums"
+    },
+    {
+      "alias": "aquariums",
+      "title": "Aquariums"
+    }
+  ],
+  "distance": 2784.0412009819997
+}

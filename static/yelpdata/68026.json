@@ -1,0 +1,48 @@
+{
+  "name": "Estela's Fresh Sandwiches",
+  "id": "estelas-fresh-sandwiches-san-francisco",
+  "display_phone": "(415) 553-6068",
+  "review_count": 189,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.430337071419,
+    "latitude": 37.7718624472618
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "250 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "250 Fillmore St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/estelas-fresh-sandwiches-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bOA0YffAcHCFT1A0ZsX1fw/o.jpg",
+  "phone": "+14155536068",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 2589.018804838
+}

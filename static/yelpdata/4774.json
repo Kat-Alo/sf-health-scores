@@ -1,0 +1,41 @@
+{
+  "name": "Bayside Market",
+  "id": "bayside-market-san-francisco-2",
+  "display_phone": "(415) 227-0151",
+  "review_count": 141,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.3892661,
+    "latitude": 37.7842375
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "120 Brannan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "120 Brannan St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bayside-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dcG8R4LG_GM9ZDY6GKONjg/o.jpg",
+  "phone": "+14152270151",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 63.935199690599994
+}

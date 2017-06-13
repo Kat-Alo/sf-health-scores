@@ -1,0 +1,37 @@
+{
+  "name": "J J Fish and Chicken",
+  "id": "j-j-fish-and-chicken-oakland",
+  "display_phone": "(510) 633-1212",
+  "review_count": 58,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.180985035664,
+    "latitude": 37.7560456463621
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "8035 International Blvd",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94621",
+    "state": "CA",
+    "display_address": [
+      "8035 International Blvd",
+      "Oakland, CA 94621"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/j-j-fish-and-chicken-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ca6OU9fxqa4CGlg1rjw46g/o.jpg",
+  "phone": "+15106331212",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 18711.34315079
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Big Slice Pizza",
+  "id": "big-slice-pizza-san-francisco-3",
+  "display_phone": "(415) 552-2520",
+  "review_count": 86,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.44754,
+    "latitude": 37.769642
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1535 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1535 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/big-slice-pizza-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/egIM-vUJ9qCsKhq4wm5PaQ/o.jpg",
+  "phone": "+14155522520",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 28.283184895999998
+}

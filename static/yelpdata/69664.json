@@ -1,0 +1,37 @@
+{
+  "name": "Golden Gate Park Golf Course",
+  "id": "golden-gate-park-golf-course-san-francisco",
+  "display_phone": "(415) 751-8987",
+  "review_count": 163,
+  "coordinates": {
+    "longitude": -122.508321,
+    "latitude": 37.7692635
+  },
+  "location": {
+    "address3": "Golden Gate Park",
+    "address2": "",
+    "address1": "970 47th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "970 47th Ave",
+      "Golden Gate Park",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/golden-gate-park-golf-course-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Xnr71ukvwvXpJVc9Cj5pFA/o.jpg",
+  "phone": "+14157518987",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "golf",
+      "title": "Golf"
+    }
+  ],
+  "distance": 6386.2473616
+}

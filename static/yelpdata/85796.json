@@ -1,0 +1,45 @@
+{
+  "name": "Zushi Puzzle",
+  "id": "zushi-puzzle-san-francisco-2",
+  "display_phone": "(415) 931-9319",
+  "review_count": 1251,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.43308,
+    "latitude": 37.80052
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1910 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1910 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/zushi-puzzle-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lyVzlodrIv4CZycyxu0_4w/o.jpg",
+  "phone": "+14159319319",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 4411.246484322
+}

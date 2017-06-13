@@ -1,0 +1,44 @@
+{
+  "name": "Amici's East Coast Pizzeria",
+  "id": "amicis-east-coast-pizzeria-san-francisco-2",
+  "display_phone": "(415) 546-6666",
+  "review_count": 568,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.3924768,
+    "latitude": 37.7779556
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "216 King St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "216 King St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/amicis-east-coast-pizzeria-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NEu0gE33foVldm_JR--hIA/o.jpg",
+  "phone": "+14155466666",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 16.93320511088
+}

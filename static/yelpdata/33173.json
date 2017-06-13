@@ -1,0 +1,43 @@
+{
+  "name": "Handy Deli",
+  "id": "handy-deli-san-francisco",
+  "display_phone": "(415) 681-3323",
+  "review_count": 155,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4774885,
+    "latitude": 37.7635545
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1815 Irving St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1815 Irving St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/handy-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m3aZr4sBYEL4U1e11EIvpQ/o.jpg",
+  "phone": "+14156813323",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 3.9450192379159996
+}

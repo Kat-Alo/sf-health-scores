@@ -1,0 +1,36 @@
+{
+  "name": "Aptos Middle School",
+  "id": "aptos-middle-school-san-francisco",
+  "display_phone": "(415) 469-4520",
+  "review_count": 10,
+  "coordinates": {
+    "longitude": -122.466278672218,
+    "latitude": 37.730116546154
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "105 Aptos Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "105 Aptos Ave",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/aptos-middle-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W7eLGWQ-QO5UFCB6WcCjbw/o.jpg",
+  "phone": "+14154694520",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 4.368699236204
+}

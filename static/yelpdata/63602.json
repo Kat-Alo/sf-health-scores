@@ -1,0 +1,41 @@
+{
+  "name": "Bumzy's Chocolate Chip Cookies",
+  "id": "bumzys-chocolate-chip-cookies-san-francisco",
+  "display_phone": "(415) 346-3222",
+  "review_count": 96,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.432577386498,
+    "latitude": 37.7829238772392
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1460 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1460 Fillmore St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bumzys-chocolate-chip-cookies-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/daFZQmPA73CZW1y5aLBH3g/o.jpg",
+  "phone": "+14153463222",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 13.94382387408
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Clement Street Bar & Grill",
+  "id": "clement-street-bar-and-grill-san-francisco",
+  "display_phone": "(415) 386-2200",
+  "review_count": 227,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.466842651367,
+    "latitude": 37.7830543518066
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "708 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "708 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/clement-street-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Br0-jZO9PRlcmffEnueVjg/o.jpg",
+  "phone": "+14153862200",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 22.13617236276
+}

@@ -1,0 +1,35 @@
+{
+  "name": "EAT Club",
+  "id": "eat-club-redwood-city-3",
+  "display_phone": "(800) 316-6440",
+  "review_count": 163,
+  "coordinates": {
+    "longitude": -122.22772,
+    "latitude": 37.4845
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": null,
+    "city": "Redwood City",
+    "country": "US",
+    "zip_code": "94303",
+    "state": "CA",
+    "display_address": [
+      "Redwood City, CA 94303"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/eat-club-redwood-city-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AifJwi3kEiMqlhken-XDxg/o.jpg",
+  "phone": "+18003166440",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 41466.38157786
+}
