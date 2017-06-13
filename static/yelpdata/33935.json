@@ -1,0 +1,45 @@
+{
+  "name": "Avedano's Holly Park Market",
+  "id": "avedanos-holly-park-market-san-francisco-2",
+  "display_phone": "(415) 285-6328",
+  "review_count": 150,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.418869018555,
+    "latitude": 37.7396430969238
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "235 Cortland Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "235 Cortland Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/avedanos-holly-park-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YOBxNTwFzeq7c4oO4dIMFg/o.jpg",
+  "phone": "+14152856328",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    },
+    {
+      "alias": "butcher",
+      "title": "Butcher"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 16.24379604168
+}

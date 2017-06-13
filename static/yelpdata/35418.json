@@ -1,0 +1,45 @@
+{
+  "name": "Eternal Springs",
+  "id": "eternal-springs-san-francisco",
+  "display_phone": "(415) 429-9092",
+  "review_count": 105,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46745,
+    "latitude": 37.78296
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "750 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "750 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/eternal-springs-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w1a-hGjEaU0RAcSdTilHkA/o.jpg",
+  "phone": "+14154299092",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 27.7014728596
+}

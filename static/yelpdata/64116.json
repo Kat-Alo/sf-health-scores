@@ -1,0 +1,41 @@
+{
+  "name": "Arizmendi Bakery",
+  "id": "arizmendi-bakery-san-francisco-2",
+  "display_phone": "(415) 826-9218",
+  "review_count": 471,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4210748,
+    "latitude": 37.7526584
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1268 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "1268 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/arizmendi-bakery-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G0xtkhGvsg8RsfV3fjZDBQ/o.jpg",
+  "phone": "+14158269218",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 27.30883735178
+}

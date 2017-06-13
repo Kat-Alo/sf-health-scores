@@ -1,0 +1,45 @@
+{
+  "name": "Glaze Donuts",
+  "id": "glaze-donuts-san-francisco",
+  "display_phone": "(415) 334-1144",
+  "review_count": 54,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43327,
+    "latitude": 37.72624
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4499 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "4499 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/glaze-donuts-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U-dylnciRdZOEkzl2bk3lw/o.jpg",
+  "phone": "+14153341144",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    }
+  ],
+  "distance": 21.5235223742
+}

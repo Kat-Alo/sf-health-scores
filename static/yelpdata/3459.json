@@ -1,0 +1,41 @@
+{
+  "name": "Basil Thai Restaurant & Bar",
+  "id": "basil-thai-restaurant-and-bar-san-francisco",
+  "display_phone": "(415) 552-8999",
+  "review_count": 1289,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40927,
+    "latitude": 37.7754
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1175 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1175 Folsom St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/basil-thai-restaurant-and-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ywhtbFLbV1aYdPNXVkuKXg/o.jpg",
+  "phone": "+14155528999",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 13.639066376959999
+}

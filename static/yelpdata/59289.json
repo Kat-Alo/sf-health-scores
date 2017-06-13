@@ -1,0 +1,48 @@
+{
+  "name": "Golden Gate Dim Sum",
+  "id": "golden-gate-dim-sum-san-francisco-2",
+  "display_phone": "(415) 666-3883",
+  "review_count": 138,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.474469871073,
+    "latitude": 37.7823501631487
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "1829 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "1829 Clement St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/golden-gate-dim-sum-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FaILeSn3D8WsXhowwJIdUw/o.jpg",
+  "phone": "+14156663883",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 399.11702810959997
+}

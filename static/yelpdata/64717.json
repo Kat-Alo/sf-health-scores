@@ -1,0 +1,40 @@
+{
+  "is_closed": false,
+  "rating": 4.5,
+  "name": "18 Reasons",
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "cookingschools",
+      "title": "Cooking Schools"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4254,
+    "latitude": 37.7617
+  },
+  "review_count": 44,
+  "url": "https://www.yelp.com/biz/18-reasons-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 568-2710",
+  "distance": 23.19422328972,
+  "id": "18-reasons-san-francisco",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-FWlF4Mok81Kr4urcz_s3A/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "3674 18th St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "3674 18th St",
+      "San Francisco, CA 94110"
+    ],
+    "zip_code": "94110"
+  },
+  "phone": "+14155682710"
+}

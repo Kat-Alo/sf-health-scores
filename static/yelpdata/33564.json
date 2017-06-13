@@ -1,0 +1,45 @@
+{
+  "name": "Happy Shabu Shabu",
+  "id": "happy-shabu-shabu-san-francisco",
+  "display_phone": "(415) 814-2738",
+  "review_count": 342,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4327923,
+    "latitude": 37.7824809
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1401 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1401 Fillmore St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/happy-shabu-shabu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lJFLTqXdSMoiFhevK_2j6A/o.jpg",
+  "phone": "+14158142738",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "fondue",
+      "title": "Fondue"
+    },
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    }
+  ],
+  "distance": 20.858139141859997
+}

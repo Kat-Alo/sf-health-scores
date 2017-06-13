@@ -1,0 +1,48 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "3rd Street Grill",
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.392818879701,
+    "latitude": 37.7791144536648
+  },
+  "review_count": 135,
+  "url": "https://www.yelp.com/biz/3rd-street-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 538-0804",
+  "distance": 12.66252369298,
+  "id": "3rd-street-grill-san-francisco",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5w4x890erwzILqUecEb_hw/o.jpg",
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "address1": "695 3rd St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": null,
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "695 3rd St",
+      "San Francisco, CA 94107"
+    ],
+    "zip_code": "94107"
+  },
+  "phone": "+14155380804",
+  "rating": 3.5
+}

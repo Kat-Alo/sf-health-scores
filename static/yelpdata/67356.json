@@ -1,0 +1,37 @@
+{
+  "name": "Indigo",
+  "id": "indigo-san-francisco",
+  "display_phone": "(415) 673-9353",
+  "review_count": 307,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.42327,
+    "latitude": 37.77945
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "687 Mcallister St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "687 Mcallister St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/indigo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/McXD7OG26insRc3kLu6a5A/o.jpg",
+  "phone": "+14156739353",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 10.625540212139999
+}

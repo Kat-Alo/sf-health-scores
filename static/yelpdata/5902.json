@@ -1,0 +1,36 @@
+{
+  "name": "Galileo High School",
+  "id": "galileo-high-school-san-francisco",
+  "display_phone": "(415) 749-3430",
+  "review_count": 23,
+  "coordinates": {
+    "longitude": -122.424066737294,
+    "latitude": 37.803362980485
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1150 Francisco St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1150 Francisco St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/galileo-high-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Qh6IGiIZMsLnfoCIdRFBhw/o.jpg",
+  "phone": "+14157493430",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 11.83678743238
+}

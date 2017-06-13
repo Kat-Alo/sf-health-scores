@@ -1,0 +1,45 @@
+{
+  "name": "Cafe Phoenix",
+  "id": "cafe-phoenix-san-francisco",
+  "display_phone": "(415) 282-9675",
+  "review_count": 17,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.3912,
+    "latitude": 37.75475
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1234 Indiana St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "1234 Indiana St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cafe-phoenix-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ns99XApgGo8CIPnPI7P1xA/o.jpg",
+  "phone": "+14152829675",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 34.43885889711999
+}

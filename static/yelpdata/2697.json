@@ -1,0 +1,47 @@
+{
+  "name": "Howard's Cafe",
+  "id": "howards-cafe-san-francisco",
+  "display_phone": "(415) 564-4723",
+  "review_count": 404,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.466459,
+    "latitude": 37.7637293
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1309 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1309 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/howards-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eodxp5pnDy_REF0jPm1YLA/o.jpg",
+  "phone": "+14155644723",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 1785.2677379779998
+}

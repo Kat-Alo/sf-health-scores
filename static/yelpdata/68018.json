@@ -1,0 +1,45 @@
+{
+  "name": "Cafeto Coffee Shop",
+  "id": "cafeto-coffee-shop-san-francisco-2",
+  "display_phone": "(415) 970-9090",
+  "review_count": 92,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.424239996237,
+    "latitude": 37.7361456828819
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "111 Richland Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "111 Richland Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cafeto-coffee-shop-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gSSZXIO8eFZ7DIw12TOcjg/o.jpg",
+  "phone": "+14159709090",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 13.72511617742
+}

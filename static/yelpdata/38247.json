@@ -1,0 +1,47 @@
+{
+  "name": "Ike's Place",
+  "id": "ikes-place-san-francisco-4",
+  "display_phone": "(415) 841-0369",
+  "review_count": 237,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.478038,
+    "latitude": 37.7209663
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1650 Holloway Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "1650 Holloway Ave",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/ikes-place-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aM6WNKrxfkSBJvTN8ZLE6Q/o.jpg",
+  "phone": "+14158410369",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 445.60704657379995
+}

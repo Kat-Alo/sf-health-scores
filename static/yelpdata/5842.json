@@ -1,0 +1,36 @@
+{
+  "name": "Grattan Elementary School",
+  "id": "grattan-elementary-school-san-francisco",
+  "display_phone": "(415) 759-2815",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.4505076,
+    "latitude": 37.7637547
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "165 Grattan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "165 Grattan St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/grattan-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Zve-a_7fNAjMBkhMCiPvLg/o.jpg",
+  "phone": "+14157592815",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 23.989293576619996
+}

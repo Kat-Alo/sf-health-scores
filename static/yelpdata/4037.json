@@ -1,0 +1,37 @@
+{
+  "name": "Edinburgh Castle Pub",
+  "id": "edinburgh-castle-pub-san-francisco-2",
+  "display_phone": "(415) 885-4074",
+  "review_count": 496,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.418960571289,
+    "latitude": 37.7862548828125
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "950 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "950 Geary St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/edinburgh-castle-pub-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P2iUp-uaYyZj1DypNdA7Fg/o.jpg",
+  "phone": "+14158854074",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "distance": 24.091988780699996
+}

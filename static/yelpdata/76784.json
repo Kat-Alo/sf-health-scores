@@ -1,0 +1,39 @@
+{
+  "name": "Capital Restaurant",
+  "id": "capital-restaurant-san-francisco",
+  "display_phone": "(415) 397-6269",
+  "review_count": 537,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.407066345215,
+    "latitude": 37.7939949035645
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "839 Clay St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "839 Clay St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/capital-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DhhxbgZZvxzKEK2OAfXlNQ/o.jpg",
+  "phone": "+14153976269",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 4495.694347746
+}

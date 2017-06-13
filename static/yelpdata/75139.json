@@ -1,0 +1,39 @@
+{
+  "name": "Hakka Restaurant",
+  "id": "hakka-restaurant-san-francisco",
+  "display_phone": "(415) 876-6898",
+  "review_count": 363,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.505920410156,
+    "latitude": 37.7732009887695
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4401 Cabrillo St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "4401 Cabrillo St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hakka-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TwlqNEV27SEOiTxO5N7VfQ/o.jpg",
+  "phone": "+14158766898",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 6259.27445895
+}

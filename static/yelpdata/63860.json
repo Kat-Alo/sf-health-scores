@@ -1,0 +1,40 @@
+{
+  "name": "Institute on Aging Marin",
+  "id": "institute-on-aging-marin-san-rafael-4",
+  "display_phone": "(415) 750-4111",
+  "review_count": 14,
+  "coordinates": {
+    "longitude": -122.45765,
+    "latitude": 37.78087
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "930 Tamalpais Ave",
+    "city": "San Rafael",
+    "country": "US",
+    "zip_code": "94901",
+    "state": "CA",
+    "display_address": [
+      "930 Tamalpais Ave",
+      "San Rafael, CA 94901"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/institute-on-aging-marin-san-rafael-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7VEufbqLLOqGAXMccStX0A/o.jpg",
+  "phone": "+14157504111",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "homehealthcare",
+      "title": "Home Health Care"
+    },
+    {
+      "alias": "c_and_mh",
+      "title": "Counseling & Mental Health"
+    }
+  ],
+  "distance": 35.56458418042
+}

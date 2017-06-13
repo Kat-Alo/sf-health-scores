@@ -1,0 +1,43 @@
+{
+  "name": "Bubble Tea & Dessert Cafe",
+  "id": "bubble-tea-and-dessert-cafe-san-francisco-5",
+  "display_phone": "(415) 662-8233",
+  "review_count": 141,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.490365579724,
+    "latitude": 37.7539305388927
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1788 32nd Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1788 32nd Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/bubble-tea-and-dessert-cafe-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0eu4YXT_JTBwpFES_goqYA/o.jpg",
+  "phone": "+14156628233",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "bubbletea",
+      "title": "Bubble Tea"
+    }
+  ],
+  "distance": 4797.20838103
+}

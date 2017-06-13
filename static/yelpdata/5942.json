@@ -1,0 +1,44 @@
+{
+  "name": "School of the Epiphany",
+  "id": "school-of-the-epiphany-san-francisco",
+  "display_phone": "(415) 337-4030",
+  "review_count": 9,
+  "coordinates": {
+    "longitude": -122.4346951,
+    "latitude": 37.7158703
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "600 Italy Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "600 Italy Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/school-of-the-epiphany-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UDr9DJ-YbV0fO1f6Y2xUXg/o.jpg",
+  "phone": "+14153374030",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    },
+    {
+      "alias": "religiousschools",
+      "title": "Religious Schools"
+    }
+  ],
+  "distance": 28.50005311704
+}

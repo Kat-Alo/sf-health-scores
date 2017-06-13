@@ -1,0 +1,41 @@
+{
+  "name": "CLIFT Hotel",
+  "id": "clift-hotel-san-francisco",
+  "display_phone": "(415) 775-4700",
+  "review_count": 759,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.4111049,
+    "latitude": 37.7869318
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "495 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "495 Geary St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/clift-hotel-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9z8y3NKn9M3j3dOPxQSB0A/o.jpg",
+  "phone": "+14157754700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 5.753348174358
+}

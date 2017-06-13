@@ -1,0 +1,41 @@
+{
+  "name": "Courtney Produce",
+  "id": "courtney-produce-san-francisco",
+  "display_phone": "(415) 626-1850",
+  "review_count": 200,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.435417175293,
+    "latitude": 37.7671813964844
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "101 Castro St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "101 Castro St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/courtney-produce-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eTw6egDOmwwzGZqe3sYl_g/o.jpg",
+  "phone": "+14156261850",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 15.049565177929999
+}

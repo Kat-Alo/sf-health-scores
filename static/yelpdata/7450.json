@@ -1,0 +1,41 @@
+{
+  "name": "Genki Crepes & Mini-Mart",
+  "id": "genki-crepes-and-mini-mart-san-francisco",
+  "display_phone": "(415) 379-6414",
+  "review_count": 2034,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46283,
+    "latitude": 37.78326
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "330 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "330 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/genki-crepes-and-mini-mart-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Rv5XqpfxX0MBrZa2BMWf1Q/o.jpg",
+  "phone": "+14153796414",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "creperies",
+      "title": "Creperies"
+    }
+  ],
+  "distance": 22.64065539124
+}

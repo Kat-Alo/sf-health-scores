@@ -1,0 +1,41 @@
+{
+  "name": "Bitters Bock & Rye",
+  "id": "bitters-bock-and-rye-san-francisco",
+  "display_phone": "(415) 440-4490",
+  "review_count": 235,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4201078,
+    "latitude": 37.7870339
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1117 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1117 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bitters-bock-and-rye-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RN3giPEEBWonJ9fP4IIsCQ/o.jpg",
+  "phone": "+14154404490",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    }
+  ],
+  "distance": 3246.9178015079997
+}

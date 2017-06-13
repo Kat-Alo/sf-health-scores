@@ -1,0 +1,48 @@
+{
+  "name": "Bai Som Thai Kitchen",
+  "id": "bai-som-thai-kitchen-san-francisco",
+  "display_phone": "(415) 751-5332",
+  "review_count": 286,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4820786,
+    "latitude": 37.7820015
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2121 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "2121 Clement St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bai-som-thai-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5_ziLkVu-Th36iln0CeCcQ/o.jpg",
+  "phone": "+14157515332",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 13.638773477079999
+}

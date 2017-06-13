@@ -1,0 +1,36 @@
+{
+  "name": "Gordon J Lau Elementary School",
+  "id": "gordon-j-lau-elementary-school-san-francisco",
+  "display_phone": "(415) 291-7921",
+  "review_count": 4,
+  "coordinates": {
+    "longitude": -122.40879,
+    "latitude": 37.79442
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "950 Clay St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "950 Clay St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/gordon-j-lau-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4dlU4JZQTtV47ipHfS6X7g/o.jpg",
+  "phone": "+14152917921",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 64.46978059576
+}

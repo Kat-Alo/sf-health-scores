@@ -1,0 +1,39 @@
+{
+  "name": "Freddie's Sandwiches",
+  "id": "freddies-sandwiches-san-francisco",
+  "display_phone": "(415) 433-2882",
+  "review_count": 369,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.410316467285,
+    "latitude": 37.8052368164062
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "300 Francisco St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "300 Francisco St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/freddies-sandwiches-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Iw2r0SgI1GEVKzooNsGhQg/o.jpg",
+  "phone": "+14154332882",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 15.63276826784
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Cornology",
+  "id": "cornology-san-francisco-2",
+  "display_phone": "(800) 548-1990",
+  "review_count": 83,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4093018,
+    "latitude": 37.799839
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "522 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "522 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cornology-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pAawys5xKNl70ipIlbNULQ/o.jpg",
+  "phone": "+18005481990",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "popcorn",
+      "title": "Popcorn Shops"
+    }
+  ],
+  "distance": 4938.546896256
+}

@@ -1,0 +1,37 @@
+{
+  "name": "El Metate Restaurant",
+  "id": "el-metate-restaurant-san-francisco",
+  "display_phone": "(415) 641-7209",
+  "review_count": 991,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.409623820024,
+    "latitude": 37.7556745300616
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2406 Bryant St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2406 Bryant St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/el-metate-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XHHcC4tWGLw-L8-ErxQOmA/o.jpg",
+  "phone": "+14156417209",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 2428.64533796
+}

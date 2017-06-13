@@ -1,0 +1,39 @@
+{
+  "name": "Town of Dumpling",
+  "id": "town-of-dumpling-san-mateo",
+  "display_phone": "(650) 349-3066",
+  "review_count": 304,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.28762442521,
+    "latitude": 37.5310565075411
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "29 Laurie Meadows Dr",
+    "city": "San Mateo",
+    "country": "US",
+    "zip_code": "94403",
+    "state": "CA",
+    "display_address": [
+      "29 Laurie Meadows Dr",
+      "San Mateo, CA 94403"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/town-of-dumpling-san-mateo?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EBqd_OXFEiiFgJiaZDWRvg/o.jpg",
+  "phone": "+16503493066",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 28720.32026416
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Al Masri",
+  "id": "al-masri-san-francisco",
+  "display_phone": "(415) 876-2300",
+  "review_count": 213,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.50214,
+    "latitude": 37.7752399
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4031 Balboa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "4031 Balboa St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/al-masri-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4eMLB1hrQdSUjnhPv5eBnA/o.jpg",
+  "phone": "+14158762300",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    }
+  ],
+  "distance": 15.381608230079998
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Alice's Restaurant",
+  "id": "alices-restaurant-san-francisco",
+  "display_phone": "(415) 282-8999",
+  "review_count": 230,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.428833,
+    "latitude": 37.743741
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1599 Sanchez St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "1599 Sanchez St",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/alices-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PGYa-t95q2SyK6l3Vp_yCw/o.jpg",
+  "phone": "+14152828999",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 15.504254422139999
+}

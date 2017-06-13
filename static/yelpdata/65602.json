@@ -1,0 +1,40 @@
+{
+  "name": "Escape From New York Pizza",
+  "id": "escape-from-new-york-pizza-san-francisco",
+  "display_phone": "(415) 421-0700",
+  "review_count": 234,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.402992946368,
+    "latitude": 37.7911448516955
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "333 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "333 Bush St",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/escape-from-new-york-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W3Gncc5wRzmkDZhKe8WaxA/o.jpg",
+  "phone": "+14154210700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 1093.1796970403998
+}

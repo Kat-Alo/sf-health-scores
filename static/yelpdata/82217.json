@@ -1,0 +1,37 @@
+{
+  "name": "Glen Park Market",
+  "id": "glen-park-market-san-francisco",
+  "display_phone": "(415) 587-4427",
+  "review_count": 12,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.434231638908,
+    "latitude": 37.7334398031235
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2900 Diamond St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "2900 Diamond St",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/glen-park-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1W61rRS9WXHIqWeZujSv3g/o.jpg",
+  "phone": "+14155874427",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 3050.6385108239997
+}

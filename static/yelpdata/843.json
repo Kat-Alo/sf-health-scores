@@ -1,0 +1,44 @@
+{
+  "name": "Estia",
+  "id": "estia-san-francisco",
+  "display_phone": "(415) 433-1433",
+  "review_count": 158,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.406936645508,
+    "latitude": 37.7983551025391
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1224 Grant Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "1224 Grant Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/estia-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZaGsl4tpm9kfWV7ebGhddA/o.jpg",
+  "phone": "+14154331433",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    }
+  ],
+  "distance": 10.092109985079999
+}

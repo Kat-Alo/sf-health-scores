@@ -1,0 +1,45 @@
+{
+  "name": "Hamano Sushi",
+  "id": "hamano-sushi-san-francisco",
+  "display_phone": "(415) 826-0825",
+  "review_count": 337,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.434310913086,
+    "latitude": 37.7507667541504
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1332 Castro St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "1332 Castro St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hamano-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7ZtDHUYwU2ICHD55XMp1qA/o.jpg",
+  "phone": "+14158260825",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 21.50244645756
+}

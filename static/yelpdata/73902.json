@@ -1,0 +1,45 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "20th Century Cafe",
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "hungarian",
+      "title": "Hungarian"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.422565370798,
+    "latitude": 37.7749929150767
+  },
+  "review_count": 290,
+  "url": "https://www.yelp.com/biz/20th-century-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 621-2380",
+  "distance": 1986.501381852,
+  "id": "20th-century-cafe-san-francisco-2",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8E0YGqsNsuMJTN629XaBsQ/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "198 Gough St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "198 Gough St",
+      "San Francisco, CA 94102"
+    ],
+    "zip_code": "94102"
+  },
+  "phone": "+14156212380",
+  "rating": 4.0
+}

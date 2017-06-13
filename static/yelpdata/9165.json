@@ -1,0 +1,48 @@
+{
+  "name": "Delica",
+  "id": "delica-san-francisco",
+  "display_phone": "(415) 834-0344",
+  "review_count": 928,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.393217,
+    "latitude": 37.795407
+  },
+  "location": {
+    "address3": "Shop 45",
+    "address2": "",
+    "address1": "1 Ferry Bldg",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Shop 45",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/delica-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6U-euh6zY8WCdA77PxxGdw/o.jpg",
+  "phone": "+14158340344",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 993.0038181699999
+}

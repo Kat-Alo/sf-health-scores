@@ -1,0 +1,41 @@
+{
+  "name": "French Bakery",
+  "id": "french-bakery-san-francisco",
+  "display_phone": "(415) 863-8726",
+  "review_count": 53,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.478149414062,
+    "latitude": 37.7427864074707
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1101 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "1101 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/french-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ylq7ZCnx58_0Pq9xhZ14kw/o.jpg",
+  "phone": "+14158638726",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 12.750173177399999
+}

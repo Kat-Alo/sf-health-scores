@@ -1,0 +1,45 @@
+{
+  "name": "All Star Donuts",
+  "id": "all-star-donuts-san-francisco-3",
+  "display_phone": "(415) 221-9838",
+  "review_count": 210,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46896,
+    "latitude": 37.78259
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "901 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "901 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/all-star-donuts-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yyB2_sTiqQE5Wcur02tEDQ/o.jpg",
+  "phone": "+14152219838",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 13.8473085356
+}

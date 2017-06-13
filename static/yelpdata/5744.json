@@ -1,0 +1,47 @@
+{
+  "name": "New England Lobster Market & Eatery",
+  "id": "new-england-lobster-market-and-eatery-burlingame",
+  "display_phone": "(650) 443-1543",
+  "review_count": 1765,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.374696808268,
+    "latitude": 37.6025163682965
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "824 Cowan Rd",
+    "city": "Burlingame",
+    "country": "US",
+    "zip_code": "94010",
+    "state": "CA",
+    "display_address": [
+      "824 Cowan Rd",
+      "Burlingame, CA 94010"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/new-england-lobster-market-and-eatery-burlingame?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eIEvQKEdybaW7Xx3ZYRsyw/o.jpg",
+  "phone": "+16504431543",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 7981.537823399999
+}

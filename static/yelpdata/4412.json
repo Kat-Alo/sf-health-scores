@@ -1,0 +1,45 @@
+{
+  "name": "Barbarossa Lounge",
+  "id": "barbarossa-lounge-san-francisco",
+  "display_phone": "(415) 434-4204",
+  "review_count": 222,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.403321862221,
+    "latitude": 37.7960137277842
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "714 Montgomery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "714 Montgomery St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/barbarossa-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XSAK-bulUUsvjTmYoKOCCg/o.jpg",
+  "phone": "+14154344204",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 13.078436694559999
+}

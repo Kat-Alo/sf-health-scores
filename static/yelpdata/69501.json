@@ -1,0 +1,41 @@
+{
+  "name": "Fog City",
+  "id": "fog-city-san-francisco-2",
+  "display_phone": "(415) 982-2000",
+  "review_count": 534,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.402,
+    "latitude": 37.8035
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1300 Battery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "1300 Battery St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/fog-city-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SSg_qeKCKzgXOOpGoEtEAg/o.jpg",
+  "phone": "+14159822000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 5621.84707175
+}

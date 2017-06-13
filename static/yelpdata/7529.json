@@ -1,0 +1,41 @@
+{
+  "name": "Billiard Palacade",
+  "id": "billiard-palacade-san-francisco",
+  "display_phone": "(415) 585-2331",
+  "review_count": 51,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.44111,
+    "latitude": 37.71576
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5179 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "5179 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/billiard-palacade-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bpNP0yuYd8DzeXaYY7krzg/o.jpg",
+  "phone": "+14155852331",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "poolhalls",
+      "title": "Pool Halls"
+    },
+    {
+      "alias": "poolbilliards",
+      "title": "Pool & Billiards"
+    }
+  ],
+  "distance": 27.674476181099998
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Hollywood Food Center",
+  "id": "hollywood-food-center-san-francisco",
+  "display_phone": "(415) 751-2518",
+  "review_count": 3,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.48554,
+    "latitude": 37.78036
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "6146 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "6146 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/hollywood-food-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+14157512518",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 15.08642469662
+}

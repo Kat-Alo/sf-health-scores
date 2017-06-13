@@ -1,0 +1,37 @@
+{
+  "name": "Espresso Roma Cafe",
+  "id": "espresso-roma-cafe-berkeley",
+  "display_phone": "(510) 528-8010",
+  "review_count": 102,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.282325744629,
+    "latitude": 37.8817329406738
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1549 Hopkins St",
+    "city": "Berkeley",
+    "country": "US",
+    "zip_code": "94707",
+    "state": "CA",
+    "display_address": [
+      "1549 Hopkins St",
+      "Berkeley, CA 94707"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/espresso-roma-cafe-berkeley?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jkKFz_jTvSRqLaw8CxezaQ/o.jpg",
+  "phone": "+15105288010",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 16345.58035932
+}

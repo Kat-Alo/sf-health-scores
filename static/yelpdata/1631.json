@@ -1,0 +1,37 @@
+{
+  "name": "Casa Mexicana",
+  "id": "casa-mexicana-san-francisco",
+  "display_phone": "(415) 551-2272",
+  "review_count": 209,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.429031506181,
+    "latitude": 37.7679913491011
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "180 Church St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "180 Church St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/casa-mexicana-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yrTDeYOfBu22M7MuMpsSVw/o.jpg",
+  "phone": "+14155512272",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 1848.8204136439997
+}

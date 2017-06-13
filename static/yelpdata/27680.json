@@ -1,0 +1,41 @@
+{
+  "name": "Blue Sky Restaurant",
+  "id": "blue-sky-restaurant-san-francisco",
+  "display_phone": "(415) 989-5688",
+  "review_count": 15,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41029,
+    "latitude": 37.79858
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1504 Powell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "1504 Powell St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/blue-sky-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q-KlXxgq5EN69Hxf6F7MtQ/o.jpg",
+  "phone": "+14159895688",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "importedfood",
+      "title": "Imported Food"
+    }
+  ],
+  "distance": 10.54543853232
+}

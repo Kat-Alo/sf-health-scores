@@ -1,0 +1,40 @@
+{
+  "name": "Alamo Square",
+  "id": "alamo-square-san-francisco",
+  "display_phone": "(415) 831-2700",
+  "review_count": 438,
+  "coordinates": {
+    "longitude": -122.432985018563,
+    "latitude": 37.7756572382162
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "Steiner St Hayes St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "Steiner St Hayes St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/alamo-square-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Wwfme14msAdtNvzwX7DFDg/o.jpg",
+  "phone": "+14158312700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "parks",
+      "title": "Parks"
+    },
+    {
+      "alias": "playgrounds",
+      "title": "Playgrounds"
+    }
+  ],
+  "distance": 196.92731718444
+}

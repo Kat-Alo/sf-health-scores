@@ -1,0 +1,47 @@
+{
+  "name": "Cafe Majestic",
+  "id": "cafe-majestic-san-francisco-2",
+  "display_phone": "(415) 441-1100",
+  "review_count": 29,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.425430297852,
+    "latitude": 37.7872467041016
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1500 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1500 Sutter St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cafe-majestic-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1ScomfdEkkbPZndvVPbX0A/o.jpg",
+  "phone": "+14154411100",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 16.24363671702
+}

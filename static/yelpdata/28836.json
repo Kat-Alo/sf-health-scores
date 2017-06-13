@@ -1,0 +1,45 @@
+{
+  "name": "Grill At the St Regis",
+  "id": "grill-at-the-st-regis-san-francisco-2",
+  "display_phone": "(415) 284-4188",
+  "review_count": 20,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.40138,
+    "latitude": 37.78629
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "125 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "125 3rd St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/grill-at-the-st-regis-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K_s-qsUcOhPNHa1IqYZbMg/o.jpg",
+  "phone": "+14152844188",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 1520.6699365256
+}

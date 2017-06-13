@@ -1,0 +1,48 @@
+{
+  "name": "SF Hole in the Wall Pizza",
+  "id": "hole-in-the-wall-pizza-san-francisco-2",
+  "display_phone": "(415) 775-2583",
+  "review_count": 148,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4409186,
+    "latitude": 37.7998845
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "3244 Scott St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "3244 Scott St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hole-in-the-wall-pizza-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pHbuWW6J03K2Mt0TAx4Tlw/o.jpg",
+  "phone": "+14157752583",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 26.09986734764
+}

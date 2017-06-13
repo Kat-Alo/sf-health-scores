@@ -1,0 +1,41 @@
+{
+  "name": "Chenery Market",
+  "id": "chenery-market-san-francisco",
+  "display_phone": "(415) 285-7977",
+  "review_count": 12,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.425819396973,
+    "latitude": 37.7396774291992
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "100 Chenery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "100 Chenery St",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/chenery-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A-XzS8AlgPUBPvleZJ2aQQ/o.jpg",
+  "phone": "+14152857977",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 18.95610525738
+}

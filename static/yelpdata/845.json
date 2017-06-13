@@ -1,0 +1,37 @@
+{
+  "name": "Cafe Jacqueline",
+  "id": "cafe-jacqueline-san-francisco",
+  "display_phone": "(415) 981-5565",
+  "review_count": 576,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.40731,
+    "latitude": 37.80047
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1454 Grant Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "1454 Grant Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cafe-jacqueline-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2Oe1O4AgvVtjTdLLjMoEJQ/o.jpg",
+  "phone": "+14159815565",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    }
+  ],
+  "distance": 12.07327350802
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Bender's Bar and Grill",
+  "id": "benders-bar-and-grill-san-francisco",
+  "display_phone": "(415) 824-1800",
+  "review_count": 413,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4171804,
+    "latitude": 37.7601948
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "806 S Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "806 S Van Ness Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/benders-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F3s43Tfcll16o1T5c-kpuA/o.jpg",
+  "phone": "+14158241800",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "divebars",
+      "title": "Dive Bars"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 13.810148875
+}

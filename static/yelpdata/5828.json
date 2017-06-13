@@ -1,0 +1,36 @@
+{
+  "name": "George Washington High School",
+  "id": "george-washington-high-school-san-francisco",
+  "display_phone": "(415) 750-8400",
+  "review_count": 30,
+  "coordinates": {
+    "longitude": -122.4918993,
+    "latitude": 37.7776816
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "600 32nd Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "600 32nd Ave",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/george-washington-high-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Zgay3lRb4mMfe7cNxCJGWA/o.jpg",
+  "phone": "+14157508400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 21.56148509546
+}

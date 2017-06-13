@@ -1,0 +1,47 @@
+{
+  "name": "Grant Place Restaurant",
+  "id": "grant-place-restaurant-san-francisco-2",
+  "display_phone": "(415) 982-3705",
+  "review_count": 293,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.406143188477,
+    "latitude": 37.7950096130371
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "737 Washington St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "737 Washington St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/grant-place-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9b8Q9K5dsTX9awqy32ThGQ/o.jpg",
+  "phone": "+14159823705",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 23.33075164862
+}

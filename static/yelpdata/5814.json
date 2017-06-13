@@ -1,0 +1,36 @@
+{
+  "name": "Fairmount Elementary School",
+  "id": "fairmount-elementary-school-san-francisco-2",
+  "display_phone": "(415) 695-5669",
+  "review_count": 11,
+  "coordinates": {
+    "longitude": -122.42501,
+    "latitude": 37.74045
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "65 Chenery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "65 Chenery St",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/fairmount-elementary-school-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3ywXQsLnK_mV50iE5__wiA/o.jpg",
+  "phone": "+14156955669",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 67.41845840528
+}

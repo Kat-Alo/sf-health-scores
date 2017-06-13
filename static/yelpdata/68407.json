@@ -1,0 +1,47 @@
+{
+  "name": "Ganim's Market",
+  "id": "ganims-market-san-francisco-3",
+  "display_phone": "(415) 282-9289",
+  "review_count": 209,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.3940239,
+    "latitude": 37.7625944
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1135 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "1135 18th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ganims-market-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_aorfL1Hn3p7ZO8qZdY8gw/o.jpg",
+  "phone": "+14152829289",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    }
+  ],
+  "distance": 32.3564807629
+}

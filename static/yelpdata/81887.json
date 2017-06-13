@@ -1,0 +1,41 @@
+{
+  "name": "The Bashful Bull Too",
+  "id": "the-bashful-bull-too-san-francisco",
+  "display_phone": "(415) 759-8112",
+  "review_count": 327,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.504806518555,
+    "latitude": 37.742015838623
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3600 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "3600 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/the-bashful-bull-too-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8mzBkHJqGCYsSg8LV8NUVQ/o.jpg",
+  "phone": "+14157598112",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 6365.934272119999
+}

@@ -1,0 +1,39 @@
+{
+  "name": "La Salsa Fresh Mexican Grill",
+  "id": "la-salsa-fresh-mexican-grill-fremont-2",
+  "display_phone": "(510) 651-8292",
+  "review_count": 35,
+  "price": "$",
+  "coordinates": {
+    "longitude": -121.972680604224,
+    "latitude": 37.5058884617052
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5525 Auto Mall Pkwy",
+    "city": "Fremont",
+    "country": "US",
+    "zip_code": "94538",
+    "state": "CA",
+    "display_address": [
+      "5525 Auto Mall Pkwy",
+      "Fremont, CA 94538"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/la-salsa-fresh-mexican-grill-fremont-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d3qUJHCtXaeXmvJRrjcLEQ/o.jpg",
+  "phone": "+15106518292",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 48985.55440992
+}

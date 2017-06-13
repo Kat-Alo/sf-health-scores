@@ -1,0 +1,36 @@
+{
+  "name": "EXIT Theatre",
+  "id": "exit-theatre-san-francisco",
+  "display_phone": "(415) 673-3847",
+  "review_count": 79,
+  "coordinates": {
+    "longitude": -122.41028,
+    "latitude": 37.78436
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "156 Eddy St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "156 Eddy St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/exit-theatre-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_zt_zRxZeP2CbmjOb6vUJA/o.jpg",
+  "phone": "+14156733847",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "theater",
+      "title": "Performing Arts"
+    }
+  ],
+  "distance": 14.484138857659998
+}

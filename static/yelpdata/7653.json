@@ -1,0 +1,47 @@
+{
+  "name": "Hayes Market",
+  "id": "hayes-market-san-francisco",
+  "display_phone": "(415) 861-5267",
+  "review_count": 13,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.42778,
+    "latitude": 37.77646
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "698 Hayes St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "698 Hayes St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hayes-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5-OXmEiJjzNrn988q_FEgg/o.jpg",
+  "phone": "+14158615267",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 17.72611083548
+}

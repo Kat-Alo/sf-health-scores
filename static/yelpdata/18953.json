@@ -1,0 +1,37 @@
+{
+  "name": "Hilton San Francisco Financial District",
+  "id": "hilton-san-francisco-financial-district-san-francisco",
+  "display_phone": "(415) 433-6600",
+  "review_count": 533,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.404312133789,
+    "latitude": 37.7951431274414
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "750 Kearny St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "750 Kearny St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hilton-san-francisco-financial-district-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Lc4oOMS5a3lqUVl0u8uZcg/o.jpg",
+  "phone": "+14154336600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 34.9411371298
+}

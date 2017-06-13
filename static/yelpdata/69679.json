@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "Fifty / Fifty Coffee and Tea",
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4529495,
+    "latitude": 37.7814293
+  },
+  "review_count": 338,
+  "url": "https://www.yelp.com/biz/fifty-fifty-coffee-and-tea-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 684-8886",
+  "distance": 2709.7490776279997,
+  "id": "fifty-fifty-coffee-and-tea-san-francisco",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fb_jTjFcUra0rmVlC6i7Xw/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "3157 Geary Blvd",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "3157 Geary Blvd",
+      "San Francisco, CA 94118"
+    ],
+    "zip_code": "94118"
+  },
+  "phone": "+14156848886",
+  "rating": 4.0
+}

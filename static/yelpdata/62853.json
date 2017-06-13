@@ -1,0 +1,45 @@
+{
+  "name": "Cafe Zitouna",
+  "id": "cafe-zitouna-san-francisco",
+  "display_phone": "(415) 673-2622",
+  "review_count": 409,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.420262023807,
+    "latitude": 37.78769351542
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1201 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1201 Sutter St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cafe-zitouna-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qj6PH2XcOkpOJnEZ860h9w/o.jpg",
+  "phone": "+14156732622",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "moroccan",
+      "title": "Moroccan"
+    },
+    {
+      "alias": "african",
+      "title": "African"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    }
+  ],
+  "distance": 14.15711131362
+}

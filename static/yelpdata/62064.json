@@ -1,0 +1,41 @@
+{
+  "name": "California Produce",
+  "id": "california-produce-san-francisco",
+  "display_phone": "(415) 345-1700",
+  "review_count": 35,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4195333,
+    "latitude": 37.7857447
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "986 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "986 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/california-produce-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wyv5F6nx_T3RjCWqPvErKQ/o.jpg",
+  "phone": "+14153451700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 869.916988818
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Croatian American Cultural Center",
+  "id": "croatian-american-cultural-center-sacramento",
+  "display_phone": "(916) 489-0339",
+  "review_count": 32,
+  "coordinates": {
+    "longitude": -121.376754760742,
+    "latitude": 38.6384887695312
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3730 Auburn Blvd",
+    "city": "Sacramento",
+    "country": "US",
+    "zip_code": "95821",
+    "state": "CA",
+    "display_address": [
+      "3730 Auburn Blvd",
+      "Sacramento, CA 95821"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/croatian-american-cultural-center-sacramento?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9taWkaZBCZmzpP9r3P230w/o.jpg",
+  "phone": "+19164890339",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "culturalcenter",
+      "title": "Cultural Center"
+    }
+  ],
+  "distance": 137897.6175588
+}

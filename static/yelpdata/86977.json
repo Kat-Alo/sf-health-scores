@@ -1,0 +1,39 @@
+{
+  "name": "Chennai Kings",
+  "id": "chennai-kings-san-francisco",
+  "display_phone": "(415) 929-6983",
+  "review_count": 84,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.415976524353,
+    "latitude": 37.8073464408458
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "418 Beach St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "418 Beach St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/chennai-kings-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6vjfuVt8zu1a87Ol1FQlsg/o.jpg",
+  "phone": "+14159296983",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 5469.056493084
+}

@@ -1,0 +1,47 @@
+{
+  "name": "All Star Cafe",
+  "id": "all-star-cafe-san-francisco-3",
+  "display_phone": "(415) 863-4949",
+  "review_count": 95,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41503,
+    "latitude": 37.776229
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "98 9th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "98 9th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/all-star-cafe-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aJIIUAKpfus0b_3qq9o4IA/o.jpg",
+  "phone": "+14158634949",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 2539.6185041979998
+}

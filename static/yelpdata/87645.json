@@ -1,0 +1,45 @@
+{
+  "name": "Batter Bakery",
+  "id": "batter-bakery-san-francisco-3",
+  "display_phone": "(415) 674-1069",
+  "review_count": 112,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.420811,
+    "latitude": 37.7894973
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1517 Pine St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1517 Pine St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/batter-bakery-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9wJornxPN5Lz78DQse7O3A/o.jpg",
+  "phone": "+14156741069",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "cupcakes",
+      "title": "Cupcakes"
+    }
+  ],
+  "distance": 3464.1593894279995
+}

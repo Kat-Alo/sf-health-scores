@@ -1,0 +1,45 @@
+{
+  "name": "Archive Bar & Kitchen",
+  "id": "archive-bar-and-kitchen-san-francisco",
+  "display_phone": "(415) 987-5770",
+  "review_count": 251,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.399971494279,
+    "latitude": 37.7878885503298
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "602 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "602 Mission St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/archive-bar-and-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q6EQkRijW_GlT3OehV7DgQ/o.jpg",
+  "phone": "+14159875770",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 4391.3886771279995
+}

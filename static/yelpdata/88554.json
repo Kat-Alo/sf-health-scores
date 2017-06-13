@@ -1,0 +1,47 @@
+{
+  "name": "Liquor Express & Pupuseria",
+  "id": "liquor-express-and-pupuseria-san-francisco-2",
+  "display_phone": "(415) 666-3534",
+  "review_count": 41,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.469850676482,
+    "latitude": 37.780574627831
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "4715 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "4715 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/liquor-express-and-pupuseria-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ga5yyPkZGXTcEgCwXw4Ywg/o.jpg",
+  "phone": "+14156663534",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 3661.436309978
+}

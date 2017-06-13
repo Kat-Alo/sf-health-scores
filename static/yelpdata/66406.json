@@ -1,0 +1,41 @@
+{
+  "name": "Charley's Grilled Subs",
+  "id": "charleys-grilled-subs-san-francisco",
+  "display_phone": "(415) 536-3823",
+  "review_count": 99,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.405833,
+    "latitude": 37.784433
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "845 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "845 Market St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/charleys-grilled-subs-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dRBtKMEMeY3hdMiJgObbHA/o.jpg",
+  "phone": "+14155363823",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 152.7275247248
+}

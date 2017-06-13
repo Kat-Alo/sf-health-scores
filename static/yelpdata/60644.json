@@ -1,0 +1,42 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "360 Degrees Gourmet Burritos",
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.402844516582,
+    "latitude": 37.7896958332119
+  },
+  "review_count": 133,
+  "url": "https://www.yelp.com/biz/360-degrees-gourmet-burritos-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 398-4800",
+  "distance": 70.4257322842,
+  "id": "360-degrees-gourmet-burritos-san-francisco",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J6bA7xIwdD9xz0dMvxhk3g/o.jpg",
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "address1": "50 Post St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "Ste 59-60",
+    "address3": "Crocker Galleria",
+    "state": "CA",
+    "display_address": [
+      "50 Post St",
+      "Ste 59-60",
+      "Crocker Galleria",
+      "San Francisco, CA 94104"
+    ],
+    "zip_code": "94104"
+  },
+  "phone": "+14153984800",
+  "rating": 2.5
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Hyatt Centric Fisherman's Wharf San Francisco",
+  "id": "hyatt-centric-fishermans-wharf-san-francisco-san-francisco",
+  "display_phone": "(415) 563-1234",
+  "review_count": 280,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.41595,
+    "latitude": 37.80589
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "555 N Point St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "555 N Point St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hyatt-centric-fishermans-wharf-san-francisco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-7xCRbI3hNpsc2Kumpdlsg/o.jpg",
+  "phone": "+14155631234",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 5320.845613256
+}

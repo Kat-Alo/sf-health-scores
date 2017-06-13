@@ -1,0 +1,46 @@
+{
+  "name": "Boudin Bakery & Cafe",
+  "id": "boudin-bakery-and-cafe-san-francisco-7",
+  "display_phone": "(415) 928-1849",
+  "review_count": 2533,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41507940311,
+    "latitude": 37.8084100293993
+  },
+  "location": {
+    "address3": "Lower Level",
+    "address2": "",
+    "address1": "160 Jefferson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "160 Jefferson St",
+      "Lower Level",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/boudin-bakery-and-cafe-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rDVvWFk7tMGdphnF6tdHDw/o.jpg",
+  "phone": "+14159281849",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 2428.914741476
+}

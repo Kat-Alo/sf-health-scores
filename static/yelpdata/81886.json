@@ -1,0 +1,39 @@
+{
+  "name": "Cafe Broadway",
+  "id": "cafe-broadway-san-francisco",
+  "display_phone": "(415) 956-1668",
+  "review_count": 78,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.408210754395,
+    "latitude": 37.797981262207
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "674 Broadway St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "674 Broadway St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/cafe-broadway-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YzAxbrmK3prpqVH1dCizjw/o.jpg",
+  "phone": "+14159561668",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 4812.548931778
+}

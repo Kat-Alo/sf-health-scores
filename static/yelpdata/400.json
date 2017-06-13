@@ -1,0 +1,37 @@
+{
+  "name": "Cow Hollow Motor Inn",
+  "id": "cow-hollow-motor-inn-san-francisco",
+  "display_phone": "(415) 921-5800",
+  "review_count": 140,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4374321,
+    "latitude": 37.7997979
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2190 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2190 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cow-hollow-motor-inn-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bw0m5Bqe6jva_FtY0wNzaA/o.jpg",
+  "phone": "+14159215800",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 935.1242269379999
+}

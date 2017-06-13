@@ -1,0 +1,40 @@
+{
+  "name": "Chaiya Thai Restaurant",
+  "id": "chaiya-thai-restaurant-san-francisco-2",
+  "display_phone": "(415) 999-0345",
+  "review_count": 116,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.465126,
+    "latitude": 37.741111
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "272 Claremont Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "272 Claremont Blvd",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/chaiya-thai-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2ssTj2ZD8UXtszBa_C6BgA/o.jpg",
+  "phone": "+14159990345",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 3345.85246081
+}

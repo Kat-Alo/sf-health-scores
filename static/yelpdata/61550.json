@@ -1,0 +1,44 @@
+{
+  "name": "Barbacco",
+  "id": "barbacco-san-francisco",
+  "display_phone": "(415) 955-1919",
+  "review_count": 1376,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.399338591436,
+    "latitude": 37.7935921194034
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "220 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "220 California St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/barbacco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W-wbXYKq7555vyTMJozJWQ/o.jpg",
+  "phone": "+14159551919",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 29.219206008119997
+}

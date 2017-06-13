@@ -1,0 +1,36 @@
+{
+  "name": "Yelp",
+  "id": "yelp-san-francisco",
+  "display_phone": "(415) 908-3801",
+  "review_count": 7426,
+  "coordinates": {
+    "longitude": -122.399958372115,
+    "latitude": 37.7867703362929
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "140 New Montgomery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "140 New Montgomery St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/yelp-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nQK-6_vZMt5n88zsAS94ew/o.jpg",
+  "phone": "+14159083801",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "massmedia",
+      "title": "Mass Media"
+    }
+  ],
+  "distance": 4308.426556392
+}

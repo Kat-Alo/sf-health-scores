@@ -1,0 +1,40 @@
+{
+  "name": "Eli's Hot Dogs",
+  "id": "elis-hot-dogs-san-francisco",
+  "display_phone": "",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.4037948,
+    "latitude": 37.7470596
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "Bayshore & Jerrold",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "Bayshore & Jerrold",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/elis-hot-dogs-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodstands",
+      "title": "Food Stands"
+    },
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    }
+  ],
+  "distance": 3257.2454190899994
+}

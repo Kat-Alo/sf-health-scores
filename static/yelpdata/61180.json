@@ -1,0 +1,42 @@
+{
+  "name": "Burger Bar",
+  "id": "burger-bar-san-francisco",
+  "display_phone": "(415) 296-4272",
+  "review_count": 2046,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.407428324222,
+    "latitude": 37.7872902008062
+  },
+  "location": {
+    "address3": "",
+    "address2": "Fl 6",
+    "address1": "251 Geary St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "251 Geary St",
+      "Fl 6",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/burger-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lCi1-iTjwn6PpFdMcado1w/o.jpg",
+  "phone": "+14152964272",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 14.861239406459998
+}

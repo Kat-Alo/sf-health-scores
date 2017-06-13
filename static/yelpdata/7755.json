@@ -1,0 +1,41 @@
+{
+  "name": "Arizmendi Bakery",
+  "id": "arizmendi-bakery-san-francisco",
+  "display_phone": "(415) 566-3117",
+  "review_count": 1671,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4664991,
+    "latitude": 37.7633882
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1331 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1331 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/arizmendi-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V9ptLqWyx9eaeiNzlIiZDw/o.jpg",
+  "phone": "+14155663117",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 14.845751118299999
+}

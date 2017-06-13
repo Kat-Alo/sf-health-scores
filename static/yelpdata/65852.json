@@ -1,0 +1,47 @@
+{
+  "name": "Al's Super Cafe",
+  "id": "als-super-cafe-san-francisco",
+  "display_phone": "(415) 641-8445",
+  "review_count": 134,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.420779690146,
+    "latitude": 37.7443758398294
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "3286 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3286 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/als-super-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cD5Fo_EW1_bi2VfDUw6h2g/o.jpg",
+  "phone": "+14156418445",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 11.412032716839999
+}

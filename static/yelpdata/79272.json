@@ -1,0 +1,43 @@
+{
+  "name": "Dim Sum Club",
+  "id": "dim-sum-club-san-francisco",
+  "display_phone": "(415) 529-2615",
+  "review_count": 240,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.423847828202,
+    "latitude": 37.7991100252967
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2550 Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2550 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dim-sum-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FUHPYL8YH9qS61hXpQeWpA/o.jpg",
+  "phone": "+14155292615",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 4390.797083744
+}

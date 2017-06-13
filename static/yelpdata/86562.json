@@ -1,0 +1,42 @@
+{
+  "name": "Happy Dumplings",
+  "id": "happy-dumplings-san-francisco-3",
+  "display_phone": "",
+  "review_count": 27,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.431797198951,
+    "latitude": 37.8063051361268
+  },
+  "location": {
+    "address3": "Fort Mason Center",
+    "address2": null,
+    "address1": "2 Marina Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2 Marina Blvd",
+      "Fort Mason Center",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/happy-dumplings-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kS39Mvj77LZvmSPb-bgHTg/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 5065.43305548
+}

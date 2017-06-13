@@ -1,0 +1,37 @@
+{
+  "name": "Coffee to the People",
+  "id": "coffee-to-the-people-san-francisco",
+  "display_phone": "(415) 626-2435",
+  "review_count": 453,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4451237,
+    "latitude": 37.7700381
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1206 Masonic Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1206 Masonic Ave",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/coffee-to-the-people-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nDsdylxbqYVZcVRtNbJivQ/o.jpg",
+  "phone": "+14156262435",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 13.42889783834
+}

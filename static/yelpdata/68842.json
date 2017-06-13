@@ -1,0 +1,45 @@
+{
+  "name": "All Good Pizza",
+  "id": "all-good-pizza-san-francisco",
+  "display_phone": "(415) 933-9384",
+  "review_count": 172,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.3897508,
+    "latitude": 37.7390445
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1605 Jerrold Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "1605 Jerrold Ave",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/all-good-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DDhR9iL2dFHe98CY_d28jQ/o.jpg",
+  "phone": "+14159339384",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 5.754158637982
+}

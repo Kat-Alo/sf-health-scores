@@ -1,0 +1,37 @@
+{
+  "name": "Safeway",
+  "id": "safeway-san-jose-14",
+  "display_phone": "(408) 268-3511",
+  "review_count": 60,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -121.861236572266,
+    "latitude": 37.2196998596191
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "6477 Almaden Expy",
+    "city": "San Jose",
+    "country": "US",
+    "zip_code": "95120",
+    "state": "CA",
+    "display_address": [
+      "6477 Almaden Expy",
+      "San Jose, CA 95120"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/safeway-san-jose-14?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gYtddmKD017pWki6f2pO3g/o.jpg",
+  "phone": "+14082683511",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 78647.962998
+}

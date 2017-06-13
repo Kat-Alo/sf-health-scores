@@ -1,0 +1,48 @@
+{
+  "name": "RAW Sugar Factory",
+  "id": "raw-sugar-factory-san-francisco",
+  "display_phone": "(415) 872-9608",
+  "review_count": 81,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42157,
+    "latitude": 37.76444
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "525 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "525 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/raw-sugar-factory-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/meWMWqQANIkkCh0bIjVaQg/o.jpg",
+  "phone": "+14158729608",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 1361.7508784857998
+}

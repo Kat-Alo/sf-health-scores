@@ -1,0 +1,39 @@
+{
+  "name": "MacIron Craftworks LLC",
+  "id": "maciron-craftworks-llc-san-francisco",
+  "display_phone": "(415) 839-8493",
+  "review_count": 12,
+  "coordinates": {
+    "longitude": -122.44303894043,
+    "latitude": 37.7684898376465
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/maciron-craftworks-llc-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xH9VyBGUGtVIESPyfui60A/o.jpg",
+  "phone": "+14158398493",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "contractors",
+      "title": "Contractors"
+    },
+    {
+      "alias": "flooring",
+      "title": "Flooring"
+    }
+  ],
+  "distance": 3096.064546334
+}

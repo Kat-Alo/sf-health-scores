@@ -1,0 +1,41 @@
+{
+  "name": "Bar None",
+  "id": "bar-none-san-francisco",
+  "display_phone": "(415) 409-4469",
+  "review_count": 625,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43191,
+    "latitude": 37.7977599
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1980 Union St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1980 Union St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/bar-none-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HTCmh0S7oiTlktcz-cOkhg/o.jpg",
+  "phone": "+14154094469",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 2398.11213481
+}

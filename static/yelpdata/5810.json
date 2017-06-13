@@ -1,0 +1,36 @@
+{
+  "name": "James Denman Middle School",
+  "id": "james-denman-middle-school-san-francisco",
+  "display_phone": "(415) 469-4535",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.4429018,
+    "latitude": 37.7217395
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "241 Oneida Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "241 Oneida Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/james-denman-middle-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yacp51OFMrE2UnwLIy9zyQ/o.jpg",
+  "phone": "+14154694535",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 17.605188246559997
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Gaspare's Pizza House & Italian Restaurant",
+  "id": "gaspares-pizza-house-and-italian-restaurant-san-francisco",
+  "display_phone": "(415) 387-5025",
+  "review_count": 814,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.47915,
+    "latitude": 37.7806
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5546 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "5546 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/gaspares-pizza-house-and-italian-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fnLmUGP1ORiEZFJJD-XKYg/o.jpg",
+  "phone": "+14153875025",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 30.902794518359997
+}

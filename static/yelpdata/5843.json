@@ -1,0 +1,36 @@
+{
+  "name": "Herbert Hoover Middle School",
+  "id": "herbert-hoover-middle-school-san-francisco",
+  "display_phone": "(415) 759-2783",
+  "review_count": 13,
+  "coordinates": {
+    "longitude": -122.470206,
+    "latitude": 37.7454015
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2290 14th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "2290 14th Ave",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/herbert-hoover-middle-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6VIHpjJVLowOMHJWXmE7rA/o.jpg",
+  "phone": "+14157592783",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 57.0971703575
+}

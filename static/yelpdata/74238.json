@@ -1,0 +1,37 @@
+{
+  "name": "Bangkok 900",
+  "id": "bangkok-900-san-francisco",
+  "display_phone": "(415) 665-5333",
+  "review_count": 169,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4527631,
+    "latitude": 37.7662642
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "900 Stanyan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "900 Stanyan St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bangkok-900-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OCs1fYMVRheaSD8f1xkm9Q/o.jpg",
+  "phone": "+14156655333",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 1548.6888999804
+}

@@ -1,0 +1,39 @@
+{
+  "name": "El Tepa Taqueria",
+  "id": "el-tepa-taqueria-san-francisco",
+  "display_phone": "(415) 255-8372",
+  "review_count": 108,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.415145,
+    "latitude": 37.7622168
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2198 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2198 Folsom St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/el-tepa-taqueria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1ss46JlNVkiZhcdyCmQ4Xg/o.jpg",
+  "phone": "+14152558372",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 10.060049357336
+}

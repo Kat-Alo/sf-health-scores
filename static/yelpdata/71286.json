@@ -1,0 +1,40 @@
+{
+  "is_closed": false,
+  "price": "$",
+  "name": "21 Taste House",
+  "categories": [
+    {
+      "alias": "ramen",
+      "title": "Ramen"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.45450592041,
+    "latitude": 37.7234497070312
+  },
+  "review_count": 125,
+  "url": "https://www.yelp.com/biz/21-taste-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 205-7984",
+  "distance": 24.86037781974,
+  "id": "21-taste-house-san-francisco",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M1ZrDU0BgYG-aY9Z9cqo7A/o.jpg",
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "address1": "1109 Ocean Ave",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "1109 Ocean Ave",
+      "San Francisco, CA 94112"
+    ],
+    "zip_code": "94112"
+  },
+  "phone": "+14152057984",
+  "rating": 3.5
+}

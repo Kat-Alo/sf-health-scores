@@ -1,0 +1,38 @@
+{
+  "name": "IT'SUGAR",
+  "id": "itsugar-san-francisco",
+  "display_phone": "(415) 775-1057",
+  "review_count": 55,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.418099492788,
+    "latitude": 37.8078757971525
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste B-101",
+    "address1": "333 Jefferson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "333 Jefferson St",
+      "Ste B-101",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/itsugar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RrG7BaP2XJlT3W73qlzUYg/o.jpg",
+  "phone": "+14157751057",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "candy",
+      "title": "Candy Stores"
+    }
+  ],
+  "distance": 83.5768403358
+}

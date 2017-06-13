@@ -1,0 +1,47 @@
+{
+  "name": "El Nuevo Frutilandia",
+  "id": "el-nuevo-frutilandia-san-francisco",
+  "display_phone": "(415) 648-2958",
+  "review_count": 290,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4134542,
+    "latitude": 37.7524332
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3077 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3077 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/el-nuevo-frutilandia-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c4KnBuHsg8lqTtEdwdTjAQ/o.jpg",
+  "phone": "+14156482958",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cuban",
+      "title": "Cuban"
+    },
+    {
+      "alias": "puertorican",
+      "title": "Puerto Rican"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 2229.934334536
+}

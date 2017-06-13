@@ -1,0 +1,39 @@
+{
+  "name": "Guesthop",
+  "id": "guesthop-san-francisco",
+  "display_phone": "(415) 967-1917",
+  "review_count": 27,
+  "coordinates": {
+    "longitude": -122.4194155,
+    "latitude": 37.7749295
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94140",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94140"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/guesthop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kwHbFRPdw6ooROaYSp5uaA/o.jpg",
+  "phone": "+14159671917",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vacation_rentals",
+      "title": "Vacation Rentals"
+    },
+    {
+      "alias": "propertymgmt",
+      "title": "Property Management"
+    }
+  ],
+  "distance": 2162.04207356
+}

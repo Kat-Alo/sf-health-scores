@@ -1,0 +1,39 @@
+{
+  "name": "Firewood Cafe",
+  "id": "firewood-cafe-san-francisco-2",
+  "display_phone": "(415) 252-0999",
+  "review_count": 258,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43692779541,
+    "latitude": 37.7609634399414
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4248 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "4248 18th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/firewood-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZeUJolLleit9BPPLkXie8g/o.jpg",
+  "phone": "+14152520999",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 20.115893831119998
+}

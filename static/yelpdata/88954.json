@@ -1,0 +1,47 @@
+{
+  "name": "Revelry Bistro",
+  "id": "revelry-bistro-san-francisco",
+  "display_phone": "(415) 241-6833",
+  "review_count": 95,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.42549,
+    "latitude": 37.77351
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "297 Page St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "297 Page St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/revelry-bistro-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/65dgW_zi23gxR9zFq5iyaA/o.jpg",
+  "phone": "+14152416833",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 1700.16551691
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Garaje",
+  "id": "garaje-san-francisco",
+  "display_phone": "(415) 644-0838",
+  "review_count": 1155,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.396121970462,
+    "latitude": 37.781752952057
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "475 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "475 3rd St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/garaje-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_nN_DhLXkfwEkwPNxne9hw/o.jpg",
+  "phone": "+14156440838",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    }
+  ],
+  "distance": 20.634534223579998
+}

@@ -1,0 +1,40 @@
+{
+  "name": "FITNESS SF - Mid-Market",
+  "id": "fitness-sf-mid-market-san-francisco",
+  "display_phone": "(415) 348-6377",
+  "review_count": 121,
+  "coordinates": {
+    "longitude": -122.416924273541,
+    "latitude": 37.7760720917643
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "One Tenth St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "One Tenth St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/fitness-sf-mid-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ANGP2f33H_BoxTEHrMiv2A/o.jpg",
+  "phone": "+14153486377",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "healthtrainers",
+      "title": "Trainers"
+    }
+  ],
+  "distance": 2406.6990902479997
+}

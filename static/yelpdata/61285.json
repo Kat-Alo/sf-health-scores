@@ -1,0 +1,47 @@
+{
+  "name": "Cocola Bakery",
+  "id": "cocola-bakery-san-francisco-3",
+  "display_phone": "(415) 242-6238",
+  "review_count": 166,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.476569669975,
+    "latitude": 37.7278045077241
+  },
+  "location": {
+    "address3": "Stonestown Galleria",
+    "address2": "Ste 186",
+    "address1": "3251 20th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Ste 186",
+      "Stonestown Galleria",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cocola-bakery-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-NqSU8786TOJWolsYkfIKQ/o.jpg",
+  "phone": "+14152426238",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 112.2294653222
+}

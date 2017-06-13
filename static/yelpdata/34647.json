@@ -1,0 +1,47 @@
+{
+  "is_closed": false,
+  "price": "$$$",
+  "name": "1300 on Fillmore",
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "southern",
+      "title": "Southern"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4321738,
+    "latitude": 37.7815771
+  },
+  "review_count": 1292,
+  "url": "https://www.yelp.com/biz/1300-on-fillmore-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 771-7100",
+  "distance": 13.183600626199999,
+  "id": "1300-on-fillmore-san-francisco",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g59iWWw05swHVr7zg3-Ixg/o.jpg",
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "address1": "1300 Fillmore St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "1300 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "zip_code": "94115"
+  },
+  "phone": "+14157717100",
+  "rating": 3.5
+}

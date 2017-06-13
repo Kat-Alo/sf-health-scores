@@ -1,0 +1,48 @@
+{
+  "name": "Baan Restaurant & Wine Bar",
+  "id": "baan-restaurant-and-wine-bar-san-francisco-4",
+  "display_phone": "(415) 379-4505",
+  "review_count": 388,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4636813,
+    "latitude": 37.7642858
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "534 Irving St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "534 Irving St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/baan-restaurant-and-wine-bar-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XISmOntjHKYw5sv7LScXSw/o.jpg",
+  "phone": "+14153794505",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 11.028537616484
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Curry Express",
+  "id": "curry-express-san-francisco",
+  "display_phone": "(415) 742-0045",
+  "review_count": 62,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47688,
+    "latitude": 37.72856
+  },
+  "location": {
+    "address3": "Stonestown Galleria Mall",
+    "address2": "Ste 250C",
+    "address1": "3251 20th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Ste 250C",
+      "Stonestown Galleria Mall",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/curry-express-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GqqAkWYobV7CjnG_FEN4lw/o.jpg",
+  "phone": "+14157420045",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "pakistani",
+      "title": "Pakistani"
+    },
+    {
+      "alias": "halal",
+      "title": "Halal"
+    }
+  ],
+  "distance": 5123.722223741999
+}

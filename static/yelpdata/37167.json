@@ -1,0 +1,41 @@
+{
+  "name": "InterContinental Mark Hopkins San Francisco",
+  "id": "intercontinental-mark-hopkins-san-francisco-san-francisco-4",
+  "display_phone": "(415) 392-3434",
+  "review_count": 464,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.41039880843,
+    "latitude": 37.7915596657585
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "999 California St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "999 California St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/intercontinental-mark-hopkins-san-francisco-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7kvTHedsehstqb2Ls2m1UQ/o.jpg",
+  "phone": "+14153923434",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 1206.1651820144
+}

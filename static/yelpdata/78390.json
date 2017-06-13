@@ -1,0 +1,47 @@
+{
+  "name": "Cadillac Bar & Grill",
+  "id": "cadillac-bar-and-grill-san-francisco",
+  "display_phone": "(415) 554-0181",
+  "review_count": 185,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.415571,
+    "latitude": 37.776948
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "44 9th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "44 9th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cadillac-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jzrNmDEVBzDFMGYgbRhQPg/o.jpg",
+  "phone": "+14155540181",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "tex-mex",
+      "title": "Tex-Mex"
+    }
+  ],
+  "distance": 2559.4706787019995
+}

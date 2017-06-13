@@ -1,0 +1,43 @@
+{
+  "name": "R Image Market",
+  "id": "r-image-market-san-francisco-2",
+  "display_phone": "(415) 648-5400",
+  "review_count": 103,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41424,
+    "latitude": 37.75101
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2898 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2898 Folsom St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/r-image-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZWLK-xaTmpoaIU-40VpNsw/o.jpg",
+  "phone": "+14156485400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 287.5705184032
+}

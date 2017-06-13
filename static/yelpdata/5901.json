@@ -1,0 +1,36 @@
+{
+  "name": "Garfield Elementary School",
+  "id": "garfield-elementary-school-san-francisco",
+  "display_phone": "(415) 291-7924",
+  "review_count": 5,
+  "coordinates": {
+    "longitude": -122.4066979,
+    "latitude": 37.8018428
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "420 Filbert St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "420 Filbert St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/garfield-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kPMVw7D1LNWqZ8arL8KxFQ/o.jpg",
+  "phone": "+14152917924",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 27.62190065264
+}

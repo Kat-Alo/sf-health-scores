@@ -1,0 +1,36 @@
+{
+  "name": "San Francisco City Glass",
+  "id": "san-francisco-city-glass-san-francisco-2",
+  "display_phone": "(415) 336-4454",
+  "review_count": 51,
+  "coordinates": {
+    "longitude": -122.3871544,
+    "latitude": 37.7482338
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3255 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "3255 3rd St",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/san-francisco-city-glass-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZQ3nyvP-aN0LBrO5fPpmLA/o.jpg",
+  "phone": "+14153364454",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "autoglass",
+      "title": "Auto Glass Services"
+    }
+  ],
+  "distance": 6352.83424452
+}

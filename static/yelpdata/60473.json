@@ -1,0 +1,37 @@
+{
+  "name": "Dong Baek Restaurant",
+  "id": "dong-baek-restaurant-san-francisco",
+  "display_phone": "(415) 776-1898",
+  "review_count": 221,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41512,
+    "latitude": 37.78523
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "631 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "631 O'Farrell St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/dong-baek-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lX0_CoklQs82yX-NgfLDbw/o.jpg",
+  "phone": "+14157761898",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    }
+  ],
+  "distance": 27.579494543639996
+}

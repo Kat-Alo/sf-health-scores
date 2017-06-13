@@ -1,0 +1,37 @@
+{
+  "name": "Sun Fat Seafood Company",
+  "id": "sun-fat-seafood-company-san-francisco",
+  "display_phone": "(415) 282-9339",
+  "review_count": 294,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.418266296387,
+    "latitude": 37.7541160583496
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2687 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2687 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/sun-fat-seafood-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2PfWly-dRhHEf9jX6nZbFA/o.jpg",
+  "phone": "+14152829339",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    }
+  ],
+  "distance": 972.1048162762
+}

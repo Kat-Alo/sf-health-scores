@@ -1,0 +1,41 @@
+{
+  "name": "Faye's Video & Espresso Bar",
+  "id": "fayes-video-and-espresso-bar-san-francisco",
+  "display_phone": "(415) 522-0434",
+  "review_count": 150,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4242662,
+    "latitude": 37.7616598
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3614 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3614 18th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/fayes-video-and-espresso-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GpWCmcTaNdzLA-FdC-dKGQ/o.jpg",
+  "phone": "+14155220434",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "videoandgames",
+      "title": "Videos & Video Game Rental"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 1074.4279570416
+}

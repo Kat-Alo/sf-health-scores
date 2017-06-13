@@ -1,0 +1,37 @@
+{
+  "name": "Alpha Market",
+  "id": "alpha-market-san-francisco",
+  "display_phone": "(415) 564-8910",
+  "review_count": 49,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.44951,
+    "latitude": 37.76505
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "960 Cole St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "960 Cole St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/alpha-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S1VYOmPCPV1o4NpQnJ6yAw/o.jpg",
+  "phone": "+14155648910",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 24.212101871599998
+}

@@ -1,0 +1,37 @@
+{
+  "name": "El Burrito Express",
+  "id": "el-burrito-express-san-francisco",
+  "display_phone": "(415) 566-8300",
+  "review_count": 741,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.483301,
+    "latitude": 37.742587
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1601 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "1601 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/el-burrito-express-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gxLv13cu1O9NWPKy66vLtg/o.jpg",
+  "phone": "+14155668300",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 9.91635718236
+}

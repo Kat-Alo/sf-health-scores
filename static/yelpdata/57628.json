@@ -1,0 +1,41 @@
+{
+  "name": "Cafe Enchante",
+  "id": "cafe-enchante-san-francisco",
+  "display_phone": "(415) 500-3345",
+  "review_count": 250,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.485452,
+    "latitude": 37.7798551
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "6157 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "6157 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cafe-enchante-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MEKWMowXAK9z1dAe4r3lUg/o.jpg",
+  "phone": "+14155003345",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    }
+  ],
+  "distance": 27.11054413302
+}

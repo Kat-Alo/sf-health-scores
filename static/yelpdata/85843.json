@@ -1,0 +1,39 @@
+{
+  "name": "House Of Xian Dumpling",
+  "id": "house-of-xian-dumpling-san-francisco",
+  "display_phone": "(415) 398-1626",
+  "review_count": 339,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.405240312219,
+    "latitude": 37.7964294701815
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "925 Kearny St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "925 Kearny St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/house-of-xian-dumpling-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/E8FTb7d0wAoInMwKEjXIMQ/o.jpg",
+  "phone": "+14153981626",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 4811.4320498179995
+}

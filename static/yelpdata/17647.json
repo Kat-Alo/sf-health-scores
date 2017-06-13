@@ -1,0 +1,43 @@
+{
+  "name": "Enjoy Vegetarian Restaurant",
+  "id": "enjoy-vegetarian-restaurant-san-francisco-3",
+  "display_phone": "(415) 682-0826",
+  "review_count": 457,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.469100952148,
+    "latitude": 37.760425567627
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "754 Kirkham St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "754 Kirkham St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/enjoy-vegetarian-restaurant-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o8j7ixcSo29PxNM2rFnGBw/o.jpg",
+  "phone": "+14156820826",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.308186244839998
+}

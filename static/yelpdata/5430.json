@@ -1,0 +1,41 @@
+{
+  "name": "Annie's Hot Dogs & Pretzels",
+  "id": "annies-hot-dogs-and-pretzels-san-francisco-2",
+  "display_phone": "(415) 861-0778",
+  "review_count": 28,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40743632592,
+    "latitude": 37.7846047206579
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "899 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "899 Market St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/annies-hot-dogs-and-pretzels-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hC3paHbpo5DsSLc6H1_log/o.jpg",
+  "phone": "+14158610778",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodstands",
+      "title": "Food Stands"
+    },
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    }
+  ],
+  "distance": 1144.662065212
+}

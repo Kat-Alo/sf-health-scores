@@ -1,0 +1,39 @@
+{
+  "name": "Goat Hill Pizza",
+  "id": "goat-hill-pizza-san-francisco",
+  "display_phone": "(415) 641-1440",
+  "review_count": 1138,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.397658,
+    "latitude": 37.762471
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "300 Connecticut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "300 Connecticut St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/goat-hill-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8BhYHvMpJZvhl34au3471A/o.jpg",
+  "phone": "+14156411440",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 3414.186002814
+}

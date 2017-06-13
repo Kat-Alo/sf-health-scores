@@ -1,0 +1,48 @@
+{
+  "name": "Cafe Taboo",
+  "id": "cafe-taboo-san-francisco",
+  "display_phone": "(415) 341-1188",
+  "review_count": 99,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4095255,
+    "latitude": 37.7615256
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "600 York St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "600 York St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cafe-taboo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wXkHY7z3Tal7pY62VNH6pw/o.jpg",
+  "phone": "+14153411188",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 33.185929770879994
+}

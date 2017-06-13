@@ -1,0 +1,41 @@
+{
+  "name": "Castro Country Club",
+  "id": "castro-country-club-san-francisco",
+  "display_phone": "(415) 552-6102",
+  "review_count": 22,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43414,
+    "latitude": 37.7611599
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4058 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "4058 18th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/castro-country-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z6vc_oIk2PtqmMPomRK97A/o.jpg",
+  "phone": "+14155526102",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "internetcafe",
+      "title": "Internet Cafes"
+    }
+  ],
+  "distance": 208.34588060299998
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Fillmore Street Cafe",
+  "id": "fillmore-street-cafe-san-francisco",
+  "display_phone": "(415) 749-0987",
+  "review_count": 137,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43325,
+    "latitude": 37.78181
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1301 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1301 Fillmore St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/fillmore-street-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C6Ue7mmrzYKUZOK45FQzzQ/o.jpg",
+  "phone": "+14157490987",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 36.269438085599994
+}

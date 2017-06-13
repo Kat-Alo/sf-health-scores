@@ -1,0 +1,37 @@
+{
+  "name": "Doobu",
+  "id": "doobu-san-francisco",
+  "display_phone": "(415) 292-6002",
+  "review_count": 420,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43013,
+    "latitude": 37.78599
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1723 Buchanan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1723 Buchanan St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/doobu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YE99zNjpjVcD1idN2-eesA/o.jpg",
+  "phone": "+14152926002",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    }
+  ],
+  "distance": 21.7915338111
+}

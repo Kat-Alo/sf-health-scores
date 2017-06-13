@@ -1,0 +1,41 @@
+{
+  "name": "Hooker's Sweet Treats",
+  "id": "hookers-sweet-treats-san-francisco",
+  "display_phone": "(415) 441-4628",
+  "review_count": 267,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4160527,
+    "latitude": 37.7852285
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "442 Hyde St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "442 Hyde St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/hookers-sweet-treats-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/izW5V7ghPnQSf6HCIxvS4Q/o.jpg",
+  "phone": "+14154414628",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chocolate",
+      "title": "Chocolatiers & Shops"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 27.228531285779997
+}

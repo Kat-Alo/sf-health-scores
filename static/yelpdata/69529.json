@@ -1,0 +1,45 @@
+{
+  "name": "The Spot Lounge",
+  "id": "the-spot-lounge-san-francisco",
+  "display_phone": "(415) 564-4464",
+  "review_count": 517,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.491218566895,
+    "latitude": 37.7421188354492
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2325 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "2325 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/the-spot-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/elz5SJM9DgtiAvPLgUqCNQ/o.jpg",
+  "phone": "+14155644464",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    },
+    {
+      "alias": "korean",
+      "title": "Korean"
+    }
+  ],
+  "distance": 5242.327041194
+}

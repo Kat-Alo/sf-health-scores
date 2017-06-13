@@ -1,0 +1,47 @@
+{
+  "name": "Bissap Baobab",
+  "id": "bissap-baobab-san-francisco-3",
+  "display_phone": "(415) 826-9287",
+  "review_count": 828,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.418731689453,
+    "latitude": 37.7604331970215
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3372 19th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3372 19th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bissap-baobab-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Yk84I03YRN2gUNVdwD4Bdg/o.jpg",
+  "phone": "+14158269287",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "senegalese",
+      "title": "Senegalese"
+    },
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 19.507426517219997
+}

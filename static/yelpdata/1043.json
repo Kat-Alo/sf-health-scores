@@ -1,0 +1,45 @@
+{
+  "name": "Central Coffee Tea & Spice",
+  "id": "central-coffee-tea-and-spice-san-francisco",
+  "display_phone": "(415) 922-2008",
+  "review_count": 274,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.444210797548,
+    "latitude": 37.7742194384336
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1696 Hayes St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "1696 Hayes St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/central-coffee-tea-and-spice-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gz_dMkKHcgZoFCRjz1t-Fg/o.jpg",
+  "phone": "+14159222008",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 9.33129771876
+}

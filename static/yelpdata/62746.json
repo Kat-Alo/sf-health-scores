@@ -1,0 +1,43 @@
+{
+  "name": "Green Bamboo",
+  "id": "green-bamboo-san-francisco",
+  "display_phone": "(415) 564-8818",
+  "review_count": 140,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47712,
+    "latitude": 37.75446
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1240 Noriega St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1240 Noriega St",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/green-bamboo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E-5iD6PEavZf6EQXq2PxEQ/o.jpg",
+  "phone": "+14155648818",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.20280827098
+}

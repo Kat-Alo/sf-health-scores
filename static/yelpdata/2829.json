@@ -1,0 +1,44 @@
+{
+  "name": "Eagle Pizzeria",
+  "id": "eagle-pizzeria-san-francisco",
+  "display_phone": "(415) 566-3113",
+  "review_count": 192,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.484558105469,
+    "latitude": 37.7428741455078
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1712 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "1712 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/eagle-pizzeria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yJZCN3Xw1GBCRxdhIEUrmg/o.jpg",
+  "phone": "+14155663113",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 21.79869054608
+}

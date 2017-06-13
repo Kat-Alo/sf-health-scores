@@ -1,0 +1,38 @@
+{
+  "name": "Bravado, Italian Coffee Bar and Lounge",
+  "id": "bravado-italian-coffee-bar-and-lounge-san-francisco",
+  "display_phone": "(415) 957-1100",
+  "review_count": 227,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.391337761795,
+    "latitude": 37.7787871621352
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 109",
+    "address1": "170 King St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "170 King St",
+      "Ste 109",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bravado-italian-coffee-bar-and-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-OQXfpYq2r5Xe1PQyB_qHw/o.jpg",
+  "phone": "+14159571100",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 4436.129616599999
+}

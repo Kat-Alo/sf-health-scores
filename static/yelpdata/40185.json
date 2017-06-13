@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$$$",
+  "name": "5A5 Steak Lounge",
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4000609,
+    "latitude": 37.7969972
+  },
+  "review_count": 1795,
+  "url": "https://www.yelp.com/biz/5a5-steak-lounge-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 989-2539",
+  "distance": 25.529942117399997,
+  "id": "5a5-steak-lounge-san-francisco-4",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B9QKEJ1eQtrYYM-e3_QVOg/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "244 Jackson St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "244 Jackson St",
+      "San Francisco, CA 94111"
+    ],
+    "zip_code": "94111"
+  },
+  "phone": "+14159892539",
+  "rating": 4.0
+}

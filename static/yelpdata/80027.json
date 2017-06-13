@@ -1,0 +1,41 @@
+{
+  "name": "Edible Arrangements",
+  "id": "edible-arrangements-san-francisco-4",
+  "display_phone": "(415) 731-3120",
+  "review_count": 67,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.46951,
+    "latitude": 37.73784
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "312 W Portal Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "312 W Portal Ave",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/edible-arrangements-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KnkloQdyDaBI0V441eO55A/o.jpg",
+  "phone": "+14157313120",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "giftshops",
+      "title": "Gift Shops"
+    },
+    {
+      "alias": "chocolate",
+      "title": "Chocolatiers & Shops"
+    }
+  ],
+  "distance": 3879.25613376
+}

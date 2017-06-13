@@ -1,0 +1,36 @@
+{
+  "name": "Bently Reserve",
+  "id": "bently-reserve-san-francisco",
+  "display_phone": "(415) 294-2226",
+  "review_count": 77,
+  "coordinates": {
+    "longitude": -122.400408983231,
+    "latitude": 37.7943342428751
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "301 Battery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "301 Battery St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/bently-reserve-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cPuzwVEVI-iuK8g0FZRFVQ/o.jpg",
+  "phone": "+14152942226",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 4884.291055902
+}

@@ -1,0 +1,41 @@
+{
+  "name": "El Gallo Giro Taco Truck",
+  "id": "el-gallo-giro-taco-truck-san-francisco-2",
+  "display_phone": "(415) 240-1224",
+  "review_count": 132,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41312,
+    "latitude": 37.75417
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "23rd St & Treat Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "23rd St & Treat Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/el-gallo-giro-taco-truck-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/glTU9IYPYpHn61B4BqfaiQ/o.jpg",
+  "phone": "+14152401224",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 12.66597894596
+}

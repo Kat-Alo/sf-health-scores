@@ -1,0 +1,45 @@
+{
+  "name": "CREAM",
+  "id": "cream-san-francisco-4",
+  "display_phone": "(415) 400-4551",
+  "review_count": 484,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4220293,
+    "latitude": 37.7649287
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3106 16th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "3106 16th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cream-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1tAVBb1h4SmMhT4aZxFxEw/o.jpg",
+  "phone": "+14154004551",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 1344.371181304
+}

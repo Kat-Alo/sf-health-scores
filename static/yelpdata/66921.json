@@ -1,0 +1,45 @@
+{
+  "name": "ThirstyBear Brewery",
+  "id": "thirstybear-brewery-san-francisco",
+  "display_phone": "(415) 974-0905",
+  "review_count": 1701,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39953,
+    "latitude": 37.78539
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "661 Howard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "661 Howard St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/thirstybear-brewery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YotHpkRqjlv-TStDMuadtQ/o.jpg",
+  "phone": "+14159740905",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "spanish",
+      "title": "Spanish"
+    },
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 235.69836808359997
+}

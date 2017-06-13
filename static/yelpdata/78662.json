@@ -1,0 +1,45 @@
+{
+  "name": "Homeskillet",
+  "id": "homeskillet-san-francisco",
+  "display_phone": "(415) 552-5509",
+  "review_count": 280,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41028,
+    "latitude": 37.78197
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1001 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1001 Market St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/homeskillet-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6AdKL35wgfqQe88VxtATug/o.jpg",
+  "phone": "+14155525509",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 3285.127395524
+}

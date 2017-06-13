@@ -1,0 +1,41 @@
+{
+  "name": "Bar Tartine",
+  "id": "bar-tartine-san-francisco",
+  "display_phone": "(415) 487-1600",
+  "review_count": 1447,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.4215,
+    "latitude": 37.76401
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "561 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "561 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bar-tartine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iUoae9Nc_PiSauKaI-RrlA/o.jpg",
+  "phone": "+14154871600",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 13.945773589489999
+}

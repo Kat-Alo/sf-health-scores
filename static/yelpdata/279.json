@@ -1,0 +1,41 @@
+{
+  "name": "Inga Donut",
+  "id": "inga-donut-san-francisco",
+  "display_phone": "(415) 771-9611",
+  "review_count": 31,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.417229115963,
+    "latitude": 37.7904642373323
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1026 Hyde St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1026 Hyde St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/inga-donut-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/V6uD3CP2eKr1xZFcrRthmQ/o.jpg",
+  "phone": "+14157719611",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 9.388823094257999
+}

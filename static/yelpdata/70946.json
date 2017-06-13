@@ -1,0 +1,37 @@
+{
+  "name": "Amawele's South African Kitchen",
+  "id": "amaweles-south-african-kitchen-san-francisco-2",
+  "display_phone": "(415) 730-4871",
+  "review_count": 183,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.3929328,
+    "latitude": 37.7922835
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "101 Spear St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "101 Spear St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/amaweles-south-african-kitchen-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8NEgS3jeAP3nE8gN0dXisg/o.jpg",
+  "phone": "+14157304871",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "southafrican",
+      "title": "South African"
+    }
+  ],
+  "distance": 5177.51553978
+}

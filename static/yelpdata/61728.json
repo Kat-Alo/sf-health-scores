@@ -1,0 +1,37 @@
+{
+  "name": "Emma's Coffee House",
+  "id": "emmas-coffee-house-san-francisco-2",
+  "display_phone": "(415) 933-6632",
+  "review_count": 64,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.47912,
+    "latitude": 37.7801
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5549 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "5549 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/emmas-coffee-house-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9hFkv5zrksotcluaOqu_pA/o.jpg",
+  "phone": "+14159336632",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 15.07667209622
+}

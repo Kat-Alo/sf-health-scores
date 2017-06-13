@@ -1,0 +1,36 @@
+{
+  "name": "Cleveland Elementary School",
+  "id": "cleveland-elementary-school-oakland",
+  "display_phone": "(510) 874-3600",
+  "review_count": 6,
+  "coordinates": {
+    "longitude": -122.244023969944,
+    "latitude": 37.8039833905603
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "745 Cleveland St",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94606",
+    "state": "CA",
+    "display_address": [
+      "745 Cleveland St",
+      "Oakland, CA 94606"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/cleveland-elementary-school-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GaGgzOf5JVQyQ-9HidAZdw/o.jpg",
+  "phone": "+15108743600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 18708.925117439998
+}

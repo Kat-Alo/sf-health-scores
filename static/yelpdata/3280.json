@@ -1,0 +1,45 @@
+{
+  "name": "Harry's Bar",
+  "id": "harrys-bar-san-francisco",
+  "display_phone": "(415) 921-1000",
+  "review_count": 823,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.433433,
+    "latitude": 37.788351
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2020 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2020 Fillmore St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/harrys-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uggSQDSkSH0hPRtS5eGArA/o.jpg",
+  "phone": "+14159211000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 21.30074304734
+}

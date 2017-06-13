@@ -1,0 +1,45 @@
+{
+  "name": "Fiddler's Green of SF",
+  "id": "fiddlers-green-of-sf-san-francisco",
+  "display_phone": "(415) 655-3220",
+  "review_count": 325,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.419540405273,
+    "latitude": 37.8064613342285
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1333 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "1333 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/fiddlers-green-of-sf-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AzdUtY_0nYky-9QzrmKrLQ/o.jpg",
+  "phone": "+14156553220",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "irish_pubs",
+      "title": "Irish Pub"
+    },
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    }
+  ],
+  "distance": 5286.22162876
+}

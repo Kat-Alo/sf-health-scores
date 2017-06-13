@@ -1,0 +1,43 @@
+{
+  "name": "Fringale",
+  "id": "fringale-san-francisco",
+  "display_phone": "(415) 543-0573",
+  "review_count": 988,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.39714,
+    "latitude": 37.77857
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "570 4th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "570 4th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/fringale-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VD-4BELGlfXWUff5zD2TGg/o.jpg",
+  "phone": "+14155430573",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "basque",
+      "title": "Basque"
+    }
+  ],
+  "distance": 20.00073428874
+}

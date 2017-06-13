@@ -1,0 +1,40 @@
+{
+  "name": "Hillwood Academic Day School",
+  "id": "hillwood-academic-day-school-san-francisco",
+  "display_phone": "(415) 931-0400",
+  "review_count": 12,
+  "coordinates": {
+    "longitude": -122.440116882324,
+    "latitude": 37.7933235168457
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2521 Scott St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2521 Scott St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/hillwood-academic-day-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4uK6-G0_GRWiSNSZza4nJQ/o.jpg",
+  "phone": "+14159310400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 25.239375780399996
+}

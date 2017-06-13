@@ -1,0 +1,40 @@
+{
+  "name": "Golden City Inn Chinese Food",
+  "id": "golden-city-inn-chinese-food-san-francisco",
+  "display_phone": "(415) 822-3003",
+  "review_count": 20,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39139,
+    "latitude": 37.73184
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5131 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "5131 3rd St",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/golden-city-inn-chinese-food-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oJBrbIM99n27abb3J5sgow/o.jpg",
+  "phone": "+14158223003",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 12.195608453723999
+}

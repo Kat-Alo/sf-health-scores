@@ -1,0 +1,40 @@
+{
+  "name": "Great City Deli",
+  "id": "great-city-deli-san-francisco",
+  "display_phone": "(415) 931-5455",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.440399169922,
+    "latitude": 37.7862663269043
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1801 Divisadero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1801 Divisadero St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/great-city-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+14159315455",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 25.60968008638
+}

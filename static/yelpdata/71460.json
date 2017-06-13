@@ -1,0 +1,46 @@
+{
+  "name": "Hard Water",
+  "id": "hard-water-san-francisco",
+  "display_phone": "(415) 392-3021",
+  "review_count": 471,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.395568,
+    "latitude": 37.797585
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 102",
+    "address1": "Pier 3",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "Pier 3",
+      "Ste 102",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hard-water-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sexkmEj4Js5SM1yJnB6Qwg/o.jpg",
+  "phone": "+14153923021",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "southern",
+      "title": "Southern"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 5435.76230623
+}

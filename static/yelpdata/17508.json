@@ -1,0 +1,35 @@
+{
+  "name": "Kimberly Allen - AmeriFirst Financial, Inc",
+  "id": "kimberly-allen-amerifirst-financial-inc-burlingame",
+  "display_phone": "(650) 861-1295",
+  "review_count": 4,
+  "coordinates": {
+    "longitude": -122.36112,
+    "latitude": 37.57929
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "Burlingame",
+    "country": "US",
+    "zip_code": "94010",
+    "state": "CA",
+    "display_address": [
+      "Burlingame, CA 94010"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/kimberly-allen-amerifirst-financial-inc-burlingame?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MeuquRw4l08u0tNxdwaWLw/o.jpg",
+  "phone": "+16508611295",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mortgagebrokers",
+      "title": "Mortgage Brokers"
+    }
+  ],
+  "distance": 32507.794128379996
+}

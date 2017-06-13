@@ -1,0 +1,40 @@
+{
+  "name": "Go Go Market & Deli",
+  "id": "go-go-market-and-deli-san-francisco",
+  "display_phone": "(415) 861-3536",
+  "review_count": 18,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.414804399014,
+    "latitude": 37.7763678878546
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "99 Ninth St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "99 Ninth St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/go-go-market-and-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tHrltOw-De_YbubvNpLNaA/o.jpg",
+  "phone": "+14158613536",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 729.2576955389999
+}

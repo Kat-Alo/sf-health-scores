@@ -1,0 +1,39 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "Thai Stick",
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.43394,
+    "latitude": 37.78806
+  },
+  "review_count": 388,
+  "url": "https://www.yelp.com/biz/thai-stick-san-francisco-15?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 885-6100",
+  "distance": 22.45131171222,
+  "id": "thai-stick-san-francisco-15",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sroZAfSLK-Gyr8_3xxanyw/o.jpg",
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "address1": "2001 Fillmore St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "2001 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "zip_code": "94115"
+  },
+  "phone": "+14158856100",
+  "rating": 2.5
+}

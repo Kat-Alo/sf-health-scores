@@ -1,0 +1,41 @@
+{
+  "name": "Battery Street Coffee Roastery",
+  "id": "battery-street-coffee-roastery-san-francisco",
+  "display_phone": "(415) 956-9772",
+  "review_count": 90,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.401023864746,
+    "latitude": 37.8002281188965
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "950 Battery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "950 Battery St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/battery-street-coffee-roastery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DYlMFv5w7z9AYGZbAXvGBQ/o.jpg",
+  "phone": "+14159569772",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffeeroasteries",
+      "title": "Coffee Roasteries"
+    }
+  ],
+  "distance": 24.03596926464
+}

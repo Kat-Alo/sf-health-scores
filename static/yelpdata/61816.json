@@ -1,0 +1,43 @@
+{
+  "name": "Bullitt",
+  "id": "bullitt-san-francisco",
+  "display_phone": "(415) 268-0140",
+  "review_count": 447,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.422264099121,
+    "latitude": 37.7970848083496
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2209 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "2209 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bullitt-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iOpbJMwsvnsEQXRk4MnQNg/o.jpg",
+  "phone": "+14152680140",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 17.42918760548
+}

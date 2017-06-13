@@ -1,0 +1,48 @@
+{
+  "name": "Buckhorn Grill",
+  "id": "buckhorn-grill-san-francisco",
+  "display_phone": "(415) 989-1071",
+  "review_count": 221,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.396138906479,
+    "latitude": 37.7951292693615
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "4 Embarcadero Ctr",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "4 Embarcadero Ctr",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/buckhorn-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KzKHwkdWUAwQNER5mKhwtA/o.jpg",
+  "phone": "+14159891071",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 1495.1212134103998
+}

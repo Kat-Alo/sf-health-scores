@@ -1,0 +1,876 @@
+{
+  "businesses": [
+    {
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xb8bqynZ4ka1ZaPz-zZQyQ/o.jpg",
+      "url": "https://www.yelp.com/biz/pats-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14157768735",
+      "name": "Pat's Cafe",
+      "id": "pats-cafe-san-francisco",
+      "coordinates": {
+        "longitude": -122.4146,
+        "latitude": 37.80402
+      },
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "tradamerican",
+          "title": "American (Traditional)"
+        }
+      ],
+      "review_count": 519,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 776-8735",
+      "transactions": [
+        "pickup"
+      ],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "2330 Taylor St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "2330 Taylor St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 2352.061353512
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HLZNkNSO0hy-1UGEnVXw-Q/o.jpg",
+      "url": "https://www.yelp.com/biz/hollywood-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14155633779",
+      "name": "Hollywood Cafe",
+      "id": "hollywood-cafe-san-francisco",
+      "coordinates": {
+        "longitude": -122.41584,
+        "latitude": 37.8065799
+      },
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "review_count": 1460,
+      "rating": 4.5,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 563-3779",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "530 North Point St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "530 North Point St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 2468.299153692
+    },
+    {
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lczGtjaDhWmJDLZvzhOt1Q/o.jpg",
+      "url": "https://www.yelp.com/biz/cafe-capriccio-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14157720937",
+      "name": "Cafe Capriccio",
+      "id": "cafe-capriccio-san-francisco",
+      "coordinates": {
+        "longitude": -122.413139602513,
+        "latitude": 37.8038161711187
+      },
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "review_count": 372,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$",
+      "display_phone": "(415) 772-0937",
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "2200 Mason St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "2200 Mason St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 2212.0106321539997
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ETJbHf1tlPkn5V-EKjsmLw/o.jpg",
+      "url": "https://www.yelp.com/biz/mamas-on-washington-square-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153626421",
+      "name": "Mama's On Washington Square",
+      "id": "mamas-on-washington-square-san-francisco",
+      "coordinates": {
+        "longitude": -122.409599,
+        "latitude": 37.801606
+      },
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "review_count": 3598,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 362-6421",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "1701 Stockton St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "1701 Stockton St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 1918.7346493959997
+    },
+    {
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B81RGw8ZEHuo8CwXZYdO1g/o.jpg",
+      "url": "https://www.yelp.com/biz/the-plant-cafe-organic-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14159841973",
+      "name": "The Plant Cafe Organic",
+      "id": "the-plant-cafe-organic-san-francisco-4",
+      "coordinates": {
+        "longitude": -122.396012842655,
+        "latitude": 37.7979458225562
+      },
+      "categories": [
+        {
+          "alias": "vegetarian",
+          "title": "Vegetarian"
+        },
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "review_count": 1463,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 984-1973",
+      "transactions": [
+        "pickup"
+      ],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "The Embarcadero",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "Pier 3, Ste 108",
+        "zip_code": "94111",
+        "display_address": [
+          "The Embarcadero",
+          "Pier 3, Ste 108",
+          "San Francisco, CA 94111"
+        ]
+      },
+      "distance": 972.2672147756
+    },
+    {
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TNPVifX6XGdEVpv_O9_1cA/o.jpg",
+      "url": "https://www.yelp.com/biz/dotties-true-blue-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14158852767",
+      "name": "Dottie's True Blue Cafe",
+      "id": "dotties-true-blue-cafe-san-francisco",
+      "coordinates": {
+        "longitude": -122.409839630127,
+        "latitude": 37.7817050429594
+      },
+      "categories": [
+        {
+          "alias": "tradamerican",
+          "title": "American (Traditional)"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "review_count": 3544,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 885-2767",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "28 6th St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94103",
+        "display_address": [
+          "28 6th St",
+          "San Francisco, CA 94103"
+        ]
+      },
+      "distance": 3132.767959044
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BeJ1_Uf77pH-4vkIXism4A/o.jpg",
+      "url": "https://www.yelp.com/biz/caf%C3%A9-de-la-presse-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153982680",
+      "name": "Caf\u00e9 de la Presse",
+      "id": "caf\u00e9-de-la-presse-san-francisco-3",
+      "coordinates": {
+        "longitude": -122.405442148447,
+        "latitude": 37.7902999520302
+      },
+      "categories": [
+        {
+          "alias": "french",
+          "title": "French"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "review_count": 1354,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 398-2680",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "352 Grant Ave",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94108",
+        "display_address": [
+          "352 Grant Ave",
+          "San Francisco, CA 94108"
+        ]
+      },
+      "distance": 2147.87103019
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zSgo6bIUQJYRCYjt1RWXEg/o.jpg",
+      "url": "https://www.yelp.com/biz/busters-cheesesteak-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153922800",
+      "name": "Buster's Cheesesteak",
+      "id": "busters-cheesesteak-san-francisco",
+      "coordinates": {
+        "longitude": -122.40734,
+        "latitude": 37.79856
+      },
+      "categories": [
+        {
+          "alias": "tradamerican",
+          "title": "American (Traditional)"
+        },
+        {
+          "alias": "cheesesteaks",
+          "title": "Cheesesteaks"
+        }
+      ],
+      "review_count": 649,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$",
+      "display_phone": "(415) 392-2800",
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "366 Columbus Ave",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "366 Columbus Ave",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 1828.4263743619997
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ot3o7brKJa5Kmu1OVZFMWQ/o.jpg",
+      "url": "https://www.yelp.com/biz/capital-one-caf%C3%A9-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14152484920",
+      "name": "Capital One Caf\u00e9",
+      "id": "capital-one-caf\u00e9-san-francisco",
+      "coordinates": {
+        "longitude": -122.403917,
+        "latitude": 37.788722
+      },
+      "categories": [
+        {
+          "alias": "banks",
+          "title": "Banks & Credit Unions"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "review_count": 289,
+      "rating": 4.5,
+      "is_closed": false,
+      "price": "$",
+      "display_phone": "(415) 248-4920",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "101 Post St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94108",
+        "display_address": [
+          "101 Post St",
+          "San Francisco, CA 94108"
+        ]
+      },
+      "distance": 2197.8795004159997
+    },
+    {
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cC-1cQUIqLhlvLc2CW-fPQ/o.jpg",
+      "url": "https://www.yelp.com/biz/epic-steak-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153699955",
+      "name": "EPIC Steak",
+      "id": "epic-steak-san-francisco",
+      "coordinates": {
+        "longitude": -122.389448990853,
+        "latitude": 37.7908179090105
+      },
+      "categories": [
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        }
+      ],
+      "review_count": 1815,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$$",
+      "display_phone": "(415) 369-9955",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "369 The Embarcadero",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94105",
+        "display_address": [
+          "369 The Embarcadero",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "distance": 1465.84883159
+    },
+    {
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lbxgYCYvMu1zNap7Wg741g/o.jpg",
+      "url": "https://www.yelp.com/biz/boulevard-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14155436084",
+      "name": "Boulevard",
+      "id": "boulevard-san-francisco",
+      "coordinates": {
+        "longitude": -122.39274,
+        "latitude": 37.79337
+      },
+      "categories": [
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        }
+      ],
+      "review_count": 2370,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$$$$",
+      "display_phone": "(415) 543-6084",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "1 Mission St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94105",
+        "display_address": [
+          "1 Mission St",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "distance": 1254.7178593698
+    },
+    {
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6gEWzgDGHMxwpcqsTSlj9w/o.jpg",
+      "url": "https://www.yelp.com/biz/boulettes-larder-and-boulibar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153991155",
+      "name": "Boulettes Larder & Boulibar",
+      "id": "boulettes-larder-and-boulibar-san-francisco",
+      "coordinates": {
+        "longitude": -122.393360137939,
+        "latitude": 37.7950675943507
+      },
+      "categories": [
+        {
+          "alias": "french",
+          "title": "French"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        }
+      ],
+      "review_count": 449,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 399-1155",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "1 Ferry Bldg",
+        "city": "San Francisco",
+        "address3": "Embarcadero Plz",
+        "address2": "",
+        "zip_code": "94111",
+        "display_address": [
+          "1 Ferry Bldg",
+          "Embarcadero Plz",
+          "San Francisco, CA 94111"
+        ]
+      },
+      "distance": 1095.316321198
+    },
+    {
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MwcimmN8lJAkzaRaMV8LIw/o.jpg",
+      "url": "https://www.yelp.com/biz/cafe-8-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14154403994",
+      "name": "Cafe 8",
+      "id": "cafe-8-san-francisco",
+      "coordinates": {
+        "longitude": -122.415891364217,
+        "latitude": 37.8085108101368
+      },
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "review_count": 14,
+      "rating": 3.0,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 440-3994",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "8 Fishermans Wharf",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "8 Fishermans Wharf",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 2527.773278996
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3sC0jKEjyo5Rm7hQNSpuCg/o.jpg",
+      "url": "https://www.yelp.com/biz/waterbar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14152849922",
+      "name": "Waterbar",
+      "id": "waterbar-san-francisco",
+      "coordinates": {
+        "longitude": -122.3886065,
+        "latitude": 37.7900429
+      },
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        },
+        {
+          "alias": "raw_food",
+          "title": "Live/Raw Food"
+        }
+      ],
+      "review_count": 2414,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$$",
+      "display_phone": "(415) 284-9922",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "399 The Embarcadero",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94105",
+        "display_address": [
+          "399 The Embarcadero",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "distance": 1500.655798044
+    },
+    {
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G0kRmwpU0g0ApynW2xNB1Q/o.jpg",
+      "url": "https://www.yelp.com/biz/mos-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14157883779",
+      "name": "Mo's Grill",
+      "id": "mos-grill-san-francisco",
+      "coordinates": {
+        "longitude": -122.407195642591,
+        "latitude": 37.7990761399269
+      },
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "tradamerican",
+          "title": "American (Traditional)"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "review_count": 710,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 788-3779",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "1322 Grant Ave",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94133",
+        "display_address": [
+          "1322 Grant Ave",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "distance": 1767.256004698
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nrk_XuRzea-_tSyo99fUNw/o.jpg",
+      "url": "https://www.yelp.com/biz/cowgirl-creamery-sidekick-and-milk-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153924000",
+      "name": "Cowgirl Creamery Sidekick & Milk Bar",
+      "id": "cowgirl-creamery-sidekick-and-milk-bar-san-francisco",
+      "coordinates": {
+        "longitude": -122.393479060154,
+        "latitude": 37.7957940910702
+      },
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "delis",
+          "title": "Delis"
+        }
+      ],
+      "review_count": 459,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 392-4000",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "1 Ferry Bldg",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "Ste 17",
+        "zip_code": "94111",
+        "display_address": [
+          "1 Ferry Bldg",
+          "Ste 17",
+          "San Francisco, CA 94111"
+        ]
+      },
+      "distance": 1027.888354812
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c6KbWUI7eud0HtgRFFruNg/o.jpg",
+      "url": "https://www.yelp.com/biz/crossroads-cafe-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14155125111",
+      "name": "Crossroads Cafe",
+      "id": "crossroads-cafe-san-francisco-7",
+      "coordinates": {
+        "longitude": -122.3890356,
+        "latitude": 37.7831325
+      },
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "nonprofit",
+          "title": "Community Service/Non-Profit"
+        }
+      ],
+      "review_count": 838,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$",
+      "display_phone": "(415) 512-5111",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "699 Delancey St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94107",
+        "display_address": [
+          "699 Delancey St",
+          "San Francisco, CA 94107"
+        ]
+      },
+      "distance": 2301.1083616399997
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SpuyVcdObjtOf8WpS7DFvQ/o.jpg",
+      "url": "https://www.yelp.com/biz/specialtys-caf%C3%A9-and-bakery-san-francisco-45?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+18775022837",
+      "name": "Specialty's Caf\u00e9 & Bakery",
+      "id": "specialtys-caf\u00e9-and-bakery-san-francisco-45",
+      "coordinates": {
+        "longitude": -122.393615722656,
+        "latitude": 37.7917518615723
+      },
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "review_count": 223,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$",
+      "display_phone": "(877) 502-2837",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "150 Spear St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94105",
+        "display_address": [
+          "150 Spear St",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "distance": 1442.1434143239999
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6yxDqnncy3rJRg9-2i5Dkw/o.jpg",
+      "url": "https://www.yelp.com/biz/cafe-venue-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14159891144",
+      "name": "Cafe Venue",
+      "id": "cafe-venue-san-francisco-6",
+      "coordinates": {
+        "longitude": -122.4022744596,
+        "latitude": 37.7911388128996
+      },
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        }
+      ],
+      "review_count": 405,
+      "rating": 4.0,
+      "is_closed": false,
+      "price": "$",
+      "display_phone": "(415) 989-1144",
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "218 Montgomery St",
+        "city": "San Francisco",
+        "address3": "",
+        "address2": "",
+        "zip_code": "94104",
+        "display_address": [
+          "218 Montgomery St",
+          "San Francisco, CA 94104"
+        ]
+      },
+      "distance": 1896.9786256720001
+    },
+    {
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/juNNMMlomnEsxxzabkNV2g/o.jpg",
+      "url": "https://www.yelp.com/biz/pier-23-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+      "phone": "+14153625125",
+      "name": "Pier 23 Cafe",
+      "id": "pier-23-cafe-san-francisco",
+      "coordinates": {
+        "longitude": -122.400886416435,
+        "latitude": 37.8033755766027
+      },
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        }
+      ],
+      "review_count": 1390,
+      "rating": 3.5,
+      "is_closed": false,
+      "price": "$$",
+      "display_phone": "(415) 362-5125",
+      "transactions": [],
+      "location": {
+        "country": "US",
+        "state": "CA",
+        "address1": "The Embarcadero",
+        "city": "San Francisco",
+        "address3": "Pier 23",
+        "address2": "",
+        "zip_code": "94102",
+        "display_address": [
+          "The Embarcadero",
+          "Pier 23",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "distance": 1137.2593265196
+    }
+  ],
+  "region": {
+    "center": {
+      "longitude": -122.38796,
+      "latitude": 37.803947
+    }
+  },
+  "total": 297
+}

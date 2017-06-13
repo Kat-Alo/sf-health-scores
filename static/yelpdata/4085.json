@@ -1,0 +1,37 @@
+{
+  "name": "Hockey Haven",
+  "id": "hockey-haven-san-francisco",
+  "display_phone": "(415) 752-4413",
+  "review_count": 145,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.497802734375,
+    "latitude": 37.7754440307617
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3625 Balboa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "3625 Balboa St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hockey-haven-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mygHQgyRp4v8cEpSq8WMTA/o.jpg",
+  "phone": "+14157524413",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    }
+  ],
+  "distance": 19.27538061064
+}

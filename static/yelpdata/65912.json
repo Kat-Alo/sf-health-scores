@@ -1,0 +1,37 @@
+{
+  "name": "Claudine's Wine Experience",
+  "id": "claudines-wine-experience-saratoga",
+  "display_phone": "(408) 647-8002",
+  "review_count": 49,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.03182220459,
+    "latitude": 37.2582321166992
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "20490 Saratoga Los Gatos Rd",
+    "city": "Saratoga",
+    "country": "US",
+    "zip_code": "95070",
+    "state": "CA",
+    "display_address": [
+      "20490 Saratoga Los Gatos Rd",
+      "Saratoga, CA 95070"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/claudines-wine-experience-saratoga?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u7VMvQ6gGXzKNlBhKg7GuQ/o.jpg",
+  "phone": "+14086478002",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 67705.44235144
+}

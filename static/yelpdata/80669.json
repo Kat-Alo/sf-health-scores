@@ -1,0 +1,45 @@
+{
+  "name": "AL's Place",
+  "id": "als-place-san-francisco",
+  "display_phone": "(415) 416-6136",
+  "review_count": 439,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.42025397718,
+    "latitude": 37.7490078521491
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1499 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "1499 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/als-place-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ie1ErNx_ukcb6t-FWzp-BA/o.jpg",
+  "phone": "+14154166136",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 1942.645901248
+}

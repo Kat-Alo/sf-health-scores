@@ -1,0 +1,45 @@
+{
+  "name": "Gyro King",
+  "id": "gyro-king-san-francisco",
+  "display_phone": "(415) 621-8313",
+  "review_count": 452,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.415778711438,
+    "latitude": 37.7787087857723
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "25 Grove St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "25 Grove St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/gyro-king-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lG8pES5sdlQEZop_bOwtrQ/o.jpg",
+  "phone": "+14156218313",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "turkish",
+      "title": "Turkish"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    }
+  ],
+  "distance": 1733.27849208
+}

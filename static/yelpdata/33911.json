@@ -1,0 +1,45 @@
+{
+  "name": "B Star Bar",
+  "id": "b-star-bar-san-francisco",
+  "display_phone": "(415) 933-9900",
+  "review_count": 1608,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46065,
+    "latitude": 37.78298
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "127 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "127 Clement St",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/b-star-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T8Ay4anTvUquAsmdhz5ofw/o.jpg",
+  "phone": "+14159339900",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burmese",
+      "title": "Burmese"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 14.421933038639999
+}

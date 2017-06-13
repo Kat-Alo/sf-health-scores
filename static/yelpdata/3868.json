@@ -1,0 +1,45 @@
+{
+  "name": "Barney's Gourmet Hamburgers",
+  "id": "barneys-gourmet-hamburgers-san-francisco-2",
+  "display_phone": "(415) 282-7770",
+  "review_count": 699,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43501,
+    "latitude": 37.7515
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4138 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "4138 24th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/barneys-gourmet-hamburgers-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iSKVQbiz_BA9Euggg66pXQ/o.jpg",
+  "phone": "+14152827770",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 23.25631001758
+}

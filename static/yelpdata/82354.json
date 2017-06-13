@@ -1,0 +1,47 @@
+{
+  "name": "Azalina's",
+  "id": "azalinas-san-francisco-2",
+  "display_phone": "(415) 660-2020",
+  "review_count": 158,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.416799962521,
+    "latitude": 37.7770605683327
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1355 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1355 Market St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/azalinas-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3sLMEk4vsoOwcXDUw-a35A/o.jpg",
+  "phone": "+14156602020",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "malaysian",
+      "title": "Malaysian"
+    },
+    {
+      "alias": "chickenshop",
+      "title": "Chicken Shop"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 2470.002640082
+}

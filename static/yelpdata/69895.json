@@ -1,0 +1,38 @@
+{
+  "name": "Andale Mexican Restaurant",
+  "id": "andale-mexican-restaurant-san-francisco-4",
+  "display_phone": "(650) 821-9306",
+  "review_count": 147,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.381716668606,
+    "latitude": 37.6176414484188
+  },
+  "location": {
+    "address3": "San Francisco International Airport, Terminal 2",
+    "address2": "",
+    "address1": "780 S Airport Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94128",
+    "state": "CA",
+    "display_address": [
+      "780 S Airport Blvd",
+      "San Francisco International Airport, Terminal 2",
+      "San Francisco, CA 94128"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/andale-mexican-restaurant-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1f2bpylS0V8YKD1QE3Gegw/o.jpg",
+  "phone": "+16508219306",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 16641.587874859997
+}

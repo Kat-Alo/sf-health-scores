@@ -1,0 +1,41 @@
+{
+  "name": "Blue Fog Market",
+  "id": "blue-fog-market-san-francisco-2",
+  "display_phone": "(415) 931-9331",
+  "review_count": 256,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42734,
+    "latitude": 37.79703
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2567 Gough St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2567 Gough St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/blue-fog-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_usUlYHKmqqSx6vHerIALg/o.jpg",
+  "phone": "+14159319331",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 20.88891294134
+}

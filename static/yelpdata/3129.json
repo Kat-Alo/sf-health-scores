@@ -1,0 +1,36 @@
+{
+  "name": "The Francisca Club",
+  "id": "the-francisca-club-san-francisco",
+  "display_phone": "(415) 781-1200",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.409965515137,
+    "latitude": 37.7888679504395
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "595 Sutter St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "595 Sutter St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/the-francisca-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ifjAc4fSx18q_FiWQrMgvw/o.jpg",
+  "phone": "+14157811200",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "social_clubs",
+      "title": "Social Clubs"
+    }
+  ],
+  "distance": 16.11863284186
+}

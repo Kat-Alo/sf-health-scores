@@ -1,0 +1,40 @@
+{
+  "name": "Valero A&P Service Center",
+  "id": "valero-a-and-p-service-center-oakland",
+  "display_phone": "(510) 658-0611",
+  "review_count": 21,
+  "coordinates": {
+    "longitude": -122.261260986328,
+    "latitude": 37.8255043029785
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "398 W MacArthur Blvd",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94609",
+    "state": "CA",
+    "display_address": [
+      "398 W MacArthur Blvd",
+      "Oakland, CA 94609"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/valero-a-and-p-service-center-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2WxRaJYiFGHI8hWkTJho6Q/o.jpg",
+  "phone": "+15106580611",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    },
+    {
+      "alias": "autorepair",
+      "title": "Auto Repair"
+    }
+  ],
+  "distance": 16747.43094798
+}

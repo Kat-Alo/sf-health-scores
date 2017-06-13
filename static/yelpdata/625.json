@@ -1,0 +1,36 @@
+{
+  "name": "California Tennis Club",
+  "id": "california-tennis-club-san-francisco",
+  "display_phone": "(415) 346-3611",
+  "review_count": 14,
+  "coordinates": {
+    "longitude": -122.437606811523,
+    "latitude": 37.7860221862793
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1770 Scott St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1770 Scott St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/california-tennis-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XzlgZi0E4_2064Z4m4o80w/o.jpg",
+  "phone": "+14153463611",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tennis",
+      "title": "Tennis"
+    }
+  ],
+  "distance": 35.2729186642
+}

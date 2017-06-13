@@ -1,0 +1,48 @@
+{
+  "name": "Cafe Venue",
+  "id": "cafe-venue-san-francisco-6",
+  "display_phone": "(415) 989-1144",
+  "review_count": 405,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4022744596,
+    "latitude": 37.7911388128996
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "218 Montgomery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "218 Montgomery St",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cafe-venue-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6yxDqnncy3rJRg9-2i5Dkw/o.jpg",
+  "phone": "+14159891144",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 5.745167899137999
+}

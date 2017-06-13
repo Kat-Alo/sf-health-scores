@@ -1,0 +1,40 @@
+{
+  "name": "iThai",
+  "id": "ithai-san-francisco",
+  "display_phone": "(415) 345-9999",
+  "review_count": 294,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.413787841797,
+    "latitude": 37.7876707166433
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "720 Post St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "720 Post St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/ithai-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NCi2avMMTtW82vyfm064gw/o.jpg",
+  "phone": "+14153459999",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 12.229792605598
+}

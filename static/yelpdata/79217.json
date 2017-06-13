@@ -1,0 +1,41 @@
+{
+  "name": "Bistro At The Cliff House",
+  "id": "bistro-at-the-cliff-house-san-francisco",
+  "display_phone": "(415) 386-3330",
+  "review_count": 1249,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.513654530048,
+    "latitude": 37.7784834802151
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1090 Point Lobos Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "1090 Point Lobos Ave",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bistro-at-the-cliff-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uvQJh0FbXshKPfoYPazCOw/o.jpg",
+  "phone": "+14153863330",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 7090.95159816
+}

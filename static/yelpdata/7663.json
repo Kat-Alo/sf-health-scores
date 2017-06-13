@@ -1,0 +1,37 @@
+{
+  "name": "GGP Market",
+  "id": "ggp-market-san-francisco",
+  "display_phone": "(415) 821-1116",
+  "review_count": 4,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.410770356655,
+    "latitude": 37.752763107419
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2948 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2948 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/ggp-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AFjQHAGNPQp-Lqc4JTmZYw/o.jpg",
+  "phone": "+14158211116",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 13.94773457028
+}

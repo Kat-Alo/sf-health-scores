@@ -1,0 +1,38 @@
+{
+  "name": "Andale Mexican Restaurant",
+  "id": "andale-mexican-restaurant-san-francisco-2",
+  "display_phone": "(415) 243-8700",
+  "review_count": 193,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.405952,
+    "latitude": 37.784522
+  },
+  "location": {
+    "address3": "",
+    "address2": "Concourse Level, Store FE7",
+    "address1": "845 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "845 Market St",
+      "Concourse Level, Store FE7",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/andale-mexican-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kwGKoX8IPzkR4_7y0hWdGQ/o.jpg",
+  "phone": "+14152438700",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 90.00451693701999
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Golden River",
+  "id": "golden-river-san-francisco",
+  "display_phone": "(415) 668-5105",
+  "review_count": 291,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.48202,
+    "latitude": 37.7799
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5827 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "5827 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/golden-river-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PY_QjCWt4hU8peH88c4OTQ/o.jpg",
+  "phone": "+14156685105",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 29.275721200899998
+}

@@ -1,0 +1,37 @@
+{
+  "name": "BevMo!",
+  "id": "bevmo-san-francisco-2",
+  "display_phone": "(415) 648-1233",
+  "review_count": 71,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.398939978111,
+    "latitude": 37.7463095093708
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "201 Bayshore Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "201 Bayshore Blvd",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bevmo-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IjkFB_Ew62Q0JccmzTIp1A/o.jpg",
+  "phone": "+14156481233",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 473.706493122
+}

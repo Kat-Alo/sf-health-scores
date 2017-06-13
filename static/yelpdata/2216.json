@@ -1,0 +1,40 @@
+{
+  "name": "Hong Kong Clay Pot Restaurant",
+  "id": "hong-kong-clay-pot-restaurant-san-francisco",
+  "display_phone": "(415) 989-2638",
+  "review_count": 662,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40649,
+    "latitude": 37.7958799
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "960 Grant Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "960 Grant Ave",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hong-kong-clay-pot-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZzlG7U8SVEggd1U1TUa6Dg/o.jpg",
+  "phone": "+14159892638",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 4.365407170299999
+}

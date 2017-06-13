@@ -1,0 +1,37 @@
+{
+  "name": "Acre Coffee",
+  "id": "acre-coffee-san-francisco-2",
+  "display_phone": "(415) 431-4421",
+  "review_count": 66,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.418870966262,
+    "latitude": 37.7808276911748
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "525 Golden Gate Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "525 Golden Gate Ave",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/acre-coffee-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jGJdCf09xq9Fs61gf4zHqQ/o.jpg",
+  "phone": "+14154314421",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2701.3544383199996
+}

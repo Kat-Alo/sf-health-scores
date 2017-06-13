@@ -1,0 +1,45 @@
+{
+  "name": "Five Happiness",
+  "id": "five-happiness-san-francisco",
+  "display_phone": "(415) 387-1234",
+  "review_count": 239,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46394,
+    "latitude": 37.78134
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4142 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "4142 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/five-happiness-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iSC7eYdN4ChYCosVrbh_rA/o.jpg",
+  "phone": "+14153871234",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "taiwanese",
+      "title": "Taiwanese"
+    },
+    {
+      "alias": "shanghainese",
+      "title": "Shanghainese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 5.380732373336
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Dolores Park Cafe",
+  "id": "dolores-park-cafe-san-francisco",
+  "display_phone": "(415) 621-2936",
+  "review_count": 623,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.425828278065,
+    "latitude": 37.7613089292578
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "501 Dolores St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "501 Dolores St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/dolores-park-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A3ggSzrFKPD8DjaS331Cwg/o.jpg",
+  "phone": "+14156212936",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 934.709982822
+}

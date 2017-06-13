@@ -1,0 +1,41 @@
+{
+  "name": "Golden Star Vietnamese Restaurant",
+  "id": "golden-star-vietnamese-restaurant-san-francisco",
+  "display_phone": "(415) 398-1215",
+  "review_count": 1016,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.405742555857,
+    "latitude": 37.7945505827665
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "11 Walter U Lum Pl",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "11 Walter U Lum Pl",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/golden-star-vietnamese-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/12vRlFsOsUnu0NgGC7lOCw/o.jpg",
+  "phone": "+14153981215",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 13.71858064768
+}

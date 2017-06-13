@@ -1,0 +1,37 @@
+{
+  "name": "El Chico Produce Market #4",
+  "id": "el-chico-produce-market-4-san-francisco",
+  "display_phone": "(415) 643-4550",
+  "review_count": 34,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.411201477051,
+    "latitude": 37.7524299621582
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2965 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2965 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/el-chico-produce-market-4-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gPTSe5ukqO8BTebt03tVkA/o.jpg",
+  "phone": "+14156434550",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    }
+  ],
+  "distance": 19.03621578857
+}

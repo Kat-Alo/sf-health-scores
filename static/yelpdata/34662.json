@@ -1,0 +1,41 @@
+{
+  "name": "Horizon Restaurant and Lounge",
+  "id": "horizon-restaurant-and-lounge-san-francisco",
+  "display_phone": "(415) 576-1118",
+  "review_count": 285,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.405669445386,
+    "latitude": 37.7980469387467
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "498 Broadway St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "498 Broadway St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/horizon-restaurant-and-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JBoDOnqz2eIoeiuao5-Y7w/o.jpg",
+  "phone": "+14155761118",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    }
+  ],
+  "distance": 17.024729886019998
+}

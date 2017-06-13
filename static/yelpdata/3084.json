@@ -1,0 +1,45 @@
+{
+  "name": "Italian-American Social Club Of S. F",
+  "id": "italian-american-social-club-of-san-francisco-san-francisco",
+  "display_phone": "(415) 585-8059",
+  "review_count": 33,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.436876967549,
+    "latitude": 37.7214831858873
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "25 Russia Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "25 Russia Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/italian-american-social-club-of-san-francisco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fn2cl8SXfzIWzJxLjdPyhQ/o.jpg",
+  "phone": "+14155858059",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "social_clubs",
+      "title": "Social Clubs"
+    }
+  ],
+  "distance": 20.646330685779997
+}

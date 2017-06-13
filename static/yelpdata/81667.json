@@ -1,0 +1,48 @@
+{
+  "name": "Crazy Pepper",
+  "id": "crazy-pepper-san-francisco",
+  "display_phone": "(415) 337-1888",
+  "review_count": 338,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4463077,
+    "latitude": 37.7208611
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2257 San Jose Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "2257 San Jose Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/crazy-pepper-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GdzNCWXuGa7SvIh2j6Nn2w/o.jpg",
+  "phone": "+14153371888",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 4529.991314354
+}

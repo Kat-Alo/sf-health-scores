@@ -1,0 +1,37 @@
+{
+  "name": "Bus Stop Pizza",
+  "id": "bus-stop-pizza-san-francisco",
+  "display_phone": "(415) 626-5559",
+  "review_count": 107,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.43688,
+    "latitude": 37.77152
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "256 Divisadero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "256 Divisadero St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bus-stop-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hnHPAIhhKNVwM6VYhFdl3A/o.jpg",
+  "phone": "+14156265559",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 15.90323072956
+}

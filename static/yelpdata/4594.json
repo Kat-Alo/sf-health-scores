@@ -1,0 +1,37 @@
+{
+  "name": "Double Rock Grocery",
+  "id": "double-rock-grocery-san-francisco",
+  "display_phone": "(415) 822-5350",
+  "review_count": 2,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.391380310059,
+    "latitude": 37.7212219238281
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2830 Ingalls St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "2830 Ingalls St",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/double-rock-grocery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gwx4oPcWxwxBecoVsr0nAg/o.jpg",
+  "phone": "+14158225350",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 16.671159497359998
+}

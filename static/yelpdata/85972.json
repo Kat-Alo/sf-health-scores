@@ -1,0 +1,40 @@
+{
+  "name": "Hot Duck",
+  "id": "hot-duck-san-francisco-2",
+  "display_phone": "(415) 308-9588",
+  "review_count": 11,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.479696422815,
+    "latitude": 37.7822781354189
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1900 Clement St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "1900 Clement St",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/hot-duck-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s2KoXnvajvsSamAs-K1Jjg/o.jpg",
+  "phone": "+14153089588",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 4471.960284227999
+}

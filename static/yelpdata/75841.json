@@ -1,0 +1,40 @@
+{
+  "name": "Ingleside Pizza",
+  "id": "ingleside-pizza-san-francisco",
+  "display_phone": "(415) 584-3333",
+  "review_count": 61,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4703187,
+    "latitude": 37.7144521
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4097 19th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "4097 19th Ave",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/ingleside-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EkDLU-mvtX652C_jRofBTg/o.jpg",
+  "phone": "+14155843333",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 5962.185627864
+}

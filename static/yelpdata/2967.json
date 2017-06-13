@@ -1,0 +1,45 @@
+{
+  "name": "Chaya Brasserie",
+  "id": "chaya-brasserie-san-francisco",
+  "display_phone": "(415) 777-8688",
+  "review_count": 1772,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.392181,
+    "latitude": 37.793087
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "132 The Embarcadero",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "132 The Embarcadero",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/chaya-brasserie-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y4YUgBXsnmIxlO4dRNfqHQ/o.jpg",
+  "phone": "+14157778688",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 519.7251841804
+}

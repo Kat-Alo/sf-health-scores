@@ -1,0 +1,38 @@
+{
+  "name": "Fairmont Heritage Place, Ghirardelli Square",
+  "id": "fairmont-heritage-place-ghirardelli-square-san-francisco-2",
+  "display_phone": "(415) 268-9900",
+  "review_count": 48,
+  "price": "$$$$",
+  "coordinates": {
+    "longitude": -122.42292,
+    "latitude": 37.80585
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste D100",
+    "address1": "900 North Point",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "900 North Point",
+      "Ste D100",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/fairmont-heritage-place-ghirardelli-square-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UO8XF3K6S70968ZoEoq3EA/o.jpg",
+  "phone": "+14152689900",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 816.0944632589999
+}

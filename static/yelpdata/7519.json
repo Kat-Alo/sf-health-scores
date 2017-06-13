@@ -1,0 +1,41 @@
+{
+  "name": "Empire Market",
+  "id": "empire-market-san-francisco",
+  "display_phone": "(415) 351-2106",
+  "review_count": 2,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41405941546,
+    "latitude": 37.7837064117193
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "399 Eddy St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "399 Eddy St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/empire-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e1KlWstD0djJxFvodnKz7A/o.jpg",
+  "phone": "+14153512106",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 2.8767018482939997
+}

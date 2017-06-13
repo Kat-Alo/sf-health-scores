@@ -1,0 +1,41 @@
+{
+  "name": "Il Pirata",
+  "id": "il-pirata-san-francisco",
+  "display_phone": "(415) 626-2626",
+  "review_count": 130,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40684,
+    "latitude": 37.76563
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2007 16th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "2007 16th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/il-pirata-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JIRHiiWSiylMjVfi8dO4cQ/o.jpg",
+  "phone": "+14156262626",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "divebars",
+      "title": "Dive Bars"
+    },
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    }
+  ],
+  "distance": 14.80662162554
+}

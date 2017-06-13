@@ -1,0 +1,36 @@
+{
+  "name": "Cesar Chavez Academy",
+  "id": "cesar-chavez-academy-east-palo-alto",
+  "display_phone": "(650) 329-6700",
+  "review_count": 2,
+  "coordinates": {
+    "longitude": -122.146394188329,
+    "latitude": 37.4720883499292
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2450 Ralmar Ave",
+    "city": "East Palo Alto",
+    "country": "US",
+    "zip_code": "94303",
+    "state": "CA",
+    "display_address": [
+      "2450 Ralmar Ave",
+      "East Palo Alto, CA 94303"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cesar-chavez-academy-east-palo-alto?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xt1fA2yShIULRnX8IwECQA/o.jpg",
+  "phone": "+16503296700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 39365.1081827
+}

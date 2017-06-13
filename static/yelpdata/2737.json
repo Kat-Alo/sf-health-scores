@@ -1,0 +1,37 @@
+{
+  "name": "Caffe Roma Coffee Roasting",
+  "id": "caffe-roma-coffee-roasting-san-francisco-2",
+  "display_phone": "(415) 296-7942",
+  "review_count": 423,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40960597866,
+    "latitude": 37.8000298526743
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "526 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "526 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/caffe-roma-coffee-roasting-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2UjtDBhfMnk_6Atn28vdQQ/o.jpg",
+  "phone": "+14152967942",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2858.524835796
+}

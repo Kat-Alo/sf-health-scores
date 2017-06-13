@@ -1,0 +1,47 @@
+{
+  "name": "Chicks and Love Pizza Patio",
+  "id": "chicks-and-love-pizza-patio-san-francisco-5",
+  "display_phone": "(415) 912-6648",
+  "review_count": 35,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.415308338623,
+    "latitude": 37.7693226761551
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1701 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1701 Folsom St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/chicks-and-love-pizza-patio-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tPWboY7ofarmhf5_1O3dQQ/o.jpg",
+  "phone": "+14159126648",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2081.022748072
+}

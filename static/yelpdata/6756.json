@@ -1,0 +1,46 @@
+{
+  "name": "Fog City News",
+  "id": "fog-city-news-san-francisco",
+  "display_phone": "(415) 543-7400",
+  "review_count": 234,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39863,
+    "latitude": 37.79095
+  },
+  "location": {
+    "address3": "",
+    "address2": "Ste 125",
+    "address1": "455 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "455 Market St",
+      "Ste 125",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/fog-city-news-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OlrlG6jm8oC9suXCIEFcTg/o.jpg",
+  "phone": "+14155437400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mags",
+      "title": "Newspapers & Magazines"
+    },
+    {
+      "alias": "stationery",
+      "title": "Cards & Stationery"
+    },
+    {
+      "alias": "chocolate",
+      "title": "Chocolatiers & Shops"
+    }
+  ],
+  "distance": 9699.65150466
+}

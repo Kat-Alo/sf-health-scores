@@ -1,0 +1,43 @@
+{
+  "name": "Freshroll Vietnamese Rolls and Bowls",
+  "id": "freshroll-vietnamese-rolls-and-bowls-san-francisco-2",
+  "display_phone": "(415) 658-7966",
+  "review_count": 69,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4012985,
+    "latitude": 37.7913895
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "220 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "220 Bush St",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/freshroll-vietnamese-rolls-and-bowls-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T4CElZ5R0Url6XWcLMXoJw/o.jpg",
+  "phone": "+14156587966",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 852.1041055883999
+}

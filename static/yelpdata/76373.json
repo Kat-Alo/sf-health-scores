@@ -1,0 +1,45 @@
+{
+  "name": "Alta CA",
+  "id": "alta-ca-san-francisco",
+  "display_phone": "(415) 590-2585",
+  "review_count": 428,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.4182828,
+    "latitude": 37.7761796
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1420 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "1420 Market St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/alta-ca-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Mo73Yxs4cSg7g3sUkN6tbQ/o.jpg",
+  "phone": "+14155902585",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "diners",
+      "title": "Diners"
+    }
+  ],
+  "distance": 2331.731044094
+}

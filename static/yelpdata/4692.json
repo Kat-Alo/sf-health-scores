@@ -1,0 +1,37 @@
+{
+  "name": "Friends Liquor",
+  "id": "friends-liquor-san-francisco",
+  "display_phone": "(415) 346-3226",
+  "review_count": 15,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43301,
+    "latitude": 37.78598
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1758 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1758 Fillmore St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/friends-liquor-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v3ANEN7_Wn0PWLtOP_YjsA/o.jpg",
+  "phone": "+14153463226",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 38.8244101762
+}

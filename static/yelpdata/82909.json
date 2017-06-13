@@ -1,0 +1,41 @@
+{
+  "name": "Belga",
+  "id": "belga-san-francisco-2",
+  "display_phone": "(415) 872-7350",
+  "review_count": 282,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.432456,
+    "latitude": 37.797683
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2000 Union St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2000 Union St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/belga-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rEPcIvpAVx-KLAeEdPPQcA/o.jpg",
+  "phone": "+14158727350",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "brasseries",
+      "title": "Brasseries"
+    },
+    {
+      "alias": "belgian",
+      "title": "Belgian"
+    }
+  ],
+  "distance": 4113.099351252
+}

@@ -1,0 +1,37 @@
+{
+  "name": "George's BBQ on 24th",
+  "id": "georges-bbq-on-24th-san-francisco",
+  "display_phone": "(415) 550-1010",
+  "review_count": 113,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.417070195079,
+    "latitude": 37.7522850036621
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3231 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3231 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/georges-bbq-on-24th-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hR8kp0RCpfe9FO-eFDaN2Q/o.jpg",
+  "phone": "+14155501010",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    }
+  ],
+  "distance": 6.0517219025
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Aunt Fanny's Hot Pretzels",
+  "id": "aunt-fannys-hot-pretzels-san-francisco",
+  "display_phone": "(415) 986-0706",
+  "review_count": 14,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4102149,
+    "latitude": 37.808821
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "Pier 39",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "Pier 39",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/aunt-fannys-hot-pretzels-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p4VnuS4-84-8dsDJ0UTPeA/o.jpg",
+  "phone": "+14159860706",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pretzels",
+      "title": "Pretzels"
+    }
+  ],
+  "distance": 699.9310950539999
+}

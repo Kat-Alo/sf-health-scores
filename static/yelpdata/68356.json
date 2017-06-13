@@ -1,0 +1,47 @@
+{
+  "name": "Bask",
+  "id": "bask-san-francisco-2",
+  "display_phone": "(415) 392-2275",
+  "review_count": 423,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4041447,
+    "latitude": 37.7962703
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "42 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "42 Columbus Ave",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bask-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z6kSRBevQ6nFNJEv_wzejQ/o.jpg",
+  "phone": "+14153922275",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "basque",
+      "title": "Basque"
+    },
+    {
+      "alias": "spanish",
+      "title": "Spanish"
+    },
+    {
+      "alias": "tapas",
+      "title": "Tapas Bars"
+    }
+  ],
+  "distance": 20.462692117059998
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Alhamra",
+  "id": "alhamra-san-francisco-4",
+  "display_phone": "(415) 621-3935",
+  "review_count": 409,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.42132,
+    "latitude": 37.76468
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3083 16th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "3083 16th St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/alhamra-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/at2jDepzV0vDzf4K_o2CSA/o.jpg",
+  "phone": "+14156213935",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "pakistani",
+      "title": "Pakistani"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 20.45954102934
+}

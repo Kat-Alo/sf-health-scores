@@ -1,0 +1,41 @@
+{
+  "name": "El Valenciano Restaurant & Bar",
+  "id": "el-valenciano-restaurant-and-bar-san-francisco",
+  "display_phone": "(415) 826-9561",
+  "review_count": 60,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42053,
+    "latitude": 37.75452
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1153 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "1153 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/el-valenciano-restaurant-and-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2Gnd_Lb317Pwkld5ZzDUDw/o.jpg",
+  "phone": "+14158269561",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "spanish",
+      "title": "Spanish"
+    },
+    {
+      "alias": "basque",
+      "title": "Basque"
+    }
+  ],
+  "distance": 15.57149264734
+}

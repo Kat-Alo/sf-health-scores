@@ -1,0 +1,45 @@
+{
+  "name": "BullsHead Restaurant",
+  "id": "bullshead-restaurant-san-francisco",
+  "display_phone": "(415) 665-4350",
+  "review_count": 687,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.465413,
+    "latitude": 37.740951
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "840 Ulloa St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "840 Ulloa St",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bullshead-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AWuY3xiD2lsuikGLAf5Y8g/o.jpg",
+  "phone": "+14156654350",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 20.325875686299998
+}

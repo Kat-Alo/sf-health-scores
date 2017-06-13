@@ -1,0 +1,41 @@
+{
+  "name": "Burger King",
+  "id": "burger-king-san-francisco-9",
+  "display_phone": "(415) 775-4211",
+  "review_count": 84,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.42128,
+    "latitude": 37.78315
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "819 Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "819 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/burger-king-san-francisco-9?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_V1LbkGn4jSRleVElK761A/o.jpg",
+  "phone": "+14157754211",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 31.0221045486
+}

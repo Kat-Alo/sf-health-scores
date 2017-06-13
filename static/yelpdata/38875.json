@@ -1,0 +1,44 @@
+{
+  "name": "Benjarong Thai Cuisine",
+  "id": "benjarong-thai-cuisine-san-francisco",
+  "display_phone": "(415) 441-8999",
+  "review_count": 269,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.433911553805,
+    "latitude": 37.8003481225269
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1968 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "1968 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/benjarong-thai-cuisine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PavPr5awHWtioBCKVTgWsQ/o.jpg",
+  "phone": "+14154418999",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 22.14855623406
+}

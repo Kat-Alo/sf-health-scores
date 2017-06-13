@@ -1,0 +1,37 @@
+{
+  "name": "Bella Trattoria",
+  "id": "bella-trattoria-san-francisco",
+  "display_phone": "(415) 221-0305",
+  "review_count": 1060,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46085,
+    "latitude": 37.78148
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3854 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "3854 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bella-trattoria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LUDlW0tFfyrAZrrjWcBfQQ/o.jpg",
+  "phone": "+14152210305",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 15.07623113706
+}

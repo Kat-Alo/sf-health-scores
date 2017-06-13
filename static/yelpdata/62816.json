@@ -1,0 +1,36 @@
+{
+  "name": "Bernal Heights Neighborhood Center",
+  "id": "bernal-heights-neighborhood-center-san-francisco",
+  "display_phone": "(415) 206-2140",
+  "review_count": 5,
+  "coordinates": {
+    "longitude": -122.416137695312,
+    "latitude": 37.7392234802246
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "515 Cortland Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "515 Cortland Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/bernal-heights-neighborhood-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ETidZOhWAtcLqpG0pqzfzw/o.jpg",
+  "phone": "+14152062140",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    }
+  ],
+  "distance": 2118.565592526
+}

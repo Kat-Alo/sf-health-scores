@@ -1,0 +1,43 @@
+{
+  "name": "Golden Gate Market Deli & Liquor",
+  "id": "golden-gate-market-deli-and-liquor-san-francisco-2",
+  "display_phone": "(415) 346-6052",
+  "review_count": 79,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4471147,
+    "latitude": 37.7983492
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2767 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2767 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/golden-gate-market-deli-and-liquor-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KvB74Qp5F9w1u_SjPrTrvw/o.jpg",
+  "phone": "+14153466052",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 4283.560804986
+}

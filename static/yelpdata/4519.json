@@ -1,0 +1,42 @@
+{
+  "name": "HSS Cafe",
+  "id": "hss-cafe-san-francisco-2",
+  "display_phone": "(415) 405-0450",
+  "review_count": 20,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.476079463959,
+    "latitude": 37.7217303670223
+  },
+  "location": {
+    "address3": "",
+    "address2": "1600 Holloway Ave, HSS Bldg, Room 121",
+    "address1": "San Francisco State University",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "San Francisco State University",
+      "1600 Holloway Ave, HSS Bldg, Room 121",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/hss-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oDuAmJ7HQVsZoKXg6Zf6zw/o.jpg",
+  "phone": "+14154050450",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    }
+  ],
+  "distance": 131.322144
+}

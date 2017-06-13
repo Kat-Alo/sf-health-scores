@@ -1,0 +1,48 @@
+{
+  "name": "Auntie April's Chicken-n-Waffles",
+  "id": "auntie-aprils-chicken-n-waffles-san-francisco-2",
+  "display_phone": "(415) 643-4983",
+  "review_count": 511,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39059,
+    "latitude": 37.7361999
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4618 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "4618 3rd St",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/auntie-aprils-chicken-n-waffles-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GvxqFd5F2WRFRBYa_rSIxA/o.jpg",
+  "phone": "+14156434983",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "soulfood",
+      "title": "Soul Food"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 24.16352555304
+}

@@ -1,0 +1,41 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "4505 Burgers & BBQ",
+  "categories": [
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4382846,
+    "latitude": 37.7761896
+  },
+  "review_count": 1070,
+  "url": "https://www.yelp.com/biz/4505-burgers-and-bbq-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 231-6993",
+  "distance": 1707.7562908879997,
+  "id": "4505-burgers-and-bbq-san-francisco",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LhvUTH9WlrIP9dVtQvj2Ig/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "705 Divisadero St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "705 Divisadero St",
+      "San Francisco, CA 94117"
+    ],
+    "zip_code": "94117"
+  },
+  "phone": "+14152316993",
+  "rating": 3.5
+}

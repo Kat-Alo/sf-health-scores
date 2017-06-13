@@ -1,0 +1,48 @@
+{
+  "name": "Dagwood & Scoops",
+  "id": "dagwood-and-scoops-san-francisco",
+  "display_phone": "(415) 814-3459",
+  "review_count": 112,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.407160773873,
+    "latitude": 37.7529750019312
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2736 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2736 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dagwood-and-scoops-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oJGEJfsxGOobCjBB9gdETw/o.jpg",
+  "phone": "+14158143459",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 8.760969670718
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Hana Zen",
+  "id": "hana-zen-san-francisco-3",
+  "display_phone": "(415) 421-8822",
+  "review_count": 368,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.410575,
+    "latitude": 37.811211
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "Pier 39 M209",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "Pier 39 M209",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/hana-zen-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DRZ4fwP8YP3PWhlxnl75JA/o.jpg",
+  "phone": "+14154218822",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 332.1952635272
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Dobbs Ferry Restaurant",
+  "id": "dobbs-ferry-restaurant-san-francisco",
+  "display_phone": "(415) 551-7700",
+  "review_count": 454,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42318,
+    "latitude": 37.77707
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "409 Gough St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "409 Gough St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/dobbs-ferry-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A-9koV6w_FHLYhTAeGjk3Q/o.jpg",
+  "phone": "+14155517700",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 1619.3245062939998
+}

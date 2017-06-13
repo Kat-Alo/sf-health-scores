@@ -1,0 +1,45 @@
+{
+  "name": "Brenda's Meat & Three",
+  "id": "brendas-meat-and-three-san-francisco-3",
+  "display_phone": "(415) 926-8657",
+  "review_count": 567,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.438551256878,
+    "latitude": 37.7781489203981
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "919 Divisadero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "919 Divisadero St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/brendas-meat-and-three-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jaTBzvwG6WxT9NTk4tN6Dw/o.jpg",
+  "phone": "+14159268657",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "soulfood",
+      "title": "Soul Food"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "southern",
+      "title": "Southern"
+    }
+  ],
+  "distance": 8.418400569364
+}

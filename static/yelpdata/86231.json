@@ -1,0 +1,37 @@
+{
+  "name": "Peet's Coffee",
+  "id": "peets-coffee-san-francisco-13",
+  "display_phone": "(415) 593-2661",
+  "review_count": 140,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.421194412234,
+    "latitude": 37.7816608858211
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "601 Van Ness",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "601 Van Ness",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/peets-coffee-san-francisco-13?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7ocB6P201ysbpxJLyKOwrg/o.jpg",
+  "phone": "+14155932661",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2669.7241480919997
+}

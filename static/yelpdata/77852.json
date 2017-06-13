@@ -1,0 +1,40 @@
+{
+  "name": "House of Thai 2",
+  "id": "house-of-thai-2-san-francisco",
+  "display_phone": "(415) 552-2960",
+  "review_count": 198,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4302516,
+    "latitude": 37.772247
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "494 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "494 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/house-of-thai-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KMHbu8BhtUCvDe7o7V6NSQ/o.jpg",
+  "phone": "+14155522960",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 1374.4005000999998
+}

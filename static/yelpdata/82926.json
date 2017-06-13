@@ -1,0 +1,41 @@
+{
+  "name": "Hops & Hominy",
+  "id": "hops-and-hominy-san-francisco",
+  "display_phone": "(415) 373-6341",
+  "review_count": 1548,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.405591253967,
+    "latitude": 37.7892737258644
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1 Tillman Pl",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "1 Tillman Pl",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/hops-and-hominy-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xJ6mi9tza2IcPTpBHSRvPg/o.jpg",
+  "phone": "+14153736341",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "southern",
+      "title": "Southern"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 4160.22839035
+}

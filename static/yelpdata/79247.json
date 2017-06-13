@@ -1,0 +1,41 @@
+{
+  "name": "Delicateses La Plaza",
+  "id": "delicateses-la-plaza-san-francisco",
+  "display_phone": "(415) 341-8542",
+  "review_count": 18,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4146,
+    "latitude": 37.75586
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2598 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "2598 Folsom St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/delicateses-la-plaza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QA1aKq84zjSGd3axHakwmw/o.jpg",
+  "phone": "+14153418542",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 2032.512090584
+}

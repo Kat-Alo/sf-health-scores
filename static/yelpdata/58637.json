@@ -1,0 +1,41 @@
+{
+  "is_closed": false,
+  "price": "$$$",
+  "name": "La Ciccia",
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "sardinian",
+      "title": "Sardinian"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.426666,
+    "latitude": 37.742265
+  },
+  "review_count": 910,
+  "url": "https://www.yelp.com/biz/la-ciccia-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 550-8114",
+  "distance": 4798.045559698,
+  "id": "la-ciccia-san-francisco",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z3vD-x_sAKlgTimgXJp_qw/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "291 30th St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "291 30th St",
+      "San Francisco, CA 94131"
+    ],
+    "zip_code": "94131"
+  },
+  "phone": "+14155508114",
+  "rating": 4.5
+}

@@ -1,0 +1,43 @@
+{
+  "name": "El Buen Comer",
+  "id": "el-buen-comer-san-francisco-3",
+  "display_phone": "(415) 817-1542",
+  "review_count": 138,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.422251552343,
+    "latitude": 37.7418518811464
+  },
+  "location": {
+    "address3": null,
+    "address2": "",
+    "address1": "3435 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3435 Mission St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/el-buen-comer-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-m6Tllm-4QsMpYzBKb0rYA/o.jpg",
+  "phone": "+14158171542",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 2462.8706889379996
+}

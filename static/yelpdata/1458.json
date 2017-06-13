@@ -1,0 +1,47 @@
+{
+  "name": "Bio Cafe",
+  "id": "bio-cafe-san-francisco",
+  "display_phone": "(415) 362-0255",
+  "review_count": 365,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.405940330727,
+    "latitude": 37.786643801853
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "75 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "75 O'Farrell St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bio-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-0LumpfQ7PDHKRuiIHh8Pw/o.jpg",
+  "phone": "+14153620255",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 10.924388695582
+}

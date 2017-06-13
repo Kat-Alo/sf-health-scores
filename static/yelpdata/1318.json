@@ -1,0 +1,41 @@
+{
+  "name": "Gordo Taqueria",
+  "id": "gordo-taqueria-san-francisco-3",
+  "display_phone": "(415) 668-8226",
+  "review_count": 433,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4780676,
+    "latitude": 37.7805749
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5450 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "5450 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/gordo-taqueria-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nAlf0ACeS_986ml168eKlQ/o.jpg",
+  "phone": "+14156688226",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 27.149525566499996
+}

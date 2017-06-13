@@ -1,0 +1,44 @@
+{
+  "name": "Buster's Cheesesteak",
+  "id": "busters-cheesesteak-san-francisco",
+  "display_phone": "(415) 392-2800",
+  "review_count": 649,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40734,
+    "latitude": 37.79856
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "366 Columbus Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "366 Columbus Ave",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/busters-cheesesteak-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zSgo6bIUQJYRCYjt1RWXEg/o.jpg",
+  "phone": "+14153922800",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "cheesesteaks",
+      "title": "Cheesesteaks"
+    }
+  ],
+  "distance": 29.720620025219997
+}

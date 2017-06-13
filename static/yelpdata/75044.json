@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$$$",
+  "name": "1760",
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.4211588,
+    "latitude": 37.7931389
+  },
+  "review_count": 582,
+  "url": "https://www.yelp.com/biz/1760-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 359-1212",
+  "distance": 3828.678439976,
+  "id": "1760-san-francisco",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5a0l30lt79y88moLpotiag/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "1760 Polk St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "1760 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "zip_code": "94109"
+  },
+  "phone": "+14153591212",
+  "rating": 4.0
+}

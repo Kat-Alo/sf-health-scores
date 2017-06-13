@@ -1,0 +1,37 @@
+{
+  "name": "H2O Cafe",
+  "id": "h2o-cafe-san-francisco",
+  "display_phone": "(415) 929-6880",
+  "review_count": 43,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.420204162598,
+    "latitude": 37.7893218994141
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1330 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1330 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/h2o-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O_vMFgAsJkNmCCuzVOnkog/o.jpg",
+  "phone": "+14159296880",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 16.53686329304
+}

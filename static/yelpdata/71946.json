@@ -1,0 +1,45 @@
+{
+  "name": "Heyday",
+  "id": "heyday-san-francisco-2",
+  "display_phone": "(415) 659-6868",
+  "review_count": 31,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.39864,
+    "latitude": 37.78845
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "555 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94105",
+    "state": "CA",
+    "display_address": [
+      "555 Mission St",
+      "San Francisco, CA 94105"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/heyday-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6tYXjpmbqHPLd851WmyF8A/o.jpg",
+  "phone": "+14156596868",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 4534.828185724
+}

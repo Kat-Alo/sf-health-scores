@@ -1,0 +1,43 @@
+{
+  "name": "El Tonayense Taco Truck",
+  "id": "el-tonayense-taco-truck-san-francisco-4",
+  "display_phone": "(415) 559-0404",
+  "review_count": 296,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.413286294498,
+    "latitude": 37.7684838520559
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "17th & Harrison St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "17th & Harrison St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/el-tonayense-taco-truck-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zy1V1Lwq6ejyXcQOiXpinA/o.jpg",
+  "phone": "+14155590404",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 105.7133281292
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Balompie Cafe",
+  "id": "balompie-cafe-san-francisco",
+  "display_phone": "(415) 648-9199",
+  "review_count": 576,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4181677,
+    "latitude": 37.7618121
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3349 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3349 18th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/balompie-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3oMNAMt2xbG8fh36Aetekw/o.jpg",
+  "phone": "+14156489199",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    }
+  ],
+  "distance": 11.781737704603998
+}

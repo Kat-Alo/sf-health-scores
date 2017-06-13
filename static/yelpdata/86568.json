@@ -1,0 +1,48 @@
+{
+  "name": "Baiano Pizzeria",
+  "id": "baiano-pizzeria-san-francisco",
+  "display_phone": "(415) 665-3777",
+  "review_count": 203,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.466140165719,
+    "latitude": 37.7634278795774
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1330 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1330 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/baiano-pizzeria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7V7d2WyYjXi82dNPeb92vw/o.jpg",
+  "phone": "+14156653777",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 2625.3554489619996
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Glen Park Elementary School",
+  "id": "glen-park-elementary-school-san-francisco",
+  "display_phone": "(415) 469-4713",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.436003908515,
+    "latitude": 37.7331186085939
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "151 Lippard Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94131",
+    "state": "CA",
+    "display_address": [
+      "151 Lippard Ave",
+      "San Francisco, CA 94131"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/glen-park-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zuni8XyPB01nYG-zo6mZ_g/o.jpg",
+  "phone": "+14154694713",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 15.75691275544
+}

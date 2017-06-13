@@ -1,0 +1,36 @@
+{
+  "name": "Guadalupe Elementary School",
+  "id": "guadalupe-elementary-school-san-francisco",
+  "display_phone": "(415) 469-4718",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.434334903955,
+    "latitude": 37.7104029804468
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "859 Prague St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "859 Prague St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.0,
+  "url": "https://www.yelp.com/biz/guadalupe-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-qu5jHaP8sB99QmJoOfhtA/o.jpg",
+  "phone": "+14154694718",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 43.905852946
+}

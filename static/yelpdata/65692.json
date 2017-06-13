@@ -1,0 +1,41 @@
+{
+  "name": "The Blarney Stone",
+  "id": "the-blarney-stone-san-francisco",
+  "display_phone": "(415) 386-9914",
+  "review_count": 205,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.479920387268,
+    "latitude": 37.7799073580146
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5625 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94121",
+    "state": "CA",
+    "display_address": [
+      "5625 Geary Blvd",
+      "San Francisco, CA 94121"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/the-blarney-stone-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bSbCNNLkHDOCtu9b57LS4w/o.jpg",
+  "phone": "+14153869914",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "irish",
+      "title": "Irish"
+    }
+  ],
+  "distance": 36.871278137379996
+}

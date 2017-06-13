@@ -1,0 +1,45 @@
+{
+  "name": "Casa Lucaz 3",
+  "id": "casa-lucaz-3-san-francisco",
+  "display_phone": "(415) 334-9747",
+  "review_count": 42,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.434218227863,
+    "latitude": 37.7253898233175
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4555 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "4555 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/casa-lucaz-3-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/br4E9gAGK592B67BYx01IQ/o.jpg",
+  "phone": "+14153349747",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    },
+    {
+      "alias": "importedfood",
+      "title": "Imported Food"
+    }
+  ],
+  "distance": 10.76563808716
+}

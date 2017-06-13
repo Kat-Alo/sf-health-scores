@@ -1,0 +1,37 @@
+{
+  "name": "Gourmet Kitchen",
+  "id": "gourmet-kitchen-san-francisco",
+  "display_phone": "(415) 781-7988",
+  "review_count": 55,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40848,
+    "latitude": 37.79554
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1051 Stockton St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "1051 Stockton St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/gourmet-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Qvpm12hvYk6AF9_vC2BCZQ/o.jpg",
+  "phone": "+14157817988",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.209868445559998
+}

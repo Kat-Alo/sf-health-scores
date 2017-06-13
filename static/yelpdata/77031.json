@@ -1,0 +1,37 @@
+{
+  "name": "Golden Horse Restaurant",
+  "id": "golden-horse-restaurant-san-francisco",
+  "display_phone": "(415) 441-8889",
+  "review_count": 146,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.417098999023,
+    "latitude": 37.790828704834
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1060 Hyde St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1060 Hyde St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/golden-horse-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CL7_9s3fWHGFpkMdMHWT7A/o.jpg",
+  "phone": "+14154418889",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 3739.6051724579997
+}

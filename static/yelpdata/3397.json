@@ -1,0 +1,37 @@
+{
+  "is_closed": false,
+  "price": "$$",
+  "name": "21st Amendment Brewpub",
+  "categories": [
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    }
+  ],
+  "coordinates": {
+    "longitude": -122.392441,
+    "latitude": 37.782536
+  },
+  "review_count": 2177,
+  "url": "https://www.yelp.com/biz/21st-amendment-brewpub-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "display_phone": "(415) 369-0900",
+  "distance": 27.247375047840002,
+  "id": "21st-amendment-brewpub-san-francisco-4",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HrOvpbCJ4Y3iZKgHujWE7A/o.jpg",
+  "transactions": [],
+  "location": {
+    "address1": "563 2nd St",
+    "country": "US",
+    "city": "San Francisco",
+    "address2": "",
+    "address3": "",
+    "state": "CA",
+    "display_address": [
+      "563 2nd St",
+      "San Francisco, CA 94107"
+    ],
+    "zip_code": "94107"
+  },
+  "phone": "+14153690900",
+  "rating": 3.5
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Golden Wok",
+  "id": "golden-wok-san-francisco",
+  "display_phone": "(415) 586-8000",
+  "review_count": 121,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.46292,
+    "latitude": 37.71408
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "295 Orizaba Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "295 Orizaba Ave",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/golden-wok-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tL8YTaLtvt07DSodfXCdVQ/o.jpg",
+  "phone": "+14155868000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 5700.76025398
+}

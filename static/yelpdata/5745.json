@@ -1,0 +1,35 @@
+{
+  "name": "Bayco Vending",
+  "id": "bayco-vending-san-francisco",
+  "display_phone": "(415) 621-3636",
+  "review_count": 2,
+  "coordinates": {
+    "longitude": -122.42112,
+    "latitude": 37.77991
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 1.0,
+  "url": "https://www.yelp.com/biz/bayco-vending-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "",
+  "phone": "+14156213636",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "localservices",
+      "title": "Local Services"
+    }
+  ],
+  "distance": 2387.141424964
+}

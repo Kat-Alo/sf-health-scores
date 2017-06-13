@@ -1,0 +1,44 @@
+{
+  "name": "Amici's East Coast Pizzeria",
+  "id": "amicis-east-coast-pizzeria-san-francisco-3",
+  "display_phone": "(415) 885-4500",
+  "review_count": 458,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43789641468,
+    "latitude": 37.7998263161104
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2200 Lombard St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2200 Lombard St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/amicis-east-coast-pizzeria-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SK4p5DWSwAoQoQKidDFkOQ/o.jpg",
+  "phone": "+14158854500",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 23.053172685419998
+}

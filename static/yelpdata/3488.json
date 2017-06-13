@@ -1,0 +1,43 @@
+{
+  "name": "Izakaya Ninja",
+  "id": "izakaya-ninja-san-francisco",
+  "display_phone": "(415) 923-1141",
+  "review_count": 159,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41232542521,
+    "latitude": 37.789914239405
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "900 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "900 Bush St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/izakaya-ninja-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fgI5FULgVq-HQpJbO9WP8w/o.jpg",
+  "phone": "+14159231141",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 38.95537504671999
+}

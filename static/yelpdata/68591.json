@@ -1,0 +1,45 @@
+{
+  "name": "Woods Cervecer\u00eda",
+  "id": "woods-cervecer\u00eda-san-francisco-2",
+  "display_phone": "(415) 212-8412",
+  "review_count": 162,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.428520202637,
+    "latitude": 37.7610893249512
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3801 18th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94114",
+    "state": "CA",
+    "display_address": [
+      "3801 18th St",
+      "San Francisco, CA 94114"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/woods-cervecer%C3%ADa-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PFPxHJYsLHrnu473K9Poog/o.jpg",
+  "phone": "+14152128412",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 31.8441795607
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Fearless Coffee",
+  "id": "fearless-coffee-san-francisco-3",
+  "display_phone": "(415) 692-0181",
+  "review_count": 62,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.395425822571,
+    "latitude": 37.7852917248521
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "303 2nd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "303 2nd St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/fearless-coffee-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VMgZSo19dQLmyk6RBUW4nw/o.jpg",
+  "phone": "+14156920181",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 1113.669234558
+}

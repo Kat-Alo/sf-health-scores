@@ -1,0 +1,45 @@
+{
+  "name": "Rocco's Caf\u00e9",
+  "id": "roccos-caf\u00e9-san-francisco-3",
+  "display_phone": "(415) 554-0522",
+  "review_count": 745,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40845489502,
+    "latitude": 37.7759552001953
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1131 Folsom St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "1131 Folsom St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/roccos-caf%C3%A9-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZUGZqVh2HKrEBqFMecZhDg/o.jpg",
+  "phone": "+14155540522",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 22.24850429476
+}

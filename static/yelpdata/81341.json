@@ -1,0 +1,37 @@
+{
+  "name": "Philz Coffee",
+  "id": "philz-coffee-san-francisco",
+  "display_phone": "(415) 875-9370",
+  "review_count": 1544,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.41426366546,
+    "latitude": 37.752397102831
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3101 24th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3101 24th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/philz-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CQZnOGxqh2JmnCGTDjteIw/o.jpg",
+  "phone": "+14158759370",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2167.53716499
+}

@@ -1,0 +1,37 @@
+{
+  "name": "The City Club of San Francisco",
+  "id": "the-city-club-of-san-francisco-san-francisco",
+  "display_phone": "(415) 362-2480",
+  "review_count": 118,
+  "coordinates": {
+    "longitude": -122.401245117188,
+    "latitude": 37.7916488647461
+  },
+  "location": {
+    "address3": "",
+    "address2": "Fl 10",
+    "address1": "155 Sansome St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "155 Sansome St",
+      "Fl 10",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/the-city-club-of-san-francisco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A9zUtIPmpTX4vzvJITbX2w/o.jpg",
+  "phone": "+14153622480",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 37.22182457618
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Fresco Pizza Shawarma",
+  "id": "fresco-pizza-shawarma-san-francisco-4",
+  "display_phone": "(415) 440-4410",
+  "review_count": 212,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4202,
+    "latitude": 37.78932
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1338 Polk St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94109",
+    "state": "CA",
+    "display_address": [
+      "1338 Polk St",
+      "San Francisco, CA 94109"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/fresco-pizza-shawarma-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h56FD2rzqyB6AlaDi0atVg/o.jpg",
+  "phone": "+14154404410",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    }
+  ],
+  "distance": 19.998856188959998
+}

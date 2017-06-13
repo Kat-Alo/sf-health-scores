@@ -1,0 +1,37 @@
+{
+  "name": "Alice's Chinese Bistro",
+  "id": "alices-chinese-bistro-san-francisco-2",
+  "display_phone": "",
+  "review_count": 2,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46656745209,
+    "latitude": 37.7623598110073
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1301 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1301 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/alices-chinese-bistro-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LTh2Ne74WkdV-642R1cNbA/o.jpg",
+  "phone": "",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 2652.805317606
+}

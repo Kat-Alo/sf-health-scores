@@ -1,0 +1,43 @@
+{
+  "name": "Cafe Coco",
+  "id": "cafe-coco-san-francisco",
+  "display_phone": "(415) 750-1898",
+  "review_count": 111,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4644324,
+    "latitude": 37.7808001
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4201 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94118",
+    "state": "CA",
+    "display_address": [
+      "4201 Geary Blvd",
+      "San Francisco, CA 94118"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cafe-coco-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4dJYdwaVVq3cSQDTZwsIeg/o.jpg",
+  "phone": "+14157501898",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 3308.667533572
+}

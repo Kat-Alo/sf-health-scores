@@ -1,0 +1,44 @@
+{
+  "name": "77 Chinese & Hawaii BBQ",
+  "id": "77-chinese-and-hawaii-bbq-san-francisco",
+  "display_phone": "(415) 433-1938",
+  "review_count": 162,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.399952667601,
+    "latitude": 37.7919563924566
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "77 Battery St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94111",
+    "state": "CA",
+    "display_address": [
+      "77 Battery St",
+      "San Francisco, CA 94111"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/77-chinese-and-hawaii-bbq-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0fro8BzWHp1oGgiGUWZtHw/o.jpg",
+  "phone": "+14154331938",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 17.68149268865
+}

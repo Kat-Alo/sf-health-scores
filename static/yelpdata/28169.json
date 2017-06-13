@@ -1,0 +1,38 @@
+{
+  "name": "Bloomingdale's",
+  "id": "bloomingdales-san-francisco",
+  "display_phone": "(415) 856-5300",
+  "review_count": 808,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.405837774277,
+    "latitude": 37.7839860047902
+  },
+  "location": {
+    "address3": "Level 1",
+    "address2": "",
+    "address1": "845 Market St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "845 Market St",
+      "Level 1",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/bloomingdales-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PgTnBTEkpbdp6hZiFJVu6Q/o.jpg",
+  "phone": "+14158565300",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "deptstores",
+      "title": "Department Stores"
+    }
+  ],
+  "distance": 3718.60698694
+}

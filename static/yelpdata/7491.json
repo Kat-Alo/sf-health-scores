@@ -1,0 +1,40 @@
+{
+  "name": "Auto City Car Wash",
+  "id": "auto-city-car-wash-san-francisco",
+  "display_phone": "(415) 863-6643",
+  "review_count": 148,
+  "coordinates": {
+    "longitude": -122.41699,
+    "latitude": 37.76481
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "505 S Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "505 S Van Ness Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/auto-city-car-wash-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JTUuTxB6zuSbMO30au85qw/o.jpg",
+  "phone": "+14158636643",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "carwash",
+      "title": "Car Wash"
+    },
+    {
+      "alias": "auto_detailing",
+      "title": "Auto Detailing"
+    }
+  ],
+  "distance": 30.678735766199996
+}

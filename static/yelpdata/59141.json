@@ -1,0 +1,41 @@
+{
+  "name": "Cindy's Market",
+  "id": "cindys-market-san-francisco",
+  "display_phone": "(415) 221-7403",
+  "review_count": 50,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.450827807188,
+    "latitude": 37.7733892947435
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2084 Hayes St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "2084 Hayes St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/cindys-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YW4rN4ERms5Tc4dHVrwVEg/o.jpg",
+  "phone": "+14152217403",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 15.995738811439999
+}

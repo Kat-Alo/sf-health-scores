@@ -1,0 +1,45 @@
+{
+  "name": "Tartine Bakery & Cafe",
+  "id": "tartine-bakery-and-cafe-san-francisco",
+  "display_phone": "(415) 487-2600",
+  "review_count": 6601,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.424051321456,
+    "latitude": 37.7614250022004
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "600 Guerrero St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "600 Guerrero St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/tartine-bakery-and-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vTLu8G86IqIazm7BRqIH4g/o.jpg",
+  "phone": "+14154872600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 2096.177580984
+}

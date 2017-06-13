@@ -1,0 +1,40 @@
+{
+  "name": "Bret Harte Elementary School",
+  "id": "bret-harte-elementary-school-san-francisco",
+  "display_phone": "(415) 330-1520",
+  "review_count": 1,
+  "coordinates": {
+    "longitude": -122.389177667414,
+    "latitude": 37.7183158322398
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1035 Gilman Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "1035 Gilman Ave",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/bret-harte-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hIq5E_ERWIfA_5xOWqsxYQ/o.jpg",
+  "phone": "+14153301520",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 48.310727570459996
+}

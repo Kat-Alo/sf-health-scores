@@ -1,0 +1,45 @@
+{
+  "name": "BibimBar",
+  "id": "bibimbar-san-francisco",
+  "display_phone": "(415) 399-1961",
+  "review_count": 160,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.403784068183,
+    "latitude": 37.7908870219848
+  },
+  "location": {
+    "address3": "International Food Court",
+    "address2": "Ste 2",
+    "address1": "380 Bush St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94104",
+    "state": "CA",
+    "display_address": [
+      "380 Bush St",
+      "Ste 2",
+      "International Food Court",
+      "San Francisco, CA 94104"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/bibimbar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/caAB5AmYvDMD9h-SC0YIsA/o.jpg",
+  "phone": "+14153991961",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "food_court",
+      "title": "Food Court"
+    },
+    {
+      "alias": "korean",
+      "title": "Korean"
+    }
+  ],
+  "distance": 4399.869094258
+}

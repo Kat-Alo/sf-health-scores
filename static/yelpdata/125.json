@@ -1,0 +1,41 @@
+{
+  "name": "Centerfolds",
+  "id": "centerfolds-san-francisco",
+  "display_phone": "(415) 834-0662",
+  "review_count": 131,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40361,
+    "latitude": 37.79803
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "391 Broadway",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "391 Broadway",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/centerfolds-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oju6HYqqx3ib5h_Qrp6c9Q/o.jpg",
+  "phone": "+14158340662",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "adultentertainment",
+      "title": "Adult Entertainment"
+    },
+    {
+      "alias": "cabaret",
+      "title": "Cabaret"
+    }
+  ],
+  "distance": 13.63963447398
+}

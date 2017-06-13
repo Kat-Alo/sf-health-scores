@@ -1,0 +1,42 @@
+{
+  "name": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+  "id": "fogo-de-ch\u00e3o-brazilian-steakhouse-san-francisco-4",
+  "display_phone": "(415) 427-0004",
+  "review_count": 377,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.400256183964,
+    "latitude": 37.7850390233799
+  },
+  "location": {
+    "address3": null,
+    "address2": "Ste 100",
+    "address1": "201 3rd St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "201 3rd St",
+      "Ste 100",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/fogo-de-ch%C3%A3o-brazilian-steakhouse-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7o9pBoTauMwNWNnkOe5ACQ/o.jpg",
+  "phone": "+14154270004",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "brazilian",
+      "title": "Brazilian"
+    },
+    {
+      "alias": "steak",
+      "title": "Steakhouses"
+    }
+  ],
+  "distance": 4162.307979498
+}

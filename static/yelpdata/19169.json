@@ -1,0 +1,37 @@
+{
+  "name": "Bottom's Up",
+  "id": "bottoms-up-san-francisco",
+  "display_phone": "(415) 337-1678",
+  "review_count": 179,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.436330697319,
+    "latitude": 37.7229341091192
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "4704 Mission St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "4704 Mission St",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/bottoms-up-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KNdfbAVPe1fUfwkwf-s34Q/o.jpg",
+  "phone": "+14153371678",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    }
+  ],
+  "distance": 11.898178925359998
+}

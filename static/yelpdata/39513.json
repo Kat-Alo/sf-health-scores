@@ -1,0 +1,41 @@
+{
+  "name": "Domo",
+  "id": "domo-san-francisco",
+  "display_phone": "(415) 861-8887",
+  "review_count": 779,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.42631,
+    "latitude": 37.77586
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "511 Laguna St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "511 Laguna St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/domo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4IKe1bTvPlM-DUVmFFs8Pw/o.jpg",
+  "phone": "+14158618887",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 13.08179699648
+}

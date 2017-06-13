@@ -1,0 +1,36 @@
+{
+  "name": "Archbishop Riordan High School",
+  "id": "archbishop-riordan-high-school-san-francisco",
+  "display_phone": "(415) 586-8200",
+  "review_count": 14,
+  "coordinates": {
+    "longitude": -122.453361458784,
+    "latitude": 37.7279080937077
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "175 Phelan Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94112",
+    "state": "CA",
+    "display_address": [
+      "175 Phelan Ave",
+      "San Francisco, CA 94112"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/archbishop-riordan-high-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Z7SV6YyiKAb5UinU0IiOsQ/o.jpg",
+  "phone": "+14155868200",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 102.0972055228
+}

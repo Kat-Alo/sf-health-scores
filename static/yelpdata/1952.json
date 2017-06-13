@@ -1,0 +1,40 @@
+{
+  "name": "Han Bat Korean Restaurant",
+  "id": "han-bat-korean-restaurant-san-francisco",
+  "display_phone": "(415) 566-9221",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.487649777966,
+    "latitude": 37.7424770226378
+  },
+  "location": {
+    "address3": null,
+    "address2": null,
+    "address1": "2001 Taraval St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94116",
+    "state": "CA",
+    "display_address": [
+      "2001 Taraval St",
+      "San Francisco, CA 94116"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/han-bat-korean-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QWKIBCamf4djSJa7M5bMyw/o.jpg",
+  "phone": "+14155669221",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 6.7867927755199995
+}

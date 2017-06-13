@@ -1,0 +1,36 @@
+{
+  "name": "TPC Harding Park",
+  "id": "tpc-harding-park-san-francisco",
+  "display_phone": "(415) 664-4690",
+  "review_count": 213,
+  "coordinates": {
+    "longitude": -122.493863177289,
+    "latitude": 37.7242135100107
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "99 Harding Rd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "99 Harding Rd",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/tpc-harding-park-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KS7n4ctHUc9IhC7OGmeQog/o.jpg",
+  "phone": "+14156644690",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "golf",
+      "title": "Golf"
+    }
+  ],
+  "distance": 6206.279697419999
+}

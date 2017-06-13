@@ -1,0 +1,45 @@
+{
+  "name": "New Lun Ting Cafe",
+  "id": "new-lun-ting-cafe-san-francisco",
+  "display_phone": "(415) 362-5667",
+  "review_count": 242,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.40626070665,
+    "latitude": 37.796116625102
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "670 Jackson St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "670 Jackson St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/new-lun-ting-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S1OPugrFNpFHpwqE8vjgVA/o.jpg",
+  "phone": "+14153625667",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 4730.186129258
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Garden of Eden",
+  "id": "garden-of-eden-san-francisco",
+  "display_phone": "(415) 397-2596",
+  "review_count": 55,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.40599,
+    "latitude": 37.79772
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "529 Broadway",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "529 Broadway",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/garden-of-eden-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TXE5Ui2IyubVzCY6mNmAtg/o.jpg",
+  "phone": "+14153972596",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "adultentertainment",
+      "title": "Adult Entertainment"
+    },
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    }
+  ],
+  "distance": 13.30230232592
+}

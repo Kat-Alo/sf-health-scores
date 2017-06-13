@@ -1,0 +1,36 @@
+{
+  "name": "Hamilton Recreation Center",
+  "id": "hamilton-recreation-center-san-francisco",
+  "display_phone": "(415) 292-2111",
+  "review_count": 63,
+  "coordinates": {
+    "longitude": -122.4350156,
+    "latitude": 37.7842244
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "1900 Geary Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "1900 Geary Blvd",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/hamilton-recreation-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nZ8sOl_nir0w-c5phxRWhg/o.jpg",
+  "phone": "+14152922111",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "recreation",
+      "title": "Recreation Centers"
+    }
+  ],
+  "distance": 2596.88896024
+}

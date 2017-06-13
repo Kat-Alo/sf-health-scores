@@ -1,0 +1,41 @@
+{
+  "name": "Dojima-Ann",
+  "id": "dojima-ann-san-francisco",
+  "display_phone": "(415) 956-0838",
+  "review_count": 636,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.40834,
+    "latitude": 37.78625
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "219 O'Farrell St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "219 O'Farrell St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/dojima-ann-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7mg7MEkWUSyKJGTyWcTFBg/o.jpg",
+  "phone": "+14159560838",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 20.433445581239997
+}

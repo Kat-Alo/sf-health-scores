@@ -1,0 +1,45 @@
+{
+  "name": "Events by The Cheshire Cat",
+  "id": "events-by-the-cheshire-cat-san-francisco",
+  "display_phone": "(415) 822-0400",
+  "review_count": 3,
+  "coordinates": {
+    "longitude": -122.385246276855,
+    "latitude": 37.7318496704102
+  },
+  "location": {
+    "address3": "Bldg 101, Space 1501",
+    "address2": "",
+    "address1": "Hunter's Point Naval Shipyard",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94124",
+    "state": "CA",
+    "display_address": [
+      "Hunter's Point Naval Shipyard",
+      "Bldg 101, Space 1501",
+      "San Francisco, CA 94124"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/events-by-the-cheshire-cat-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EXpEzFJfQ1csuf_5tsTdyg/o.jpg",
+  "phone": "+14158220400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    },
+    {
+      "alias": "wedding_planning",
+      "title": "Wedding Planning"
+    },
+    {
+      "alias": "eventplanning",
+      "title": "Party & Event Planning"
+    }
+  ],
+  "distance": 5693.299836542
+}

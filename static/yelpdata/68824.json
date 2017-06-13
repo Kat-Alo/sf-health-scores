@@ -1,0 +1,45 @@
+{
+  "name": "Harvey's Place",
+  "id": "harveys-place-san-francisco",
+  "display_phone": "(415) 495-0448",
+  "review_count": 6,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4028654,
+    "latitude": 37.7799001
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "330 5th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "330 5th St",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/harveys-place-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FrZiNUn3LVi2RNkzX7Id6w/o.jpg",
+  "phone": "+14154950448",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 10.37701707797
+}

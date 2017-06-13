@@ -1,0 +1,37 @@
+{
+  "name": "George And Lennie",
+  "id": "george-and-lennie-san-francisco",
+  "display_phone": "",
+  "review_count": 35,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4150428,
+    "latitude": 37.7815648
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "277 Golden Gate Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "277 Golden Gate Ave",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/george-and-lennie-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/T3KuC2_7v-452PaPxJT3pg/o.jpg",
+  "phone": "",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2970.236367226
+}

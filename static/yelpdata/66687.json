@@ -1,0 +1,42 @@
+{
+  "name": "Chipotle Mexican Grill",
+  "id": "chipotle-mexican-grill-san-francisco-14",
+  "display_phone": "(415) 418-3048",
+  "review_count": 131,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.4763826,
+    "latitude": 37.7279087
+  },
+  "location": {
+    "address3": "",
+    "address2": "Space OP183",
+    "address1": "3251 20th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Space OP183",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/chipotle-mexican-grill-san-francisco-14?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4cHyy3MACqjqXpI8mQMECw/o.jpg",
+  "phone": "+14154183048",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 1406.9111958683998
+}

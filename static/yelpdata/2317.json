@@ -1,0 +1,41 @@
+{
+  "name": "Burger Joint",
+  "id": "burger-joint-san-francisco-2",
+  "display_phone": "(415) 824-3494",
+  "review_count": 229,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.421326860785,
+    "latitude": 37.7599165588617
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "807 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "807 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/burger-joint-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FsmYExC1QqzmOXE6xqDXfg/o.jpg",
+  "phone": "+14158243494",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 9.888954950179999
+}

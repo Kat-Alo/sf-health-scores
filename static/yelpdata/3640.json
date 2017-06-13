@@ -1,0 +1,37 @@
+{
+  "name": "Hayes Street Grill",
+  "id": "hayes-street-grill-san-francisco",
+  "display_phone": "(415) 863-5545",
+  "review_count": 333,
+  "price": "$$$",
+  "coordinates": {
+    "longitude": -122.42176,
+    "latitude": 37.77717
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "320 Hayes St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "320 Hayes St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/hayes-street-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oZbzTIUmSnJUSvlO4RjJPg/o.jpg",
+  "phone": "+14158635545",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 29.543265929199997
+}

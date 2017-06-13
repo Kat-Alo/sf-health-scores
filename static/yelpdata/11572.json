@@ -1,0 +1,36 @@
+{
+  "name": "East & West Gourmet Food",
+  "id": "east-and-west-gourmet-food-livermore",
+  "display_phone": "(925) 687-0817",
+  "review_count": 175,
+  "price": "$",
+  "coordinates": {
+    "longitude": -121.624931335449,
+    "latitude": 37.5120506286621
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "Livermore",
+    "country": "US",
+    "zip_code": "94550",
+    "state": "CA",
+    "display_address": [
+      "Livermore, CA 94550"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/east-and-west-gourmet-food-livermore?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MJ7VjAITh25PlZFkQWAw8A/o.jpg",
+  "phone": "+19256870817",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "importedfood",
+      "title": "Imported Food"
+    }
+  ],
+  "distance": 59445.40824104
+}

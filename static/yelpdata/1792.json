@@ -1,0 +1,45 @@
+{
+  "name": "Atlas Cafe",
+  "id": "atlas-cafe-san-francisco",
+  "display_phone": "(415) 648-1047",
+  "review_count": 692,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.411439730935,
+    "latitude": 37.7589581646107
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3049 20th St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "3049 20th St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/atlas-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QR50HNZmDDuh5Ayk_i6kHw/o.jpg",
+  "phone": "+14156481047",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 12.88332835966
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Cybelle's Pizza",
+  "id": "cybelles-pizza-daly-city-2",
+  "display_phone": "(650) 755-6070",
+  "review_count": 177,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.470534667373,
+    "latitude": 37.6868176460266
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "2985 Junipero Serra Blvd",
+    "city": "Daly City",
+    "country": "US",
+    "zip_code": "94014",
+    "state": "CA",
+    "display_address": [
+      "2985 Junipero Serra Blvd",
+      "Daly City, CA 94014"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/cybelles-pizza-daly-city-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tPHZFniets907fg42jHQLg/o.jpg",
+  "phone": "+16507556070",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "brazilian",
+      "title": "Brazilian"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 8717.16391872
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Boxed Foods Company",
+  "id": "boxed-foods-company-san-francisco",
+  "display_phone": "(415) 981-9376",
+  "review_count": 547,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.404176114673,
+    "latitude": 37.7904869397086
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "245 Kearny St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "245 Kearny St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/boxed-foods-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VJky8kFzramTJraZ00XBrg/o.jpg",
+  "phone": "+14159819376",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 16.4438740185
+}

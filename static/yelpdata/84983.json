@@ -1,0 +1,41 @@
+{
+  "name": "Alcatraz Landing Cafe",
+  "id": "alcatraz-landing-cafe-san-francisco",
+  "display_phone": "(415) 981-7625",
+  "review_count": 68,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4052797,
+    "latitude": 37.8067766
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "Alcatraz Pier 33",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "Alcatraz Pier 33",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/alcatraz-landing-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4PTtrWEJoHVaRLSswY1-TA/o.jpg",
+  "phone": "+14159817625",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 5790.27415879
+}

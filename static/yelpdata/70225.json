@@ -1,0 +1,43 @@
+{
+  "name": "The Presidio",
+  "id": "the-presidio-san-francisco",
+  "display_phone": "(415) 561-5300",
+  "review_count": 198,
+  "coordinates": {
+    "longitude": -122.466278076172,
+    "latitude": 37.7974510192871
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94129",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94129"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/the-presidio-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZlwHraGJyBRuO3oAF8ApWw/o.jpg",
+  "phone": "+14155615300",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "landmarks",
+      "title": "Landmarks & Historical Buildings"
+    },
+    {
+      "alias": "parks",
+      "title": "Parks"
+    },
+    {
+      "alias": "culturalcenter",
+      "title": "Cultural Center"
+    }
+  ],
+  "distance": 4471.393957482
+}

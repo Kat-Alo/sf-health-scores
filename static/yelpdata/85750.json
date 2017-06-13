@@ -1,0 +1,45 @@
+{
+  "name": "Brasserie Saint James",
+  "id": "brasserie-saint-james-san-francisco-2",
+  "display_phone": "(415) 655-9868",
+  "review_count": 143,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.421821594238,
+    "latitude": 37.7609558105469
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "742 Valencia St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "742 Valencia St",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/brasserie-saint-james-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qeL6A8mtIQF10Gvzl017rw/o.jpg",
+  "phone": "+14156559868",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "brasseries",
+      "title": "Brasseries"
+    },
+    {
+      "alias": "modern_european",
+      "title": "Modern European"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 1281.6754791879998
+}

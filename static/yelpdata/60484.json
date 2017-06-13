@@ -1,0 +1,48 @@
+{
+  "name": "Clay Oven Indian Restaurant",
+  "id": "clay-oven-indian-restaurant-san-francisco-2",
+  "display_phone": "(415) 731-2400",
+  "review_count": 415,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.47017,
+    "latitude": 37.73662
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "385 W Portal Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94127",
+    "state": "CA",
+    "display_address": [
+      "385 W Portal Ave",
+      "San Francisco, CA 94127"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/clay-oven-indian-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sBfYXttptkYFraW-UU4inw/o.jpg",
+  "phone": "+14157312400",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "pakistani",
+      "title": "Pakistani"
+    }
+  ],
+  "distance": 19.86038857536
+}

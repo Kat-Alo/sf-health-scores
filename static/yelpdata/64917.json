@@ -1,0 +1,37 @@
+{
+  "name": "Cellar Door Sf",
+  "id": "cellar-door-sf-san-francisco",
+  "display_phone": "(415) 441-1461",
+  "review_count": 85,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.43604,
+    "latitude": 37.79837
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "3131 Fillmore",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "3131 Fillmore",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/cellar-door-sf-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WpycgrkXp9ssOHbCrF89Vg/o.jpg",
+  "phone": "+14154411461",
+  "is_closed": true,
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 13.296322018479998
+}

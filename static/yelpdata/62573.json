@@ -1,0 +1,45 @@
+{
+  "name": "Tamarindo Antojeria",
+  "id": "tamarindo-antojeria-oakland",
+  "display_phone": "(510) 444-1944",
+  "review_count": 965,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.2743,
+    "latitude": 37.80068
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "468 8th St",
+    "city": "Oakland",
+    "country": "US",
+    "zip_code": "94607",
+    "state": "CA",
+    "display_address": [
+      "468 8th St",
+      "Oakland, CA 94607"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/tamarindo-antojeria-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9ZWjdOuAvwESSf27OYsWuA/o.jpg",
+  "phone": "+15104441944",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    },
+    {
+      "alias": "tapas",
+      "title": "Tapas Bars"
+    }
+  ],
+  "distance": 17544.847652599998
+}

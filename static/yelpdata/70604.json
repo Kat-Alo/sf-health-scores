@@ -1,0 +1,45 @@
+{
+  "name": "OneUp Restaurant & Lounge",
+  "id": "oneup-restaurant-and-lounge-san-francisco",
+  "display_phone": "(415) 398-1234",
+  "review_count": 134,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.407065294443,
+    "latitude": 37.7893856734274
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "345 Stockton St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94108",
+    "state": "CA",
+    "display_address": [
+      "345 Stockton St",
+      "San Francisco, CA 94108"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/oneup-restaurant-and-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-iMR19nPHFSSSf3dlO3fXw/o.jpg",
+  "phone": "+14153981234",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 4086.9073427519997
+}

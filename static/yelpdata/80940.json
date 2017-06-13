@@ -1,0 +1,48 @@
+{
+  "name": "Goodfella's Pizza",
+  "id": "goodfellas-pizza-san-francisco-2",
+  "display_phone": "(415) 398-1000",
+  "review_count": 151,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.41315,
+    "latitude": 37.80554
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "377 Bay St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94133",
+    "state": "CA",
+    "display_address": [
+      "377 Bay St",
+      "San Francisco, CA 94133"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/goodfellas-pizza-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2B7a4WrW5guuEdY9IFg6CA/o.jpg",
+  "phone": "+14153981000",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 5366.320089899999
+}

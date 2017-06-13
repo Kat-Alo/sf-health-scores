@@ -1,0 +1,41 @@
+{
+  "name": "Mars Bar & Restaurant",
+  "id": "mars-bar-and-restaurant-san-francisco",
+  "display_phone": "(415) 621-6277",
+  "review_count": 403,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.403236671793,
+    "latitude": 37.7732325286256
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "798 Brannan St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94103",
+    "state": "CA",
+    "display_address": [
+      "798 Brannan St",
+      "San Francisco, CA 94103"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/mars-bar-and-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ETbBcZB7gDvMoKr7wH0Tog/o.jpg",
+  "phone": "+14156216277",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 13.055114139279999
+}

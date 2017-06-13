@@ -1,0 +1,36 @@
+{
+  "name": "Gas & Shop",
+  "id": "gas-and-shop-san-francisco",
+  "display_phone": "(415) 863-6835",
+  "review_count": 17,
+  "coordinates": {
+    "longitude": -122.417037963867,
+    "latitude": 37.7638206481934
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "599 South Van Ness Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94110",
+    "state": "CA",
+    "display_address": [
+      "599 South Van Ness Ave",
+      "San Francisco, CA 94110"
+    ]
+  },
+  "transactions": [],
+  "rating": 2.0,
+  "url": "https://www.yelp.com/biz/gas-and-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9CVHrg5NFKD_UhtCSCVaJQ/o.jpg",
+  "phone": "+14158636835",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    }
+  ],
+  "distance": 24.87219359402
+}

@@ -1,0 +1,41 @@
+{
+  "name": "G & L Bakery & Restaurant",
+  "id": "g-and-l-bakery-and-restaurant-san-francisco",
+  "display_phone": "(415) 239-6283",
+  "review_count": 37,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.407178208232,
+    "latitude": 37.7125500887632
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "198 Leland Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94134",
+    "state": "CA",
+    "display_address": [
+      "198 Leland Ave",
+      "San Francisco, CA 94134"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/g-and-l-bakery-and-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nMWso-fbkIzblmeARyANHQ/o.jpg",
+  "phone": "+14152396283",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.11503808606
+}

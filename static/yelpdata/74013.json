@@ -1,0 +1,40 @@
+{
+  "name": "April Nine Thai Kitchen",
+  "id": "april-nine-thai-kitchen-san-francisco",
+  "display_phone": "(415) 585-8058",
+  "review_count": 250,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.4690478,
+    "latitude": 37.7141645
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "701 Randolph St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94132",
+    "state": "CA",
+    "display_address": [
+      "701 Randolph St",
+      "San Francisco, CA 94132"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/april-nine-thai-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/161qmo7MdkPwS3av77mtGg/o.jpg",
+  "phone": "+14155858058",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 5934.84519434
+}

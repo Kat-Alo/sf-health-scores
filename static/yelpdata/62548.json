@@ -1,0 +1,39 @@
+{
+  "name": "Estrella Taqueria",
+  "id": "estrella-taqueria-san-francisco",
+  "display_phone": "(415) 861-1455",
+  "review_count": 145,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.431022644043,
+    "latitude": 37.7718353271484
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "533 Haight St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94117",
+    "state": "CA",
+    "display_address": [
+      "533 Haight St",
+      "San Francisco, CA 94117"
+    ]
+  },
+  "transactions": [
+    "pickup"
+  ],
+  "rating": 2.5,
+  "url": "https://www.yelp.com/biz/estrella-taqueria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yJw-M40eYoWKLyi1M9lAuw/o.jpg",
+  "phone": "+14158611455",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 17.815329426399998
+}

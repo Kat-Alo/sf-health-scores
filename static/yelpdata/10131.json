@@ -1,0 +1,44 @@
+{
+  "name": "Cybelle's Front Room",
+  "id": "cybelles-front-room-san-francisco",
+  "display_phone": "(415) 665-8088",
+  "review_count": 356,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.46641,
+    "latitude": 37.76238
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1385 9th Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94122",
+    "state": "CA",
+    "display_address": [
+      "1385 9th Ave",
+      "San Francisco, CA 94122"
+    ]
+  },
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/cybelles-front-room-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3ghrpMe0N_Cxg5Dc4_EB9g/o.jpg",
+  "phone": "+14156658088",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 1757.655004126
+}

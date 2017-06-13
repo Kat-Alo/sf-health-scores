@@ -1,0 +1,48 @@
+{
+  "name": "Straw",
+  "id": "straw-san-francisco",
+  "display_phone": "(415) 431-3663",
+  "review_count": 1400,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.424198,
+    "latitude": 37.774056
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "203 Octavia Blvd",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "203 Octavia Blvd",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/straw-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gZDB5C6Sa83Kigk7bEzaNw/o.jpg",
+  "phone": "+14154313663",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 1816.6658004439998
+}

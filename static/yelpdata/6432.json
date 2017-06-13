@@ -1,0 +1,36 @@
+{
+  "name": "Clay Theatre",
+  "id": "clay-theatre-san-francisco",
+  "display_phone": "(415) 561-9921",
+  "review_count": 187,
+  "coordinates": {
+    "longitude": -122.434478759766,
+    "latitude": 37.790454864502
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2261 Fillmore St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94115",
+    "state": "CA",
+    "display_address": [
+      "2261 Fillmore St",
+      "San Francisco, CA 94115"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.0,
+  "url": "https://www.yelp.com/biz/clay-theatre-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cPNSQscgnz-O_Tkx_QPE1Q/o.jpg",
+  "phone": "+14155619921",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "movietheaters",
+      "title": "Cinema"
+    }
+  ],
+  "distance": 31.612054796459997
+}

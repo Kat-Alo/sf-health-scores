@@ -1,0 +1,37 @@
+{
+  "name": "Costco",
+  "id": "costco-san-jose-7",
+  "display_phone": "(408) 723-0964",
+  "review_count": 347,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -121.8759535,
+    "latitude": 37.2539406
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "5301 Almaden Expy",
+    "city": "San Jose",
+    "country": "US",
+    "zip_code": "95118",
+    "state": "CA",
+    "display_address": [
+      "5301 Almaden Expy",
+      "San Jose, CA 95118"
+    ]
+  },
+  "transactions": [],
+  "rating": 3.0,
+  "url": "https://www.yelp.com/biz/costco-san-jose-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vx4ByMW63h5ZPvXrjAvSOQ/o.jpg",
+  "phone": "+14087230964",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "deptstores",
+      "title": "Department Stores"
+    }
+  ],
+  "distance": 74191.19198655999
+}

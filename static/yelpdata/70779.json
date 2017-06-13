@@ -1,0 +1,37 @@
+{
+  "name": "DavidsTea",
+  "id": "davidstea-san-francisco-12",
+  "display_phone": "(415) 374-7428",
+  "review_count": 65,
+  "price": "$$",
+  "coordinates": {
+    "longitude": -122.440917,
+    "latitude": 37.800388
+  },
+  "location": {
+    "address3": "",
+    "address2": null,
+    "address1": "2272-2276 Chestnut St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94123",
+    "state": "CA",
+    "display_address": [
+      "2272-2276 Chestnut St",
+      "San Francisco, CA 94123"
+    ]
+  },
+  "transactions": [],
+  "rating": 4.5,
+  "url": "https://www.yelp.com/biz/davidstea-san-francisco-12?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-bRf8DLrXd7Qk4wuJ7Y0cA/o.jpg",
+  "phone": "+14153747428",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 4410.307273498
+}

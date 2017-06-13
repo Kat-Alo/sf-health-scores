@@ -1,0 +1,36 @@
+{
+  "name": "Left Coast Catering",
+  "id": "left-coast-catering-san-francisco",
+  "display_phone": "(415) 934-0600",
+  "review_count": 56,
+  "coordinates": {
+    "longitude": -122.387911,
+    "latitude": 37.725022
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "1400 Yosemite Ave",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94107",
+    "state": "CA",
+    "display_address": [
+      "1400 Yosemite Ave",
+      "San Francisco, CA 94107"
+    ]
+  },
+  "transactions": [],
+  "rating": 5.0,
+  "url": "https://www.yelp.com/biz/left-coast-catering-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/71fhnIXcRfPCuoVxi8qbdw/o.jpg",
+  "phone": "+14159340600",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 5842.09571146
+}

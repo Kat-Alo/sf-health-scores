@@ -1,0 +1,43 @@
+{
+  "name": "Double Decker",
+  "id": "double-decker-san-francisco",
+  "display_phone": "(415) 552-8042",
+  "review_count": 396,
+  "price": "$",
+  "coordinates": {
+    "longitude": -122.42407,
+    "latitude": 37.77757
+  },
+  "location": {
+    "address3": "",
+    "address2": "",
+    "address1": "465 Grove St",
+    "city": "San Francisco",
+    "country": "US",
+    "zip_code": "94102",
+    "state": "CA",
+    "display_address": [
+      "465 Grove St",
+      "San Francisco, CA 94102"
+    ]
+  },
+  "transactions": [
+    "delivery"
+  ],
+  "rating": 3.5,
+  "url": "https://www.yelp.com/biz/double-decker-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZTx1Y5U0HP5gqAd9UEj5LQ/o.jpg",
+  "phone": "+14155528042",
+  "is_closed": false,
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 25.0866494144
+}
