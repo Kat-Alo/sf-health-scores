@@ -24,7 +24,7 @@
                     <th>Inspection Score</th>
                     <th>Risk Category</th>
                     <th>Yelp Price</th>
-                    <th>Yelp Category</th>
+                    <th>Yelp Rating</th>
                 </tr>
                 {% for obj in business_list %}
                 <tr>
@@ -32,7 +32,7 @@
                     <td>{{ obj.inspection_score }}</td>
                     <td>{{ obj.risk_category }}</td>
                     <td>{{ obj.yelp_price }}</td>
-                    <td>{{ obj.yelp_category }}</td>
+                    <td>{{ obj.yelp_rating }}</td>
                 </tr>
                 {% endfor %}
         </table>

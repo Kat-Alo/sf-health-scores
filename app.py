@@ -3,7 +3,7 @@ from flask import render_template
 from categorydetail import get_price_data, get_category_data, get_rating_data
 from flask import abort
 from datafoo import get_wrangled_data, get_full_data
-# from yelp import add_yelp_data
+
 app = Flask(__name__)
 
 
@@ -34,7 +34,7 @@ def detail(biz_id):
                     inspection_list.append(row)
         return render_template(template, inspections=inspection_list, business=business)
 
-@app.route('/<biz_price>')
+@app.route('/price/<biz_price>')
 def price_detail(biz_price):
     template = 'pricedetail.html'
 
@@ -42,7 +42,7 @@ def price_detail(biz_price):
 
     return render_template(template, business_list=business_list, biz_price=biz_price)
 
-@app.route('/<biz_category>')
+@app.route('/category/<biz_category>')
 def category_detail(biz_category):
     template = 'categorydetail.html'
 
@@ -50,7 +50,7 @@ def category_detail(biz_category):
 
     return render_template(template, business_list=business_list, biz_category=biz_category)
 
-@app.route('/<biz_rating>')
+@app.route('/rating/<biz_rating>')
 def rating_detail(biz_rating):
     template = 'ratingdetail.html'
 
