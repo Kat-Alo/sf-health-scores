@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype html class="homepage">
 <html lang="en">
     <head>
         <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
@@ -38,18 +38,61 @@
                   #myTable tr.header, #myTable tr:hover {
                       background-color: #f1f1f1;
                   }
+                  a:link {
+                        color: #F7B733;
+                        background: #DFDCE3;
+                    }
+                    a:hover{
+                        color: #DFDCE3;
+                        background: #F7B733;
+                    }
+                    a:visited{
+                        color: #F7B733;
+                        background: #DFDCE3;
+                    }
+                    a:active{
+                        color: #F7B733;
+                        background: #DFDCE3;
+                    }
+                    .floating-box{
+                        display: inline-block;
+                        width: 325px;
+                        height: 175px;
+                        margin: 15px;
+                        border: 5px solid #FC4A1A;
+                        background-color: #FC4A1A;
+                        color: #DFDCE3;
+                    }
+                    h1{
+                        font-size: 45px;
+                    }
+
               </style>
     </head>
-    <body>
+    <body class="mainpage">
 
         <div class="container">
 
         <h1>Restaurant health scores across San Francisco</h1>
 
-        <p>There are {{ object_list | length }} restaurants.</p>
+        <h3>There are {{ object_list | length }} food service businesses in SF with listed health scores. Below are the results of their most recent inspections.</h3>
+
+        <div class="floating-box">
+            <h1>27</h1>
+            <h5>'$$$' restaurants on Yelp's max-$$$$ price scale had a "high risk" health code violation.</h5>
+        </div>
+        <div class="floating-box">
+            <h1>320</h1>
+            <h5>food service businesses received perfect health scores during their most recent inspection.</h5>
+        </div>
+        <div class="floating-box">
+            <h1>34</h1>
+            <h5>food service businesses rated 4.5 or higher on Yelp had a high risk violation.</h5>
+        </div>
 
         <input type="text" id="myInput" onkeyup="searchFunction()" placeholder="Search for businesses...">
 
+             <div style="height:500px;overflow:auto;">
              <table border=1 cellpadding=7 class="table" id="myTable">
                 <tr>
                     <th>Name</th>
@@ -71,6 +114,14 @@
                 {% endfor %}
         </table>
         </div>
+        </div>
+
+        <ul>
+            <li>Health score data is from the <a href="https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i/data">DataSF LIVES Standard data</a>.</li>
+            <li>Yelp data is from the <a href="https://www.yelp.com/developers/documentation/v3">Yelp Fusion API</a>.</li>
+            <li>Made in June 2017 by Katlyn Alo for Computational Journalism at Stanford, taught by Dan Nguyen.
+            See the source code on <a href="https://github.com/Kat-Alo/sf-health-scores/">Github</a>.</li>
+        </ul>
 
         <script type="text/javascript">
         function searchFunction(){

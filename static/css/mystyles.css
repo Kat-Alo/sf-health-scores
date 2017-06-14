@@ -1,5 +1,29 @@
 body{
     font-size: 12px;
-    color: black;
+
+
+}
+
+.mainpage{
+    background: #4ABDAC;
+    color: #DFDCE3;
+
+
+}
+
+a.mainpage{
+    color: #F7B733;
+}
+
+.detailpage{
+    background: #FC4A1A;
+
+
+}
+
+.categorydetailpage{
+    background: #F7B733;
+
+
 
 }
