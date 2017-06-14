@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import render_template
-from categorydetail import get_price_data, get_category_data
+from categorydetail import get_price_data, get_category_data, get_rating_data
 from flask import abort
 from datafoo import get_wrangled_data, get_full_data
 # from yelp import add_yelp_data

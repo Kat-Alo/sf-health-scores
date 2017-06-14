@@ -1,7 +1,5 @@
 from datafoo import get_wrangled_data
 
-
-
 def get_price_data(price):
     price_data = []
 
