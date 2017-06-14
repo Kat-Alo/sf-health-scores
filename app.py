@@ -37,26 +37,51 @@ def detail(biz_id):
 @app.route('/price/<biz_price>')
 def price_detail(biz_price):
     template = 'pricedetail.html'
+    high_risk = 0
+    low_score = 0
 
     business_list = get_price_data(biz_price)
 
-    return render_template(template, business_list=business_list, biz_price=biz_price)
+    for row in business_list:
+        if row['risk_category'] == 'High Risk':
+            high_risk = high_risk + 1
+        if int(row['inspection_score']) < 76:
+            low_score = low_score + 1
+
+    return render_template(template, business_list=business_list, biz_price=biz_price, high_risk=high_risk, low_score=low_score)
 
 @app.route('/category/<biz_category>')
 def category_detail(biz_category):
     template = 'categorydetail.html'
+    high_risk = 0
+    low_score = 0
 
     business_list = get_category_data(biz_category)
 
-    return render_template(template, business_list=business_list, biz_category=biz_category)
+    for row in business_list:
+        if row['risk_category'] == 'High Risk':
+            high_risk = high_risk + 1
+        if int(row['inspection_score']) < 76:
+            low_score = low_score + 1
+
+    return render_template(template, business_list=business_list, biz_category=biz_category, high_risk=high_risk, low_score=low_score)
 
 @app.route('/rating/<biz_rating>')
 def rating_detail(biz_rating):
     template = 'ratingdetail.html'
+    high_risk = 0
+    low_score = 0
 
     business_list = get_rating_data(biz_rating)
 
-    return render_template(template, business_list=business_list, biz_rating=biz_rating)
+    for row in business_list:
+        if row['risk_category'] == 'High Risk':
+            high_risk = high_risk + 1
+        if int(row['inspection_score']) < 76:
+            low_score = low_score + 1
+
+
+    return render_template(template, business_list=business_list, biz_rating=biz_rating, high_risk=high_risk, low_score=low_score)
 
 
 if __name__ == '__main__':

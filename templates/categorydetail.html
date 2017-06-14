@@ -6,6 +6,40 @@
         <link rel="stylesheet" href="/static/css/mystyles.css" />
 
         <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+        <style>
+            body{
+                color: #DFDCE3;
+                font-size: 18px;
+            }
+            h1{
+                background: #FC4A1A;
+            }
+             a:link {
+                        color: #4ABDAC;
+                        background: #DFDCE3;
+                    }
+                    a:hover{
+                        color: #DFDCE3;
+                        background: #4ABDAC;
+                    }
+                    a:visited{
+                        color: #4ABDAC;
+                        background: #DFDCE3;
+                    }
+                    a:active{
+                        color: #4ABDAC;
+                        background: #DFDCE3;
+                    }
+                    .floating-box{
+                        display: inline-block;
+                        width: 325px;
+                        height: 60px;
+                        margin: 15px;
+                        border: 5px solid #4ABDAC;
+                        background-color: #4ABDAC;
+                        color: #DFDCE3;
+                    }
+        </style>
     </head>
     <body class="categorydetailpage">
 
@@ -16,7 +50,15 @@
 
         <h1>Health inspection overview for SF restaurants in the '{{ biz_category }}' Yelp category </h1>
 
-        <p>There are {{ business_list | length }} restaurants.</p>
+        <div class="floating-box">
+            <h4>{{ business_list | length }} businesses</h4>
+        </div>
+        <div class="floating-box">
+            <h4>High risk violations: {{ high_risk }}</h4>
+        </div>
+        <div class="floating-box">
+            <h4>Scores of 75 or lower: {{ low_score }} </h4>
+        </div>
 
              <table border=1 cellpadding=7 class="table">
                 <tr>

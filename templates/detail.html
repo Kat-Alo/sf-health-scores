@@ -5,6 +5,24 @@
         <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/static/css/mystyles.css" />
         <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+        <style>
+                .floating-box{
+                    display: inline-block;
+                    width: 325px;
+                    height: 60px;
+                    margin: 15px;
+                    border: 5px solid #F7B733;
+                    background-color: #F7B733;
+                    color: #DFDCE3;
+            }
+            h1{
+                background: #4ABDAC;
+            }
+            body{
+                color: #DFDCE3;
+                font-size: 18px;
+            }
+        </style>
     </head>
     <body class="detailpage">
         <div id="map" style="width:100%; height:300px;"></div>
@@ -20,8 +38,14 @@
             var marker = L.marker([{{ business['business_latitude'] }}, {{ business['business_longitude'] }}]).addTo(map);
         </script>
 
-        <div>
-            Yelp rating: {{ business.yelp_rating }}
+        <div class="floating-box">
+            <h2>Yelp rating: {{ business.yelp_rating }}</h2>
+        </div>
+        <div class="floating-box">
+            <h2>Yelp reviews: {{ business.yelp_review_count }}</h2>
+        </div>
+        <div class="floating-box">
+            <h2>Yelp price: {{ business.yelp_price }}</h2>
         </div>
 
         <table border=1 cellpadding=7>
