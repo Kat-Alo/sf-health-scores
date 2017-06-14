@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 8.056469015667998,
+  "display_phone": "(415) 771-6888",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1150 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1150 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wing-lum-san-francisco",
+  "phone": "+14157716888",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UnXvd8s37s-ePlfPmqoHCQ/o.jpg",
+  "url": "https://www.yelp.com/biz/wing-lum-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419978380203,
+    "latitude": 37.7874876558781
+  },
+  "review_count": 150,
+  "price": "$$",
+  "name": "Wing Lum"
+}

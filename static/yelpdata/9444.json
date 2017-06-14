@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 1822.596218344,
+  "display_phone": "(415) 661-5522",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1269 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1269 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kiki-japanese-restaurant-san-francisco",
+  "phone": "+14156615522",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UpqqAWw7jzzhSF_Hv0GMLg/o.jpg",
+  "url": "https://www.yelp.com/biz/kiki-japanese-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46647,
+    "latitude": 37.764642
+  },
+  "review_count": 846,
+  "price": "$",
+  "name": "Kiki Japanese Restaurant"
+}

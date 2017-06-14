@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 24.0199788624,
+  "display_phone": "(415) 661-8808",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2520 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "2520 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "oriental-seafood-restaurant-san-francisco",
+  "phone": "+14156618808",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8T2GhCMlOhtoZNLRDvUSJg/o.jpg",
+  "url": "https://www.yelp.com/biz/oriental-seafood-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49072265625,
+    "latitude": 37.7538375854492
+  },
+  "review_count": 129,
+  "price": "$",
+  "name": "Oriental Seafood Restaurant"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 1827.224841118,
+  "display_phone": "(415) 753-1453",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1233 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1233 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jennys-burgers-san-francisco",
+  "phone": "+14157531453",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/v2t3CR4SFCclPuGdb8Eagg/o.jpg",
+  "url": "https://www.yelp.com/biz/jennys-burgers-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.466728210449,
+    "latitude": 37.7652702331543
+  },
+  "review_count": 477,
+  "price": "$",
+  "name": "Jenny's Burgers"
+}

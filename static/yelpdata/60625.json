@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 23.75377310498,
+  "display_phone": "(415) 742-4301",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3001 Geary St",
+    "state": "CA",
+    "display_address": [
+      "3001 Geary St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sunny-market-san-francisco",
+  "phone": "+14157424301",
+  "rating": 3.5,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/sunny-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.451248168945,
+    "latitude": 37.7816543579102
+  },
+  "review_count": 6,
+  "price": "$$",
+  "name": "Sunny Market"
+}

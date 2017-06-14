@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "diners",
+      "title": "Diners"
+    }
+  ],
+  "distance": 2767.10402402,
+  "display_phone": "(415) 665-3633",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "654 Irving St",
+    "state": "CA",
+    "display_address": [
+      "654 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "cafe-rain-tree-san-francisco-2",
+  "phone": "+14156653633",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/afCgH9xlIK39A32jcZF3Zw/o.jpg",
+  "url": "https://www.yelp.com/biz/cafe-rain-tree-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46513402084,
+    "latitude": 37.76423336057
+  },
+  "review_count": 215,
+  "price": "$",
+  "name": "Cafe Rain Tree"
+}

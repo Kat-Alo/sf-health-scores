@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 23.95899936046,
+  "display_phone": "(415) 749-3469",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "40 Vega St",
+    "state": "CA",
+    "display_address": [
+      "40 Vega St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "raoul-wallenberg-high-school-san-francisco",
+  "phone": "+14157493469",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p_DYijSZBXKGp-oWj635Ig/o.jpg",
+  "url": "https://www.yelp.com/biz/raoul-wallenberg-high-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4458732,
+    "latitude": 37.7801995
+  },
+  "review_count": 5,
+  "name": "Raoul Wallenberg High School"
+}

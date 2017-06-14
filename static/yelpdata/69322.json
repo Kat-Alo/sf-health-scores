@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 4278.698184176,
+  "display_phone": "(415) 385-1679",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "3 Fl",
+    "address1": "170 O'Farrell St",
+    "state": "CA",
+    "display_address": [
+      "170 O'Farrell St",
+      "3 Fl",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tout-sweet-p\u00e2tisserie-san-francisco-4",
+  "phone": "+14153851679",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uw32KSDzBit322PZbheQxA/o.jpg",
+  "url": "https://www.yelp.com/biz/tout-sweet-p%C3%A2tisserie-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407398449074,
+    "latitude": 37.7869668605412
+  },
+  "review_count": 419,
+  "price": "$$",
+  "name": "Tout Sweet P\u00e2tisserie"
+}

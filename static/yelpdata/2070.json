@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 42.61378306162,
+  "display_phone": "(415) 775-1055",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2141 Polk St",
+    "state": "CA",
+    "display_address": [
+      "2141 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "street-restaurant-san-francisco",
+  "phone": "+14157751055",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Kq78kRIfcxSDjetgzRW7fA/o.jpg",
+  "url": "https://www.yelp.com/biz/street-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4220352,
+    "latitude": 37.7964394
+  },
+  "review_count": 576,
+  "price": "$$",
+  "name": "Street Restaurant"
+}

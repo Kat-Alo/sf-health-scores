@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "kosher",
+      "title": "Kosher"
+    }
+  ],
+  "distance": 25.80978059396,
+  "display_phone": "(415) 731-2548",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2026 Irving St",
+    "state": "CA",
+    "display_address": [
+      "2026 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "shangri-la-vegetarian-restaurant-san-francisco",
+  "phone": "+14157312548",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P5KIZkdoyhAkpf-YJ55plw/o.jpg",
+  "url": "https://www.yelp.com/biz/shangri-la-vegetarian-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47977,
+    "latitude": 37.7636899
+  },
+  "review_count": 368,
+  "price": "$",
+  "name": "Shangri-La Vegetarian Restaurant"
+}

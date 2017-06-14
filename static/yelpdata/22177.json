@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 85.70072334862,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "University Of San Francisco",
+    "address1": "2800 Turk Blvd",
+    "state": "CA",
+    "display_address": [
+      "2800 Turk Blvd",
+      "University Of San Francisco",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "outtakes-cafe-san-francisco",
+  "phone": "",
+  "rating": 1.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XKNxgxxH6vAgPbw2fLX05Q/o.jpg",
+  "url": "https://www.yelp.com/biz/outtakes-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4515709,
+    "latitude": 37.7781804
+  },
+  "review_count": 8,
+  "price": "$$$",
+  "name": "Outtakes Cafe"
+}

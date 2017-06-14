@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "french",
+      "title": "French"
+    }
+  ],
+  "distance": 20.63169695716,
+  "display_phone": "(415) 564-5332",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "941 Cole St",
+    "state": "CA",
+    "display_address": [
+      "941 Cole St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zazie-san-francisco",
+  "phone": "+14155645332",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5Frs3chQI88wVX3uJoSDrw/o.jpg",
+  "url": "https://www.yelp.com/biz/zazie-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4501138,
+    "latitude": 37.765244
+  },
+  "review_count": 3642,
+  "price": "$$",
+  "name": "Zazie"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 21.307631022539997,
+  "display_phone": "(415) 346-8494",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2317 Chestnut St",
+    "state": "CA",
+    "display_address": [
+      "2317 Chestnut St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mamacita-san-francisco",
+  "phone": "+14153468494",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1taPf6cqduUuZCKLPIFTtg/o.jpg",
+  "url": "https://www.yelp.com/biz/mamacita-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44146,
+    "latitude": 37.79988
+  },
+  "review_count": 1192,
+  "price": "$$",
+  "name": "Mamacita"
+}

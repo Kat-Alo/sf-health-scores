@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 12.94664623262,
+  "display_phone": "(415) 239-2089",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "890 Geneva Ave",
+    "state": "CA",
+    "display_address": [
+      "890 Geneva Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "popeyes-louisiana-kitchen-san-francisco-5",
+  "phone": "+14152392089",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bYQbeGzjQs2k2ujR4XYyXg/o.jpg",
+  "url": "https://www.yelp.com/biz/popeyes-louisiana-kitchen-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44132,
+    "latitude": 37.71655
+  },
+  "review_count": 106,
+  "price": "$",
+  "name": "Popeyes Louisiana Kitchen"
+}

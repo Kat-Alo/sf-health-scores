@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 744.0021467509999,
+  "display_phone": "(415) 387-5282",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2342 Clement St",
+    "state": "CA",
+    "display_address": [
+      "2342 Clement St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "royal-ground-coffee-san-francisco-2",
+  "phone": "+14153875282",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ve3xD3U-gAH7awjpFhmDyg/o.jpg",
+  "url": "https://www.yelp.com/biz/royal-ground-coffee-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48453,
+    "latitude": 37.78228
+  },
+  "review_count": 80,
+  "price": "$",
+  "name": "Royal Ground Coffee"
+}

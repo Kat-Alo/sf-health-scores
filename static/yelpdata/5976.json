@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "daycamps",
+      "title": "Day Camps"
+    }
+  ],
+  "distance": 20.893337017,
+  "display_phone": "(415) 666-9622",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "360 18th Ave",
+    "state": "CA",
+    "display_address": [
+      "360 18th Ave",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "richmond-district-ymca-san-francisco-3",
+  "phone": "+14156669622",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q1CIkpFiQ_T0z0f_eQlW8g/o.jpg",
+  "url": "https://www.yelp.com/biz/richmond-district-ymca-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47696,
+    "latitude": 37.78127
+  },
+  "review_count": 63,
+  "name": "Richmond District YMCA"
+}

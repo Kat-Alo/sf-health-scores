@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 16.42055307256,
+  "display_phone": "(415) 731-4545",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2244 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "2244 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pirros-pizzeria-san-francisco",
+  "phone": "+14157314545",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TZKZ7251GeV_fzgwY-dtXg/o.jpg",
+  "url": "https://www.yelp.com/biz/pirros-pizzeria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49043,
+    "latitude": 37.74264
+  },
+  "review_count": 108,
+  "price": "$$",
+  "name": "Pirro's Pizzeria"
+}

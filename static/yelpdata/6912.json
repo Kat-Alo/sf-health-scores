@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 10.31440409593,
+  "display_phone": "(415) 781-3348",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "121 New Montgomery St",
+    "state": "CA",
+    "display_address": [
+      "121 New Montgomery St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-store-on-the-corner-san-francisco",
+  "phone": "+14157813348",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Yfak2mYmxBfKc_LjgrPNFg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-store-on-the-corner-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.399970236304,
+    "latitude": 37.7871788604614
+  },
+  "review_count": 145,
+  "price": "$",
+  "name": "The Store On the Corner"
+}

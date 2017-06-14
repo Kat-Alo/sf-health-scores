@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    }
+  ],
+  "distance": 6993.201252164,
+  "display_phone": "(415) 781-0401",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "920 Sacramento St",
+    "state": "CA",
+    "display_address": [
+      "920 Sacramento St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "donaldina-cameron-house-san-francisco",
+  "phone": "+14157810401",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wBcsRsMXzBFUq3E2EkciTg/o.jpg",
+  "url": "https://www.yelp.com/biz/donaldina-cameron-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40841,
+    "latitude": 37.7933499
+  },
+  "review_count": 41,
+  "name": "Donaldina Cameron House"
+}

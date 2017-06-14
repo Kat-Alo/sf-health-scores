@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 28.884604910039997,
+  "display_phone": "(415) 648-2055",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1690 Church St",
+    "state": "CA",
+    "display_address": [
+      "1690 Church St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "st-paul-elementary-school-san-francisco",
+  "phone": "+14156482055",
+  "rating": 5.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/st-paul-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42685,
+    "latitude": 37.74392
+  },
+  "review_count": 3,
+  "name": "St Paul Elementary School"
+}

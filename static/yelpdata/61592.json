@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 5.26381156926,
+  "display_phone": "(415) 387-3859",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2095 Hayes St",
+    "state": "CA",
+    "display_address": [
+      "2095 Hayes St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sacred-grounds-coffee-house-san-francisco",
+  "phone": "+14153873859",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/97YyLRfDQcfhkqwqa01qAQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sacred-grounds-coffee-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.450822991891,
+    "latitude": 37.7732469785941
+  },
+  "review_count": 126,
+  "price": "$",
+  "name": "Sacred Grounds Coffee House"
+}

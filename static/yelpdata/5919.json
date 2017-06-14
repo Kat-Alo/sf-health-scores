@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 50.54644522922,
+  "display_phone": "(415) 931-2422",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "350 Masonic Ave",
+    "state": "CA",
+    "display_address": [
+      "350 Masonic Ave",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-day-school-san-francisco",
+  "phone": "+14159312422",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vKvof3EMODZ5IHeAJcsnXA/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-day-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.446281433105,
+    "latitude": 37.7780418395996
+  },
+  "review_count": 16,
+  "name": "San Francisco Day School"
+}

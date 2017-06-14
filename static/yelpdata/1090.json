@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 1.8243289947219998,
+  "display_phone": "(415) 391-0509",
+  "is_closed": false,
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "590 Washington St",
+    "state": "CA",
+    "display_address": [
+      "590 Washington St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tricolore-caffe-and-catering-san-francisco-4",
+  "phone": "+14153910509",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iF_LBxZxfG5Nw5AX4Z84EQ/o.jpg",
+  "url": "https://www.yelp.com/biz/tricolore-caffe-and-catering-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4031122,
+    "latitude": 37.7956272
+  },
+  "review_count": 126,
+  "price": "$",
+  "name": "Tricolore Caffe & Catering"
+}

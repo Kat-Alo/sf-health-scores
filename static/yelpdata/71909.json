@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "shanghainese",
+      "title": "Shanghainese"
+    }
+  ],
+  "distance": 11.98695011976,
+  "display_phone": "(415) 585-1300",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "696 Monterey Blvd",
+    "state": "CA",
+    "display_address": [
+      "696 Monterey Blvd",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "shanghai-dumpling-king-san-francisco-3",
+  "phone": "+14155851300",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XV1qZtO_69Jwr4lGb_-hqw/o.jpg",
+  "url": "https://www.yelp.com/biz/shanghai-dumpling-king-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4510301,
+    "latitude": 37.7316655
+  },
+  "review_count": 339,
+  "price": "$$",
+  "name": "Shanghai Dumpling King"
+}

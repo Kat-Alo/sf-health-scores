@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 7.51712575158,
+  "display_phone": "(415) 518-8241",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3329 24th St",
+    "state": "CA",
+    "display_address": [
+      "3329 24th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-mejor-bakery-san-francisco",
+  "phone": "+14155188241",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IqS1sCXym20ghc1faMSr1Q/o.jpg",
+  "url": "https://www.yelp.com/biz/la-mejor-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419240772724,
+    "latitude": 37.7521582692862
+  },
+  "review_count": 61,
+  "price": "$",
+  "name": "La Mejor Bakery"
+}

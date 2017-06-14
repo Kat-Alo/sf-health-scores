@@ -7,7 +7,6 @@ from time import sleep
 import csv
 
 SEARCH_BASE_URL = 'https://api.yelp.com/v3/businesses/search' #?term={business_name}&latitude={business_latitude}&&longitude={business_longitude}'
-RESULT_BASE_URL = 'https://api.yelp.com/v3/businesses/{id}'
 access_token = "MvLQh-YJW_UNFXJcI5qHLKznwUWlkTnl1N1tFofn34eWVa0X4gWcuNpA-qSaiVOMwsbdmcG-kOQUytP8ADd-yXjxWWAvlXS8-Pnof76_DAc59DOMXQHIHVh7kl4_WXYx"
 
 
@@ -64,6 +63,8 @@ def wrangle_yelp_data():
                 row['yelp_rating'] = yelpdatum['rating']
                 row['yelp_price'] = yelpdatum['price']
                 row['yelp_review_count'] = yelpdatum['review_count']
+                row['yelp_category'] = yelpdatum['categories'][0]['title']
+
                 # write wrangled thing
                 outcsv.writerow(row)
     outfile.close()

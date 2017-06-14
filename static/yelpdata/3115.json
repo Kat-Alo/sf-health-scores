@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    },
+    {
+      "alias": "cantonese",
+      "title": "Cantonese"
+    }
+  ],
+  "distance": 19.07413425298,
+  "display_phone": "(415) 576-1818",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1131 Grant Ave",
+    "state": "CA",
+    "display_address": [
+      "1131 Grant Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "yees-restaurant-san-francisco",
+  "phone": "+14155761818",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WMwcdRYsQRmwxIzZdyXPig/o.jpg",
+  "url": "https://www.yelp.com/biz/yees-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407127380371,
+    "latitude": 37.7972602844238
+  },
+  "review_count": 244,
+  "price": "$",
+  "name": "Yee's Restaurant"
+}

@@ -9,9 +9,9 @@ FULL_PATH = './static/sf-health-data.csv'
 WRANGLED_DATA_PATH = join('static', 'sf-yelp-wrangled.csv')
 
 WRANGLED_HEADERS =  ["business_name",
-"yelp_rating", "yelp_price", "yelp_review_count",
+"yelp_rating", "yelp_price", "yelp_category", "yelp_review_count",
 "inspection_score","business_latitude","inspection_type","business_city","risk_category",
-"business_location","business_phone_number","inspection_id","business_id","business_address","inspection_date",
+"business_location","business_phone_number","inspection_id", "business_id","business_address","inspection_date",
 "violation_description","violation_id","business_longitude","business_state","business_postal_code"]
 
 

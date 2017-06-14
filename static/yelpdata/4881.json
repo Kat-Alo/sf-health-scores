@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 4171.089665076,
+  "display_phone": "(415) 349-2074",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1217 Geneva Ave",
+    "state": "CA",
+    "display_address": [
+      "1217 Geneva Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "stop-n-wrap-san-francisco",
+  "phone": "+14153492074",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zo8SMVdd3fFTbceUSJYirg/o.jpg",
+  "url": "https://www.yelp.com/biz/stop-n-wrap-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.435863763094,
+    "latitude": 37.7141111344099
+  },
+  "review_count": 59,
+  "price": "$",
+  "name": "Stop N Wrap"
+}

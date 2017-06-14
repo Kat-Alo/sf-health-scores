@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 15.571219059539999,
+  "display_phone": "(415) 566-7772",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2640 Sloat Blvd",
+    "state": "CA",
+    "display_address": [
+      "2640 Sloat Blvd",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pasquales-pizza-san-francisco",
+  "phone": "+14155667772",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ziHUTKhgy0CHhS27d9BeJg/o.jpg",
+  "url": "https://www.yelp.com/biz/pasquales-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.502700805664,
+    "latitude": 37.7356948852539
+  },
+  "review_count": 100,
+  "price": "$$",
+  "name": "Pasquale's Pizza"
+}

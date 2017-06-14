@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 8.588798132299999,
+  "display_phone": "(415) 216-6443",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "8 Trinity Pl",
+    "state": "CA",
+    "display_address": [
+      "8 Trinity Pl",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-golden-west-san-francisco",
+  "phone": "+14152166443",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nTnrVUZM9I7whIXvbiw1pQ/o.jpg",
+  "url": "https://www.yelp.com/biz/the-golden-west-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4026048,
+    "latitude": 37.7901307
+  },
+  "review_count": 328,
+  "price": "$",
+  "name": "The Golden West"
+}

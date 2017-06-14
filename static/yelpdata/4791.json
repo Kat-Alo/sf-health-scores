@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    }
+  ],
+  "distance": 15.07621021564,
+  "display_phone": "(415) 495-7275",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "108 S Park St",
+    "state": "CA",
+    "display_address": [
+      "108 S Park St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "south-park-cafe-san-francisco-5",
+  "phone": "+14154957275",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VIyzO3h1Tz3h8EjWqscvHQ/o.jpg",
+  "url": "https://www.yelp.com/biz/south-park-cafe-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39445,
+    "latitude": 37.78167
+  },
+  "review_count": 484,
+  "price": "$$",
+  "name": "South Park Cafe"
+}

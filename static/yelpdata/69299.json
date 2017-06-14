@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    }
+  ],
+  "distance": 19390.25127649,
+  "display_phone": "(510) 525-3121",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94710",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1328 6th St",
+    "state": "CA",
+    "display_address": [
+      "1328 6th St",
+      "Berkeley, CA 94710"
+    ],
+    "city": "Berkeley"
+  },
+  "id": "picante-berkeley",
+  "phone": "+15105253121",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q31PEm_QHgs21EmEZhqsmw/o.jpg",
+  "url": "https://www.yelp.com/biz/picante-berkeley?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.301181,
+    "latitude": 37.878309
+  },
+  "review_count": 1220,
+  "price": "$$",
+  "name": "Picante"
+}

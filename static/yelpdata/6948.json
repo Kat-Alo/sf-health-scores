@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    },
+    {
+      "alias": "laotian",
+      "title": "Laotian"
+    }
+  ],
+  "distance": 14196.537729610001,
+  "display_phone": "(510) 238-8819",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94606",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2102 8th Ave",
+    "state": "CA",
+    "display_address": [
+      "2102 8th Ave",
+      "Oakland, CA 94606"
+    ],
+    "city": "Oakland"
+  },
+  "id": "champa-garden-oakland",
+  "phone": "+15102388819",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aO0JJ1jJGDO4YrnOzVoXbg/o.jpg",
+  "url": "https://www.yelp.com/biz/champa-garden-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.2446,
+    "latitude": 37.79814
+  },
+  "review_count": 1668,
+  "price": "$$",
+  "name": "Champa Garden"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 17.39656950236,
+  "display_phone": "(415) 362-3689",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "505 Washington St",
+    "state": "CA",
+    "display_address": [
+      "505 Washington St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sais-restaurant-san-francisco",
+  "phone": "+14153623689",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/40eANO-Ez1LgmJE2mYy0Qg/o.jpg",
+  "url": "https://www.yelp.com/biz/sais-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40190616745,
+    "latitude": 37.795615655714
+  },
+  "review_count": 456,
+  "price": "$$",
+  "name": "Sai's Restaurant"
+}

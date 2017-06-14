@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "massage",
+      "title": "Massage"
+    },
+    {
+      "alias": "specialtyschools",
+      "title": "Specialty Schools"
+    },
+    {
+      "alias": "cosmetics",
+      "title": "Cosmetics & Beauty Supply"
+    }
+  ],
+  "distance": 952.523928216,
+  "display_phone": "(415) 424-8462",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "Ste 35",
+    "address3": "",
+    "address1": "2489 Mission St",
+    "state": "CA",
+    "display_address": [
+      "2489 Mission St",
+      "Ste 35",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "urban-oasis-san-francisco-5",
+  "phone": "+14154248462",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r3wOebAF8iXNRUnK7YM8lQ/o.jpg",
+  "url": "https://www.yelp.com/biz/urban-oasis-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41897,
+    "latitude": 37.757329
+  },
+  "review_count": 74,
+  "price": "$$",
+  "name": "Urban Oasis"
+}

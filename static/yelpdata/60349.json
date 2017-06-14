@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 27.312516303019997,
+  "display_phone": "(415) 627-9060",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94130",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "60 Clipper Cove Way",
+    "state": "CA",
+    "display_address": [
+      "60 Clipper Cove Way",
+      "Treasure Island, CA 94130"
+    ],
+    "city": "Treasure Island"
+  },
+  "id": "treasure-island-bar-and-grill-treasure-island-3",
+  "phone": "+14156279060",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w93XwNlp4fCVCkv_CbkD1w/o.jpg",
+  "url": "https://www.yelp.com/biz/treasure-island-bar-and-grill-treasure-island-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.370496988297,
+    "latitude": 37.8166579289956
+  },
+  "review_count": 100,
+  "price": "$",
+  "name": "Treasure Island Bar & Grill"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "musicvenues",
+      "title": "Music Venues"
+    }
+  ],
+  "distance": 21.47216994414,
+  "display_phone": "(415) 252-1330",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1600 17th St",
+    "state": "CA",
+    "display_address": [
+      "1600 17th St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "thee-parkside-san-francisco",
+  "phone": "+14152521330",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gnFhUOaztrqyWeg3H3xoQg/o.jpg",
+  "url": "https://www.yelp.com/biz/thee-parkside-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39988,
+    "latitude": 37.76516
+  },
+  "review_count": 332,
+  "price": "$",
+  "name": "Thee Parkside"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 53.84329248235999,
+  "display_phone": "(415) 774-0264",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "335 Powell St",
+    "state": "CA",
+    "display_address": [
+      "335 Powell St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-oak-room-restaurant-san-francisco",
+  "phone": "+14157740264",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mghhyphrR2vviNC8oR9Znw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-oak-room-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408607269775,
+    "latitude": 37.7881401348879
+  },
+  "review_count": 140,
+  "price": "$$$",
+  "name": "The Oak Room Restaurant"
+}

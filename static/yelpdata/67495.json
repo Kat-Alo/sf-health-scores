@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    }
+  ],
+  "distance": 39.56150077092,
+  "display_phone": "(415) 341-0152",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "620 Treat Ave",
+    "state": "CA",
+    "display_address": [
+      "620 Treat Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "southern-pacific-brewing-san-francisco",
+  "phone": "+14153410152",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GnffjYyCW6TJRzZLvfMBmQ/o.jpg",
+  "url": "https://www.yelp.com/biz/southern-pacific-brewing-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.414232,
+    "latitude": 37.760103
+  },
+  "review_count": 1053,
+  "price": "$$",
+  "name": "Southern Pacific Brewing"
+}

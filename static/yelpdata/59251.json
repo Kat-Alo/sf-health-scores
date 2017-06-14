@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 4641.9159223999995,
+  "display_phone": "(415) 861-0198",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "198 Guerrero St",
+    "state": "CA",
+    "display_address": [
+      "198 Guerrero St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mission-beach-cafe-san-francisco-4",
+  "phone": "+14158610198",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1KBDxxk4ubNk1t_1PlHJ8w/o.jpg",
+  "url": "https://www.yelp.com/biz/mission-beach-cafe-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.424638201818,
+    "latitude": 37.7680853025175
+  },
+  "review_count": 2380,
+  "price": "$$",
+  "name": "Mission Beach Cafe"
+}

@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "beerbar",
+      "title": "Beer Bar"
+    }
+  ],
+  "distance": 8.506730965537999,
+  "display_phone": "(415) 771-3100",
+  "is_closed": false,
+  "transactions": [
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1919 Hyde St",
+    "state": "CA",
+    "display_address": [
+      "1919 Hyde St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "za-pizza-san-francisco",
+  "phone": "+14157713100",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oTiJzr_cxvtBT0z4x-Wrcw/o.jpg",
+  "url": "https://www.yelp.com/biz/za-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419042804893,
+    "latitude": 37.7985905231944
+  },
+  "review_count": 948,
+  "price": "$",
+  "name": "Za Pizza"
+}

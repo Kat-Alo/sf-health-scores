@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 823.0222696239999,
+  "display_phone": "(415) 921-4049",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "1899 Union St",
+    "state": "CA",
+    "display_address": [
+      "1899 Union St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "starbucks-san-francisco-241",
+  "phone": "+14159214049",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m3TDWc_LxiMa_yvg1dFSng/o.jpg",
+  "url": "https://www.yelp.com/biz/starbucks-san-francisco-241?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43031,
+    "latitude": 37.79754
+  },
+  "review_count": 127,
+  "price": "$",
+  "name": "Starbucks"
+}

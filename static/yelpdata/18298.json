@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 7.801969275539999,
+  "display_phone": "(415) 885-0725",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "771 Ellis St",
+    "state": "CA",
+    "display_address": [
+      "771 Ellis St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zen-yai-thai-restaurant-san-francisco",
+  "phone": "+14158850725",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fAouFMhQLOSRow_tYrN_gA/o.jpg",
+  "url": "https://www.yelp.com/biz/zen-yai-thai-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.418941,
+    "latitude": 37.784028
+  },
+  "review_count": 461,
+  "price": "$",
+  "name": "Zen Yai Thai Restaurant"
+}

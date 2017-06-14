@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "hawaiian",
+      "title": "Hawaiian"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    }
+  ],
+  "distance": 11.586723355159998,
+  "display_phone": "(415) 956-2888",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "312 Kearny St",
+    "state": "CA",
+    "display_address": [
+      "312 Kearny St",
+      "San Francisco,, CA 94108"
+    ],
+    "city": "San Francisco,"
+  },
+  "id": "l-and-l-hawaiian-barbecue-san-francisco-3",
+  "phone": "+14159562888",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7TMKIA_-toNpmuU1P_NmvQ/o.jpg",
+  "url": "https://www.yelp.com/biz/l-and-l-hawaiian-barbecue-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40384,
+    "latitude": 37.79098
+  },
+  "review_count": 272,
+  "price": "$",
+  "name": "L&L Hawaiian Barbecue"
+}

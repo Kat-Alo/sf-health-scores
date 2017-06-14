@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 28.21822227756,
+  "display_phone": "(415) 567-1515",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1515 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1515 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nara-sushi-san-francisco",
+  "phone": "+14155671515",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w5MPtwa3DUGuxsiH2flNpQ/o.jpg",
+  "url": "https://www.yelp.com/biz/nara-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421011,
+    "latitude": 37.790885
+  },
+  "review_count": 688,
+  "price": "$$",
+  "name": "Nara Sushi"
+}

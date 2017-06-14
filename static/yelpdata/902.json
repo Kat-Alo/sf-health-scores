@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 20.80811280796,
+  "display_phone": "(415) 863-3900",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "420 Castro St",
+    "state": "CA",
+    "display_address": [
+      "420 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marcellos-pizza-san-francisco",
+  "phone": "+14158633900",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B_cVtiAJL0gUwor6Bdn-pA/o.jpg",
+  "url": "https://www.yelp.com/biz/marcellos-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.435386657715,
+    "latitude": 37.7620544433594
+  },
+  "review_count": 610,
+  "price": "$",
+  "name": "Marcello's Pizza"
+}

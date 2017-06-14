@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 1050.944403388,
+  "display_phone": "(415) 875-9656",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "549 Castro St",
+    "state": "CA",
+    "display_address": [
+      "549 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "philz-coffee-san-francisco-2",
+  "phone": "+14158759656",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/20tF68QURIehyhBwA7zniQ/o.jpg",
+  "url": "https://www.yelp.com/biz/philz-coffee-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4348964,
+    "latitude": 37.7601254
+  },
+  "review_count": 982,
+  "price": "$",
+  "name": "Philz Coffee"
+}

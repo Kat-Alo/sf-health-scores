@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    },
+    {
+      "alias": "preschools",
+      "title": "Preschools"
+    }
+  ],
+  "distance": 37.68811796646,
+  "display_phone": "(415) 239-5065",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94134",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "300 Gaven St",
+    "state": "CA",
+    "display_address": [
+      "300 Gaven St",
+      "San Francisco, CA 94134"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-san-francisco-school-san-francisco",
+  "phone": "+14152395065",
+  "rating": 5.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fA9U28HF8wsgYsSOQh_UHw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-san-francisco-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.411330938339,
+    "latitude": 37.7327406767297
+  },
+  "review_count": 10,
+  "name": "The San Francisco School"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "adultedu",
+      "title": "Adult Education"
+    },
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    }
+  ],
+  "distance": 1739.29903302,
+  "display_phone": "(415) 759-3690",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3925 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "3925 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sunset-neighborhood-beacon-center-san-francisco-2",
+  "phone": "+14157593690",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1uPCkQh5-QA7xLmXK5FLKw/o.jpg",
+  "url": "https://www.yelp.com/biz/sunset-neighborhood-beacon-center-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.505836486816,
+    "latitude": 37.7526893615723
+  },
+  "review_count": 6,
+  "name": "Sunset Neighborhood Beacon Center"
+}

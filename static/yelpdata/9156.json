@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 12.334221068858,
+  "display_phone": "(415) 495-0409",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "24 S Park Ave",
+    "state": "CA",
+    "display_address": [
+      "24 S Park Ave",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mexico-au-parc-san-francisco",
+  "phone": "+14154950409",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AwGBU7m9EQZMp8wi_Vya7w/o.jpg",
+  "url": "https://www.yelp.com/biz/mexico-au-parc-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393290400505,
+    "latitude": 37.7822434919692
+  },
+  "review_count": 322,
+  "price": "$",
+  "name": "Mexico au Parc"
+}

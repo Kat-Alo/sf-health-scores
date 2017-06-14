@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 15665.3718869,
+  "display_phone": "(510) 644-4992",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94705",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2984 Russell St",
+    "state": "CA",
+    "display_address": [
+      "2984 Russell St",
+      "Berkeley, CA 94705"
+    ],
+    "city": "Berkeley"
+  },
+  "id": "the-station-berkeley",
+  "phone": "+15106444992",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z2ENAcSXOcTWxivgjgMhJw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-station-berkeley?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.2449543,
+    "latitude": 37.8588226
+  },
+  "review_count": 182,
+  "price": "$",
+  "name": "The Station"
+}

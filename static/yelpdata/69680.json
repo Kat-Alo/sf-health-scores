@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 19.887253287980002,
+  "display_phone": "(415) 355-9085",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "199 Gough St",
+    "state": "CA",
+    "display_address": [
+      "199 Gough St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rich-table-san-francisco",
+  "phone": "+14153559085",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QxrrVXVsowoKhLXQXZtXsg/o.jpg",
+  "url": "https://www.yelp.com/biz/rich-table-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42284,
+    "latitude": 37.77485
+  },
+  "review_count": 833,
+  "price": "$$$",
+  "name": "Rich Table"
+}

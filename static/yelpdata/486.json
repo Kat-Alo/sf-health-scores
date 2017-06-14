@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 45.03997093739999,
+  "display_phone": "(415) 398-9696",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1042 Kearny St",
+    "state": "CA",
+    "display_address": [
+      "1042 Kearny St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tommasos-ristorante-italiano-san-francisco",
+  "phone": "+14153989696",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/e9z9WcmVgqj-VTFQHmCIAg/o.jpg",
+  "url": "https://www.yelp.com/biz/tommasos-ristorante-italiano-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405204,
+    "latitude": 37.797778
+  },
+  "review_count": 1408,
+  "price": "$$",
+  "name": "Tommaso's Ristorante Italiano"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 742.2995454979999,
+  "display_phone": "(415) 543-6939",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "91 6th St",
+    "state": "CA",
+    "display_address": [
+      "91 6th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jennys-restaurant-san-francisco",
+  "phone": "+14155436939",
+  "rating": 2.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6E5GXLek5nL0pTwwCeVBAQ/o.jpg",
+  "url": "https://www.yelp.com/biz/jennys-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408935055137,
+    "latitude": 37.7811740096808
+  },
+  "review_count": 2,
+  "price": "$",
+  "name": "Jenny's Restaurant"
+}

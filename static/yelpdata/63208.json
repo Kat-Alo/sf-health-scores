@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 10.938263298524,
+  "display_phone": "",
+  "is_closed": true,
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "850 Folsom St",
+    "state": "CA",
+    "display_address": [
+      "850 Folsom St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zesty-restaurant-san-francisco-2",
+  "phone": "",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gGjQvPhemsMnfYvb1rP1bg/o.jpg",
+  "url": "https://www.yelp.com/biz/zesty-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40261,
+    "latitude": 37.78134
+  },
+  "review_count": 30,
+  "price": "$$",
+  "name": "Zesty Restaurant"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 27.46882988788,
+  "display_phone": "(415) 775-5800",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "800 Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "800 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushi-hana-san-francisco",
+  "phone": "+14157755800",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M4qnnfS84zS1iDCWSLitvA/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-hana-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420448303223,
+    "latitude": 37.7830810546875
+  },
+  "review_count": 348,
+  "price": "$$",
+  "name": "Sushi Hana"
+}

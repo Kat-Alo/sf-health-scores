@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 10.44624444741,
+  "display_phone": "(415) 552-8378",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3901 18th St",
+    "state": "CA",
+    "display_address": [
+      "3901 18th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "caf\u00e9-ub-san-francisco-2",
+  "phone": "+14155528378",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IlUCI_uLnfwHO3XdNhxCdw/o.jpg",
+  "url": "https://www.yelp.com/biz/caf%C3%A9-ub-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4307303,
+    "latitude": 37.7610275
+  },
+  "review_count": 103,
+  "price": "$",
+  "name": "Caf\u00e9 UB"
+}

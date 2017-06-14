@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    },
+    {
+      "alias": "smog_check_stations",
+      "title": "Smog Check Stations"
+    },
+    {
+      "alias": "autorepair",
+      "title": "Auto Repair"
+    }
+  ],
+  "distance": 23.71657160154,
+  "display_phone": "(415) 567-1136",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "Ste 1",
+    "address3": "",
+    "address1": "2500 California St",
+    "state": "CA",
+    "display_address": [
+      "2500 California St",
+      "Ste 1",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pacific-heights-chevron-auto-repair-san-francisco",
+  "phone": "+14155671136",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NzBLg7I8A0oS1eEG8I8-Tg/o.jpg",
+  "url": "https://www.yelp.com/biz/pacific-heights-chevron-auto-repair-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.435803910602,
+    "latitude": 37.7889075261892
+  },
+  "review_count": 56,
+  "name": "Pacific Heights Chevron Auto Repair"
+}

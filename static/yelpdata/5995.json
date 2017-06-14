@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "szechuan",
+      "title": "Szechuan"
+    }
+  ],
+  "distance": 15103.812005979999,
+  "display_phone": "(510) 525-2285",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94706",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1335 Solano Ave",
+    "state": "CA",
+    "display_address": [
+      "1335 Solano Ave",
+      "Albany, CA 94706"
+    ],
+    "city": "Albany"
+  },
+  "id": "china-village-albany-3",
+  "phone": "+15105252285",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/K5jP_FIHXwKCRwdbFgpuoA/o.jpg",
+  "url": "https://www.yelp.com/biz/china-village-albany-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.291229,
+    "latitude": 37.890986
+  },
+  "review_count": 642,
+  "price": "$$",
+  "name": "China Village"
+}

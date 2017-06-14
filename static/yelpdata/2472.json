@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 598.4002001837999,
+  "display_phone": "(415) 567-3978",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "Mollie Stone's",
+    "address1": "2435 California St",
+    "state": "CA",
+    "display_address": [
+      "2435 California St",
+      "Mollie Stone's",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "starbucks-san-francisco-139",
+  "phone": "+14155673978",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o7_SGmOIZZJ8m49h-W4wcQ/o.jpg",
+  "url": "https://www.yelp.com/biz/starbucks-san-francisco-139?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.434646889535,
+    "latitude": 37.7886801678282
+  },
+  "review_count": 22,
+  "price": "$",
+  "name": "Starbucks"
+}

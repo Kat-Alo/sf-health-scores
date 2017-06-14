@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 10.887358264983998,
+  "display_phone": "(415) 437-2734",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "201 Fell St",
+    "state": "CA",
+    "display_address": [
+      "201 Fell St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ninas-cafe-san-francisco-2",
+  "phone": "+14154372734",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DNJTAb3Yb3B9w20oanzk4Q/o.jpg",
+  "url": "https://www.yelp.com/biz/ninas-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4212838675,
+    "latitude": 37.776049780427
+  },
+  "review_count": 21,
+  "price": "$",
+  "name": "Nina's Cafe"
+}

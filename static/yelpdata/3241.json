@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 32.3564646695,
+  "display_phone": "(415) 564-4800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1941 Irving St",
+    "state": "CA",
+    "display_address": [
+      "1941 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sheng-kee-bakery-san-francisco",
+  "phone": "+14155644800",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i7wF1KNGsKJaJp7Gnqlg2g/o.jpg",
+  "url": "https://www.yelp.com/biz/sheng-kee-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47888,
+    "latitude": 37.76323
+  },
+  "review_count": 388,
+  "price": "$",
+  "name": "Sheng Kee Bakery"
+}

@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 6.325642353077999,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "600 Kearny St",
+    "state": "CA",
+    "display_address": [
+      "600 Kearny St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushi-taka-san-francisco-2",
+  "phone": "",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XyCXoEkKOhZk7e-k-6ZHEg/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-taka-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4045221,
+    "latitude": 37.7937107
+  },
+  "review_count": 316,
+  "price": "$",
+  "name": "Sushi Taka"
+}

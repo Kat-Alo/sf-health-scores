@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 23.33244950232,
+  "display_phone": "(415) 362-7880",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "North Beach",
+    "address3": "",
+    "address1": "673 Union St",
+    "state": "CA",
+    "display_address": [
+      "673 Union St",
+      "North Beach",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rogue-ales-public-house-san-francisco",
+  "phone": "+14153627880",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rtbU4wgbIFiti9EpVs84Xg/o.jpg",
+  "url": "https://www.yelp.com/biz/rogue-ales-public-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41041,
+    "latitude": 37.79999
+  },
+  "review_count": 936,
+  "price": "$$",
+  "name": "Rogue Ales Public House"
+}

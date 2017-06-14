@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 34.451289439279996,
+  "display_phone": "(415) 749-3495",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3500 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "3500 Fillmore St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marina-middle-school-san-francisco",
+  "phone": "+14157493495",
+  "rating": 1.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/on_qCVqhZraJe8kz8CFXTw/o.jpg",
+  "url": "https://www.yelp.com/biz/marina-middle-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43610652469,
+    "latitude": 37.8015806668959
+  },
+  "review_count": 3,
+  "name": "Marina Middle School"
+}

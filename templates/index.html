@@ -1,16 +1,10 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
         <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
                 <link rel="stylesheet" href="/static/css/mystyles.css" />
-
-        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
     </head>
     <body>
-
-
-        <div id="map" style="width:100%; height:300px;"></div>
 
         <div class="container">
 
@@ -21,63 +15,24 @@
              <table border=1 cellpadding=7 class="table">
                 <tr>
                     <th>Name</th>
-                    <th>Yelp rating</th>
-                    <th>Address</th>
-                    <th>Inspection Date</th>
                     <th>Inspection Score</th>
                     <th>Risk Category</th>
-                    <th>Violation Description</th>
+                    <th>Yelp Rating</th>
+                    <th>Yelp Price</th>
+                    <th>Yelp Category</th>
                 </tr>
                 {% for obj in object_list %}
                 <tr>
                     <td><a href="/business/{{ obj.business_id }}">{{ obj.business_name }}</a></td>
-                    <td>{{ obj.yelp_rating }}</td>
-
-                    <td>{{ obj.business_address }}</td>
-                    <td>{{ obj.inspection_date }}</td>
                     <td>{{ obj.inspection_score }}</td>
                     <td>{{ obj.risk_category }}</td>
-                    <td>{{ obj.violation_description }}</td>
+                    <td><a href="/{{ obj.yelp_rating }}">{{ obj.yelp_rating }}</a></td>
+                    <td><a href="/{{ obj.yelp_price }}">{{ obj.yelp_price }}</a></td>
+                    <td><a href="/{{ obj.yelp_category }}">{{ obj.yelp_category }}</a></td>
                 </tr>
                 {% endfor %}
         </table>
         </div>
-        <script type="text/javascript">
-            var map = L.map('map').setView([37.775, -122.419], 12);
-            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                maxZoom: 18,
-                attribution: 'Data, imagery and map information provided by <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>.'
-            });
-            map.addLayer(osmLayer);
-            var data = {
-              "type": "FeatureCollection",
-              "features": [
-                {% for obj in object_list %}
-                {% if obj['business_latitude'] %}
-                    {
-                      "type": "Feature",
-                      "properties": {
-                        "business_name": "{{ obj.business_name }}"
-                      },
-                      "geometry": {
-                        "type": "Point",
-                        "coordinates": [{{ obj.business_longitude }}, {{ obj.business_latitude }}]
-                      }
-                    }
-
-
-                    {% if not loop.last %},{% endif %}
-                {%endif%}
-                {% endfor %}
-              ]
-            };
-            var dataLayer = L.geoJson(data, {
-                onEachFeature: function(feature, layer) {
-                    layer.bindPopup(feature.properties.business_name);
-                }
-            });
-            map.addLayer(dataLayer);
-        </script>
     </body>
 </html>
 

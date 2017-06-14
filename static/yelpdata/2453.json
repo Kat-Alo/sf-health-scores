@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 15.570328289849998,
+  "display_phone": "(415) 621-8902",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "518 S Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "518 S Van Ness Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kennys-restaurant-san-francisco",
+  "phone": "+14156218902",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CQT900xAbxWWKlKXKgc1oA/o.jpg",
+  "url": "https://www.yelp.com/biz/kennys-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4176253,
+    "latitude": 37.7648643
+  },
+  "review_count": 39,
+  "price": "$",
+  "name": "Kenny's Restaurant"
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "comfortfood",
+      "title": "Comfort Food"
+    }
+  ],
+  "distance": 172.3142385958,
+  "display_phone": "(415) 665-9912",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1240 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1240 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "park-chow-san-francisco",
+  "phone": "+14156659912",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3OB19MoM7c_7V8y_E0O00A/o.jpg",
+  "url": "https://www.yelp.com/biz/park-chow-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46605,
+    "latitude": 37.76515
+  },
+  "review_count": 2588,
+  "price": "$$",
+  "name": "Park Chow"
+}

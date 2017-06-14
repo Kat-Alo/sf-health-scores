@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "candy",
+      "title": "Candy Stores"
+    },
+    {
+      "alias": "chocolate",
+      "title": "Chocolatiers & Shops"
+    },
+    {
+      "alias": "giftshops",
+      "title": "Gift Shops"
+    }
+  ],
+  "distance": 8014.537822901999,
+  "display_phone": "(415) 731-1784",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3250 20th Ave",
+    "state": "CA",
+    "display_address": [
+      "3250 20th Ave",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sees-candies-san-francisco-8",
+  "phone": "+14157311784",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KzVfDiJmN4d8jZxQxkBbBQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sees-candies-san-francisco-8?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4755895,
+    "latitude": 37.7281218
+  },
+  "review_count": 52,
+  "price": "$$",
+  "name": "See's Candies"
+}

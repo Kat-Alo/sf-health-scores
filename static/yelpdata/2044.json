@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 2062.6411884599997,
+  "display_phone": "(415) 989-5555",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "570 Powell St",
+    "state": "CA",
+    "display_address": [
+      "570 Powell St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "roxanne-cafe-san-francisco-2",
+  "phone": "+14159895555",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x3_DcnmZvussn3KXg1__Bw/o.jpg",
+  "url": "https://www.yelp.com/biz/roxanne-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4085888,
+    "latitude": 37.7900344
+  },
+  "review_count": 359,
+  "price": "$$",
+  "name": "Roxanne Cafe"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 30.235571810399996,
+  "display_phone": "(415) 928-6724",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "248 Hyde St",
+    "state": "CA",
+    "display_address": [
+      "248 Hyde St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mong-thu-cafe-san-francisco",
+  "phone": "+14159286724",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NVA5Fz7V1awyaIGnphWhcw/o.jpg",
+  "url": "https://www.yelp.com/biz/mong-thu-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.415642,
+    "latitude": 37.7831896
+  },
+  "review_count": 60,
+  "price": "$",
+  "name": "Mong Thu Cafe"
+}

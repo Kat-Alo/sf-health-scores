@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    }
+  ],
+  "distance": 12.374036623259999,
+  "display_phone": "(415) 586-8800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2608 Ocean Ave",
+    "state": "CA",
+    "display_address": [
+      "2608 Ocean Ave",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "shabu-house-san-francisco-2",
+  "phone": "+14155868800",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Bio_C5aVm_POpLw9nQb0RA/o.jpg",
+  "url": "https://www.yelp.com/biz/shabu-house-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4732819,
+    "latitude": 37.7318306
+  },
+  "review_count": 405,
+  "price": "$$",
+  "name": "Shabu House"
+}

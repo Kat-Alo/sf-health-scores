@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    },
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 21.033488000240002,
+  "display_phone": "(415) 668-8986",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2222 Clement St",
+    "state": "CA",
+    "display_address": [
+      "2222 Clement St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-wing-hing-seafood-market-san-francisco-2",
+  "phone": "+14156688986",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NoS5yJLkioqd1ZzvoIWNBg/o.jpg",
+  "url": "https://www.yelp.com/biz/new-wing-hing-seafood-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4832,
+    "latitude": 37.78234
+  },
+  "review_count": 6,
+  "name": "New Wing Hing Seafood Market"
+}

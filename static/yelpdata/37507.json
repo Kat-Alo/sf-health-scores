@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "distance": 174.52468317919997,
+  "display_phone": "(415) 338-3487",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "Ste C-134",
+    "address3": "Cesar Chavez Student Center",
+    "address1": "1650 Holloway Ave",
+    "state": "CA",
+    "display_address": [
+      "1650 Holloway Ave",
+      "Ste C-134",
+      "Cesar Chavez Student Center",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-pub-at-sfsu-san-francisco",
+  "phone": "+14153383487",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UIF12H3IjBZh7t2wSOqDPw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-pub-at-sfsu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.478038,
+    "latitude": 37.7209663
+  },
+  "review_count": 50,
+  "price": "$",
+  "name": "The Pub At SFSU"
+}

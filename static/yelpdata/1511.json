@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "galleries",
+      "title": "Art Galleries"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 19.51907009212,
+  "display_phone": "(415) 586-8453",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "4754 Mission St",
+    "state": "CA",
+    "display_address": [
+      "4754 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mam\u00e1-art-cafe-san-francisco-2",
+  "phone": "+14155868453",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HJ6ZhY7Ta70wzXoCYHnbUA/o.jpg",
+  "url": "https://www.yelp.com/biz/mam%C3%A1-art-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43701,
+    "latitude": 37.722
+  },
+  "review_count": 149,
+  "price": "$",
+  "name": "Mam\u00e1 Art Cafe"
+}

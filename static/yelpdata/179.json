@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    }
+  ],
+  "distance": 11.210549142464,
+  "display_phone": "(415) 702-0398",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "721 Lincoln Way",
+    "state": "CA",
+    "display_address": [
+      "721 Lincoln Way",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "secret-garden-tea-house-san-francisco",
+  "phone": "+14157020398",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uicSZONZFgYvP3KMfPrOsQ/o.jpg",
+  "url": "https://www.yelp.com/biz/secret-garden-tea-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.465833141104,
+    "latitude": 37.7658346500801
+  },
+  "review_count": 332,
+  "price": "$$",
+  "name": "Secret Garden Tea House"
+}

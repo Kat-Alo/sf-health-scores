@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 16.59709284254,
+  "display_phone": "(415) 861-6655",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2217 Market St",
+    "state": "CA",
+    "display_address": [
+      "2217 Market St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tara-indian-cuisine-san-francisco",
+  "phone": "+14158616655",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NsaJ9H5KA5J55fp33GHxJw/o.jpg",
+  "url": "https://www.yelp.com/biz/tara-indian-cuisine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4312271,
+    "latitude": 37.7654084
+  },
+  "review_count": 168,
+  "price": "$$",
+  "name": "Tara Indian Cuisine"
+}

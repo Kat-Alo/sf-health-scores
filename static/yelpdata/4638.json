@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 1779.622173258,
+  "display_phone": "(415) 759-6538",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1410 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1410 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sunset-bakery-san-francisco",
+  "phone": "+14157596538",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fsbnKxeIAc9GZFgtCo2c5A/o.jpg",
+  "url": "https://www.yelp.com/biz/sunset-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.465992439389,
+    "latitude": 37.7618241169512
+  },
+  "review_count": 346,
+  "price": "$",
+  "name": "Sunset Bakery"
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 42.30063285639999,
+  "display_phone": "(415) 839-4070",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4 Embarcadero Ctr",
+    "state": "CA",
+    "display_address": [
+      "4 Embarcadero Ctr",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "stone-korean-kitchen-san-francisco-2",
+  "phone": "+14158394070",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PXWLRRbjujdLaPUxxT44nQ/o.jpg",
+  "url": "https://www.yelp.com/biz/stone-korean-kitchen-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.395933834324,
+    "latitude": 37.7954345974864
+  },
+  "review_count": 718,
+  "price": "$$",
+  "name": "Stone Korean Kitchen"
+}

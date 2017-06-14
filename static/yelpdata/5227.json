@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    }
+  ],
+  "distance": 677.00508115,
+  "display_phone": "(415) 673-0911",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "134 Golden Gate Ave",
+    "state": "CA",
+    "display_address": [
+      "134 Golden Gate Ave",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "larkin-street-youth-services-san-francisco-4",
+  "phone": "+14156730911",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CE4tM87zWhV2yxLLlJD2yw/o.jpg",
+  "url": "https://www.yelp.com/biz/larkin-street-youth-services-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.412986755371,
+    "latitude": 37.7822647094727
+  },
+  "review_count": 9,
+  "name": "Larkin Street Youth Services"
+}

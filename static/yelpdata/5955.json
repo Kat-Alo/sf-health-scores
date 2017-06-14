@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 34.93382107015999,
+  "display_phone": "(415) 586-1117",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "25 Whittier St",
+    "state": "CA",
+    "display_address": [
+      "25 Whittier St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-christian-school-san-francisco",
+  "phone": "+14155861117",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_0DuIA9PZ2kXODFGqTdpDQ/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-christian-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4477427,
+    "latitude": 37.7100642
+  },
+  "review_count": 9,
+  "name": "San Francisco Christian School"
+}

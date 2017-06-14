@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "personal_injury",
+      "title": "Personal Injury Law"
+    }
+  ],
+  "distance": 37617.90246226,
+  "display_phone": "(415) 897-4801",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94949",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "10 Commercial Blvd",
+    "state": "CA",
+    "display_address": [
+      "10 Commercial Blvd",
+      "Novato, CA 94949"
+    ],
+    "city": "Novato"
+  },
+  "id": "rush-injury-law-novato-5",
+  "phone": "+14158974801",
+  "rating": 5.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wzCKovFyfLGzRx10h2pbiw/o.jpg",
+  "url": "https://www.yelp.com/biz/rush-injury-law-novato-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.532713,
+    "latitude": 38.0682958
+  },
+  "review_count": 6,
+  "name": "Rush Injury Law"
+}

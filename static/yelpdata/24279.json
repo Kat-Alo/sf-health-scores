@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "turkish",
+      "title": "Turkish"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 1854.305044364,
+  "display_phone": "(415) 731-0400",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "1201 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1201 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "park-gyros-san-francisco",
+  "phone": "+14157310400",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MoD2C6arvSns07kBqlVn2w/o.jpg",
+  "url": "https://www.yelp.com/biz/park-gyros-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.466647,
+    "latitude": 37.765735
+  },
+  "review_count": 431,
+  "price": "$",
+  "name": "Park Gyros"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 26.88141435052,
+  "display_phone": "(415) 282-8283",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "842 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "842 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "range-restaurant-san-francisco",
+  "phone": "+14152828283",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/clVR_KdBj7uDnig2sVhUYw/o.jpg",
+  "url": "https://www.yelp.com/biz/range-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42167,
+    "latitude": 37.7594
+  },
+  "review_count": 1657,
+  "price": "$$$",
+  "name": "Range Restaurant"
+}

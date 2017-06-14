@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "food",
+      "title": "Food"
+    }
+  ],
+  "distance": 39769.039647980004,
+  "display_phone": "(925) 609-9940",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94553",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5830 Pacheco Blvd",
+    "state": "CA",
+    "display_address": [
+      "5830 Pacheco Blvd",
+      "Pacheco, CA 94553"
+    ],
+    "city": "Pacheco"
+  },
+  "id": "rancho-grande-taqueria-pacheco",
+  "phone": "+19256099940",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KtKnvVATMOgQ-SwdhHR20A/o.jpg",
+  "url": "https://www.yelp.com/biz/rancho-grande-taqueria-pacheco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.067929,
+    "latitude": 37.983584
+  },
+  "review_count": 86,
+  "price": "$",
+  "name": "Rancho Grande Taqueria"
+}

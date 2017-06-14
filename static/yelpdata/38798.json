@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 1.8245427150739997,
+  "display_phone": "(415) 333-8500",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "757 Monterey Blvd",
+    "state": "CA",
+    "display_address": [
+      "757 Monterey Blvd",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ks-kitchen-san-francisco",
+  "phone": "+14153338500",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8u0USLHrcp77hk9hkegyXg/o.jpg",
+  "url": "https://www.yelp.com/biz/ks-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.452381,
+    "latitude": 37.731489
+  },
+  "review_count": 373,
+  "price": "$$",
+  "name": "K's Kitchen"
+}

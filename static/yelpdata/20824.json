@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 19.69257464686,
+  "display_phone": "(415) 614-5431",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1625 Post St",
+    "state": "CA",
+    "display_address": [
+      "1625 Post St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "izakaya-lounge-san-francisco",
+  "phone": "+14156145431",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hJ7wT0NmDKgT4dyjCAE9-Q/o.jpg",
+  "url": "https://www.yelp.com/biz/izakaya-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.428819280879,
+    "latitude": 37.7855714256637
+  },
+  "review_count": 213,
+  "price": "$$",
+  "name": "Izakaya Lounge"
+}

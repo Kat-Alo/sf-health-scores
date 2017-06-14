@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 11.679489414242,
+  "display_phone": "(415) 876-3474",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "200 23rd Ave",
+    "state": "CA",
+    "display_address": [
+      "200 23rd Ave",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rumble-fish-san-francisco",
+  "phone": "+14158763474",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dEVElMM8_pcqLNccK6Bb4Q/o.jpg",
+  "url": "https://www.yelp.com/biz/rumble-fish-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4827351,
+    "latitude": 37.783915
+  },
+  "review_count": 166,
+  "price": "$$",
+  "name": "Rumble Fish"
+}

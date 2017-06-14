@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 1123.3477409444,
+  "display_phone": "(415) 242-5667",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "360 W Portal Ave",
+    "state": "CA",
+    "display_address": [
+      "360 W Portal Ave",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushi-suki-san-francisco",
+  "phone": "+14152425667",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9av3b7wCpoOp_zTcSejd0Q/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-suki-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47019,
+    "latitude": 37.7374
+  },
+  "review_count": 120,
+  "price": "$$",
+  "name": "Sushi Suki"
+}

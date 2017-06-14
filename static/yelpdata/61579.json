@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 16.77195889892,
+  "display_phone": "(415) 621-5446",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2128 Mission St",
+    "state": "CA",
+    "display_address": [
+      "2128 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-oaxaque\u00f1a-san-francisco-2",
+  "phone": "+14156215446",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8ovXsuKwJPuoK8AAmiy0LA/o.jpg",
+  "url": "https://www.yelp.com/biz/la-oaxaque%C3%B1a-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41974,
+    "latitude": 37.76288
+  },
+  "review_count": 465,
+  "price": "$",
+  "name": "La Oaxaque\u00f1a"
+}

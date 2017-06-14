@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 14.861249062499999,
+  "display_phone": "(415) 861-4470",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4150 18th St",
+    "state": "CA",
+    "display_address": [
+      "4150 18th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zapata-mexican-grill-san-francisco",
+  "phone": "+14158614470",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wOONDeZHVIHoYH0dQaBy4w/o.jpg",
+  "url": "https://www.yelp.com/biz/zapata-mexican-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4359,
+    "latitude": 37.76102
+  },
+  "review_count": 267,
+  "price": "$",
+  "name": "Zapata Mexican Grill"
+}

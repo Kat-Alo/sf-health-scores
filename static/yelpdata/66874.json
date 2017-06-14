@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 3.17316384145,
+  "display_phone": "(415) 398-8383",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "641 Jackson St",
+    "state": "CA",
+    "display_address": [
+      "641 Jackson St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "peninsula-seafood-restaurant-san-francisco",
+  "phone": "+14153988383",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6EBBGu8S8RunTzs0kQbusw/o.jpg",
+  "url": "https://www.yelp.com/biz/peninsula-seafood-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405699640512,
+    "latitude": 37.7960988879204
+  },
+  "review_count": 168,
+  "price": "$$",
+  "name": "Peninsula Seafood Restaurant"
+}

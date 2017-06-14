@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 601.753469288,
+  "display_phone": "(415) 777-5626",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "Pier 30",
+    "state": "CA",
+    "display_address": [
+      "Pier 30",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "reds-java-house-san-francisco",
+  "phone": "+14157775626",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lUKvyk621kwjlY4sppmqMQ/o.jpg",
+  "url": "https://www.yelp.com/biz/reds-java-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.387276232761,
+    "latitude": 37.7872114741567
+  },
+  "review_count": 719,
+  "price": "$",
+  "name": "Red's Java House"
+}

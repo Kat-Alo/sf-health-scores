@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "homehealthcare",
+      "title": "Home Health Care"
+    }
+  ],
+  "distance": 5193.7569990599995,
+  "display_phone": "(415) 292-8888",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1333 Bush St",
+    "state": "CA",
+    "display_address": [
+      "1333 Bush St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "on-lok-lifeways-san-francisco-2",
+  "phone": "+14152928888",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V2Gh-XDBOv8cvjnw6NXekw/o.jpg",
+  "url": "https://www.yelp.com/biz/on-lok-lifeways-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419,
+    "latitude": 37.78859
+  },
+  "review_count": 4,
+  "name": "On Lok Lifeways"
+}

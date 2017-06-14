@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 12.590002004559999,
+  "display_phone": "(415) 567-1888",
+  "is_closed": true,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "683 Geary St",
+    "state": "CA",
+    "display_address": [
+      "683 Geary St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "king-ling-san-francisco",
+  "phone": "+14155671888",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iolkvGHnjoh7_tO3LSftaA/o.jpg",
+  "url": "https://www.yelp.com/biz/king-ling-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4145126,
+    "latitude": 37.7863998
+  },
+  "review_count": 103,
+  "price": "$",
+  "name": "King Ling"
+}

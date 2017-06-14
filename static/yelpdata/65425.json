@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 30.44383971848,
+  "display_phone": "(415) 665-7954",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94143",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "500 Parnassus Ave",
+    "state": "CA",
+    "display_address": [
+      "500 Parnassus Ave",
+      "San Francisco, CA 94143"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panda-express-san-francisco-2",
+  "phone": "+14156657954",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kg3yO4y88PUo1-rUVOh44A/o.jpg",
+  "url": "https://www.yelp.com/biz/panda-express-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.458529370293,
+    "latitude": 37.763563129844
+  },
+  "review_count": 56,
+  "price": "$",
+  "name": "Panda Express"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 39.45393087598,
+  "display_phone": "(415) 695-5692",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "443 Burnett Ave",
+    "state": "CA",
+    "display_address": [
+      "443 Burnett Ave",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rooftop-school-san-francisco",
+  "phone": "+14156955692",
+  "rating": 3.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/rooftop-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4438782,
+    "latitude": 37.7547207
+  },
+  "review_count": 7,
+  "name": "Rooftop School"
+}

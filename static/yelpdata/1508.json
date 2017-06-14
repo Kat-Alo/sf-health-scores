@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 1500.3864910884,
+  "display_phone": "(415) 359-1200",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "7 Fishermans Wharf",
+    "state": "CA",
+    "display_address": [
+      "7 Fishermans Wharf",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nonna-rose-seafood-trattoria-san-francisco",
+  "phone": "+14153591200",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lmddFS6t54ujhqUeVFxJkg/o.jpg",
+  "url": "https://www.yelp.com/biz/nonna-rose-seafood-trattoria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4160081224,
+    "latitude": 37.808505741811
+  },
+  "review_count": 58,
+  "price": "$$",
+  "name": "Nonna Rose Seafood Trattoria"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 382.9130503582,
+  "display_phone": "(510) 653-3394",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "66 Mint St",
+    "state": "CA",
+    "display_address": [
+      "66 Mint St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "blue-bottle-coffee-san-francisco-21",
+  "phone": "+15106533394",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YKoMObZPbtVi1l7f3g4xwg/o.jpg",
+  "url": "https://www.yelp.com/biz/blue-bottle-coffee-san-francisco-21?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407753326389,
+    "latitude": 37.7824664727379
+  },
+  "review_count": 1958,
+  "price": "$$",
+  "name": "Blue Bottle Coffee"
+}

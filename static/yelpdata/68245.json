@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 13.41494164186,
+  "display_phone": "(415) 543-7655",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "525 Market St",
+    "state": "CA",
+    "display_address": [
+      "525 Market St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "u-sushi-san-francisco",
+  "phone": "+14155437655",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jtA4IJKnwcK7vyp1l9MQag/o.jpg",
+  "url": "https://www.yelp.com/biz/u-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.399415169312,
+    "latitude": 37.7906930756349
+  },
+  "review_count": 259,
+  "price": "$",
+  "name": "U-Sushi"
+}

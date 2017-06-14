@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "irish",
+      "title": "Irish"
+    },
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "distance": 25.6212238822,
+  "display_phone": "(415) 661-2700",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2700 45th Ave",
+    "state": "CA",
+    "display_address": [
+      "2700 45th Ave",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "united-irish-cultural-center-san-francisco",
+  "phone": "+14156612700",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZyZ1QytNOn6pLDQdU96LuQ/o.jpg",
+  "url": "https://www.yelp.com/biz/united-irish-cultural-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.502792358398,
+    "latitude": 37.7359657287598
+  },
+  "review_count": 64,
+  "price": "$$",
+  "name": "United Irish Cultural Center"
+}

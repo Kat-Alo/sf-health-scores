@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 34.41405896772,
+  "display_phone": "(415) 773-6168",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "The Ritz-Carlton, San Francisco",
+    "address1": "600 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "600 Stockton St",
+      "The Ritz-Carlton, San Francisco",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "parallel-37-san-francisco",
+  "phone": "+14157736168",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YiRnvpnr6543CTSCngzkIA/o.jpg",
+  "url": "https://www.yelp.com/biz/parallel-37-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407165322754,
+    "latitude": 37.7920146869889
+  },
+  "review_count": 168,
+  "price": "$$$$",
+  "name": "Parallel 37"
+}

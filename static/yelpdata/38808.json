@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 18.65388086142,
+  "display_phone": "(415) 661-8869",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "1816 Irving St",
+    "state": "CA",
+    "display_address": [
+      "1816 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pho-phu-quoc-ppq-beef-noodle-house-restaurant-san-francisco",
+  "phone": "+14156618869",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UBE15yRFaMQ7Uikz9C2OJA/o.jpg",
+  "url": "https://www.yelp.com/biz/pho-phu-quoc-ppq-beef-noodle-house-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47748,
+    "latitude": 37.76376
+  },
+  "review_count": 1175,
+  "price": "$",
+  "name": "Pho Phu Quoc PPQ Beef Noodle House Restaurant"
+}

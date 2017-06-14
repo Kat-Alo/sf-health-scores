@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "foodstands",
+      "title": "Food Stands"
+    },
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    },
+    {
+      "alias": "pretzels",
+      "title": "Pretzels"
+    }
+  ],
+  "distance": 4031.4329101499998,
+  "display_phone": "(415) 974-3600",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "Post And Stockton St",
+    "state": "CA",
+    "display_address": [
+      "Post And Stockton St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "stanleys-steamers-san-francisco",
+  "phone": "+14159743600",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tWbCBISU9nwkPMzcP9cZKA/o.jpg",
+  "url": "https://www.yelp.com/biz/stanleys-steamers-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407123965082,
+    "latitude": 37.7887783805193
+  },
+  "review_count": 55,
+  "price": "$",
+  "name": "Stanley's Steamers"
+}

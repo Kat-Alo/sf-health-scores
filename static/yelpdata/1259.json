@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 31.07314959472,
+  "display_phone": "(415) 863-3736",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2416 Market St",
+    "state": "CA",
+    "display_address": [
+      "2416 Market St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "k-ds-grog-n-grocery-san-francisco",
+  "phone": "+14158633736",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NreHdnw751UABokL_OTFVA/o.jpg",
+  "url": "https://www.yelp.com/biz/k-ds-grog-n-grocery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.435668945312,
+    "latitude": 37.762752532959
+  },
+  "review_count": 10,
+  "price": "$$$",
+  "name": "K D's Grog N' Grocery"
+}

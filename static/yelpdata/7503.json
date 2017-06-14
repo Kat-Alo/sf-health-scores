@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 77.05900850777999,
+  "display_phone": "(415) 433-2968",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1 Maritime Plz",
+    "state": "CA",
+    "display_address": [
+      "1 Maritime Plz",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-daily-habit-san-francisco",
+  "phone": "+14154332968",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_vXYnNmY5NrG9ykXIL3AgA/o.jpg",
+  "url": "https://www.yelp.com/biz/the-daily-habit-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.398853302002,
+    "latitude": 37.7958814787935
+  },
+  "review_count": 21,
+  "price": "$",
+  "name": "The Daily Habit"
+}

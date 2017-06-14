@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 18.435708270310002,
+  "display_phone": "(415) 241-6300",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1025 14th St",
+    "state": "CA",
+    "display_address": [
+      "1025 14th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mckinley-elementary-school-san-francisco",
+  "phone": "+14152416300",
+  "rating": 5.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LoNvsZpidaYmuPN7xgIf6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/mckinley-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4362487,
+    "latitude": 37.7671566
+  },
+  "review_count": 6,
+  "name": "McKinley Elementary School"
+}

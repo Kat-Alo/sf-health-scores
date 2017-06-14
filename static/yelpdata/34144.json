@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "cheesesteaks",
+      "title": "Cheesesteaks"
+    }
+  ],
+  "distance": 8.443996639262,
+  "display_phone": "(415) 467-4100",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94134",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2414 San Bruno Ave",
+    "state": "CA",
+    "display_address": [
+      "2414 San Bruno Ave",
+      "San Francisco, CA 94134"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pizza-joint-san-francisco",
+  "phone": "+14154674100",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ojC3z0-UPq11IHSgZjMx7w/o.jpg",
+  "url": "https://www.yelp.com/biz/pizza-joint-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40556515909,
+    "latitude": 37.732032864887
+  },
+  "review_count": 236,
+  "price": "$",
+  "name": "Pizza Joint"
+}

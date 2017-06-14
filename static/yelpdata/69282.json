@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 17.766409513750002,
+  "display_phone": "(415) 681-1800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1532 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "1532 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-jumbo-seafood-restaurant-san-francisco",
+  "phone": "+14156811800",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UmWDXHY7doQIhzi21CcdRg/o.jpg",
+  "url": "https://www.yelp.com/biz/new-jumbo-seafood-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.480108812451,
+    "latitude": 37.7541196346283
+  },
+  "review_count": 158,
+  "price": "$$",
+  "name": "New Jumbo Seafood Restaurant"
+}

@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 2782.3267710799996,
+  "display_phone": "(415) 554-0541",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "Ste A",
+    "address3": "",
+    "address1": "425 Hayes St",
+    "state": "CA",
+    "display_address": [
+      "425 Hayes St",
+      "Ste A",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "papito-hayes-san-francisco",
+  "phone": "+14155540541",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/plM8RROpqZ7Qvz7P6W1dRQ/o.jpg",
+  "url": "https://www.yelp.com/biz/papito-hayes-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.423396,
+    "latitude": 37.776635
+  },
+  "review_count": 319,
+  "price": "$$",
+  "name": "Papito Hayes"
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 67.2175612744,
+  "display_phone": "(415) 921-2000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "Ste 505",
+    "address3": "",
+    "address1": "22 Peace Plz",
+    "state": "CA",
+    "display_address": [
+      "22 Peace Plz",
+      "Ste 505",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "takara-japanese-restaurant-san-francisco",
+  "phone": "+14159212000",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T121t-W_RBlDPD4Z4n-YiA/o.jpg",
+  "url": "https://www.yelp.com/biz/takara-japanese-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.428832352161,
+    "latitude": 37.7851148004755
+  },
+  "review_count": 411,
+  "price": "$$",
+  "name": "Takara Japanese Restaurant"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 21.558739561419998,
+  "display_phone": "(415) 771-7779",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1911 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "1911 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "spqr-san-francisco",
+  "phone": "+14157717779",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AOoWv69XP6NAw3b7jwR6xg/o.jpg",
+  "url": "https://www.yelp.com/biz/spqr-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43376,
+    "latitude": 37.78725
+  },
+  "review_count": 1735,
+  "price": "$$$",
+  "name": "SPQR"
+}

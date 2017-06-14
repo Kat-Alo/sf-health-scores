@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "boating",
+      "title": "Boating"
+    }
+  ],
+  "distance": 75.82753027439999,
+  "display_phone": "(415) 495-9344",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94158",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "405 Terry Francois St",
+    "state": "CA",
+    "display_address": [
+      "405 Terry Francois St",
+      "San Francisco, CA 94158"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mariposa-hunters-point-yacht-club-san-francisco",
+  "phone": "+14154959344",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/w6O7HX1FjkuCXgH8vA8OqA/o.jpg",
+  "url": "https://www.yelp.com/biz/mariposa-hunters-point-yacht-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3871523,
+    "latitude": 37.7731818
+  },
+  "review_count": 7,
+  "name": "Mariposa Hunters Point Yacht Club"
+}

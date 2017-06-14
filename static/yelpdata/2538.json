@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 24.06386395486,
+  "display_phone": "(415) 626-3984",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "471 Haight St",
+    "state": "CA",
+    "display_address": [
+      "471 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kates-kitchen-san-francisco",
+  "phone": "+14156263984",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PmY0A5Dzlnt08rXA5BfZ2g/o.jpg",
+  "url": "https://www.yelp.com/biz/kates-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42989,
+    "latitude": 37.77205
+  },
+  "review_count": 755,
+  "price": "$$",
+  "name": "Kate's Kitchen"
+}

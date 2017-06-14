@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    }
+  ],
+  "distance": 27.23912878968,
+  "display_phone": "(415) 693-0777",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "420 Mason St",
+    "state": "CA",
+    "display_address": [
+      "420 Mason St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ruby-skye-san-francisco",
+  "phone": "+14156930777",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hdU-jjobuUmeoFJ0xZpLqA/o.jpg",
+  "url": "https://www.yelp.com/biz/ruby-skye-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40959,
+    "latitude": 37.78756
+  },
+  "review_count": 1559,
+  "price": "$$",
+  "name": "Ruby Skye"
+}

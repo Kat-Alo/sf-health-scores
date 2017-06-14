@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "funeralservices",
+      "title": "Funeral Services & Cemeteries"
+    },
+    {
+      "alias": "landmarks",
+      "title": "Landmarks & Historical Buildings"
+    }
+  ],
+  "distance": 11691.079398119999,
+  "display_phone": "(650) 755-0580",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94014",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1370 El Camino Real",
+    "state": "CA",
+    "display_address": [
+      "1370 El Camino Real",
+      "Colma, CA 94014"
+    ],
+    "city": "Colma"
+  },
+  "id": "cypress-lawn-memorial-park-colma-3",
+  "phone": "+16507550580",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PAqB2dp1H7-dewwFw7YPxQ/o.jpg",
+  "url": "https://www.yelp.com/biz/cypress-lawn-memorial-park-colma-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.454728444417,
+    "latitude": 37.6734975757021
+  },
+  "review_count": 82,
+  "name": "Cypress Lawn Memorial Park"
+}

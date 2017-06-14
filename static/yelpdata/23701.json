@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    }
+  ],
+  "distance": 17.00730556184,
+  "display_phone": "(415) 421-7245",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1200 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "1200 Stockton St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wah-hing-market-san-francisco",
+  "phone": "+14154217245",
+  "rating": 3.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/wah-hing-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408210754395,
+    "latitude": 37.7968559265137
+  },
+  "review_count": 2,
+  "price": "$",
+  "name": "Wah Hing Market"
+}

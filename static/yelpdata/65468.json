@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 13.00495262082,
+  "display_phone": "(415) 834-5441",
+  "is_closed": true,
+  "transactions": [
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3465 19th St",
+    "state": "CA",
+    "display_address": [
+      "3465 19th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "radish-san-francisco",
+  "phone": "+14158345441",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BncZE_5D_fzj9rFl4C3F8Q/o.jpg",
+  "url": "https://www.yelp.com/biz/radish-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42076,
+    "latitude": 37.76002
+  },
+  "review_count": 770,
+  "price": "$$",
+  "name": "Radish"
+}

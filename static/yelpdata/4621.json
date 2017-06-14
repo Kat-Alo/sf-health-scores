@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 7.9328161814380005,
+  "display_phone": "(415) 989-8380",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1242 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "1242 Stockton St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "louies-dim-sum-san-francisco-2",
+  "phone": "+14159898380",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PEZLjtzOC9bt1rDpM7II-w/o.jpg",
+  "url": "https://www.yelp.com/biz/louies-dim-sum-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40832,
+    "latitude": 37.7972899
+  },
+  "review_count": 66,
+  "price": "$",
+  "name": "Louie's Dim Sum"
+}

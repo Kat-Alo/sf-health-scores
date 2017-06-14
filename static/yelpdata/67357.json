@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    }
+  ],
+  "distance": 18.283607132900002,
+  "display_phone": "(415) 440-8626",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2184 Union St",
+    "state": "CA",
+    "display_address": [
+      "2184 Union St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "umami-burger-marina-district-san-francisco",
+  "phone": "+14154408626",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X0kYzrLC8hz6aurUHPNTkw/o.jpg",
+  "url": "https://www.yelp.com/biz/umami-burger-marina-district-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.435245513916,
+    "latitude": 37.7973057549931
+  },
+  "review_count": 1951,
+  "price": "$$",
+  "name": "Umami Burger - Marina District"
+}

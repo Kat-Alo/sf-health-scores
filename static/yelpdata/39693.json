@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 16.04836422944,
+  "display_phone": "(415) 398-3555",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "314 Columbus Ave",
+    "state": "CA",
+    "display_address": [
+      "314 Columbus Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pizzelle-di-north-beach-san-francisco-3",
+  "phone": "+14153983555",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mvTxUGZ-7La4ouniyON5QA/o.jpg",
+  "url": "https://www.yelp.com/biz/pizzelle-di-north-beach-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40679,
+    "latitude": 37.79817
+  },
+  "review_count": 323,
+  "price": "$",
+  "name": "Pizzelle di North Beach"
+}

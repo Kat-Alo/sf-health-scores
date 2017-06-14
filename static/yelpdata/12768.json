@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 62.354892184200004,
+  "display_phone": "(415) 824-2925",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "Unit One",
+    "address3": "",
+    "address1": "50 Mendell St",
+    "state": "CA",
+    "display_address": [
+      "50 Mendell St",
+      "Unit One",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vasquez-coffee-company-san-francisco",
+  "phone": "+14158242925",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pysr8-8jNHjhllkTVibsJA/o.jpg",
+  "url": "https://www.yelp.com/biz/vasquez-coffee-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.38404083252,
+    "latitude": 37.743709564209
+  },
+  "review_count": 17,
+  "price": "$$",
+  "name": "Vasquez Coffee Company"
+}

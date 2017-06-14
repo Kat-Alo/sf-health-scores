@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "homedecor",
+      "title": "Home Decor"
+    },
+    {
+      "alias": "furniture",
+      "title": "Furniture Stores"
+    },
+    {
+      "alias": "kitchenandbath",
+      "title": "Kitchen & Bath"
+    }
+  ],
+  "distance": 45444.101960839995,
+  "display_phone": "(650) 321-1646",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94304",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "800 Stanford Shoppng Ctr",
+    "state": "CA",
+    "display_address": [
+      "800 Stanford Shoppng Ctr",
+      "Palo Alto, CA 94304"
+    ],
+    "city": "Palo Alto"
+  },
+  "id": "pottery-barn-palo-alto",
+  "phone": "+16503211646",
+  "rating": 2.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TU60cGu7Hj7kQaThpC82yQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pottery-barn-palo-alto?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.172251960451,
+    "latitude": 37.4441829313731
+  },
+  "review_count": 101,
+  "price": "$$$",
+  "name": "Pottery Barn"
+}

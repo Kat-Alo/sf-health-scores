@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 20.79682248319,
+  "display_phone": "(415) 504-6340",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "729 Portola Dr",
+    "state": "CA",
+    "display_address": [
+      "729 Portola Dr",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tower-burger-san-francisco",
+  "phone": "+14155046340",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7ZCeQvTEvbwIqaECMMhHtA/o.jpg",
+  "url": "https://www.yelp.com/biz/tower-burger-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.453437805176,
+    "latitude": 37.743953704834
+  },
+  "review_count": 296,
+  "price": "$$",
+  "name": "Tower Burger"
+}

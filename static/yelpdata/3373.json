@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 12.061634761139999,
+  "display_phone": "(415) 397-8470",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "160 Ellis St",
+    "state": "CA",
+    "display_address": [
+      "160 Ellis St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-delhi-restaurant-san-francisco",
+  "phone": "+14153978470",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iAdNyeWc9mVi2XHMQixmGg/o.jpg",
+  "url": "https://www.yelp.com/biz/new-delhi-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4089729,
+    "latitude": 37.7855156
+  },
+  "review_count": 417,
+  "price": "$$",
+  "name": "New Delhi Restaurant"
+}

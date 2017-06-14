@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "raw_food",
+      "title": "Live/Raw Food"
+    },
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 14.96892678322,
+  "display_phone": "(415) 646-0018",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "1630 Powell St",
+    "state": "CA",
+    "display_address": [
+      "1630 Powell St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pe\u00f1a-pachamama-san-francisco-2",
+  "phone": "+14156460018",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vgDm0q6-PAb8OATngjkMIQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pe%C3%B1a-pachamama-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41049,
+    "latitude": 37.79976
+  },
+  "review_count": 341,
+  "price": "$$",
+  "name": "Pe\u00f1a Pachamama"
+}

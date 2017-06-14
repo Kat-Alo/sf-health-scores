@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 37.616476587019996,
+  "display_phone": "(415) 695-5736",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2576 Harrison St",
+    "state": "CA",
+    "display_address": [
+      "2576 Harrison St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "george-r-moscone-elementary-school-san-francisco",
+  "phone": "+14156955736",
+  "rating": 3.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/george-r-moscone-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4124315,
+    "latitude": 37.7562464
+  },
+  "review_count": 1,
+  "name": "George R Moscone Elementary School"
+}

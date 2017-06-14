@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 1389.075105956,
+  "display_phone": "(415) 397-7687",
+  "is_closed": true,
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "50 Post St",
+    "state": "CA",
+    "display_address": [
+      "50 Post St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-soup-company-san-francisco-5",
+  "phone": "+14153977687",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FmU38VjJfDy6a5_F78kzig/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-soup-company-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40295846,
+    "latitude": 37.7892651616
+  },
+  "review_count": 139,
+  "price": "$",
+  "name": "San Francisco Soup Company"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 37.3722061338,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1659 Market St",
+    "state": "CA",
+    "display_address": [
+      "1659 Market St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nicks-foods-san-francisco",
+  "phone": "",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1ooYnvaYujL4A5smQrUILw/o.jpg",
+  "url": "https://www.yelp.com/biz/nicks-foods-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42130279541,
+    "latitude": 37.7730674743652
+  },
+  "review_count": 9,
+  "price": "$$",
+  "name": "Nick's Foods"
+}

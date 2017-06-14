@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "irish",
+      "title": "Irish"
+    },
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "distance": 24.76557160034,
+  "display_phone": "(415) 955-1916",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "530 Jackson St",
+    "state": "CA",
+    "display_address": [
+      "530 Jackson St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kells-irish-restaurant-and-pub-san-francisco-2",
+  "phone": "+14159551916",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/13aVsWB_Kc7YS0CEbLCMNw/o.jpg",
+  "url": "https://www.yelp.com/biz/kells-irish-restaurant-and-pub-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404067993164,
+    "latitude": 37.7965621948242
+  },
+  "review_count": 505,
+  "price": "$$",
+  "name": "Kells Irish Restaurant & Pub"
+}

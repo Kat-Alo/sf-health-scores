@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 1333.4383875084,
+  "display_phone": "(415) 241-6294",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "375 7th St",
+    "state": "CA",
+    "display_address": [
+      "375 7th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "bessie-carmichael-school-f-e-c-san-francisco",
+  "phone": "+14152416294",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Io06T-8M69aJ6RoN5dcPtA/o.jpg",
+  "url": "https://www.yelp.com/biz/bessie-carmichael-school-f-e-c-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406448364258,
+    "latitude": 37.7760925292969
+  },
+  "review_count": 11,
+  "name": "Bessie Carmichael School/F.E.C"
+}

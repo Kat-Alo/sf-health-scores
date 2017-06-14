@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 33.02614162096,
+  "display_phone": "(415) 409-8226",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1500 Broadway",
+    "state": "CA",
+    "display_address": [
+      "1500 Broadway",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nicks-crispy-tacos-san-francisco-2",
+  "phone": "+14154098226",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sa6Hv0hkKYMiTJ8yXgeQuw/o.jpg",
+  "url": "https://www.yelp.com/biz/nicks-crispy-tacos-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42196,
+    "latitude": 37.79607
+  },
+  "review_count": 2948,
+  "price": "$",
+  "name": "Nick's Crispy Tacos"
+}

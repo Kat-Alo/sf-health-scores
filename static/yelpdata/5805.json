@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 77.67113063282,
+  "display_phone": "(415) 469-4726",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "400 Sargent St",
+    "state": "CA",
+    "display_address": [
+      "400 Sargent St",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jose-ortega-elementary-school-san-francisco",
+  "phone": "+14154694726",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ML7tmbVGnxkH4xDuw68hNg/o.jpg",
+  "url": "https://www.yelp.com/biz/jose-ortega-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4664008,
+    "latitude": 37.7162249
+  },
+  "review_count": 10,
+  "name": "Jose Ortega Elementary School"
+}

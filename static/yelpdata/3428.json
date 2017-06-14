@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "womenscloth",
+      "title": "Women's Clothing"
+    },
+    {
+      "alias": "menscloth",
+      "title": "Men's Clothing"
+    }
+  ],
+  "distance": 1501.524036974,
+  "display_phone": "(415) 501-7828",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "345 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "345 Stockton St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "levi-strauss-and-company-san-francisco-2",
+  "phone": "+14155017828",
+  "rating": 1.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Rt2k3Io0koo7_la0oDM6CQ/o.jpg",
+  "url": "https://www.yelp.com/biz/levi-strauss-and-company-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4072,
+    "latitude": 37.78891
+  },
+  "review_count": 1,
+  "name": "Levi Strauss & Company"
+}

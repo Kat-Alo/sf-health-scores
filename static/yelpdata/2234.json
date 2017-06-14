@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 13.721762312859997,
+  "display_phone": "(415) 421-8102",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "834 Washington St",
+    "state": "CA",
+    "display_address": [
+      "834 Washington St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kam-lok-restaurant-san-francisco",
+  "phone": "+14154218102",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s3TgvRsaDqILevNHfzitiQ/o.jpg",
+  "url": "https://www.yelp.com/biz/kam-lok-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407104492188,
+    "latitude": 37.795238494873
+  },
+  "review_count": 103,
+  "price": "$",
+  "name": "Kam Lok Restaurant"
+}

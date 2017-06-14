@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 4188.63082734,
+  "display_phone": "(415) 333-9288",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4435 Mission St",
+    "state": "CA",
+    "display_address": [
+      "4435 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushiraw-san-francisco-3",
+  "phone": "+14153339288",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9aMC_OL1rBhjLaPWUvxqUA/o.jpg",
+  "url": "https://www.yelp.com/biz/sushiraw-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.432632446289,
+    "latitude": 37.727108001709
+  },
+  "review_count": 545,
+  "price": "$$",
+  "name": "Sushiraw"
+}

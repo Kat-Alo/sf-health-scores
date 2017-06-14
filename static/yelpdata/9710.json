@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    },
+    {
+      "alias": "musicvenues",
+      "title": "Music Venues"
+    }
+  ],
+  "distance": 15.21997416718,
+  "display_phone": "(415) 861-2011",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "155 Fell St",
+    "state": "CA",
+    "display_address": [
+      "155 Fell St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rickshaw-stop-san-francisco",
+  "phone": "+14158612011",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xbNKUFn9XoZBjrsu9Iue1A/o.jpg",
+  "url": "https://www.yelp.com/biz/rickshaw-stop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420457,
+    "latitude": 37.776087
+  },
+  "review_count": 501,
+  "price": "$$",
+  "name": "Rickshaw Stop"
+}

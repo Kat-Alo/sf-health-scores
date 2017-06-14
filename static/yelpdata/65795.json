@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 27.38101786012,
+  "display_phone": "(415) 366-6439",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2680 22nd St",
+    "state": "CA",
+    "display_address": [
+      "2680 22nd St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mr-pizza-man-san-francisco-2",
+  "phone": "+14153666439",
+  "rating": 2.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T624eR6BvJ5H62zhH_oaRw/o.jpg",
+  "url": "https://www.yelp.com/biz/mr-pizza-man-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40837,
+    "latitude": 37.7562799
+  },
+  "review_count": 80,
+  "price": "$",
+  "name": "Mr Pizza Man"
+}

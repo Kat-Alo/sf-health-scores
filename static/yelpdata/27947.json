@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "turkish",
+      "title": "Turkish"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 51.6674985985,
+  "display_phone": "(415) 863-2285",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "685 Townsend St",
+    "state": "CA",
+    "display_address": [
+      "685 Townsend St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "saffron-685-san-francisco",
+  "phone": "+14158632285",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L85wN0h2aEBCGwFyZNaYGg/o.jpg",
+  "url": "https://www.yelp.com/biz/saffron-685-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4033341,
+    "latitude": 37.7703708
+  },
+  "review_count": 338,
+  "price": "$$",
+  "name": "Saffron 685"
+}

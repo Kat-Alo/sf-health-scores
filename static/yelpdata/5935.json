@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 14.85647254138,
+  "display_phone": "(415) 566-0314",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2550 41st Ave",
+    "state": "CA",
+    "display_address": [
+      "2550 41st Ave",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "st-gabriel-school-san-francisco",
+  "phone": "+14155660314",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/31zNlocmC40DWlSP8UzFYA/o.jpg",
+  "url": "https://www.yelp.com/biz/st-gabriel-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49868,
+    "latitude": 37.73953
+  },
+  "review_count": 7,
+  "name": "St Gabriel School"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    }
+  ],
+  "distance": 59.87202818163999,
+  "display_phone": "(415) 674-4437",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "201 Turk St",
+    "state": "CA",
+    "display_address": [
+      "201 Turk St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "radmans-produce-market-san-francisco",
+  "phone": "+14156744437",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S6yB5h-huXgymZkbNuFXOw/o.jpg",
+  "url": "https://www.yelp.com/biz/radmans-produce-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41294,
+    "latitude": 37.7828
+  },
+  "review_count": 11,
+  "price": "$",
+  "name": "Radman's Produce Market"
+}

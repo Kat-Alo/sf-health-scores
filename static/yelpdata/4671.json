@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "gelato",
+      "title": "Gelato"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 26.50464532576,
+  "display_phone": "(415) 731-2833",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1447 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "1447 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marco-polo-italian-ice-cream-san-francisco",
+  "phone": "+14157312833",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O6QDkYE3RfefCHBXHDX4ZA/o.jpg",
+  "url": "https://www.yelp.com/biz/marco-polo-italian-ice-cream-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.481863,
+    "latitude": 37.742691
+  },
+  "review_count": 1236,
+  "price": "$",
+  "name": "Marco Polo Italian Ice Cream"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 11.249215789039999,
+  "display_phone": "(415) 835-9888",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1570 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "1570 Stockton St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tonys-pizza-napoletana-san-francisco",
+  "phone": "+14158359888",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d8tM3JkgYW0roXBygLoSKg/o.jpg",
+  "url": "https://www.yelp.com/biz/tonys-pizza-napoletana-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40894,
+    "latitude": 37.80032
+  },
+  "review_count": 3481,
+  "price": "$$",
+  "name": "Tony's Pizza Napoletana"
+}

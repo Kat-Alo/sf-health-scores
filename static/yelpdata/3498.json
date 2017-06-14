@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "social_clubs",
+      "title": "Social Clubs"
+    }
+  ],
+  "distance": 15.8227975257,
+  "display_phone": "(415) 775-1234",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1000 California St",
+    "state": "CA",
+    "display_address": [
+      "1000 California St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-pacific-union-club-san-francisco",
+  "phone": "+14157751234",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q9WMnKDqOCtr0L6__92_6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/the-pacific-union-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.411344889499,
+    "latitude": 37.7919291041376
+  },
+  "review_count": 8,
+  "name": "The Pacific-Union Club"
+}

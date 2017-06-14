@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 5.384650150631999,
+  "display_phone": "(415) 587-2345",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1901 San Jose Ave",
+    "state": "CA",
+    "display_address": [
+      "1901 San Jose Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "roxie-food-center-san-francisco",
+  "phone": "+14155872345",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZVrbRlquyzHdFX7snko_lQ/o.jpg",
+  "url": "https://www.yelp.com/biz/roxie-food-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.441476285458,
+    "latitude": 37.7268368750811
+  },
+  "review_count": 878,
+  "price": "$",
+  "name": "Roxie Food Center"
+}

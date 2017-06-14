@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 25.045609635059996,
+  "display_phone": "(415) 931-8181",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2499 Lombard St",
+    "state": "CA",
+    "display_address": [
+      "2499 Lombard St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "original-buffalo-wings-san-francisco",
+  "phone": "+14159318181",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YYDZrDDhgo0jRLd3O1Vuwg/o.jpg",
+  "url": "https://www.yelp.com/biz/original-buffalo-wings-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44232,
+    "latitude": 37.79887
+  },
+  "review_count": 433,
+  "price": "$",
+  "name": "Original Buffalo Wings"
+}

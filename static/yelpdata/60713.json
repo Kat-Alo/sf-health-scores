@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "internetcafe",
+      "title": "Internet Cafes"
+    }
+  ],
+  "distance": 27605.19892212,
+  "display_phone": "(510) 964-7827",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94564",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2529 San Pablo Ave",
+    "state": "CA",
+    "display_address": [
+      "2529 San Pablo Ave",
+      "Pinole, CA 94564"
+    ],
+    "city": "Pinole"
+  },
+  "id": "east-bay-coffee-company-pinole",
+  "phone": "+15109647827",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YAxSweKV281Prte3mxSQLw/o.jpg",
+  "url": "https://www.yelp.com/biz/east-bay-coffee-company-pinole?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.288528442383,
+    "latitude": 38.0066375732422
+  },
+  "review_count": 436,
+  "price": "$",
+  "name": "East Bay Coffee Company"
+}

@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 68.53622711162,
+  "display_phone": "(415) 392-4000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "Ste 17",
+    "address3": "",
+    "address1": "1 Ferry Bldg",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Ste 17",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "cowgirl-creamery-sidekick-and-milk-bar-san-francisco",
+  "phone": "+14153924000",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nrk_XuRzea-_tSyo99fUNw/o.jpg",
+  "url": "https://www.yelp.com/biz/cowgirl-creamery-sidekick-and-milk-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393479060154,
+    "latitude": 37.7957940910702
+  },
+  "review_count": 459,
+  "price": "$$",
+  "name": "Cowgirl Creamery Sidekick & Milk Bar"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    }
+  ],
+  "distance": 13.6396956289,
+  "display_phone": "(415) 665-8881",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1634 Irving St",
+    "state": "CA",
+    "display_address": [
+      "1634 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "underdog-san-francisco-2",
+  "phone": "+14156658881",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ml56eaVpJwuQlkGkoVFv0Q/o.jpg",
+  "url": "https://www.yelp.com/biz/underdog-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.475704,
+    "latitude": 37.763777
+  },
+  "review_count": 806,
+  "price": "$",
+  "name": "Underdog"
+}

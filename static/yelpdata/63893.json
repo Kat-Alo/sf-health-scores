@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 19.50698073004,
+  "display_phone": "(415) 474-9332",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2020 Lombard St",
+    "state": "CA",
+    "display_address": [
+      "2020 Lombard St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marina-sushi-bar-san-francisco",
+  "phone": "+14154749332",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/smrmF0wnIGpsqmYAQZt8Qw/o.jpg",
+  "url": "https://www.yelp.com/biz/marina-sushi-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4349,
+    "latitude": 37.80026
+  },
+  "review_count": 192,
+  "price": "$$",
+  "name": "Marina Sushi Bar"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    }
+  ],
+  "distance": 10.37701466396,
+  "display_phone": "(415) 668-9382",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "6134 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "6134 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "joes-coffee-shop-san-francisco",
+  "phone": "+14156689382",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y-Sp7J7vrVgK8ykDPsQxrA/o.jpg",
+  "url": "https://www.yelp.com/biz/joes-coffee-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48537,
+    "latitude": 37.78037
+  },
+  "review_count": 290,
+  "price": "$",
+  "name": "Joe's Coffee Shop"
+}

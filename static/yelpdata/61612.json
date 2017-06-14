@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 25.719638241880002,
+  "display_phone": "(415) 243-0107",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "Apt 103A",
+    "address3": "",
+    "address1": "1 S Park St",
+    "state": "CA",
+    "display_address": [
+      "1 S Park St",
+      "Apt 103A",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-american-grilled-cheese-kitchen-san-francisco",
+  "phone": "+14152430107",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vBOLDi0OKWjRJL_vKfdofQ/o.jpg",
+  "url": "https://www.yelp.com/biz/the-american-grilled-cheese-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.392784133554,
+    "latitude": 37.7823277567644
+  },
+  "review_count": 1367,
+  "price": "$$",
+  "name": "The American Grilled Cheese Kitchen"
+}

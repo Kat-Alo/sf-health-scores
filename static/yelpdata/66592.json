@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "massage",
+      "title": "Massage"
+    },
+    {
+      "alias": "reflexology",
+      "title": "Reflexology"
+    },
+    {
+      "alias": "massage_therapy",
+      "title": "Massage Therapy"
+    }
+  ],
+  "distance": 6209.901195222,
+  "display_phone": "(415) 252-5020",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "690 King St",
+    "state": "CA",
+    "display_address": [
+      "690 King St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "suchada-thai-massage-san-francisco",
+  "phone": "+14152525020",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mER4_V79IA6rC8kzKpg8Xw/o.jpg",
+  "url": "https://www.yelp.com/biz/suchada-thai-massage-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.402315377672,
+    "latitude": 37.7701473937844
+  },
+  "review_count": 538,
+  "price": "$$",
+  "name": "Suchada Thai Massage"
+}

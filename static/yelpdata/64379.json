@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "fishnchips",
+      "title": "Fish & Chips"
+    }
+  ],
+  "distance": 23.242649939659998,
+  "display_phone": "(415) 771-6477",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1348 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1348 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "piccadilly-fish-and-chips-san-francisco",
+  "phone": "+14157716477",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HCMLdp_TAaLu3ToIUwejaA/o.jpg",
+  "url": "https://www.yelp.com/biz/piccadilly-fish-and-chips-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4202872,
+    "latitude": 37.7894655
+  },
+  "review_count": 238,
+  "price": "$",
+  "name": "Piccadilly Fish & Chips"
+}

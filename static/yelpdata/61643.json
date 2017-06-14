@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 667.7806500446,
+  "display_phone": "(415) 284-7303",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "303 Second St",
+    "state": "CA",
+    "display_address": [
+      "303 Second St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lees-deli-san-francisco-7",
+  "phone": "+14152847303",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cg73stn5WEKlzotfPFES0Q/o.jpg",
+  "url": "https://www.yelp.com/biz/lees-deli-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.395568847656,
+    "latitude": 37.7852935791016
+  },
+  "review_count": 140,
+  "price": "$",
+  "name": "Lee's Deli"
+}

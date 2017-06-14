@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 9.467761221258,
+  "display_phone": "(415) 922-9022",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": null,
+    "address1": "1944 Union St",
+    "state": "CA",
+    "display_address": [
+      "1944 Union St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "perrys-san-francisco",
+  "phone": "+14159229022",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1Ohow4q4gZ0cL1O_cZZQWQ/o.jpg",
+  "url": "https://www.yelp.com/biz/perrys-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.431361488755,
+    "latitude": 37.797703964748
+  },
+  "review_count": 490,
+  "price": "$$",
+  "name": "Perry's"
+}

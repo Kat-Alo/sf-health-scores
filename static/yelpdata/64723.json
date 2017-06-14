@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 2802.82976268,
+  "display_phone": "(415) 580-7260",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94158",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "610 Long Bridge St",
+    "state": "CA",
+    "display_address": [
+      "610 Long Bridge St",
+      "San Francisco, CA 94158"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "cafe-r\u00e9veille-san-francisco-6",
+  "phone": "+14155807260",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sHtxrdWA1CdHDE8VF8qotQ/o.jpg",
+  "url": "https://www.yelp.com/biz/cafe-r%C3%A9veille-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.391614224992,
+    "latitude": 37.7734805146623
+  },
+  "review_count": 180,
+  "price": "$$",
+  "name": "Cafe R\u00e9veille"
+}

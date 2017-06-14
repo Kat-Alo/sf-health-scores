@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 618.1623964884,
+  "display_phone": "(415) 391-2696",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "Pier 7 The Embarcadero",
+    "state": "CA",
+    "display_address": [
+      "Pier 7 The Embarcadero",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "waterfront-restaurant-san-francisco-4",
+  "phone": "+14153912696",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5Miq2uTTPxAFpIIm41DYSg/o.jpg",
+  "url": "https://www.yelp.com/biz/waterfront-restaurant-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.397444471717,
+    "latitude": 37.7993774767812
+  },
+  "review_count": 906,
+  "price": "$$$",
+  "name": "Waterfront Restaurant"
+}

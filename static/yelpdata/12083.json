@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 19.656425651779998,
+  "display_phone": "(415) 995-2061",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "860 Folsom St",
+    "state": "CA",
+    "display_address": [
+      "860 Folsom St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "oola-restaurant-and-bar-san-francisco",
+  "phone": "+14159952061",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i9ROzdo9nKTHj2PIITTelg/o.jpg",
+  "url": "https://www.yelp.com/biz/oola-restaurant-and-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.402725219727,
+    "latitude": 37.7811012268066
+  },
+  "review_count": 1628,
+  "price": "$$",
+  "name": "Oola Restaurant & Bar"
+}

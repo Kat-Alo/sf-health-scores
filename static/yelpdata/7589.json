@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 22.035432506779998,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "687 Ellis St",
+    "state": "CA",
+    "display_address": [
+      "687 Ellis St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "uptown-market-san-francisco",
+  "phone": "",
+  "rating": 1.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A8zKRB6RCFNb0oANaRI4Kg/o.jpg",
+  "url": "https://www.yelp.com/biz/uptown-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.417378649116,
+    "latitude": 37.7842455357313
+  },
+  "review_count": 3,
+  "price": "$",
+  "name": "Uptown Market"
+}

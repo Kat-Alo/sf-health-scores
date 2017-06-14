@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 14.082969019819998,
+  "display_phone": "(415) 772-9002",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "473 Broadway St",
+    "state": "CA",
+    "display_address": [
+      "473 Broadway St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "monroe-san-francisco",
+  "phone": "+14157729002",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SiWQV6at4OCaBvhqQ9ENZQ/o.jpg",
+  "url": "https://www.yelp.com/biz/monroe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405074685812,
+    "latitude": 37.7980294078588
+  },
+  "review_count": 288,
+  "price": "$$",
+  "name": "Monroe"
+}

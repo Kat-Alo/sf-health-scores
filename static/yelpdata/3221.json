@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 18.423487747019998,
+  "display_phone": "(415) 661-2140",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "700 Irving St",
+    "state": "CA",
+    "display_address": [
+      "700 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pasquales-pizza-san-francisco-2",
+  "phone": "+14156612140",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3sMiIg1RIB75cTMTqQREEQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pasquales-pizza-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.465538024902,
+    "latitude": 37.7642517089844
+  },
+  "review_count": 770,
+  "price": "$$",
+  "name": "Pasquale's Pizza"
+}

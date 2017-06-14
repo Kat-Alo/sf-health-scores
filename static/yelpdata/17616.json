@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 26.85555225672,
+  "display_phone": "(415) 255-7144",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "377 Hayes St",
+    "state": "CA",
+    "display_address": [
+      "377 Hayes St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sugar-lounge-san-francisco",
+  "phone": "+14152557144",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MVgIq4JZ2E5egCDLlwQv6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/sugar-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4225268,
+    "latitude": 37.776842
+  },
+  "review_count": 543,
+  "price": "$$",
+  "name": "Sugar Lounge"
+}

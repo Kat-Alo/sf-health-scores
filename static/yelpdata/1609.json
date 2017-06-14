@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 19.5580917591,
+  "display_phone": "(415) 648-8582",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4015 24th St",
+    "state": "CA",
+    "display_address": [
+      "4015 24th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tung-sing-restaurant-san-francisco",
+  "phone": "+14156488582",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w0KRT8pfUQ-d60j2sX8XmA/o.jpg",
+  "url": "https://www.yelp.com/biz/tung-sing-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4323,
+    "latitude": 37.75112
+  },
+  "review_count": 79,
+  "price": "$",
+  "name": "Tung Sing Restaurant"
+}

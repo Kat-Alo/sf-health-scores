@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "irish",
+      "title": "Irish"
+    },
+    {
+      "alias": "irish_pubs",
+      "title": "Irish Pub"
+    }
+  ],
+  "distance": 11.564196779444,
+  "display_phone": "(415) 788-7152",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "10 Mark Ln",
+    "state": "CA",
+    "display_address": [
+      "10 Mark Ln",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-irish-bank-bar-and-restaurant-san-francisco",
+  "phone": "+14157887152",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Tp_O8rCTNCwibp6pReM-qw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-irish-bank-bar-and-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404693587035,
+    "latitude": 37.7904041670446
+  },
+  "review_count": 919,
+  "price": "$$",
+  "name": "The Irish Bank Bar & Restaurant"
+}

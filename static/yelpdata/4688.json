@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 144.6418384633,
+  "display_phone": "(415) 661-9017",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "Ste 249",
+    "address3": "",
+    "address1": "3251 20th Ave",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Ste 249",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mrs-fields-cookies-san-francisco-4",
+  "phone": "+14156619017",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CriUiJdZyisOp1kxc2UzCw/o.jpg",
+  "url": "https://www.yelp.com/biz/mrs-fields-cookies-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47688,
+    "latitude": 37.72856
+  },
+  "review_count": 27,
+  "price": "$",
+  "name": "Mrs. Fields Cookies"
+}

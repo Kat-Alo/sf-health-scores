@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 79.48231566496,
+  "display_phone": "(415) 896-1600",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "780 Mission St",
+    "state": "CA",
+    "display_address": [
+      "780 Mission St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-marriott-marquis-san-francisco-2",
+  "phone": "+14158961600",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9cUaxJE3RgTrwwh5FGYqDg/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-marriott-marquis-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.403850745866,
+    "latitude": 37.7848977064112
+  },
+  "review_count": 760,
+  "price": "$$$",
+  "name": "San Francisco Marriott Marquis"
+}

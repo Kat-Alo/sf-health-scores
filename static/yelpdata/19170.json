@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "winetasteclasses",
+      "title": "Wine Tasting Classes"
+    }
+  ],
+  "distance": 21.87663410096,
+  "display_phone": "(415) 647-1268",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "629 Cortland Ave",
+    "state": "CA",
+    "display_address": [
+      "629 Cortland Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vinorosso-san-francisco",
+  "phone": "+14156471268",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h7v5dZL31Uqrvc_7DgePug/o.jpg",
+  "url": "https://www.yelp.com/biz/vinorosso-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41538,
+    "latitude": 37.73913
+  },
+  "review_count": 155,
+  "price": "$$",
+  "name": "VinoRosso"
+}

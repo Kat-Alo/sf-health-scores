@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    }
+  ],
+  "distance": 11.95232999768,
+  "display_phone": "(415) 781-0894",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "475 Pine St",
+    "state": "CA",
+    "display_address": [
+      "475 Pine St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-fusi\u00f3n-san-francisco-2",
+  "phone": "+14157810894",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7LZP0604HmgLFNeGre3rGw/o.jpg",
+  "url": "https://www.yelp.com/biz/la-fusi%C3%B3n-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.403691572642,
+    "latitude": 37.7916357455614
+  },
+  "review_count": 940,
+  "price": "$$",
+  "name": "La Fusi\u00f3n"
+}

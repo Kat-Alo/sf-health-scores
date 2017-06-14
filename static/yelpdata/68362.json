@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 1741.21897564,
+  "display_phone": "(415) 394-1111",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "222 Mason St",
+    "state": "CA",
+    "display_address": [
+      "222 Mason St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "hotel-nikko-san-francisco-san-francisco-2",
+  "phone": "+14153941111",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xRfoLpWSvX-UjMVRua860w/o.jpg",
+  "url": "https://www.yelp.com/biz/hotel-nikko-san-francisco-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.409244244422,
+    "latitude": 37.7859844832523
+  },
+  "review_count": 668,
+  "price": "$$$",
+  "name": "Hotel Nikko San Francisco"
+}

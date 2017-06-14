@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 11.24999149092,
+  "display_phone": "(415) 956-2902",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "139 Waverly Pl",
+    "state": "CA",
+    "display_address": [
+      "139 Waverly Pl",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "utopia-cafe-san-francisco",
+  "phone": "+14159562902",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F_RlgECD8fmnjwNYr4Y3Dw/o.jpg",
+  "url": "https://www.yelp.com/biz/utopia-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40709,
+    "latitude": 37.79469
+  },
+  "review_count": 261,
+  "price": "$",
+  "name": "Utopia Cafe"
+}

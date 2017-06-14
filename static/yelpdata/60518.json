@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 19.50762446604,
+  "display_phone": "(415) 664-8228",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1439 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "1439 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ninki-sushi-bar-and-restaurant-san-francisco",
+  "phone": "+14156648228",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vZ-z32DJZ_0yTUBI5m0h7A/o.jpg",
+  "url": "https://www.yelp.com/biz/ninki-sushi-bar-and-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48174,
+    "latitude": 37.74253
+  },
+  "review_count": 288,
+  "price": "$$",
+  "name": "Ninki Sushi Bar & Restaurant"
+}

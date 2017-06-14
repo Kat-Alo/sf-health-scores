@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 12.90955094562,
+  "display_phone": "(415) 333-4030",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "400 London St",
+    "state": "CA",
+    "display_address": [
+      "400 London St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-salad-place-san-francisco-4",
+  "phone": "+14153334030",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Fthe024o2U1NICQa86Djg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-salad-place-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4353867,
+    "latitude": 37.7227211
+  },
+  "review_count": 170,
+  "price": "$",
+  "name": "The Salad Place"
+}

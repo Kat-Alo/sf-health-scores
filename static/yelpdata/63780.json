@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 18.72264876429,
+  "display_phone": "(415) 587-7721",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94134",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "98 Leland Ave",
+    "state": "CA",
+    "display_address": [
+      "98 Leland Ave",
+      "San Francisco, CA 94134"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taqueria-el-buen-sabor-no-2-san-francisco",
+  "phone": "+14155877721",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fHDT1-qRFNR7fmSyfmaGEg/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-el-buen-sabor-no-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405469641089,
+    "latitude": 37.711928486824
+  },
+  "review_count": 16,
+  "price": "$",
+  "name": "Taqueria El Buen Sabor no.2"
+}

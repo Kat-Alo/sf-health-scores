@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 19.03972173576,
+  "display_phone": "(415) 474-2280",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1639 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1639 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panchos-salsa-bar-and-grill-san-francisco",
+  "phone": "+14154742280",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Av7M5WW7Biln8E45BWHaaw/o.jpg",
+  "url": "https://www.yelp.com/biz/panchos-salsa-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42125,
+    "latitude": 37.79206
+  },
+  "review_count": 349,
+  "price": "$",
+  "name": "Pancho's Salsa Bar & Grill"
+}

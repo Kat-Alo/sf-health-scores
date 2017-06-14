@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 14.807535730659998,
+  "display_phone": "(415) 474-1419",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2016 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "2016 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-grove-fillmore-san-francisco",
+  "phone": "+14154741419",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DQy66Wov5kmeGRmhl39QEg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-grove-fillmore-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433623448014,
+    "latitude": 37.7882131934166
+  },
+  "review_count": 1347,
+  "price": "$$",
+  "name": "The Grove Fillmore"
+}

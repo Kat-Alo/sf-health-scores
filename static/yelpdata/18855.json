@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "skincare",
+      "title": "Skin Care"
+    },
+    {
+      "alias": "laser_hair_removal",
+      "title": "Laser Hair Removal"
+    },
+    {
+      "alias": "medicalspa",
+      "title": "Medical Spas"
+    }
+  ],
+  "distance": 2015.6256078319998,
+  "display_phone": "(415) 362-4754",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "Ste 800",
+    "address3": "",
+    "address1": "450 Sutter St",
+    "state": "CA",
+    "display_address": [
+      "450 Sutter St",
+      "Ste 800",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "epi-center-medspa-san-francisco",
+  "phone": "+14153624754",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W7w99zLl9sOsSC55ZgescQ/o.jpg",
+  "url": "https://www.yelp.com/biz/epi-center-medspa-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407836,
+    "latitude": 37.789657
+  },
+  "review_count": 190,
+  "price": "$$$",
+  "name": "EPI Center MedSpa"
+}

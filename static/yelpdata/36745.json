@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 23.323279483,
+  "display_phone": "(415) 621-8188",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1559 Mission St",
+    "state": "CA",
+    "display_address": [
+      "1559 Mission St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "shanghai-china-restaurant-san-francisco",
+  "phone": "+14156218188",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YTBg4gQZybKszFRa-fOHaQ/o.jpg",
+  "url": "https://www.yelp.com/biz/shanghai-china-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41787,
+    "latitude": 37.77319
+  },
+  "review_count": 111,
+  "price": "$",
+  "name": "Shanghai China Restaurant"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 16.02808654544,
+  "display_phone": "(415) 587-8321",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "880 Geneva Ave",
+    "state": "CA",
+    "display_address": [
+      "880 Geneva Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pho-nice-vietnamese-restaurant-san-francisco-2",
+  "phone": "+14155878321",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tF_b_8O5qqOlUa1kqFpZ6g/o.jpg",
+  "url": "https://www.yelp.com/biz/pho-nice-vietnamese-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4414988,
+    "latitude": 37.7168361
+  },
+  "review_count": 93,
+  "price": "$",
+  "name": "Pho Nice Vietnamese Restaurant"
+}

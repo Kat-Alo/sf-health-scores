@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 26.42597917722,
+  "display_phone": "(415) 474-2500",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "801 Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "801 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "round-table-pizza-san-francisco-7",
+  "phone": "+14154742500",
+  "rating": 2.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JoTp_hpGuSLvPfGRQEuD0g/o.jpg",
+  "url": "https://www.yelp.com/biz/round-table-pizza-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421249389648,
+    "latitude": 37.7829895019531
+  },
+  "review_count": 148,
+  "price": "$$",
+  "name": "Round Table Pizza"
+}

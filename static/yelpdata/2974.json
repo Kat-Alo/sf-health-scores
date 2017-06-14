@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 290.2292285502,
+  "display_phone": "(415) 753-7080",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "San Francisco Zoo",
+    "address1": "1 Zoo Rd",
+    "state": "CA",
+    "display_address": [
+      "1 Zoo Rd",
+      "San Francisco Zoo",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "leaping-lemur-cafe-san-francisco",
+  "phone": "+14157537080",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2Gv2B2tHwFIP_2XaE-8H8A/o.jpg",
+  "url": "https://www.yelp.com/biz/leaping-lemur-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.503242492676,
+    "latitude": 37.73291015625
+  },
+  "review_count": 32,
+  "price": "$$",
+  "name": "Leaping Lemur Cafe"
+}

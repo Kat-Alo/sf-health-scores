@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 11.11226095504,
+  "display_phone": "(415) 409-1114",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "2140 Union St",
+    "state": "CA",
+    "display_address": [
+      "2140 Union St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-brixton-san-francisco",
+  "phone": "+14154091114",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TzFrUee-FC6ADueD12pBpw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-brixton-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.434554174542,
+    "latitude": 37.7972542494535
+  },
+  "review_count": 696,
+  "price": "$$",
+  "name": "The Brixton"
+}

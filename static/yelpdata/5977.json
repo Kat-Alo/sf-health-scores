@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "physicaltherapy",
+      "title": "Physical Therapy"
+    }
+  ],
+  "distance": 2586.8777389019997,
+  "display_phone": "(415) 587-3187",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "Ste 103",
+    "address3": "",
+    "address1": "2555 Ocean Ave",
+    "state": "CA",
+    "display_address": [
+      "2555 Ocean Ave",
+      "Ste 103",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "simpson-james-c-physical-therapist-san-francisco",
+  "phone": "+14155873187",
+  "rating": 3.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/simpson-james-c-physical-therapist-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.473167419434,
+    "latitude": 37.7313995361328
+  },
+  "review_count": 5,
+  "name": "Simpson James C Physical Therapist"
+}

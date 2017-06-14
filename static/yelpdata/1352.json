@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 29.10008105198,
+  "display_phone": "(415) 861-3990",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "495 Castro St",
+    "state": "CA",
+    "display_address": [
+      "495 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-tortilla-san-francisco",
+  "phone": "+14158613990",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4qclcUNGM2S1iZ4L1rHOWA/o.jpg",
+  "url": "https://www.yelp.com/biz/la-tortilla-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4347,
+    "latitude": 37.76109
+  },
+  "review_count": 274,
+  "price": "$",
+  "name": "La Tortilla"
+}

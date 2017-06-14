@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "taiwanese",
+      "title": "Taiwanese"
+    }
+  ],
+  "distance": 1511.0253389329998,
+  "display_phone": "(415) 584-7196",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4482 Mission St",
+    "state": "CA",
+    "display_address": [
+      "4482 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "quickly-san-francisco-30",
+  "phone": "+14155847196",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QyHGqxhmVsfk8wn0FEy4TQ/o.jpg",
+  "url": "https://www.yelp.com/biz/quickly-san-francisco-30?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43405,
+    "latitude": 37.7261499
+  },
+  "review_count": 37,
+  "price": "$",
+  "name": "Quickly"
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "ethiopian",
+      "title": "Ethiopian"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 23.14957697944,
+  "display_phone": "(415) 681-1288",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "907 Irving St",
+    "state": "CA",
+    "display_address": [
+      "907 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-eritrea-restaurant-and-bar-san-francisco",
+  "phone": "+14156811288",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kqFB97K1-5EsvoE1vS32kw/o.jpg",
+  "url": "https://www.yelp.com/biz/new-eritrea-restaurant-and-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.467636108398,
+    "latitude": 37.7637329101562
+  },
+  "review_count": 619,
+  "price": "$$",
+  "name": "New Eritrea Restaurant & Bar"
+}

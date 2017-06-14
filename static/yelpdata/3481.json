@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 14.702035446959998,
+  "display_phone": "(415) 982-5728",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1800 Mason St",
+    "state": "CA",
+    "display_address": [
+      "1800 Mason St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "trattoria-contadina-san-francisco",
+  "phone": "+14159825728",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d_OfVVYsHm_hb-lv8oCsiw/o.jpg",
+  "url": "https://www.yelp.com/biz/trattoria-contadina-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41228,
+    "latitude": 37.80018
+  },
+  "review_count": 1063,
+  "price": "$$",
+  "name": "Trattoria Contadina"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "pastashops",
+      "title": "Pasta Shops"
+    }
+  ],
+  "distance": 13.57037894109,
+  "display_phone": "(415) 282-0738",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "741 Diamond St",
+    "state": "CA",
+    "display_address": [
+      "741 Diamond St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pasta-gina-san-francisco",
+  "phone": "+14152820738",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PuOyfdTNjVHkm5UkfGO0_A/o.jpg",
+  "url": "https://www.yelp.com/biz/pasta-gina-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.436282858253,
+    "latitude": 37.7516231685877
+  },
+  "review_count": 159,
+  "price": "$$",
+  "name": "Pasta Gina"
+}

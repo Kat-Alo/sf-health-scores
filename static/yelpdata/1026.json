@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 19.38010197378,
+  "display_phone": "(415) 864-8584",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "248 Divisadero St",
+    "state": "CA",
+    "display_address": [
+      "248 Divisadero St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "phuket-thai-restaurant-san-francisco",
+  "phone": "+14158648584",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xBuFuU-SWyt6Hvq3qUAtQg/o.jpg",
+  "url": "https://www.yelp.com/biz/phuket-thai-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.436956092715,
+    "latitude": 37.7711416035891
+  },
+  "review_count": 131,
+  "price": "$",
+  "name": "Phuket Thai Restaurant"
+}

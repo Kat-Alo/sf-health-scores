@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 6119.573286239999,
+  "display_phone": "(415) 409-6878",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "358 Beach St",
+    "state": "CA",
+    "display_address": [
+      "358 Beach St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taqueria-el-farolito-san-francisco",
+  "phone": "+14154096878",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7zvOixzh4T0azvTmIDszYQ/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-el-farolito-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.414911,
+    "latitude": 37.8075078
+  },
+  "review_count": 48,
+  "price": "$$",
+  "name": "Taqueria El Farolito"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 21.642417194719997,
+  "display_phone": "(415) 433-5800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "550 Green St",
+    "state": "CA",
+    "display_address": [
+      "550 Green St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vicoletto-san-francisco-3",
+  "phone": "+14154335800",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zO4x5l1RI5yT5g981KGkxQ/o.jpg",
+  "url": "https://www.yelp.com/biz/vicoletto-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408325195312,
+    "latitude": 37.7998046875
+  },
+  "review_count": 741,
+  "price": "$$",
+  "name": "Vicoletto"
+}

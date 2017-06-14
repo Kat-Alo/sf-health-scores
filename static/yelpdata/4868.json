@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 21.876609960859998,
+  "display_phone": "(415) 864-6514",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "559 Hayes St",
+    "state": "CA",
+    "display_address": [
+      "559 Hayes St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nabilas-health-foods-san-francisco",
+  "phone": "+14158646514",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GaWehcDYxolQXjOaoU1sZw/o.jpg",
+  "url": "https://www.yelp.com/biz/nabilas-health-foods-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.425598144531,
+    "latitude": 37.7763633728027
+  },
+  "review_count": 108,
+  "price": "$$",
+  "name": "Nabila's Health Foods"
+}

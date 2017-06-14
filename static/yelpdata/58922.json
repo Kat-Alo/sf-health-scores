@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    }
+  ],
+  "distance": 21.50132796626,
+  "display_phone": "(415) 988-7354",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1192 Geneva Ave",
+    "state": "CA",
+    "display_address": [
+      "1192 Geneva Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "naples-pizzarella-san-francisco",
+  "phone": "+14159887354",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a6IvIuddNo1Uk3ev5ybYIg/o.jpg",
+  "url": "https://www.yelp.com/biz/naples-pizzarella-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.436645507812,
+    "latitude": 37.7141036987305
+  },
+  "review_count": 87,
+  "price": "$",
+  "name": "Naples Pizzarella"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    },
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    }
+  ],
+  "distance": 19.433351815699996,
+  "display_phone": "(415) 681-7678",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "900 Cole St",
+    "state": "CA",
+    "display_address": [
+      "900 Cole St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kezar-bar-and-restaurant-san-francisco",
+  "phone": "+14156817678",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XNecH0GA5h0eDdV-j9Hf6g/o.jpg",
+  "url": "https://www.yelp.com/biz/kezar-bar-and-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44981066666,
+    "latitude": 37.7657019934978
+  },
+  "review_count": 303,
+  "price": "$$",
+  "name": "Kezar Bar & Restaurant"
+}

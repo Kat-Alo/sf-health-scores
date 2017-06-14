@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 10.764151057,
+  "display_phone": "(415) 742-4932",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "815 Cole St",
+    "state": "CA",
+    "display_address": [
+      "815 Cole St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-ice-cream-bar-san-francisco",
+  "phone": "+14157424932",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vuiSI9xJb0UdA6tnRdvr7Q/o.jpg",
+  "url": "https://www.yelp.com/biz/the-ice-cream-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4501619488,
+    "latitude": 37.7664906531572
+  },
+  "review_count": 1101,
+  "price": "$$",
+  "name": "The Ice Cream Bar"
+}

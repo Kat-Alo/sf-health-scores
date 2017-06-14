@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 1468.72472217,
+  "display_phone": "(415) 292-7660",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "748 Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "748 Van Ness Ave",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "philz-coffee-san-francisco-4",
+  "phone": "+14152927660",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ayR-jA7GkhuqdILXmtUehw/o.jpg",
+  "url": "https://www.yelp.com/biz/philz-coffee-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420526,
+    "latitude": 37.782383
+  },
+  "review_count": 1397,
+  "price": "$",
+  "name": "Philz Coffee"
+}

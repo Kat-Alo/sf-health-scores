@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 4.993531928564,
+  "display_phone": "(415) 239-4060",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2798 Diamond St",
+    "state": "CA",
+    "display_address": [
+      "2798 Diamond St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tygers-san-francisco",
+  "phone": "+14152394060",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jhObcVK8W87pU7Kw7xBqOw/o.jpg",
+  "url": "https://www.yelp.com/biz/tygers-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43395417097,
+    "latitude": 37.734591767274
+  },
+  "review_count": 262,
+  "price": "$",
+  "name": "Tyger's"
+}

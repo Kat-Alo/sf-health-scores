@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "organic_stores",
+      "title": "Organic Stores"
+    }
+  ],
+  "distance": 2843.956607314,
+  "display_phone": "(415) 282-4700",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3950 24th St",
+    "state": "CA",
+    "display_address": [
+      "3950 24th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "whole-foods-market-san-francisco-23",
+  "phone": "+14152824700",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2Q71LdNQEjHDSvRivIJoMQ/o.jpg",
+  "url": "https://www.yelp.com/biz/whole-foods-market-san-francisco-23?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43085,
+    "latitude": 37.75187
+  },
+  "review_count": 310,
+  "price": "$$$",
+  "name": "Whole Foods Market"
+}

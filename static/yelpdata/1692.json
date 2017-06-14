@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 4.365636501249999,
+  "display_phone": "(415) 986-6491",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "40 Belden Pl",
+    "state": "CA",
+    "display_address": [
+      "40 Belden Pl",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "plouf-san-francisco",
+  "phone": "+14159866491",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LGnhG86KEP3TQM5e2okCsQ/o.jpg",
+  "url": "https://www.yelp.com/biz/plouf-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4037085,
+    "latitude": 37.7913007
+  },
+  "review_count": 964,
+  "price": "$$",
+  "name": "Plouf"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 4.665919550368,
+  "display_phone": "(415) 772-9060",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "558 Sacramento St",
+    "state": "CA",
+    "display_address": [
+      "558 Sacramento St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wayfare-tavern-san-francisco-2",
+  "phone": "+14157729060",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f-DXV3kCBLJNArROFoS3KQ/o.jpg",
+  "url": "https://www.yelp.com/biz/wayfare-tavern-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.402307987213,
+    "latitude": 37.7939484886016
+  },
+  "review_count": 3220,
+  "price": "$$$",
+  "name": "Wayfare Tavern"
+}

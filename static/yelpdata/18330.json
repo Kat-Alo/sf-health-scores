@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 34.167137931519996,
+  "display_phone": "(415) 863-2931",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1001 Brannan St",
+    "state": "CA",
+    "display_address": [
+      "1001 Brannan St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "power-up-cafe-san-francisco",
+  "phone": "+14158632931",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sAGup8dPYurbzAVNll68iQ/o.jpg",
+  "url": "https://www.yelp.com/biz/power-up-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406944274902,
+    "latitude": 37.7695922851562
+  },
+  "review_count": 4,
+  "price": "$$$",
+  "name": "Power Up Cafe"
+}

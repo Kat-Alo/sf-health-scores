@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "tea",
+      "title": "Tea Rooms"
+    }
+  ],
+  "distance": 1677.9662809499998,
+  "display_phone": "(415) 395-0868",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "831 Grant Ave",
+    "state": "CA",
+    "display_address": [
+      "831 Grant Ave",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "red-blossom-tea-company-san-francisco",
+  "phone": "+14153950868",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y2LtBSX73F8q6FWZ6cGQSQ/o.jpg",
+  "url": "https://www.yelp.com/biz/red-blossom-tea-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406482498759,
+    "latitude": 37.7946883786487
+  },
+  "review_count": 221,
+  "price": "$$",
+  "name": "Red Blossom Tea Company"
+}

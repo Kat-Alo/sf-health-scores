@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "publicmarkets",
+      "title": "Public Markets"
+    }
+  ],
+  "distance": 59740.29404659999,
+  "display_phone": "(707) 226-6529",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94559",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "610 & 644 1st St",
+    "state": "CA",
+    "display_address": [
+      "610 & 644 1st St",
+      "Napa, CA 94559"
+    ],
+    "city": "Napa"
+  },
+  "id": "oxbow-public-market-napa",
+  "phone": "+17072266529",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Xsx8q4yznzh2pld75ave-g/o.jpg",
+  "url": "https://www.yelp.com/biz/oxbow-public-market-napa?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.281694,
+    "latitude": 38.301489
+  },
+  "review_count": 1013,
+  "price": "$$",
+  "name": "Oxbow Public Market"
+}

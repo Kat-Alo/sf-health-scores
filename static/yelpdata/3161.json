@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 10.196329234139998,
+  "display_phone": "(415) 885-4700",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2620 Jones St",
+    "state": "CA",
+    "display_address": [
+      "2620 Jones St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pier-2620-hotel-san-francisco-2",
+  "phone": "+14158854700",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VmTSBGei1_RxM4BS2G1EnQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pier-2620-hotel-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.416745912621,
+    "latitude": 37.8054319643043
+  },
+  "review_count": 201,
+  "price": "$$",
+  "name": "Pier 2620 Hotel"
+}

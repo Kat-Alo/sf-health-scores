@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 14.30957938055,
+  "display_phone": "(415) 391-5008",
+  "is_closed": false,
+  "transactions": [
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "700 Bush St",
+    "state": "CA",
+    "display_address": [
+      "700 Bush St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "uncle-vitos-pizza-san-francisco",
+  "phone": "+14153915008",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VKDPU5DE78LZY8dN_FCmaw/o.jpg",
+  "url": "https://www.yelp.com/biz/uncle-vitos-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4089926,
+    "latitude": 37.7902711
+  },
+  "review_count": 933,
+  "price": "$$",
+  "name": "Uncle Vito's Pizza"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 26.307365991199998,
+  "display_phone": "(415) 863-1514",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1098 Howard St",
+    "state": "CA",
+    "display_address": [
+      "1098 Howard St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tony-baloneys-san-francisco",
+  "phone": "+14158631514",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u9i097smKSUJqBpKAp5mLw/o.jpg",
+  "url": "https://www.yelp.com/biz/tony-baloneys-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.409355,
+    "latitude": 37.778187
+  },
+  "review_count": 201,
+  "price": "$",
+  "name": "Tony Baloney's"
+}

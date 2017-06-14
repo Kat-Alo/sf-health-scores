@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    },
+    {
+      "alias": "csa",
+      "title": "CSA"
+    }
+  ],
+  "distance": 1138.173769601,
+  "display_phone": "(415) 368-6634",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sea-forager-seafood-san-francisco",
+  "phone": "+14153686634",
+  "rating": 5.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xZKHO78jO0dliFLGhtpTwQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sea-forager-seafood-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41130065918,
+    "latitude": 37.802490234375
+  },
+  "review_count": 61,
+  "price": "$$",
+  "name": "Sea Forager Seafood"
+}

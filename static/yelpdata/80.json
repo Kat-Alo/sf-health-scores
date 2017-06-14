@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 46386.5218088,
+  "display_phone": "(650) 725-2572",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94305",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "559 Nathan Abbott Way",
+    "state": "CA",
+    "display_address": [
+      "559 Nathan Abbott Way",
+      "Stanford, CA 94305"
+    ],
+    "city": "Stanford"
+  },
+  "id": "stanford-law-school-cafe-stanford",
+  "phone": "+16507252572",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RDyQzUSHRCQKJ0tVnsYdMQ/o.jpg",
+  "url": "https://www.yelp.com/biz/stanford-law-school-cafe-stanford?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.167934571877,
+    "latitude": 37.4240989628586
+  },
+  "review_count": 8,
+  "price": "$",
+  "name": "Stanford Law School Cafe"
+}

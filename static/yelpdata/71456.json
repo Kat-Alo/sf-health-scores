@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    }
+  ],
+  "distance": 16.14513062496,
+  "display_phone": "(415) 434-7222",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "222 Powell St",
+    "state": "CA",
+    "display_address": [
+      "222 Powell St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sams-cable-car-lounge-san-francisco",
+  "phone": "+14154347222",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zvod1G2l3uNV72Rv2_nQUA/o.jpg",
+  "url": "https://www.yelp.com/biz/sams-cable-car-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4079124,
+    "latitude": 37.7867967
+  },
+  "review_count": 389,
+  "price": "$$",
+  "name": "Sam's Cable Car Lounge"
+}

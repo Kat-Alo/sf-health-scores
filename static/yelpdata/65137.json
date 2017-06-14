@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    }
+  ],
+  "distance": 10.07138812324,
+  "display_phone": "(415) 585-8554",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5278 Mission St",
+    "state": "CA",
+    "display_address": [
+      "5278 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "martita-restaurant-san-francisco-2",
+  "phone": "+14155858554",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kiMlKTna_fZGn9esOlknKQ/o.jpg",
+  "url": "https://www.yelp.com/biz/martita-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44242310524,
+    "latitude": 37.714885622263
+  },
+  "review_count": 25,
+  "price": "$",
+  "name": "Martita Restaurant"
+}

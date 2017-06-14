@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 106.2539537154,
+  "display_phone": "(415) 861-2802",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "Ste 250",
+    "address3": "",
+    "address1": "2300 16th St",
+    "state": "CA",
+    "display_address": [
+      "2300 16th St",
+      "Ste 250",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "noahs-bagels-san-francisco-4",
+  "phone": "+14158612802",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zwt-F_f5lSIYMLojGKF6jw/o.jpg",
+  "url": "https://www.yelp.com/biz/noahs-bagels-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.409773550262,
+    "latitude": 37.7664447245511
+  },
+  "review_count": 118,
+  "price": "$",
+  "name": "Noah's Bagels"
+}

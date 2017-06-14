@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 2088.328990738,
+  "display_phone": "(415) 921-3039",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2165 Lombard St",
+    "state": "CA",
+    "display_address": [
+      "2165 Lombard St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mels-drive-in-san-francisco-3",
+  "phone": "+14159213039",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_XALxjgFiyfnq9nd1G_IHg/o.jpg",
+  "url": "https://www.yelp.com/biz/mels-drive-in-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43709,
+    "latitude": 37.79945
+  },
+  "review_count": 436,
+  "price": "$$",
+  "name": "Mel's Drive-In"
+}

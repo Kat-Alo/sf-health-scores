@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 190.4074044798,
+  "display_phone": "(415) 230-6359",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "300 Folsom St",
+    "state": "CA",
+    "display_address": [
+      "300 Folsom St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "philz-coffee-san-francisco-25",
+  "phone": "+14152306359",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TDG3oqCHz9VreK9_uTtjog/o.jpg",
+  "url": "https://www.yelp.com/biz/philz-coffee-san-francisco-25?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393061536082,
+    "latitude": 37.7886764013327
+  },
+  "review_count": 107,
+  "price": "$$",
+  "name": "Philz Coffee"
+}

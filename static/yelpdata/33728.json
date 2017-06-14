@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 638.7324653796001,
+  "display_phone": "(415) 551-2223",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "138 6th St",
+    "state": "CA",
+    "display_address": [
+      "138 6th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "split-pea-seduction-san-francisco",
+  "phone": "+14155512223",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4PYF9J8ZU3KhcAND19NV6w/o.jpg",
+  "url": "https://www.yelp.com/biz/split-pea-seduction-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4081286,
+    "latitude": 37.7803635
+  },
+  "review_count": 266,
+  "price": "$$",
+  "name": "Split Pea Seduction"
+}

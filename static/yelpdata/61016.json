@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "restaurants",
+      "title": "Restaurants"
+    }
+  ],
+  "distance": 4.7167792005199995,
+  "display_phone": "(650) 759-8980",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "785 Moscow St",
+    "state": "CA",
+    "display_address": [
+      "785 Moscow St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pupuseria-el-golazo-san-francisco",
+  "phone": "+16507598980",
+  "rating": 2.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/pupuseria-el-golazo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.432051673532,
+    "latitude": 37.7153295278549
+  },
+  "review_count": 2,
+  "price": "$",
+  "name": "Pupuseria El Golazo"
+}

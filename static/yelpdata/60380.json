@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "organic_stores",
+      "title": "Organic Stores"
+    }
+  ],
+  "distance": 1899.935144186,
+  "display_phone": "(415) 626-1430",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2001 Market St",
+    "state": "CA",
+    "display_address": [
+      "2001 Market St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "whole-foods-market-san-francisco-21",
+  "phone": "+14156261430",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XxIBY_O593gAlUG1E8vs7w/o.jpg",
+  "url": "https://www.yelp.com/biz/whole-foods-market-san-francisco-21?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4271397,
+    "latitude": 37.7683534
+  },
+  "review_count": 147,
+  "price": "$$$",
+  "name": "Whole Foods Market"
+}

@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 26.009573717600002,
+  "display_phone": "(415) 387-6688",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2110 Clement St",
+    "state": "CA",
+    "display_address": [
+      "2110 Clement St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "my-favorite-cafe-san-francisco",
+  "phone": "+14153876688",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IBYiv1HwTZIZ5ZrY0peiBw/o.jpg",
+  "url": "https://www.yelp.com/biz/my-favorite-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48196,
+    "latitude": 37.7824
+  },
+  "review_count": 303,
+  "price": "$",
+  "name": "My Favorite Cafe"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 16.77422806832,
+  "display_phone": "(415) 826-4880",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "299 Bayshore Blvd",
+    "state": "CA",
+    "display_address": [
+      "299 Bayshore Blvd",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-old-clam-house-san-francisco",
+  "phone": "+14158264880",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ImIh6-xEBOG8YPtfTrWtRA/o.jpg",
+  "url": "https://www.yelp.com/biz/the-old-clam-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404920842484,
+    "latitude": 37.743104492865
+  },
+  "review_count": 636,
+  "price": "$$",
+  "name": "The Old Clam House"
+}

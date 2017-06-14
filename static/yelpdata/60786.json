@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "karaoke",
+      "title": "Karaoke"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 24.62922509686,
+  "display_phone": "(415) 346-2222",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1161 Post St",
+    "state": "CA",
+    "display_address": [
+      "1161 Post St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "yamasho-san-francisco-2",
+  "phone": "+14153462222",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/edfLVjC2SF4DDvbpcxVGpg/o.jpg",
+  "url": "https://www.yelp.com/biz/yamasho-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420883178711,
+    "latitude": 37.7864379882812
+  },
+  "review_count": 533,
+  "price": "$$",
+  "name": "YamaSho"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 15.08201349568,
+  "display_phone": "(415) 671-2075",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5191 3rd St",
+    "state": "CA",
+    "display_address": [
+      "5191 3rd St",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "road-house-coffee-company-san-francisco",
+  "phone": "+14156712075",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_T8m5_Qc4KWSBpZ4GwzXZQ/o.jpg",
+  "url": "https://www.yelp.com/biz/road-house-coffee-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.391777038574,
+    "latitude": 37.730884552002
+  },
+  "review_count": 17,
+  "price": "$",
+  "name": "Road House Coffee Company"
+}

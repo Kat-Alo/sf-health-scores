@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 537.6538916098,
+  "display_phone": "(415) 984-1973",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "Pier 3, Ste 108",
+    "address3": "",
+    "address1": "The Embarcadero",
+    "state": "CA",
+    "display_address": [
+      "The Embarcadero",
+      "Pier 3, Ste 108",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-plant-cafe-organic-san-francisco-4",
+  "phone": "+14159841973",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B81RGw8ZEHuo8CwXZYdO1g/o.jpg",
+  "url": "https://www.yelp.com/biz/the-plant-cafe-organic-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.396012842655,
+    "latitude": 37.7979458225562
+  },
+  "review_count": 1465,
+  "price": "$$",
+  "name": "The Plant Cafe Organic"
+}

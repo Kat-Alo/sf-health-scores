@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 10.736154173689998,
+  "display_phone": "(415) 831-3663",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "315 8th Ave",
+    "state": "CA",
+    "display_address": [
+      "315 8th Ave",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "thai-time-restaurant-san-francisco",
+  "phone": "+14158313663",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w2XiWc_qPiOfdMbyyJhXCA/o.jpg",
+  "url": "https://www.yelp.com/biz/thai-time-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.466704,
+    "latitude": 37.7824738
+  },
+  "review_count": 633,
+  "price": "$",
+  "name": "Thai Time Restaurant"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "gelato",
+      "title": "Gelato"
+    }
+  ],
+  "distance": 17.0289173887,
+  "display_phone": "(415) 401-7424",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "3150 22nd St",
+    "state": "CA",
+    "display_address": [
+      "3150 22nd St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-copa-loca-san-francisco-2",
+  "phone": "+14154017424",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6xL3XtnQgfjYnrswmC0i7w/o.jpg",
+  "url": "https://www.yelp.com/biz/la-copa-loca-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41780910764,
+    "latitude": 37.755602067548
+  },
+  "review_count": 264,
+  "price": "$",
+  "name": "La Copa Loca"
+}

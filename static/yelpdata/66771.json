@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2477.878750042,
+  "display_phone": "(415) 553-8966",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3126 16th St",
+    "state": "CA",
+    "display_address": [
+      "3126 16th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "stanza-coffee-san-francisco",
+  "phone": "+14155538966",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Jlpa_sphmKl39FYMJ9bVyw/o.jpg",
+  "url": "https://www.yelp.com/biz/stanza-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4225344,
+    "latitude": 37.7648968
+  },
+  "review_count": 255,
+  "price": "$",
+  "name": "Stanza Coffee"
+}

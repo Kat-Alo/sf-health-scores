@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 7.210966519319999,
+  "display_phone": "(415) 441-3410",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3098 Polk St",
+    "state": "CA",
+    "display_address": [
+      "3098 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "north-point-market-san-francisco-2",
+  "phone": "+14154413410",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zvPCvn0l_X-hc5FwvwTRQQ/o.jpg",
+  "url": "https://www.yelp.com/biz/north-point-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.423556447029,
+    "latitude": 37.8051721304655
+  },
+  "review_count": 4,
+  "price": "$$",
+  "name": "North Point Market"
+}

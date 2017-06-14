@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 7.5286293139,
+  "display_phone": "(415) 400-4510",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3856 24th St",
+    "state": "CA",
+    "display_address": [
+      "3856 24th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "saru-sushi-bar-san-francisco",
+  "phone": "+14154004510",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5-ugy01zjSvudVsfdhmCsA/o.jpg",
+  "url": "https://www.yelp.com/biz/saru-sushi-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4288283,
+    "latitude": 37.751706
+  },
+  "review_count": 654,
+  "price": "$$$",
+  "name": "Saru Sushi Bar"
+}

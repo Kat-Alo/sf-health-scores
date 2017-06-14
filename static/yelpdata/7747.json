@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "airlines",
+      "title": "Airlines"
+    }
+  ],
+  "distance": 12443.208792337999,
+  "display_phone": "(877) 359-8474",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94128",
+    "country": "US",
+    "address2": "780 S Airport Blvd, Terminal 2",
+    "address3": "",
+    "address1": "San Francisco International Airport",
+    "state": "CA",
+    "display_address": [
+      "San Francisco International Airport",
+      "780 S Airport Blvd, Terminal 2",
+      "San Francisco, CA 94128"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "virgin-america-san-francisco-5",
+  "phone": "+18773598474",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VPi7OccoBZjneSPSy-YUSQ/o.jpg",
+  "url": "https://www.yelp.com/biz/virgin-america-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.374992370605,
+    "latitude": 37.6196703969565
+  },
+  "review_count": 1801,
+  "name": "Virgin America"
+}

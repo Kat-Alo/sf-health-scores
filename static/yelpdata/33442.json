@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 20.15200098336,
+  "display_phone": "(415) 563-3542",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1725 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1725 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "millers-east-coast-deli-san-francisco",
+  "phone": "+14155633542",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IKfWQXlL3vEfcsyPE2GZQA/o.jpg",
+  "url": "https://www.yelp.com/biz/millers-east-coast-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42145,
+    "latitude": 37.79273
+  },
+  "review_count": 1323,
+  "price": "$$",
+  "name": "Miller's East Coast Deli"
+}

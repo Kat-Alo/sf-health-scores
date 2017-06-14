@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 24.32261042138,
+  "display_phone": "(415) 496-6858",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "620 Jones St",
+    "state": "CA",
+    "display_address": [
+      "620 Jones St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jones-san-francisco-3",
+  "phone": "+14154966858",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uPOOkcS5xvBiN9M9QwmevQ/o.jpg",
+  "url": "https://www.yelp.com/biz/jones-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4130054,
+    "latitude": 37.7869534
+  },
+  "review_count": 918,
+  "price": "$$",
+  "name": "Jones"
+}

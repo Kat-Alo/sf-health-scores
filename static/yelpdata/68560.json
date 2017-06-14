@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "pakistani",
+      "title": "Pakistani"
+    }
+  ],
+  "distance": 12.341181947159999,
+  "display_phone": "(415) 664-7225",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "642 Irving St",
+    "state": "CA",
+    "display_address": [
+      "642 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wow-naan-n-curry-san-francisco",
+  "phone": "+14156647225",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vCUS33VlLSHXQyFdt-EDsg/o.jpg",
+  "url": "https://www.yelp.com/biz/wow-naan-n-curry-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4649169,
+    "latitude": 37.7642352
+  },
+  "review_count": 1237,
+  "price": "$",
+  "name": "Wow Naan N Curry"
+}

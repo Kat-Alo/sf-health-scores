@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 28.155449970859998,
+  "display_phone": "(415) 775-8867",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3258 Scott St",
+    "state": "CA",
+    "display_address": [
+      "3258 Scott St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "plutos-san-francisco-6",
+  "phone": "+14157758867",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zDqJX7KC6qQkgsJ32bmBFQ/o.jpg",
+  "url": "https://www.yelp.com/biz/plutos-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44083,
+    "latitude": 37.80003
+  },
+  "review_count": 615,
+  "price": "$",
+  "name": "Pluto's"
+}

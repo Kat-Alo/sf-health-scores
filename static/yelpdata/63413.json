@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 16.381056650279998,
+  "display_phone": "(415) 800-7466",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1500 California St",
+    "state": "CA",
+    "display_address": [
+      "1500 California St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mymy-san-francisco-3",
+  "phone": "+14158007466",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sji2Uhnjm09HGd4zqU4Dlg/o.jpg",
+  "url": "https://www.yelp.com/biz/mymy-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419269534168,
+    "latitude": 37.7909400620458
+  },
+  "review_count": 1220,
+  "price": "$$",
+  "name": "Mymy"
+}

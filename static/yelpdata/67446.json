@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 75.56197308099999,
+  "display_phone": "(415) 222-9911",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "Rincon Center Atrium",
+    "address1": "101 Spear St",
+    "state": "CA",
+    "display_address": [
+      "101 Spear St",
+      "Rincon Center Atrium",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "soma-chicken-san-francisco",
+  "phone": "+14152229911",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/THM26FA4xAnDqohYLElS0A/o.jpg",
+  "url": "https://www.yelp.com/biz/soma-chicken-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3938405,
+    "latitude": 37.7925598
+  },
+  "review_count": 68,
+  "price": "$",
+  "name": "Soma Chicken"
+}

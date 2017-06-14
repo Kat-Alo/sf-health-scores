@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "jazzandblues",
+      "title": "Jazz & Blues"
+    }
+  ],
+  "distance": 17.02470574592,
+  "display_phone": "(415) 399-0499",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "532 Columbus Ave",
+    "state": "CA",
+    "display_address": [
+      "532 Columbus Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rose-pistola-san-francisco",
+  "phone": "+14153990499",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eGu-n2_y040KWFpbB2Ha1Q/o.jpg",
+  "url": "https://www.yelp.com/biz/rose-pistola-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40944,
+    "latitude": 37.80006
+  },
+  "review_count": 781,
+  "price": "$$$",
+  "name": "Rose Pistola"
+}

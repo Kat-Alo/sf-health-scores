@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 134.98020600680002,
+  "display_phone": "(415) 665-9770",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "Ste 250",
+    "address3": "",
+    "address1": "3251 20th Ave",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Ste 250",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panda-express-san-francisco",
+  "phone": "+14156659770",
+  "rating": 2.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ls600ByKnBbYldV77Cu-5g/o.jpg",
+  "url": "https://www.yelp.com/biz/panda-express-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4768829,
+    "latitude": 37.7285614
+  },
+  "review_count": 63,
+  "price": "$",
+  "name": "Panda Express"
+}

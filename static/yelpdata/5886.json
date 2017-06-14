@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 13.270682013599998,
+  "display_phone": "(415) 749-3525",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1421 Pine St",
+    "state": "CA",
+    "display_address": [
+      "1421 Pine St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "redding-elementary-school-san-francisco",
+  "phone": "+14157493525",
+  "rating": 5.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/redding-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419287711382,
+    "latitude": 37.7897346764803
+  },
+  "review_count": 5,
+  "name": "Redding Elementary School"
+}

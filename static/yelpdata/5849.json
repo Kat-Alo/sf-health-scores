@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "privateschools",
+      "title": "Private Schools"
+    },
+    {
+      "alias": "religiousschools",
+      "title": "Religious Schools"
+    }
+  ],
+  "distance": 1621.9261653379997,
+  "display_phone": "(415) 221-7500",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "495 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "495 9th Ave",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zion-lutheran-school-san-francisco-3",
+  "phone": "+14152217500",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qqQXs6w-s0R_5Y_G_22avg/o.jpg",
+  "url": "https://www.yelp.com/biz/zion-lutheran-school-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4676565,
+    "latitude": 37.7793375
+  },
+  "review_count": 23,
+  "name": "Zion Lutheran School"
+}

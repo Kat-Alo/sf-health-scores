@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 122.30547225123999,
+  "display_phone": "(415) 564-8706",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1515 Sloat Blvd",
+    "state": "CA",
+    "display_address": [
+      "1515 Sloat Blvd",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rice-garden-san-francisco",
+  "phone": "+14155648706",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B-BDxlzTWaD66NHIsaxphQ/o.jpg",
+  "url": "https://www.yelp.com/biz/rice-garden-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48955,
+    "latitude": 37.73304
+  },
+  "review_count": 42,
+  "price": "$",
+  "name": "Rice Garden"
+}

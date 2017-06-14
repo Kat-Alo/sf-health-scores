@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 28.771288061959996,
+  "display_phone": "(877) 502-2837",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "150 Spear St",
+    "state": "CA",
+    "display_address": [
+      "150 Spear St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "specialtys-caf\u00e9-and-bakery-san-francisco-45",
+  "phone": "+18775022837",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SpuyVcdObjtOf8WpS7DFvQ/o.jpg",
+  "url": "https://www.yelp.com/biz/specialtys-caf%C3%A9-and-bakery-san-francisco-45?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393615722656,
+    "latitude": 37.7917518615723
+  },
+  "review_count": 223,
+  "price": "$",
+  "name": "Specialty's Caf\u00e9 & Bakery"
+}

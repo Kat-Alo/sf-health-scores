@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 3761.358138436,
+  "display_phone": "(415) 587-5000",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5084 Mission St",
+    "state": "CA",
+    "display_address": [
+      "5084 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mikes-liquors-san-francisco",
+  "phone": "+14155875000",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WEYfMc8b_n_ET466YcPNDw/o.jpg",
+  "url": "https://www.yelp.com/biz/mikes-liquors-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44083404541,
+    "latitude": 37.7171859741211
+  },
+  "review_count": 85,
+  "price": "$$",
+  "name": "Mike's Liquors"
+}

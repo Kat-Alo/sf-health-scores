@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "burmese",
+      "title": "Burmese"
+    }
+  ],
+  "distance": 14.34270844912,
+  "display_phone": "(415) 751-2598",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3199 Clement St",
+    "state": "CA",
+    "display_address": [
+      "3199 Clement St",
+      "San  Francisco, CA 94121"
+    ],
+    "city": "San  Francisco"
+  },
+  "id": "pagan-restaurant-san-francisco",
+  "phone": "+14157512598",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YEVNu7jTySvAsUsFVKU6JQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pagan-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4932401,
+    "latitude": 37.7814753
+  },
+  "review_count": 457,
+  "price": "$$",
+  "name": "Pagan Restaurant"
+}

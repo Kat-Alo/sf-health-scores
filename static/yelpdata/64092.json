@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 35.6168909491,
+  "display_phone": "(415) 946-0489",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "Ste 367",
+    "address3": "",
+    "address1": "1737 Post St",
+    "state": "CA",
+    "display_address": [
+      "1737 Post St",
+      "Ste 367",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "moyos-froyo-san-francisco-3",
+  "phone": "+14159460489",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MOJiGr5iIUFS_BiQMQPuTg/o.jpg",
+  "url": "https://www.yelp.com/biz/moyos-froyo-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4303915,
+    "latitude": 37.785354
+  },
+  "review_count": 115,
+  "price": "$",
+  "name": "MoYo's Froyo"
+}

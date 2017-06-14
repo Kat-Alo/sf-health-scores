@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "preschools",
+      "title": "Preschools"
+    },
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "swimminglessons",
+      "title": "Swimming Lessons/Schools"
+    }
+  ],
+  "distance": 2891.750142898,
+  "display_phone": "(415) 292-1200",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3200 California St",
+    "state": "CA",
+    "display_address": [
+      "3200 California St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jewish-community-center-of-san-francisco-jccsf-san-francisco-4",
+  "phone": "+14152921200",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U-pe7LlYkhOTmT69g889zA/o.jpg",
+  "url": "https://www.yelp.com/biz/jewish-community-center-of-san-francisco-jccsf-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44675,
+    "latitude": 37.787691
+  },
+  "review_count": 277,
+  "name": "Jewish Community Center of San Francisco - JCCSF"
+}

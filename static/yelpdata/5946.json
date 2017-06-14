@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 22.92671879492,
+  "display_phone": "(415) 421-0069",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "659 Pine St",
+    "state": "CA",
+    "display_address": [
+      "659 Pine St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "notre-dame-des-victoires-grammar-school-san-francisco",
+  "phone": "+14154210069",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d84lxHZ9_ReEZF1X-Rykiw/o.jpg",
+  "url": "https://www.yelp.com/biz/notre-dame-des-victoires-grammar-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40663304925,
+    "latitude": 37.7913627773523
+  },
+  "review_count": 11,
+  "name": "Notre Dame Des Victoires Grammar School"
+}

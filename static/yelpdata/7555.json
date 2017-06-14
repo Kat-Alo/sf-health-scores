@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "naturopathic",
+      "title": "Naturopathic/Holistic"
+    }
+  ],
+  "distance": 26.60472857102,
+  "display_phone": "(415) 752-8336",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "512 Clement St",
+    "state": "CA",
+    "display_address": [
+      "512 Clement St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vinh-khang-herb-and-ginseng-san-francisco-2",
+  "phone": "+14157528336",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UCDJkzqfM-03s_u2wUNf4A/o.jpg",
+  "url": "https://www.yelp.com/biz/vinh-khang-herb-and-ginseng-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.464797973633,
+    "latitude": 37.7831954956055
+  },
+  "review_count": 8,
+  "name": "Vinh Khang Herb & Ginseng"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 8.95747056752,
+  "display_phone": "(415) 668-7717",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1797 Haight St",
+    "state": "CA",
+    "display_address": [
+      "1797 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zona-rosa-san-francisco",
+  "phone": "+14156687717",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/H62qtbO1Lj8o8RhLn7Hd0w/o.jpg",
+  "url": "https://www.yelp.com/biz/zona-rosa-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.451663315296,
+    "latitude": 37.7693485468626
+  },
+  "review_count": 276,
+  "price": "$",
+  "name": "Zona Rosa"
+}

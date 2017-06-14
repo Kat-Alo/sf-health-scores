@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    }
+  ],
+  "distance": 25.487598772659997,
+  "display_phone": "(415) 399-8788",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1207 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "1207 Stockton St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-luen-sing-fish-market-san-francisco",
+  "phone": "+14153998788",
+  "rating": 1.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QKpJ6TGzlLLhpLDDj_9u-Q/o.jpg",
+  "url": "https://www.yelp.com/biz/new-luen-sing-fish-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40873,
+    "latitude": 37.79692
+  },
+  "review_count": 3,
+  "price": "$$$",
+  "name": "New Luen Sing Fish Market"
+}

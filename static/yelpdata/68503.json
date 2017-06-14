@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 1182.744843236,
+  "display_phone": "(415) 487-0777",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4077 18th St",
+    "state": "CA",
+    "display_address": [
+      "4077 18th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nizarios-pizza-san-francisco",
+  "phone": "+14154870777",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SGlrAhrzwgJ1w2LxscCD-Q/o.jpg",
+  "url": "https://www.yelp.com/biz/nizarios-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43444,
+    "latitude": 37.76069
+  },
+  "review_count": 293,
+  "price": "$",
+  "name": "Nizario's Pizza"
+}

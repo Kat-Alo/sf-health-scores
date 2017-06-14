@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 21.201873244439998,
+  "display_phone": "(415) 731-2054",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1525 Irving St",
+    "state": "CA",
+    "display_address": [
+      "1525 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kitchen-kura-san-francisco",
+  "phone": "+14157312054",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BUjujU9_1qwaWnQso6UzVA/o.jpg",
+  "url": "https://www.yelp.com/biz/kitchen-kura-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.474405765533,
+    "latitude": 37.7635396306368
+  },
+  "review_count": 418,
+  "price": "$$",
+  "name": "Kitchen Kura"
+}

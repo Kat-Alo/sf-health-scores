@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 919.881121727,
+  "display_phone": "(415) 931-6917",
+  "is_closed": false,
+  "transactions": [
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "730 Larkin St",
+    "state": "CA",
+    "display_address": [
+      "730 Larkin St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lers-ros-san-francisco-2",
+  "phone": "+14159316917",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/12S2juI2hsXnNAeZEBRPtw/o.jpg",
+  "url": "https://www.yelp.com/biz/lers-ros-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.417566,
+    "latitude": 37.784703
+  },
+  "review_count": 1889,
+  "price": "$$",
+  "name": "Lers Ros"
+}

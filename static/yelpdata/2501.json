@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 22.6479279987,
+  "display_phone": "(415) 951-0133",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "270 Sutter St",
+    "state": "CA",
+    "display_address": [
+      "270 Sutter St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-posh-bagel-san-francisco-4",
+  "phone": "+14159510133",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fd9qc3Xdhc6pBdbgRYzXCg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-posh-bagel-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405049,
+    "latitude": 37.7899148
+  },
+  "review_count": 308,
+  "price": "$",
+  "name": "The Posh Bagel"
+}

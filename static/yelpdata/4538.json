@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 16.34003296434,
+  "display_phone": "(415) 664-3870",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1899 Irving St",
+    "state": "CA",
+    "display_address": [
+      "1899 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lucca-food-deli-and-wine-shop-san-francisco",
+  "phone": "+14156643870",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V0T2D0ebbiDtw4GfziHPWQ/o.jpg",
+  "url": "https://www.yelp.com/biz/lucca-food-deli-and-wine-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.478067651391,
+    "latitude": 37.7634704858065
+  },
+  "review_count": 213,
+  "price": "$",
+  "name": "Lucca Food Deli & Wine Shop"
+}

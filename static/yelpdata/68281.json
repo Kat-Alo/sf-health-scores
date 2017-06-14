@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 23.582542547659997,
+  "display_phone": "(415) 863-8100",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3170 16th St",
+    "state": "CA",
+    "display_address": [
+      "3170 16th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "big-lantern-san-francisco",
+  "phone": "+14158638100",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8aMh7G5Gi_ZFkcUXIQ6osA/o.jpg",
+  "url": "https://www.yelp.com/biz/big-lantern-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42339,
+    "latitude": 37.76493
+  },
+  "review_count": 769,
+  "price": "$$",
+  "name": "Big Lantern"
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "hookah_bars",
+      "title": "Hookah Bars"
+    }
+  ],
+  "distance": 27.365424964859997,
+  "display_phone": "(415) 567-1150",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1761 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "1761 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pride-of-the-mediterranean-san-francisco",
+  "phone": "+14155671150",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-uRFWl5AUlWyQuSUhYMVEQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pride-of-the-mediterranean-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433246597648,
+    "latitude": 37.7856919169426
+  },
+  "review_count": 312,
+  "price": "$$",
+  "name": "Pride of the Mediterranean"
+}

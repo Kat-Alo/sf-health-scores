@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 74.7189364154,
+  "display_phone": "(415) 759-2825",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "220 Middlefield Dr",
+    "state": "CA",
+    "display_address": [
+      "220 Middlefield Dr",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lakeshore-alternative-elementary-school-san-francisco",
+  "phone": "+14157592825",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J-INb0so_OF_1E57rpk5KA/o.jpg",
+  "url": "https://www.yelp.com/biz/lakeshore-alternative-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.486024,
+    "latitude": 37.730495
+  },
+  "review_count": 9,
+  "name": "Lakeshore Alternative Elementary School"
+}

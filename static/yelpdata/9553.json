@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 20.2808865866,
+  "display_phone": "(415) 626-1250",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "517 Castro St",
+    "state": "CA",
+    "display_address": [
+      "517 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-sausage-factory-san-francisco",
+  "phone": "+14156261250",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nfWpXL0qQl4wkELKYnfj-g/o.jpg",
+  "url": "https://www.yelp.com/biz/the-sausage-factory-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43478,
+    "latitude": 37.76052
+  },
+  "review_count": 479,
+  "price": "$$",
+  "name": "The Sausage Factory"
+}

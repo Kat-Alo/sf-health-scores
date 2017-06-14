@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 22.99364963618,
+  "display_phone": "(415) 206-9845",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1850 Cesar Chavez",
+    "state": "CA",
+    "display_address": [
+      "1850 Cesar Chavez",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "oscars-burger-deli-san-francisco",
+  "phone": "+14152069845",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7_freIgvDRm3r3EgNxDs7w/o.jpg",
+  "url": "https://www.yelp.com/biz/oscars-burger-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.395988464355,
+    "latitude": 37.7500038146973
+  },
+  "review_count": 48,
+  "price": "$",
+  "name": "Oscar's Burger Deli"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 19.69547145886,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "17 Powell St",
+    "state": "CA",
+    "display_address": [
+      "17 Powell St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "segafredo-zanetti-san-francisco-2",
+  "phone": "",
+  "rating": 2.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/segafredo-zanetti-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407770976424,
+    "latitude": 37.784947603941
+  },
+  "review_count": 4,
+  "price": "$",
+  "name": "Segafredo Zanetti"
+}

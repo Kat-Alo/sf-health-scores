@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "singaporean",
+      "title": "Singaporean"
+    },
+    {
+      "alias": "malaysian",
+      "title": "Malaysian"
+    },
+    {
+      "alias": "indonesian",
+      "title": "Indonesian"
+    }
+  ],
+  "distance": 2123.3133064599997,
+  "display_phone": "(415) 665-1415",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "450 Irving St",
+    "state": "CA",
+    "display_address": [
+      "450 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lime-tree-southeast-asian-kitchen-san-francisco",
+  "phone": "+14156651415",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NKV6M2v8uTY3ZuvHB85-vA/o.jpg",
+  "url": "https://www.yelp.com/biz/lime-tree-southeast-asian-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.462736,
+    "latitude": 37.764337
+  },
+  "review_count": 1317,
+  "price": "$",
+  "name": "Lime Tree Southeast Asian Kitchen"
+}

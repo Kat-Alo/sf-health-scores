@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 17.0143609084,
+  "display_phone": "(415) 821-7569",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1299 18th St",
+    "state": "CA",
+    "display_address": [
+      "1299 18th St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "plow-san-francisco",
+  "phone": "+14158217569",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LKh5aVZF1OHs1zKosXQrzA/o.jpg",
+  "url": "https://www.yelp.com/biz/plow-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39535099572,
+    "latitude": 37.762537673684
+  },
+  "review_count": 1916,
+  "price": "$$",
+  "name": "Plow"
+}

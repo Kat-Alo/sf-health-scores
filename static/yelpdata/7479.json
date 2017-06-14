@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 35.18416839122,
+  "display_phone": "(415) 397-7160",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1425 Sansome St",
+    "state": "CA",
+    "display_address": [
+      "1425 Sansome St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rjs-market-levi-plaza-san-francisco",
+  "phone": "+14153977160",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F262nX9VggSw9jl_v1XCDg/o.jpg",
+  "url": "https://www.yelp.com/biz/rjs-market-levi-plaza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40340457375,
+    "latitude": 37.803334144454
+  },
+  "review_count": 203,
+  "price": "$$$",
+  "name": "RJ's Market Levi Plaza"
+}

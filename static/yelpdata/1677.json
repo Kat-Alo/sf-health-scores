@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    },
+    {
+      "alias": "caribbean",
+      "title": "Caribbean"
+    }
+  ],
+  "distance": 13.720164238239999,
+  "display_phone": "(415) 957-1129",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "214 Townsend St",
+    "state": "CA",
+    "display_address": [
+      "214 Townsend St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "primo-patio-cafe-san-francisco",
+  "phone": "+14159571129",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ynamg9Sld5u1kFQaz38fUw/o.jpg",
+  "url": "https://www.yelp.com/biz/primo-patio-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3932278,
+    "latitude": 37.7786607
+  },
+  "review_count": 866,
+  "price": "$$",
+  "name": "Primo Patio Cafe"
+}

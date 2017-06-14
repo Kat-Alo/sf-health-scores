@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 20.46843585152,
+  "display_phone": "(415) 641-0400",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3349 Mission St",
+    "state": "CA",
+    "display_address": [
+      "3349 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pizza-hut-san-francisco-2",
+  "phone": "+14156410400",
+  "rating": 2.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6EVPFC7HtcWYAsojVgzB3A/o.jpg",
+  "url": "https://www.yelp.com/biz/pizza-hut-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4212,
+    "latitude": 37.74322
+  },
+  "review_count": 70,
+  "price": "$",
+  "name": "Pizza Hut"
+}

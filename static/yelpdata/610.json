@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    },
+    {
+      "alias": "thai",
+      "title": "Thai"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 11.491857912048,
+  "display_phone": "(415) 731-6175",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "92 Judah St",
+    "state": "CA",
+    "display_address": [
+      "92 Judah St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pomelo-on-judah-san-francisco",
+  "phone": "+14157316175",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MF90fNpKqu1p1xXusn5CVA/o.jpg",
+  "url": "https://www.yelp.com/biz/pomelo-on-judah-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46269,
+    "latitude": 37.76247
+  },
+  "review_count": 386,
+  "price": "$$",
+  "name": "pomelo on Judah"
+}

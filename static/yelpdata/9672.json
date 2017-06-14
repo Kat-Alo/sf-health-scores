@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "seafoodmarkets",
+      "title": "Seafood Markets"
+    }
+  ],
+  "distance": 40.95208962208,
+  "display_phone": "(415) 399-1111",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "Ste 31",
+    "address3": "",
+    "address1": "1 Ferry Bldg",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "Ste 31",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-fish-company-san-francisco",
+  "phone": "+14153991111",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RZMxJlAg-WW8uivisPHZAw/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-fish-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393492907286,
+    "latitude": 37.7955211664729
+  },
+  "review_count": 316,
+  "price": "$$",
+  "name": "San Francisco Fish Company"
+}

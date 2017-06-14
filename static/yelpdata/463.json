@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 14.484116326899999,
+  "display_phone": "(415) 391-1539",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "618 Broadway",
+    "state": "CA",
+    "display_address": [
+      "618 Broadway",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sams-san-francisco",
+  "phone": "+14153911539",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ivWhpDPgt0KXYaDhrNYOoQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sams-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4075,
+    "latitude": 37.79807
+  },
+  "review_count": 487,
+  "price": "$",
+  "name": "Sam's"
+}

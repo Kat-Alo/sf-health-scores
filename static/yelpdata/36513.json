@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "raw_food",
+      "title": "Live/Raw Food"
+    }
+  ],
+  "distance": 475.3692953968,
+  "display_phone": "(415) 284-9922",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "399 The Embarcadero",
+    "state": "CA",
+    "display_address": [
+      "399 The Embarcadero",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "waterbar-san-francisco",
+  "phone": "+14152849922",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3sC0jKEjyo5Rm7hQNSpuCg/o.jpg",
+  "url": "https://www.yelp.com/biz/waterbar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3886065,
+    "latitude": 37.7900429
+  },
+  "review_count": 2414,
+  "price": "$$$",
+  "name": "Waterbar"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "taiwanese",
+      "title": "Taiwanese"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 101579.63051342,
+  "display_phone": "(530) 757-2618",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "95616",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "129 E St",
+    "state": "CA",
+    "display_address": [
+      "129 E St",
+      "Davis, CA 95616"
+    ],
+    "city": "Davis"
+  },
+  "id": "davis-noodle-city-davis",
+  "phone": "+15307572618",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_ZgfGsvESV30BxR7n12f1A/o.jpg",
+  "url": "https://www.yelp.com/biz/davis-noodle-city-davis?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.741271972656,
+    "latitude": 38.5426788330078
+  },
+  "review_count": 394,
+  "price": "$",
+  "name": "Davis Noodle City"
+}

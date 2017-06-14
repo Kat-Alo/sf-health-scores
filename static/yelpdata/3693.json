@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 16.45161816258,
+  "display_phone": "(415) 661-8860",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1556 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "1556 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-hing-lung-restaurant-san-francisco",
+  "phone": "+14156618860",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jojyk_xKthlz7bAgaMPlqA/o.jpg",
+  "url": "https://www.yelp.com/biz/new-hing-lung-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4803886,
+    "latitude": 37.7541936
+  },
+  "review_count": 195,
+  "price": "$$",
+  "name": "New Hing Lung Restaurant"
+}

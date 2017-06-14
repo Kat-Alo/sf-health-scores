@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 13.266999843679999,
+  "display_phone": "(415) 986-2676",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "126 Sutter St",
+    "state": "CA",
+    "display_address": [
+      "126 Sutter St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "shorty-goldsteins-san-francisco",
+  "phone": "+14159862676",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IkL-LqV60a0_TfQOiAUQWw/o.jpg",
+  "url": "https://www.yelp.com/biz/shorty-goldsteins-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4028249,
+    "latitude": 37.7900763
+  },
+  "review_count": 311,
+  "price": "$$",
+  "name": "Shorty Goldstein's"
+}

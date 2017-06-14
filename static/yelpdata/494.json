@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    }
+  ],
+  "distance": 3152.873604598,
+  "display_phone": "(415) 923-8989",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1750 Divisadero St",
+    "state": "CA",
+    "display_address": [
+      "1750 Divisadero St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-athletic-club-san-francisco",
+  "phone": "+14159238989",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d0vmY2kib7GfCWiLJ3PH4A/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-athletic-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.439697,
+    "latitude": 37.785973
+  },
+  "review_count": 159,
+  "price": "$$",
+  "name": "San Francisco Athletic Club"
+}

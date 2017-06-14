@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 2196.474546596,
+  "display_phone": "(415) 702-6707",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1501 Sloat Blvd",
+    "state": "CA",
+    "display_address": [
+      "1501 Sloat Blvd",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "subway-san-francisco-102",
+  "phone": "+14157026707",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KE51w6nkaLC3PRmoGL815Q/o.jpg",
+  "url": "https://www.yelp.com/biz/subway-san-francisco-102?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.489398,
+    "latitude": 37.733913
+  },
+  "review_count": 5,
+  "price": "$",
+  "name": "Subway"
+}

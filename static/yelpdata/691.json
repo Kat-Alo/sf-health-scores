@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 13.27035531758,
+  "display_phone": "(415) 921-3990",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2299 Union St",
+    "state": "CA",
+    "display_address": [
+      "2299 Union St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marina-submarine-san-francisco",
+  "phone": "+14159213990",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tNhyEziMnwR0Lg5JZoHVFg/o.jpg",
+  "url": "https://www.yelp.com/biz/marina-submarine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43683,
+    "latitude": 37.79678
+  },
+  "review_count": 351,
+  "price": "$",
+  "name": "Marina Submarine"
+}

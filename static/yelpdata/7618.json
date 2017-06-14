@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 7012.36993997,
+  "display_phone": "(415) 885-2898",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "cheers-on-demand-san-francisco-5",
+  "phone": "+14158852898",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xtnlMvoYxtgCkP_sTxAKrA/o.jpg",
+  "url": "https://www.yelp.com/biz/cheers-on-demand-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44632,
+    "latitude": 37.76992
+  },
+  "review_count": 37,
+  "price": "$",
+  "name": "Cheers On Demand"
+}

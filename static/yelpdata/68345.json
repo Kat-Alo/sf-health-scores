@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 340.104558078,
+  "display_phone": "(415) 433-6498",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "120 Sansome St",
+    "state": "CA",
+    "display_address": [
+      "120 Sansome St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mixt-san-francisco-8",
+  "phone": "+14154336498",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/elg-WmEVb1fqmy8RZue47Q/o.jpg",
+  "url": "https://www.yelp.com/biz/mixt-san-francisco-8?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4007669,
+    "latitude": 37.7916269
+  },
+  "review_count": 786,
+  "price": "$$",
+  "name": "Mixt"
+}

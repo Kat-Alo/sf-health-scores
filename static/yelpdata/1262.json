@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 16.528034453799997,
+  "display_phone": "(415) 751-2300",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "800 Stanyan St",
+    "state": "CA",
+    "display_address": [
+      "800 Stanyan St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "north-beach-pizza-san-francisco-4",
+  "phone": "+14157512300",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xd12t9Yi_MRq6H_F4KpeYg/o.jpg",
+  "url": "https://www.yelp.com/biz/north-beach-pizza-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4529545,
+    "latitude": 37.7671797
+  },
+  "review_count": 220,
+  "price": "$",
+  "name": "North Beach Pizza"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 2424.336812912,
+  "display_phone": "(415) 561-3650",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94129",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "50 Moraga Ave",
+    "state": "CA",
+    "display_address": [
+      "50 Moraga Ave",
+      "San Francisco, CA 94129"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "arguello-san-francisco",
+  "phone": "+14155613650",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rV_X5Nq_fL44KpD0eFvOXA/o.jpg",
+  "url": "https://www.yelp.com/biz/arguello-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4589673,
+    "latitude": 37.7976268
+  },
+  "review_count": 207,
+  "price": "$$",
+  "name": "Arguello"
+}

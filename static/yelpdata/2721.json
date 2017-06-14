@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 21.13707638802,
+  "display_phone": "(415) 621-3020",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "245 Church St",
+    "state": "CA",
+    "display_address": [
+      "245 Church St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "red-jade-san-francisco",
+  "phone": "+14156213020",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gY7IMVmIaO65S-z-iiRbxw/o.jpg",
+  "url": "https://www.yelp.com/biz/red-jade-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.428527832031,
+    "latitude": 37.7668495178223
+  },
+  "review_count": 646,
+  "price": "$",
+  "name": "Red Jade"
+}

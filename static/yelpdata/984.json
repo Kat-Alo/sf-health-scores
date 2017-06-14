@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 32.374449043999995,
+  "display_phone": "(415) 564-6766",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3050 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "3050 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vanida-thai-kitchen-san-francisco",
+  "phone": "+14155646766",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Kh-hMrNZph0BUbghi2XwIA/o.jpg",
+  "url": "https://www.yelp.com/biz/vanida-thai-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4989692,
+    "latitude": 37.7421497
+  },
+  "review_count": 384,
+  "price": "$$",
+  "name": "Vanida Thai Kitchen"
+}

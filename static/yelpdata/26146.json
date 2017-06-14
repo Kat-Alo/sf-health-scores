@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    },
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 52.98956818982,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "170 O Farrell St",
+    "state": "CA",
+    "display_address": [
+      "170 O Farrell St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "macys-cellar-san-francisco",
+  "phone": "",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VI3iaPijonhhaBvzGJABWg/o.jpg",
+  "url": "https://www.yelp.com/biz/macys-cellar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407363891602,
+    "latitude": 37.7867965698242
+  },
+  "review_count": 47,
+  "price": "$$",
+  "name": "Macy's Cellar"
+}

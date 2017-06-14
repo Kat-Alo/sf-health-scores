@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 22.963426230979998,
+  "display_phone": "(415) 743-9999",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "279 Columbus Ave",
+    "state": "CA",
+    "display_address": [
+      "279 Columbus Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nizarios-pizza-san-francisco-3",
+  "phone": "+14157439999",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dRSboPtFXE-r5z64FtzH_w/o.jpg",
+  "url": "https://www.yelp.com/biz/nizarios-pizza-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40668,
+    "latitude": 37.79763
+  },
+  "review_count": 153,
+  "price": "$",
+  "name": "Nizario's Pizza"
+}

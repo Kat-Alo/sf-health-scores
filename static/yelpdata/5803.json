@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 40.2776602896,
+  "display_phone": "(415) 469-4746",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "250 Foerster St",
+    "state": "CA",
+    "display_address": [
+      "250 Foerster St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sunnyside-elementary-school-san-francisco",
+  "phone": "+14154694746",
+  "rating": 4.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/sunnyside-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4487351,
+    "latitude": 37.7302902
+  },
+  "review_count": 8,
+  "name": "Sunnyside Elementary School"
+}

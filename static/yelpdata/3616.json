@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "comfortfood",
+      "title": "Comfort Food"
+    }
+  ],
+  "distance": 15.4792517159,
+  "display_phone": "(415) 282-6789",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "998 Guerrero St",
+    "state": "CA",
+    "display_address": [
+      "998 Guerrero St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-liberties-san-francisco",
+  "phone": "+14152826789",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G5B0QCQBBAfuD3ODKt-A4Q/o.jpg",
+  "url": "https://www.yelp.com/biz/the-liberties-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42353,
+    "latitude": 37.75527
+  },
+  "review_count": 283,
+  "price": "$$",
+  "name": "The Liberties"
+}

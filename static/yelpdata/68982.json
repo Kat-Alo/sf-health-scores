@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 31.577256037639994,
+  "display_phone": "(415) 400-0561",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "2nd Flr",
+    "address3": "",
+    "address1": "417 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "417 Stockton St",
+      "2nd Flr",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "burritt-room-tavern-san-francisco",
+  "phone": "+14154000561",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ilyv23ROhWxb2kXi6Ik8UA/o.jpg",
+  "url": "https://www.yelp.com/biz/burritt-room-tavern-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407416411045,
+    "latitude": 37.7897917693706
+  },
+  "review_count": 834,
+  "price": "$$",
+  "name": "Burritt Room + Tavern"
+}

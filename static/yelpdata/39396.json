@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "hkcafe",
+      "title": "Hong Kong Style Cafe"
+    }
+  ],
+  "distance": 20.23075725494,
+  "display_phone": "(415) 392-6688",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "638 Pacific Ave",
+    "state": "CA",
+    "display_address": [
+      "638 Pacific Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-regent-cafe-san-francisco",
+  "phone": "+14153926688",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m5whBIZwpGn1CiRzRcbGGA/o.jpg",
+  "url": "https://www.yelp.com/biz/new-regent-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406356811523,
+    "latitude": 37.7971687316895
+  },
+  "review_count": 45,
+  "price": "$",
+  "name": "New Regent Cafe"
+}

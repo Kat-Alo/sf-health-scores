@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "donuts",
+      "title": "Donuts"
+    },
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 11029.421144143998,
+  "display_phone": "(510) 338-6319",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94608",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "6037 San Pablo Ave",
+    "state": "CA",
+    "display_address": [
+      "6037 San Pablo Ave",
+      "Oakland, CA 94608"
+    ],
+    "city": "Oakland"
+  },
+  "id": "pepples-donut-farm-oakland",
+  "phone": "+15103386319",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kb-o2FxTVmmQjIS11Aydgw/o.jpg",
+  "url": "https://www.yelp.com/biz/pepples-donut-farm-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.2841576,
+    "latitude": 37.8436079
+  },
+  "review_count": 496,
+  "price": "$$",
+  "name": "Pepples Donut Farm"
+}

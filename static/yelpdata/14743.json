@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 19.27688051552,
+  "display_phone": "(415) 664-2472",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3138 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "3138 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "polly-ann-ice-cream-san-francisco",
+  "phone": "+14156642472",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UAmWA2Ub-BpiQu38-X9Log/o.jpg",
+  "url": "https://www.yelp.com/biz/polly-ann-ice-cream-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.497758,
+    "latitude": 37.753435
+  },
+  "review_count": 1089,
+  "price": "$",
+  "name": "Polly Ann Ice Cream"
+}

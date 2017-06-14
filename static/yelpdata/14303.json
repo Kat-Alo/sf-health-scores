@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 15.00592711916,
+  "display_phone": "(415) 681-3228",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "3911 Judah St",
+    "state": "CA",
+    "display_address": [
+      "3911 Judah St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mango-medley-san-francisco",
+  "phone": "+14156813228",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/COS7M-3l5JTYcM3s_BzwCw/o.jpg",
+  "url": "https://www.yelp.com/biz/mango-medley-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.5041614,
+    "latitude": 37.7603499
+  },
+  "review_count": 382,
+  "price": "$$",
+  "name": "Mango Medley"
+}

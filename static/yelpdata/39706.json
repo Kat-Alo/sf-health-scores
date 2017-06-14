@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 30.123854646279998,
+  "display_phone": "(415) 221-5353",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5524 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "5524 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kappou-gomi-san-francisco",
+  "phone": "+14152215353",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LBIrku47R_r_rQFk7muNFQ/o.jpg",
+  "url": "https://www.yelp.com/biz/kappou-gomi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47878,
+    "latitude": 37.78071
+  },
+  "review_count": 389,
+  "price": "$$$",
+  "name": "Kappou Gomi"
+}

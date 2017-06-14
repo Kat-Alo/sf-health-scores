@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "bodyshops",
+      "title": "Body Shops"
+    },
+    {
+      "alias": "auto_detailing",
+      "title": "Auto Detailing"
+    }
+  ],
+  "distance": 401.0423298318,
+  "display_phone": "(415) 538-8688",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "610 Bryant St",
+    "state": "CA",
+    "display_address": [
+      "610 Bryant St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "karrys-collision-center-san-francisco",
+  "phone": "+14155388688",
+  "rating": 5.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GyO9N03xVdGj0_O7bo51_A/o.jpg",
+  "url": "https://www.yelp.com/biz/karrys-collision-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39889,
+    "latitude": 37.77917
+  },
+  "review_count": 419,
+  "name": "Karry's Collision Center"
+}

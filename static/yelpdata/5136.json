@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "tex-mex",
+      "title": "Tex-Mex"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 1640.8756610359999,
+  "display_phone": "(415) 979-1587",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "710 3rd St",
+    "state": "CA",
+    "display_address": [
+      "710 3rd St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taco-bell-san-francisco-22",
+  "phone": "+14159791587",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7TgmQYtTZnw8CTFiP6XBfg/o.jpg",
+  "url": "https://www.yelp.com/biz/taco-bell-san-francisco-22?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39244701798,
+    "latitude": 37.7794604189661
+  },
+  "review_count": 99,
+  "price": "$",
+  "name": "Taco Bell"
+}

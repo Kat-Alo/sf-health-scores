@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 29.522983417179997,
+  "display_phone": "(415) 292-7271",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "608 Geary St",
+    "state": "CA",
+    "display_address": [
+      "608 Geary St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pharaohs-mediterranean-sandwich-san-francisco",
+  "phone": "+14152927271",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TAfD9EqmIZUdhk2r_qJ9_Q/o.jpg",
+  "url": "https://www.yelp.com/biz/pharaohs-mediterranean-sandwich-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.413430574697,
+    "latitude": 37.7867601870129
+  },
+  "review_count": 299,
+  "price": "$",
+  "name": "Pharaohs Mediterranean Sandwich"
+}

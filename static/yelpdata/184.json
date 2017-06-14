@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "cuban",
+      "title": "Cuban"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 9.39028002976,
+  "display_phone": "(415) 824-7659",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1109 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "1109 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "radio-habana-social-club-san-francisco-3",
+  "phone": "+14158247659",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6AaAR7Fct2OsLMYjM6cEyg/o.jpg",
+  "url": "https://www.yelp.com/biz/radio-habana-social-club-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42065,
+    "latitude": 37.75515
+  },
+  "review_count": 190,
+  "price": "$$",
+  "name": "Radio Habana Social Club"
+}

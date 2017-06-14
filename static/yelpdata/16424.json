@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 4992.4750749859995,
+  "display_phone": "(415) 586-5321",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2598 San Jose Ave",
+    "state": "CA",
+    "display_address": [
+      "2598 San Jose Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sams-market-san-francisco-2",
+  "phone": "+14155865321",
+  "rating": 1.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yVkQj4bAcKzUiwsZNqt0oA/o.jpg",
+  "url": "https://www.yelp.com/biz/sams-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.450546264648,
+    "latitude": 37.7164154052734
+  },
+  "review_count": 4,
+  "price": "$$$",
+  "name": "Sam's Market"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "divebars",
+      "title": "Dive Bars"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 17.86572751784,
+  "display_phone": "(415) 752-5439",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3129 Clement St",
+    "state": "CA",
+    "display_address": [
+      "3129 Clement St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tee-off-bar-and-grill-san-francisco",
+  "phone": "+14157525439",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fpto9q2ejG_NOnTyZiXuhQ/o.jpg",
+  "url": "https://www.yelp.com/biz/tee-off-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49293,
+    "latitude": 37.7814
+  },
+  "review_count": 536,
+  "price": "$$",
+  "name": "Tee Off Bar & Grill"
+}

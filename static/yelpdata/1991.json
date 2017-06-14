@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 25.459306575459998,
+  "display_phone": "(415) 682-7700",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "4621 Lincoln Way",
+    "state": "CA",
+    "display_address": [
+      "4621 Lincoln Way",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sri-thai-san-francisco",
+  "phone": "+14156827700",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/knEQiMXXxUAYk0__NfC9Dg/o.jpg",
+  "url": "https://www.yelp.com/biz/sri-thai-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.50778,
+    "latitude": 37.76383
+  },
+  "review_count": 359,
+  "price": "$$",
+  "name": "Sri Thai"
+}

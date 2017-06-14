@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 13.419137191239999,
+  "display_phone": "(415) 440-1950",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2027 Chestnut St",
+    "state": "CA",
+    "display_address": [
+      "2027 Chestnut St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pacific-catch-san-francisco",
+  "phone": "+14154401950",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-_cAnXv5WzJaxdl1--vEYA/o.jpg",
+  "url": "https://www.yelp.com/biz/pacific-catch-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43652,
+    "latitude": 37.80057
+  },
+  "review_count": 1391,
+  "price": "$$",
+  "name": "Pacific Catch"
+}

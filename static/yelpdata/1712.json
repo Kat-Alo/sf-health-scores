@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 9.132078485764,
+  "display_phone": "(415) 242-6022",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3940 Judah St",
+    "state": "CA",
+    "display_address": [
+      "3940 Judah St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sea-breeze-restaurant-san-francisco",
+  "phone": "+14152426022",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w77klT6t9jsuMRcM-FYrpA/o.jpg",
+  "url": "https://www.yelp.com/biz/sea-breeze-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.5045493,
+    "latitude": 37.760589
+  },
+  "review_count": 391,
+  "price": "$$",
+  "name": "Sea Breeze Restaurant"
+}

@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 12.190077795879999,
+  "display_phone": "(415) 928-4454",
+  "is_closed": true,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "808 Divisadero St",
+    "state": "CA",
+    "display_address": [
+      "808 Divisadero St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "stelladoro-pizza-san-francisco",
+  "phone": "+14159284454",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/K1iUkRsHLWZcB6sQiMQ9BQ/o.jpg",
+  "url": "https://www.yelp.com/biz/stelladoro-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.438080823791,
+    "latitude": 37.777109926055
+  },
+  "review_count": 140,
+  "price": "$",
+  "name": "Stelladoro Pizza"
+}

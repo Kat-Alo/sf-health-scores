@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 144.6418384633,
+  "display_phone": "(415) 566-7687",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "Fl 2",
+    "address3": "Stonestown Galleria",
+    "address1": "3251 20th Ave",
+    "state": "CA",
+    "display_address": [
+      "3251 20th Ave",
+      "Fl 2",
+      "Stonestown Galleria",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-soup-company-san-francisco-18",
+  "phone": "+14155667687",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/H3JdjMNX1YzZJ7ky1yfMRw/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-soup-company-san-francisco-18?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47688,
+    "latitude": 37.72856
+  },
+  "review_count": 64,
+  "price": "$",
+  "name": "San Francisco Soup Company"
+}

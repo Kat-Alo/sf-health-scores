@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 29.33707889774,
+  "display_phone": "(415) 386-8266",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2332 Clement St",
+    "state": "CA",
+    "display_address": [
+      "2332 Clement St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ppq-dungeness-island-san-francisco-2",
+  "phone": "+14153868266",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2-j9zyksMuwMEuhWZNyN5Q/o.jpg",
+  "url": "https://www.yelp.com/biz/ppq-dungeness-island-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.484454,
+    "latitude": 37.78233
+  },
+  "review_count": 2561,
+  "price": "$$",
+  "name": "PPQ Dungeness Island"
+}

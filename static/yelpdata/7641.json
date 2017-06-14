@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    }
+  ],
+  "distance": 13.30245682256,
+  "display_phone": "(415) 661-7475",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3930 Judah St",
+    "state": "CA",
+    "display_address": [
+      "3930 Judah St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "other-avenues-food-store-cooperative-san-francisco",
+  "phone": "+14156617475",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aQFDQ7VkdMVu8vVJhxTkzw/o.jpg",
+  "url": "https://www.yelp.com/biz/other-avenues-food-store-cooperative-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.50433,
+    "latitude": 37.76074
+  },
+  "review_count": 238,
+  "price": "$$",
+  "name": "Other Avenues Food Store Cooperative"
+}

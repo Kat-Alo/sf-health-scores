@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 7.1730118447599995,
+  "display_phone": "(415) 752-7799",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "798 Arguello Blvd",
+    "state": "CA",
+    "display_address": [
+      "798 Arguello Blvd",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-velo-rouge-cafe-san-francisco",
+  "phone": "+14157527799",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fHzMHhA150cZQT37lXSMqg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-velo-rouge-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.458363873016,
+    "latitude": 37.7753311381057
+  },
+  "review_count": 627,
+  "price": "$",
+  "name": "The Velo Rouge Cafe"
+}

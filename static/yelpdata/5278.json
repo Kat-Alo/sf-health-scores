@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "kitchenandbath",
+      "title": "Kitchen & Bath"
+    },
+    {
+      "alias": "gourmet",
+      "title": "Specialty Food"
+    }
+  ],
+  "distance": 2894.364354794,
+  "display_phone": "(415) 362-9450",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "340 Post St",
+    "state": "CA",
+    "display_address": [
+      "340 Post St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "williams-sonoma-san-francisco-6",
+  "phone": "+14153629450",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-FR6bXN_SnrTo19TPTwkKw/o.jpg",
+  "url": "https://www.yelp.com/biz/williams-sonoma-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407470703125,
+    "latitude": 37.7886962890625
+  },
+  "review_count": 189,
+  "price": "$$$",
+  "name": "Williams-Sonoma"
+}

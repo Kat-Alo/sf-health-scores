@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "importedfood",
+      "title": "Imported Food"
+    }
+  ],
+  "distance": 3267.967324972,
+  "display_phone": "(650) 992-0333",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94015",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2350 Junipero Serra Blvd",
+    "state": "CA",
+    "display_address": [
+      "2350 Junipero Serra Blvd",
+      "Daly City, CA 94015"
+    ],
+    "city": "Daly City"
+  },
+  "id": "kukje-super-market-daly-city",
+  "phone": "+16509920333",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e-ydbRUuuR-HtIIyK-Lw_g/o.jpg",
+  "url": "https://www.yelp.com/biz/kukje-super-market-daly-city?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4711649,
+    "latitude": 37.6941611
+  },
+  "review_count": 649,
+  "price": "$$",
+  "name": "Kukje Super Market"
+}

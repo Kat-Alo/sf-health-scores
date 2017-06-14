@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 14.252378608929998,
+  "display_phone": "(415) 752-7777",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3840 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "3840 Geary Blvd",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nizarios-pizza-san-francisco-2",
+  "phone": "+14157527777",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M1zMPlQah2uMzFZLHUGpuw/o.jpg",
+  "url": "https://www.yelp.com/biz/nizarios-pizza-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46067,
+    "latitude": 37.78149
+  },
+  "review_count": 571,
+  "price": "$",
+  "name": "Nizario's Pizza"
+}

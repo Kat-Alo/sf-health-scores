@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 17.764318176419998,
+  "display_phone": "(415) 255-6859",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "398 Dolores St",
+    "state": "CA",
+    "display_address": [
+      "398 Dolores St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "maxfields-house-of-caffeine-san-francisco",
+  "phone": "+14152556859",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TQLYACEPlUH-Vc6di7d16A/o.jpg",
+  "url": "https://www.yelp.com/biz/maxfields-house-of-caffeine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.426542719978,
+    "latitude": 37.7631378431423
+  },
+  "review_count": 241,
+  "price": "$",
+  "name": "Maxfield's House of Caffeine"
+}

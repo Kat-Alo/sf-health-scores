@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 2597.099622846,
+  "display_phone": "(415) 421-2000",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "425 Bush St",
+    "state": "CA",
+    "display_address": [
+      "425 Bush St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "subway-san-francisco-66",
+  "phone": "+14154212000",
+  "rating": 2.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hQn5r22XZXij4DJFBzb_eQ/o.jpg",
+  "url": "https://www.yelp.com/biz/subway-san-francisco-66?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404479980469,
+    "latitude": 37.790412902832
+  },
+  "review_count": 24,
+  "price": "$",
+  "name": "Subway"
+}

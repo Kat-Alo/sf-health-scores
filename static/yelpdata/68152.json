@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 16.64107851875,
+  "display_phone": "(415) 795-1272",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1529 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "1529 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "state-bird-provisions-san-francisco",
+  "phone": "+14157951272",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gj-8jw8tgi2LjGdxizt5xg/o.jpg",
+  "url": "https://www.yelp.com/biz/state-bird-provisions-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433005,
+    "latitude": 37.78374
+  },
+  "review_count": 2089,
+  "price": "$$$",
+  "name": "State Bird Provisions"
+}

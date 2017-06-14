@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    }
+  ],
+  "distance": 27.50202252538,
+  "display_phone": "(415) 447-2300",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "Fl 3",
+    "address3": "",
+    "address1": "730 Polk St",
+    "state": "CA",
+    "display_address": [
+      "730 Polk St",
+      "Fl 3",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "project-open-hand-san-francisco",
+  "phone": "+14154472300",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nWR6Ok8DowFoakztfg5EXg/o.jpg",
+  "url": "https://www.yelp.com/biz/project-open-hand-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419229373336,
+    "latitude": 37.7837023884058
+  },
+  "review_count": 33,
+  "name": "Project Open Hand"
+}

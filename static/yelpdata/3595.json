@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "drugstores",
+      "title": "Drugstores"
+    }
+  ],
+  "distance": 51641.000815399995,
+  "display_phone": "(925) 359-2001",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94582",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "11050 Bollinger Canyon Rd",
+    "state": "CA",
+    "display_address": [
+      "11050 Bollinger Canyon Rd",
+      "San Ramon, CA 94582"
+    ],
+    "city": "San Ramon"
+  },
+  "id": "safeway-san-ramon",
+  "phone": "+19253592001",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rd3qDpaiBjc99ZdeCPV_0w/o.jpg",
+  "url": "https://www.yelp.com/biz/safeway-san-ramon?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.9224069388,
+    "latitude": 37.774702434268
+  },
+  "review_count": 177,
+  "price": "$$",
+  "name": "Safeway"
+}

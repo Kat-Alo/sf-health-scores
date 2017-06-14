@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    }
+  ],
+  "distance": 41.97714907904,
+  "display_phone": "(415) 648-2633",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "2804 24th St",
+    "state": "CA",
+    "display_address": [
+      "2804 24th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panaderia-la-mexicana-bakery-san-francisco-3",
+  "phone": "+14156482633",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LruYRHEob6cBNjGmA0WUZA/o.jpg",
+  "url": "https://www.yelp.com/biz/panaderia-la-mexicana-bakery-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408736793918,
+    "latitude": 37.7527959371649
+  },
+  "review_count": 92,
+  "price": "$",
+  "name": "Panaderia La Mexicana Bakery"
+}

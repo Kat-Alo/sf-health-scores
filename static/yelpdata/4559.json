@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 3.94471281958,
+  "display_phone": "(415) 614-2385",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2199 Sutter St",
+    "state": "CA",
+    "display_address": [
+      "2199 Sutter St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pacific-food-mart-san-francisco",
+  "phone": "+14156142385",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MivFnCVdfAFmWz5ym7S9Xw/o.jpg",
+  "url": "https://www.yelp.com/biz/pacific-food-mart-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.436379417777,
+    "latitude": 37.7856483310461
+  },
+  "review_count": 20,
+  "price": "$",
+  "name": "Pacific Food Mart"
+}

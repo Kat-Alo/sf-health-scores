@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 9.331838939802,
+  "display_phone": "(415) 882-1333",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "161 Steuart St",
+    "state": "CA",
+    "display_address": [
+      "161 Steuart St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ozumo-san-francisco",
+  "phone": "+14158821333",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GeYzVMFJ7aHe6nLSUWe6wQ/o.jpg",
+  "url": "https://www.yelp.com/biz/ozumo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.392319,
+    "latitude": 37.7927442
+  },
+  "review_count": 1860,
+  "price": "$$$",
+  "name": "Ozumo"
+}

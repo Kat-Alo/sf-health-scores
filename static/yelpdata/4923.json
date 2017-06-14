@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 27.246172870859997,
+  "display_phone": "(415) 552-0309",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1530 Howard St",
+    "state": "CA",
+    "display_address": [
+      "1530 Howard St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "teds-market-san-francisco-2",
+  "phone": "+14155520309",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9oLhikqyvN3kAlDoW3iECg/o.jpg",
+  "url": "https://www.yelp.com/biz/teds-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.416229248047,
+    "latitude": 37.7728691101074
+  },
+  "review_count": 408,
+  "price": "$",
+  "name": "Teds Market"
+}

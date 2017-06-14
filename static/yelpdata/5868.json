@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 76.21768257059999,
+  "display_phone": "(415) 469-4730",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "755 Morse St",
+    "state": "CA",
+    "display_address": [
+      "755 Morse St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "longfellow-elementary-school-san-francisco",
+  "phone": "+14154694730",
+  "rating": 2.5,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/longfellow-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.447658106685,
+    "latitude": 37.710477411747
+  },
+  "review_count": 7,
+  "name": "Longfellow Elementary School"
+}

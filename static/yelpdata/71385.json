@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 15.779913442719998,
+  "display_phone": "(415) 333-2889",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "850 Holloway Ave",
+    "state": "CA",
+    "display_address": [
+      "850 Holloway Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "yama-sushi-san-francisco",
+  "phone": "+14153332889",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vpQFDBgW9Nu7bpxuHFDzbA/o.jpg",
+  "url": "https://www.yelp.com/biz/yama-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46202,
+    "latitude": 37.72198
+  },
+  "review_count": 321,
+  "price": "$$",
+  "name": "Yama Sushi"
+}

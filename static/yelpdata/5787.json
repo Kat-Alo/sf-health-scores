@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 38.60056868494,
+  "display_phone": "(415) 759-2832",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1570 31st Ave",
+    "state": "CA",
+    "display_address": [
+      "1570 31st Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lawton-alternative-k-8-school-san-francisco",
+  "phone": "+14157592832",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/96IenE4z28cPNuT465TVCQ/o.jpg",
+  "url": "https://www.yelp.com/biz/lawton-alternative-k-8-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.489320947678,
+    "latitude": 37.7577422836831
+  },
+  "review_count": 4,
+  "name": "Lawton Alternative K-8 School"
+}

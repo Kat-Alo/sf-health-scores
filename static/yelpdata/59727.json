@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 296.2929802692,
+  "display_phone": "(415) 433-0400",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "M-211",
+    "address1": "Pier 39",
+    "state": "CA",
+    "display_address": [
+      "Pier 39",
+      "M-211",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "luigis-pizzeria-san-francisco-2",
+  "phone": "+14154330400",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nfnOg4ZZ-yDLRkXCJacGmg/o.jpg",
+  "url": "https://www.yelp.com/biz/luigis-pizzeria-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.410315,
+    "latitude": 37.810903
+  },
+  "review_count": 270,
+  "price": "$$",
+  "name": "Luigi's Pizzeria"
+}

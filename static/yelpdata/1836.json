@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 12.646106815639998,
+  "display_phone": "(415) 788-2222",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "298 Pacific Ave",
+    "state": "CA",
+    "display_address": [
+      "298 Pacific Ave",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-old-ship-saloon-san-francisco",
+  "phone": "+14157882222",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tqMCBbU0_LeAhE_Vx6rBgw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-old-ship-saloon-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40072,
+    "latitude": 37.79782
+  },
+  "review_count": 312,
+  "price": "$$",
+  "name": "The Old Ship Saloon"
+}

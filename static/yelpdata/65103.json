@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 20.07786673626,
+  "display_phone": "(415) 584-8098",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2675 Ocean Ave",
+    "state": "CA",
+    "display_address": [
+      "2675 Ocean Ave",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "little-wok-san-francisco",
+  "phone": "+14155848098",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fhWDeW8X3k9HRKUD0tYgVg/o.jpg",
+  "url": "https://www.yelp.com/biz/little-wok-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4743423,
+    "latitude": 37.7319298
+  },
+  "review_count": 61,
+  "price": "$",
+  "name": "Little Wok"
+}

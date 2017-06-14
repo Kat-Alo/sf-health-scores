@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 28.91794399748,
+  "display_phone": "(415) 826-8080",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "953 De Haro St",
+    "state": "CA",
+    "display_address": [
+      "953 De Haro St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "potrero-hill-neighborhood-house-san-francisco",
+  "phone": "+14158268080",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/osPS-FsRXRuclrxugmLL3g/o.jpg",
+  "url": "https://www.yelp.com/biz/potrero-hill-neighborhood-house-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40064239502,
+    "latitude": 37.7582664489746
+  },
+  "review_count": 15,
+  "name": "Potrero Hill Neighborhood House"
+}

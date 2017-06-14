@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 23.68689054392,
+  "display_phone": "(415) 441-9291",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "Fl 2",
+    "address3": "",
+    "address1": "1640 Post St",
+    "state": "CA",
+    "display_address": [
+      "1640 Post St",
+      "Fl 2",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "yakiniq-cafe-san-francisco-4",
+  "phone": "+14154419291",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UrVGQOTSbZtNUVnV0uw47g/o.jpg",
+  "url": "https://www.yelp.com/biz/yakiniq-cafe-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4288918,
+    "latitude": 37.7859461
+  },
+  "review_count": 557,
+  "price": "$$",
+  "name": "YakiniQ Cafe"
+}

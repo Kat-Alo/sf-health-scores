@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 17.43601683977,
+  "display_phone": "(415) 421-3781",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "439 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "439 Stockton St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taqueria-mana-san-francisco",
+  "phone": "+14154213781",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Uu2z5Lk3cBdySuzrF3DdtQ/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-mana-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40721,
+    "latitude": 37.79002
+  },
+  "review_count": 243,
+  "price": "$",
+  "name": "Taqueria Mana"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "farmersmarket",
+      "title": "Farmers Market"
+    }
+  ],
+  "distance": 468.939467108,
+  "display_phone": "(415) 681-5563",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "555 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "555 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "parkside-farmers-market-san-francisco",
+  "phone": "+14156815563",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oQxxR8VRoupNMwlD2Mv3oA/o.jpg",
+  "url": "https://www.yelp.com/biz/parkside-farmers-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4723009,
+    "latitude": 37.743063
+  },
+  "review_count": 113,
+  "price": "$",
+  "name": "Parkside Farmer's Market"
+}

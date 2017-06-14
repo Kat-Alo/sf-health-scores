@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 36.94183321232,
+  "display_phone": "(415) 591-0900",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "431 Columbus Ave",
+    "state": "CA",
+    "display_address": [
+      "431 Columbus Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pantarei-restaurant-san-francisco",
+  "phone": "+14155910900",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J1WzJajxedDIKY8j1uEQaw/o.jpg",
+  "url": "https://www.yelp.com/biz/pantarei-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4085804,
+    "latitude": 37.7990091
+  },
+  "review_count": 856,
+  "price": "$$",
+  "name": "Pantarei Restaurant"
+}

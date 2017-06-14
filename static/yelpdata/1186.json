@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 17671.48822654,
+  "display_phone": "(510) 649-9915",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94720",
+    "country": "US",
+    "address2": "",
+    "address3": "UC Berkeley Campus",
+    "address1": "Martin Luther King Jr Student Union",
+    "state": "CA",
+    "display_address": [
+      "Martin Luther King Jr Student Union",
+      "UC Berkeley Campus",
+      "Berkeley, CA 94720"
+    ],
+    "city": "Berkeley"
+  },
+  "id": "tullys-coffee-berkeley-2",
+  "phone": "+15106499915",
+  "rating": 2.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iYhKST-U8wmhZdGTBWzGSw/o.jpg",
+  "url": "https://www.yelp.com/biz/tullys-coffee-berkeley-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.258638143539,
+    "latitude": 37.8692468044698
+  },
+  "review_count": 15,
+  "price": "$$",
+  "name": "Tully's Coffee"
+}

@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 1607.1988696903998,
+  "display_phone": "(415) 440-7827",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "Ste B",
+    "address3": "",
+    "address1": "2001 Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "2001 Van Ness Ave",
+      "Ste B",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "subway-san-francisco-46",
+  "phone": "+14154407827",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W92O9voLzQo4Tp6U5FUe3Q/o.jpg",
+  "url": "https://www.yelp.com/biz/subway-san-francisco-46?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.423538,
+    "latitude": 37.794078
+  },
+  "review_count": 61,
+  "price": "$",
+  "name": "Subway"
+}

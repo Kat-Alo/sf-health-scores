@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 529.9888787776,
+  "display_phone": "(415) 512-1111",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2 New Montgomery St",
+    "state": "CA",
+    "display_address": [
+      "2 New Montgomery St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "palace-hotel-san-francisco",
+  "phone": "+14155121111",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2jllfd1KB9Fu3nS3uj-SzA/o.jpg",
+  "url": "https://www.yelp.com/biz/palace-hotel-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.401706778141,
+    "latitude": 37.7882573288363
+  },
+  "review_count": 914,
+  "price": "$$$",
+  "name": "Palace Hotel"
+}

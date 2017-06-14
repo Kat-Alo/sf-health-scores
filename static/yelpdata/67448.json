@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 65.03812545411999,
+  "display_phone": "(415) 285-2828",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "Ste 370",
+    "address3": "",
+    "address1": "3801 3rd St",
+    "state": "CA",
+    "display_address": [
+      "3801 3rd St",
+      "Ste 370",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "soo-fong-san-francisco",
+  "phone": "+14152852828",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lPHDegOE5j3MClxsEZps6A/o.jpg",
+  "url": "https://www.yelp.com/biz/soo-fong-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.387649536133,
+    "latitude": 37.741584777832
+  },
+  "review_count": 71,
+  "price": "$",
+  "name": "Soo Fong"
+}

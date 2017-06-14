@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "homecleaning",
+      "title": "Home Cleaning"
+    },
+    {
+      "alias": "handyman",
+      "title": "Handyman"
+    }
+  ],
+  "distance": 3114.435967104,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "handy-san-francisco",
+  "phone": "",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xF8wKq-ZlHuoGiKAYqXq1Q/o.jpg",
+  "url": "https://www.yelp.com/biz/handy-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4021273,
+    "latitude": 37.7911148
+  },
+  "review_count": 1633,
+  "name": "Handy"
+}

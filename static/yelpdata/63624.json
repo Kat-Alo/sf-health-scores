@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 1624.9629899180002,
+  "display_phone": "(415) 336-0387",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "seoul-on-wheels-san-francisco-4",
+  "phone": "+14153360387",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UAJc8YtAJkmrpHkKhGUKlA/o.jpg",
+  "url": "https://www.yelp.com/biz/seoul-on-wheels-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.412275950293,
+    "latitude": 37.7963687298609
+  },
+  "review_count": 479,
+  "price": "$",
+  "name": "Seoul On Wheels"
+}

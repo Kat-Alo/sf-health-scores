@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "organic_stores",
+      "title": "Organic Stores"
+    },
+    {
+      "alias": "herbalshops",
+      "title": "Herbal Shops"
+    }
+  ],
+  "distance": 69110.81620917999,
+  "display_phone": "(408) 216-9592",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "95125",
+    "country": "US",
+    "address2": "Ste 10",
+    "address3": "",
+    "address1": "1109 Lincoln Ave",
+    "state": "CA",
+    "display_address": [
+      "1109 Lincoln Ave",
+      "Ste 10",
+      "San Jose, CA 95125"
+    ],
+    "city": "San Jose"
+  },
+  "id": "the-source-san-jose",
+  "phone": "+14082169592",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WWX4SjDDTGSVLO5Z4Bwmaw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-source-san-jose?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.90113067627,
+    "latitude": 37.3080978393555
+  },
+  "review_count": 115,
+  "price": "$$",
+  "name": "The Source"
+}

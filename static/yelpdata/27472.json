@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "publicservicesgovt",
+      "title": "Public Services & Government"
+    }
+  ],
+  "distance": 3148.9500336779997,
+  "display_phone": "(415) 554-7225",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "425 7th St",
+    "state": "CA",
+    "display_address": [
+      "425 7th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-county-jail-nos-1-and-2-san-francisco",
+  "phone": "+14155547225",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oicVkvf5Ot2fYlgxf1MRfw/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-county-jail-nos-1-and-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405242639004,
+    "latitude": 37.7749458869201
+  },
+  "review_count": 11,
+  "name": "San Francisco County Jail Nos. 1 & 2"
+}

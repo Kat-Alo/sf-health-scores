@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 66.6061086348,
+  "display_phone": "(415) 391-0420",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "Shop 33",
+    "address1": "1 Ferry Building",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Building",
+      "Shop 33",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "prather-ranch-meat-company-san-francisco",
+  "phone": "+14153910420",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SZrfIwsE0OgTY-zk3VJi2Q/o.jpg",
+  "url": "https://www.yelp.com/biz/prather-ranch-meat-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393030226231,
+    "latitude": 37.7950930283753
+  },
+  "review_count": 281,
+  "price": "$$",
+  "name": "Prather Ranch Meat Company"
+}

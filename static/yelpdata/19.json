@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    }
+  ],
+  "distance": 113828.0388376,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "95823",
+    "country": "US",
+    "address2": "",
+    "address3": "Inside 24 Hour Fitness",
+    "address1": "8785 Center Pkwy",
+    "state": "CA",
+    "display_address": [
+      "8785 Center Pkwy",
+      "Inside 24 Hour Fitness",
+      "Sacramento, CA 95823"
+    ],
+    "city": "Sacramento"
+  },
+  "id": "nrgize-lifestyle-cafe-sacramento",
+  "phone": "",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AY6EdXIRqd7mHvn2eG3vxQ/o.jpg",
+  "url": "https://www.yelp.com/biz/nrgize-lifestyle-cafe-sacramento?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.418983459473,
+    "latitude": 38.4392051696777
+  },
+  "review_count": 4,
+  "price": "$$",
+  "name": "Nrgize Lifestyle Cafe"
+}

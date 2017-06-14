@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    },
+    {
+      "alias": "honduran",
+      "title": "Honduran"
+    }
+  ],
+  "distance": 20447.837908859998,
+  "display_phone": "(650) 347-1393",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94401",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "85 N B St",
+    "state": "CA",
+    "display_address": [
+      "85 N B St",
+      "San Mateo, CA 94401"
+    ],
+    "city": "San Mateo"
+  },
+  "id": "el-rinconsito-catracho-san-mateo",
+  "phone": "+16503471393",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1yoND3HgfU9e7LtdtHXS_Q/o.jpg",
+  "url": "https://www.yelp.com/biz/el-rinconsito-catracho-san-mateo?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.32639,
+    "latitude": 37.56913
+  },
+  "review_count": 16,
+  "price": "$",
+  "name": "El Rinconsito Catracho"
+}

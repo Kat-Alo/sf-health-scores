@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 11.952332089822,
+  "display_phone": "(415) 398-1390",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "259 Kearny St",
+    "state": "CA",
+    "display_address": [
+      "259 Kearny St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "working-girls-cafe-san-francisco",
+  "phone": "+14153981390",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ie5x9KEYnkMCYPXYGqFOkA/o.jpg",
+  "url": "https://www.yelp.com/biz/working-girls-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404048740864,
+    "latitude": 37.790584936738
+  },
+  "review_count": 454,
+  "price": "$",
+  "name": "Working Girls' Cafe"
+}

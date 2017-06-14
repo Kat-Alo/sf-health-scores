@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "realestatesvcs",
+      "title": "Real Estate Services"
+    }
+  ],
+  "distance": 759.0235331901999,
+  "display_phone": "(888) 405-4959",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94129",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "222 Halleck St",
+    "state": "CA",
+    "display_address": [
+      "222 Halleck St",
+      "San Francisco, CA 94129"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "presidio-residences-san-francisco",
+  "phone": "+18884054959",
+  "rating": 2.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TxE-CWkjskG1jGEKpQc6hw/o.jpg",
+  "url": "https://www.yelp.com/biz/presidio-residences-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.454641237855,
+    "latitude": 37.8020862489939
+  },
+  "review_count": 28,
+  "name": "Presidio Residences"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    }
+  ],
+  "distance": 28.165305569019996,
+  "display_phone": "(415) 474-0359",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "604 Geary St",
+    "state": "CA",
+    "display_address": [
+      "604 Geary St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "salama-halal-meat-san-francisco",
+  "phone": "+14154740359",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xKPUUD0LAuu2_ZLjDlB34Q/o.jpg",
+  "url": "https://www.yelp.com/biz/salama-halal-meat-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4134013,
+    "latitude": 37.7868447
+  },
+  "review_count": 58,
+  "price": "$$",
+  "name": "Salama Halal Meat"
+}

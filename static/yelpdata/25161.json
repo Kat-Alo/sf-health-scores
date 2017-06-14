@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 18.50001669204,
+  "display_phone": "(415) 397-9222",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "Westin St. Francis",
+    "address1": "335 Powell St",
+    "state": "CA",
+    "display_address": [
+      "335 Powell St",
+      "Westin St. Francis",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "clock-bar-san-francisco",
+  "phone": "+14153979222",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XUYwRJ-GPRy-N0RJdsLwIA/o.jpg",
+  "url": "https://www.yelp.com/biz/clock-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4085566,
+    "latitude": 37.7877355
+  },
+  "review_count": 318,
+  "price": "$$$",
+  "name": "Clock Bar"
+}

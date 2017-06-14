@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 34.92974139326,
+  "display_phone": "(415) 369-0007",
+  "is_closed": false,
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "415 Brannan St",
+    "state": "CA",
+    "display_address": [
+      "415 Brannan St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "koh-samui-and-the-monkey-san-francisco-2",
+  "phone": "+14153690007",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HnJmI0tTnXgV1cEObyvGXw/o.jpg",
+  "url": "https://www.yelp.com/biz/koh-samui-and-the-monkey-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.394311,
+    "latitude": 37.779654
+  },
+  "review_count": 1022,
+  "price": "$$",
+  "name": "Koh Samui & The Monkey"
+}

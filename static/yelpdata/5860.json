@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "cookingschools",
+      "title": "Cooking Schools"
+    },
+    {
+      "alias": "teambuilding",
+      "title": "Team Building Activities"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 5899.951967262,
+  "display_phone": "(415) 872-9160",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "413 10th St",
+    "state": "CA",
+    "display_address": [
+      "413 10th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jordans-kitchen-san-francisco",
+  "phone": "+14158729160",
+  "rating": 5.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DYY2JBzYVH_S3Ee-tbGC6g/o.jpg",
+  "url": "https://www.yelp.com/biz/jordans-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.410682678223,
+    "latitude": 37.7714538574219
+  },
+  "review_count": 223,
+  "name": "Jordan's Kitchen"
+}

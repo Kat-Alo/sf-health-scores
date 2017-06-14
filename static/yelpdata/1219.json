@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 43.66421537302,
+  "display_phone": "(415) 487-1509",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2 Henry Adams St",
+    "state": "CA",
+    "display_address": [
+      "2 Henry Adams St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "caffe-pazzo-san-francisco",
+  "phone": "+14154871509",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vc9y3NoxU4mUS6cOYNL97w/o.jpg",
+  "url": "https://www.yelp.com/biz/caffe-pazzo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404426574707,
+    "latitude": 37.7691116333008
+  },
+  "review_count": 154,
+  "price": "$",
+  "name": "Caffe Pazzo"
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "taiwanese",
+      "title": "Taiwanese"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 25.670321626919996,
+  "display_phone": "(415) 668-6368",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "2428 Clement St",
+    "state": "CA",
+    "display_address": [
+      "2428 Clement St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taste-of-formosa-san-francisco",
+  "phone": "+14156686368",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q_Zx4f-XVykyP3pl_Frk3g/o.jpg",
+  "url": "https://www.yelp.com/biz/taste-of-formosa-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48543548584,
+    "latitude": 37.7822418212891
+  },
+  "review_count": 383,
+  "price": "$$",
+  "name": "Taste of Formosa"
+}

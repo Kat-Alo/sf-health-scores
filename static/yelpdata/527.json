@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 30.719265384759996,
+  "display_phone": "(415) 387-1680",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "450 Balboa St",
+    "state": "CA",
+    "display_address": [
+      "450 Balboa St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "melisas-chinese-cuisine-san-francisco",
+  "phone": "+14153871680",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9n2Kw019PbXsuc13a5mOCw/o.jpg",
+  "url": "https://www.yelp.com/biz/melisas-chinese-cuisine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46374,
+    "latitude": 37.77745
+  },
+  "review_count": 223,
+  "price": "$",
+  "name": "Melisa's Chinese Cuisine"
+}

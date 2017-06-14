@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 471.988200804,
+  "display_phone": "(415) 771-2216",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2355 Chestnut St",
+    "state": "CA",
+    "display_address": [
+      "2355 Chestnut St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "a16-san-francisco-4",
+  "phone": "+14157712216",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fy7a0BBI2PjQkUAU0zUSnA/o.jpg",
+  "url": "https://www.yelp.com/biz/a16-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.442054748535,
+    "latitude": 37.7997932434082
+  },
+  "review_count": 1794,
+  "price": "$$$",
+  "name": "A16"
+}

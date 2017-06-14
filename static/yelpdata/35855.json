@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    },
+    {
+      "alias": "ramen",
+      "title": "Ramen"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 19.71688050888,
+  "display_phone": "(415) 777-1333",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "527 Bryant St",
+    "state": "CA",
+    "display_address": [
+      "527 Bryant St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lava-lounge-san-francisco",
+  "phone": "+14157771333",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1c06gNHgCfHz7l94TcYiog/o.jpg",
+  "url": "https://www.yelp.com/biz/lava-lounge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.396392822266,
+    "latitude": 37.780574798584
+  },
+  "review_count": 231,
+  "price": "$$",
+  "name": "Lava Lounge"
+}

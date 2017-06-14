@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "halal",
+      "title": "Halal"
+    },
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    }
+  ],
+  "distance": 2268.3457397879997,
+  "display_phone": "(415) 564-3481",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3132 Vicente St",
+    "state": "CA",
+    "display_address": [
+      "3132 Vicente St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "old-mandarin-islamic-restaurant-san-francisco",
+  "phone": "+14155643481",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SWYxCDYAzFwwayVcMKXZ8Q/o.jpg",
+  "url": "https://www.yelp.com/biz/old-mandarin-islamic-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.50079,
+    "latitude": 37.73836
+  },
+  "review_count": 694,
+  "price": "$$",
+  "name": "Old Mandarin Islamic Restaurant"
+}

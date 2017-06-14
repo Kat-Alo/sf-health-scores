@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 54.76815121223999,
+  "display_phone": "(415) 550-7200",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "50 Mendell St",
+    "state": "CA",
+    "display_address": [
+      "50 Mendell St",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wok-in-cafeteria-san-francisco",
+  "phone": "+14155507200",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/znvxFBu1PU5RmKpkVpuIQg/o.jpg",
+  "url": "https://www.yelp.com/biz/wok-in-cafeteria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.38404083252,
+    "latitude": 37.743709564209
+  },
+  "review_count": 38,
+  "price": "$",
+  "name": "Wok-In Cafeteria"
+}

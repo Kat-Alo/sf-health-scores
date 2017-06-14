@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 2323.646041802,
+  "display_phone": "(415) 513-6054",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1722 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "1722 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rolling-out-san-francisco",
+  "phone": "+14155136054",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wKSvPv5kRoAiHvn4HT-o6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/rolling-out-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48468,
+    "latitude": 37.7429
+  },
+  "review_count": 306,
+  "price": "$",
+  "name": "Rolling Out"
+}

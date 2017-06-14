@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 14.75510987082,
+  "display_phone": "(415) 614-1010",
+  "is_closed": true,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2301 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "2301 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mehfil-indian-cuisine-and-bar-san-francisco-2",
+  "phone": "+14156141010",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yFKgniAZ5wQYwnuDapm9lg/o.jpg",
+  "url": "https://www.yelp.com/biz/mehfil-indian-cuisine-and-bar-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43443,
+    "latitude": 37.79094
+  },
+  "review_count": 256,
+  "price": "$$",
+  "name": "Mehfil Indian Cuisine & Bar"
+}

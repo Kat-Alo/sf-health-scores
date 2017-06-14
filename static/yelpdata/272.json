@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 12.315911607677998,
+  "display_phone": "(415) 922-7765",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "Ste 205",
+    "address3": "Japan Center",
+    "address1": "1581 Webster St",
+    "state": "CA",
+    "display_address": [
+      "1581 Webster St",
+      "Ste 205",
+      "Japan Center",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "on-the-bridge-san-francisco",
+  "phone": "+14159227765",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7fAhzEQVW4X6f4ajsqtc7A/o.jpg",
+  "url": "https://www.yelp.com/biz/on-the-bridge-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.431340884675,
+    "latitude": 37.7851855192462
+  },
+  "review_count": 930,
+  "price": "$$",
+  "name": "On the Bridge"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 13.725861301839998,
+  "display_phone": "(415) 826-2606",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2200 Silver Ave",
+    "state": "CA",
+    "display_address": [
+      "2200 Silver Ave",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mikes-market-san-francisco-2",
+  "phone": "+14158262606",
+  "rating": 5.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sOnBYViT4WsR2niZ7biZhA/o.jpg",
+  "url": "https://www.yelp.com/biz/mikes-market-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3985598,
+    "latitude": 37.7364399
+  },
+  "review_count": 6,
+  "price": "$$",
+  "name": "Mike's Market"
+}

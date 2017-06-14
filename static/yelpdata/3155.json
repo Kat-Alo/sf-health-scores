@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    }
+  ],
+  "distance": 25.52680068572,
+  "display_phone": "(415) 956-1710",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "301 Sacramento St",
+    "state": "CA",
+    "display_address": [
+      "301 Sacramento St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-royal-exchange-san-francisco-2",
+  "phone": "+14159561710",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/amqsvPTEWsrPHvbP42hg6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/the-royal-exchange-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39901923078,
+    "latitude": 37.794125623047
+  },
+  "review_count": 481,
+  "price": "$$",
+  "name": "The Royal Exchange"
+}

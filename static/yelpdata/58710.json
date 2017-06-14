@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 12.254904586023999,
+  "display_phone": "(415) 553-3986",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "205 Oak St",
+    "state": "CA",
+    "display_address": [
+      "205 Oak St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "o-toro-sushi-san-francisco",
+  "phone": "+14155533986",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I-nkSDzvsMS0k0CKeZt6rQ/o.jpg",
+  "url": "https://www.yelp.com/biz/o-toro-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.422997,
+    "latitude": 37.774921
+  },
+  "review_count": 685,
+  "price": "$$",
+  "name": "O-Toro Sushi"
+}

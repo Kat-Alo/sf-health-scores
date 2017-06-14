@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 20.96554971214,
+  "display_phone": "(415) 989-9700",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "448 Broadway St",
+    "state": "CA",
+    "display_address": [
+      "448 Broadway St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "paris-pizza-san-francisco",
+  "phone": "+14159899700",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dmHGqCIbz9mT5tlXAf0zsg/o.jpg",
+  "url": "https://www.yelp.com/biz/paris-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404752,
+    "latitude": 37.798313
+  },
+  "review_count": 91,
+  "price": "$",
+  "name": "Paris Pizza"
+}

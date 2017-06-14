@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 11.04691531368,
+  "display_phone": "(415) 673-7550",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "305 Turk St",
+    "state": "CA",
+    "display_address": [
+      "305 Turk St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taqueria-la-paz-san-francisco-2",
+  "phone": "+14156737550",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y8oerKhdzY2WIl_LydAbGQ/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-la-paz-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4142609,
+    "latitude": 37.7826251
+  },
+  "review_count": 30,
+  "price": "$",
+  "name": "Taqueria La Paz"
+}

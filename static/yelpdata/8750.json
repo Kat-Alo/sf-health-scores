@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "retirement_homes",
+      "title": "Retirement Homes"
+    }
+  ],
+  "distance": 22.96587886514,
+  "display_phone": "(415) 674-4276",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1881 Bush St",
+    "state": "CA",
+    "display_address": [
+      "1881 Bush St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kokoro-san-francisco",
+  "phone": "+14156744276",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ceRwtzOfH0Kti_NIhg5qjw/o.jpg",
+  "url": "https://www.yelp.com/biz/kokoro-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.428131103516,
+    "latitude": 37.7874374389648
+  },
+  "review_count": 4,
+  "name": "Kokoro"
+}

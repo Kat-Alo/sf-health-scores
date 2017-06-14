@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 9.980490025096,
+  "display_phone": "(415) 393-9911",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "529 Powell St",
+    "state": "CA",
+    "display_address": [
+      "529 Powell St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "maru-sushi-san-francisco",
+  "phone": "+14153939911",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tQryoGlqswyI1g9kR8ncoA/o.jpg",
+  "url": "https://www.yelp.com/biz/maru-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408825684075,
+    "latitude": 37.7896338386059
+  },
+  "review_count": 352,
+  "price": "$$",
+  "name": "Maru Sushi"
+}

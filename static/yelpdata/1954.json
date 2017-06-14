@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 17.29517303566,
+  "display_phone": "(415) 753-1133",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2222 Irving St",
+    "state": "CA",
+    "display_address": [
+      "2222 Irving St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tc-pastry-san-francisco",
+  "phone": "+14157531133",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JJg6HpwIqsXJHkFc8E6v3w/o.jpg",
+  "url": "https://www.yelp.com/biz/tc-pastry-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4819,
+    "latitude": 37.7635999
+  },
+  "review_count": 260,
+  "price": "$",
+  "name": "TC Pastry"
+}

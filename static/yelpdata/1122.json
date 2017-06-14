@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bikes",
+      "title": "Bikes"
+    },
+    {
+      "alias": "bike_repair_maintenance",
+      "title": "Bike Repair/Maintenance"
+    },
+    {
+      "alias": "sportswear",
+      "title": "Sports Wear"
+    }
+  ],
+  "distance": 7909.490085609999,
+  "display_phone": "(415) 332-3050",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94965",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1417 Bridgeway",
+    "state": "CA",
+    "display_address": [
+      "1417 Bridgeway",
+      "Sausalito, CA 94965"
+    ],
+    "city": "Sausalito"
+  },
+  "id": "a-bicycle-odyssey-sausalito",
+  "phone": "+14153323050",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ba-oB6e2PeQMia-hieZfig/o.jpg",
+  "url": "https://www.yelp.com/biz/a-bicycle-odyssey-sausalito?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48764,
+    "latitude": 37.86011
+  },
+  "review_count": 102,
+  "price": "$$",
+  "name": "A Bicycle Odyssey"
+}

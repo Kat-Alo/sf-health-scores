@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    }
+  ],
+  "distance": 21.5235223742,
+  "display_phone": "(415) 334-6100",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "4499 Mission St",
+    "state": "CA",
+    "display_address": [
+      "4499 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "restaurante-familiar-san-francisco",
+  "phone": "+14153346100",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6wkOppwKjh3MmAoKMjaffQ/o.jpg",
+  "url": "https://www.yelp.com/biz/restaurante-familiar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43327,
+    "latitude": 37.72624
+  },
+  "review_count": 29,
+  "price": "$",
+  "name": "Restaurante Familiar"
+}

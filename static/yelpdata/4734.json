@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "cheese",
+      "title": "Cheese Shops"
+    }
+  ],
+  "distance": 23.1119811877,
+  "display_phone": "(415) 921-7873",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2120 Chestnut St",
+    "state": "CA",
+    "display_address": [
+      "2120 Chestnut St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lucca-delicatessen-san-francisco",
+  "phone": "+14159217873",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x9CChnNaRdIvHc1nqE2KLg/o.jpg",
+  "url": "https://www.yelp.com/biz/lucca-delicatessen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.438385009766,
+    "latitude": 37.8007698059082
+  },
+  "review_count": 546,
+  "price": "$",
+  "name": "Lucca Delicatessen"
+}

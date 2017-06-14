@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 16.417279675,
+  "display_phone": "(415) 928-1233",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1601 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1601 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "toast-eatery-san-francisco-6",
+  "phone": "+14159281233",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iphB_quefXjkjO60bk4_ZQ/o.jpg",
+  "url": "https://www.yelp.com/biz/toast-eatery-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4211121,
+    "latitude": 37.7916489
+  },
+  "review_count": 454,
+  "price": "$$",
+  "name": "Toast Eatery"
+}

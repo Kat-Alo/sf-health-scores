@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "wineries",
+      "title": "Wineries"
+    }
+  ],
+  "distance": 58.0803885838,
+  "display_phone": "(415) 288-8600",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "Ste 243",
+    "address3": "",
+    "address1": "Pier 39",
+    "state": "CA",
+    "display_address": [
+      "Pier 39",
+      "Ste 243",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wines-of-california-wine-bar-san-francisco-2",
+  "phone": "+14152888600",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-SQAWNQf1T6sn0e-nYc8Zg/o.jpg",
+  "url": "https://www.yelp.com/biz/wines-of-california-wine-bar-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4102149,
+    "latitude": 37.808821
+  },
+  "review_count": 62,
+  "price": "$$",
+  "name": "Wines of California Wine Bar"
+}

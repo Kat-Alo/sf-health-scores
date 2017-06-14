@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "tennis",
+      "title": "Tennis"
+    },
+    {
+      "alias": "sports_clubs",
+      "title": "Sports Clubs"
+    },
+    {
+      "alias": "kids_activities",
+      "title": "Kids Activities"
+    }
+  ],
+  "distance": 89.55512966344,
+  "display_phone": "(415) 777-9000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "645 5th St",
+    "state": "CA",
+    "display_address": [
+      "645 5th St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "bay-club-sf-tennis-san-francisco",
+  "phone": "+14157779000",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VYn3LP-4KEEw9lsAyt7PWA/o.jpg",
+  "url": "https://www.yelp.com/biz/bay-club-sf-tennis-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.397666931152,
+    "latitude": 37.7767906188965
+  },
+  "review_count": 77,
+  "name": "Bay Club SF Tennis"
+}

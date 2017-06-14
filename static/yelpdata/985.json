@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 22.008828507239997,
+  "display_phone": "(415) 681-2899",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3060 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "3060 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sunsets-best-seafood-restaurant-san-francisco",
+  "phone": "+14156812899",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DCGNSFkgtFJxf9inZu6sew/o.jpg",
+  "url": "https://www.yelp.com/biz/sunsets-best-seafood-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49901,
+    "latitude": 37.74227
+  },
+  "review_count": 86,
+  "price": "$",
+  "name": "Sunset's Best Seafood Restaurant"
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "tires",
+      "title": "Tires"
+    },
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    },
+    {
+      "alias": "autorepair",
+      "title": "Auto Repair"
+    }
+  ],
+  "distance": 2596.773570562,
+  "display_phone": "(415) 753-9635",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1700 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "1700 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sunset-76-auto-repair-and-tire-center-san-francisco",
+  "phone": "+14157539635",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Djptpv_ndlA_7_dd8R4sMQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sunset-76-auto-repair-and-tire-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48217010498,
+    "latitude": 37.7543144226074
+  },
+  "review_count": 315,
+  "name": "Sunset 76 Auto Repair & Tire Center"
+}

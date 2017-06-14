@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "gourmet",
+      "title": "Specialty Food"
+    },
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 561.7604368707999,
+  "display_phone": "(415) 241-9760",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3639 18th St",
+    "state": "CA",
+    "display_address": [
+      "3639 18th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "bi-rite-market-san-francisco",
+  "phone": "+14152419760",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lrTjUHSGWcod9hSnyLmjZQ/o.jpg",
+  "url": "https://www.yelp.com/biz/bi-rite-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.424692944591,
+    "latitude": 37.7613794289775
+  },
+  "review_count": 868,
+  "price": "$$$",
+  "name": "Bi-Rite Market"
+}

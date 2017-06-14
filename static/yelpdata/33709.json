@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 26.93021597668,
+  "display_phone": "(415) 875-9943",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94158",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "201 Berry St",
+    "state": "CA",
+    "display_address": [
+      "201 Berry St",
+      "San Francisco, CA 94158"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "philz-coffee-san-francisco-3",
+  "phone": "+14158759943",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nXEUSfmrzfIRSv9W88C9sw/o.jpg",
+  "url": "https://www.yelp.com/biz/philz-coffee-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39345180371,
+    "latitude": 37.7756640166767
+  },
+  "review_count": 1318,
+  "price": "$",
+  "name": "Philz Coffee"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "korean",
+      "title": "Korean"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 22.16544947604,
+  "display_phone": "(415) 552-7676",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1010 Bryant St",
+    "state": "CA",
+    "display_address": [
+      "1010 Bryant St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "so-san-francisco-4",
+  "phone": "+14155527676",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D9pxFfw9vDsb03w08VzwYw/o.jpg",
+  "url": "https://www.yelp.com/biz/so-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4075,
+    "latitude": 37.77241
+  },
+  "review_count": 1469,
+  "price": "$$",
+  "name": "SO"
+}

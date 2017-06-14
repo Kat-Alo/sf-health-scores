@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 24.480900275759996,
+  "display_phone": "(415) 333-0604",
+  "is_closed": true,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4591 Mission St",
+    "state": "CA",
+    "display_address": [
+      "4591 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-taqueria-menudo-san-francisco",
+  "phone": "+14153330604",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t-BuKNb1dvxog-O16AQlRA/o.jpg",
+  "url": "https://www.yelp.com/biz/la-taqueria-menudo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.434432,
+    "latitude": 37.724723
+  },
+  "review_count": 152,
+  "price": "$",
+  "name": "La Taqueria Menudo"
+}

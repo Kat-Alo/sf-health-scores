@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 20.067856641459997,
+  "display_phone": "(415) 391-5588",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "Crocker Galleria",
+    "address1": "50 Post St",
+    "state": "CA",
+    "display_address": [
+      "50 Post St",
+      "Crocker Galleria",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "niji-japanese-grille-san-francisco",
+  "phone": "+14153915588",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vEtt91oYxQd8APuI5FxIlA/o.jpg",
+  "url": "https://www.yelp.com/biz/niji-japanese-grille-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.402778,
+    "latitude": 37.789232
+  },
+  "review_count": 115,
+  "price": "$",
+  "name": "Niji Japanese Grille"
+}

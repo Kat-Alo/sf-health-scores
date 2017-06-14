@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 13.1594766196,
+  "display_phone": "(415) 567-8580",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1598 McAllister St",
+    "state": "CA",
+    "display_address": [
+      "1598 McAllister St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "save-more-market-san-francisco",
+  "phone": "+14155678580",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hCPqQao4DIZNSPEcFSmpOw/o.jpg",
+  "url": "https://www.yelp.com/biz/save-more-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.438079833984,
+    "latitude": 37.777961730957
+  },
+  "review_count": 60,
+  "price": "$",
+  "name": "Save-More Market"
+}

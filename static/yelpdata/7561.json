@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 206.707331082,
+  "display_phone": "(415) 553-6638",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1071 Howard St",
+    "state": "CA",
+    "display_address": [
+      "1071 Howard St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "starco-mart-san-francisco",
+  "phone": "+14155536638",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bUY5isyBqnlOY7_T2xS_8A/o.jpg",
+  "url": "https://www.yelp.com/biz/starco-mart-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408583,
+    "latitude": 37.7784066
+  },
+  "review_count": 16,
+  "price": "$",
+  "name": "Starco Mart"
+}

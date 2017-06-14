@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 75.74423566402,
+  "display_phone": "(415) 512-0749",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2 Townsend St",
+    "state": "CA",
+    "display_address": [
+      "2 Townsend St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "towns-end-restaurant-and-bakery-san-francisco-2",
+  "phone": "+14155120749",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cXPzrOEEztIZ7Ef_6kaxPw/o.jpg",
+  "url": "https://www.yelp.com/biz/towns-end-restaurant-and-bakery-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3887404238,
+    "latitude": 37.7825030042563
+  },
+  "review_count": 690,
+  "price": "$$",
+  "name": "Town's End Restaurant & Bakery"
+}

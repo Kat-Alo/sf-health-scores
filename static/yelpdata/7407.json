@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 1201.215882152,
+  "display_phone": "(415) 536-7801",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": null,
+    "address1": "10 4th St",
+    "state": "CA",
+    "display_address": [
+      "10 4th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "trader-joes-san-francisco-13",
+  "phone": "+14155367801",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AwiCaElb9vcVAg1elhQBVA/o.jpg",
+  "url": "https://www.yelp.com/biz/trader-joes-san-francisco-13?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4056319,
+    "latitude": 37.7854472
+  },
+  "review_count": 67,
+  "price": "$$",
+  "name": "Trader Joe's"
+}

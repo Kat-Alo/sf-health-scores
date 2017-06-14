@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "stationery",
+      "title": "Cards & Stationery"
+    },
+    {
+      "alias": "kitchenandbath",
+      "title": "Kitchen & Bath"
+    }
+  ],
+  "distance": 2357.65976457,
+  "display_phone": "(415) 409-0472",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "Ste 540",
+    "address3": "East Mall",
+    "address1": "22 Peace Plz",
+    "state": "CA",
+    "display_address": [
+      "22 Peace Plz",
+      "Ste 540",
+      "East Mall",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ichiban-kan-san-francisco",
+  "phone": "+14154090472",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f0CvWLJW64SlZkCTagIV6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/ichiban-kan-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.429239,
+    "latitude": 37.785495
+  },
+  "review_count": 509,
+  "price": "$",
+  "name": "Ichiban Kan"
+}

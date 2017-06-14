@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 457.5854768475999,
+  "display_phone": "(415) 405-2292",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "Centennial Village",
+    "address1": "750 Font Blvd",
+    "state": "CA",
+    "display_address": [
+      "750 Font Blvd",
+      "Centennial Village",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-village-market-and-pizza-at-sfsu-san-francisco",
+  "phone": "+14154052292",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2myXHLwqG1zmMxMPfPuyaA/o.jpg",
+  "url": "https://www.yelp.com/biz/the-village-market-and-pizza-at-sfsu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4779083,
+    "latitude": 37.7226628
+  },
+  "review_count": 52,
+  "price": "$",
+  "name": "The Village Market & Pizza at SFSU"
+}

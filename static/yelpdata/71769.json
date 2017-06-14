@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 21.55789304858,
+  "display_phone": "(415) 552-3575",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": null,
+    "address3": null,
+    "address1": "1010 Market St",
+    "state": "CA",
+    "display_address": [
+      "1010 Market St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lucky-one-mini-mart-san-francisco",
+  "phone": "+14155523575",
+  "rating": 1.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mRlaeT_sBTsahwxN1nEGMg/o.jpg",
+  "url": "https://www.yelp.com/biz/lucky-one-mini-mart-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41092,
+    "latitude": 37.78202
+  },
+  "review_count": 2,
+  "price": "$",
+  "name": "Lucky One Mini-Mart"
+}

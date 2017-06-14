@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    }
+  ],
+  "distance": 41.83350260932,
+  "display_phone": "(415) 252-0247",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1244 Market St",
+    "state": "CA",
+    "display_address": [
+      "1244 Market St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "local-diner-san-francisco",
+  "phone": "+14152520247",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5Rbi2gzlBj-cwITHx4t0ig/o.jpg",
+  "url": "https://www.yelp.com/biz/local-diner-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.415817260742,
+    "latitude": 37.7783012390137
+  },
+  "review_count": 19,
+  "price": "$",
+  "name": "Local Diner"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 24.470558656919998,
+  "display_phone": "(415) 586-2662",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4701 Mission St",
+    "state": "CA",
+    "display_address": [
+      "4701 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "yicks-liquors-san-francisco",
+  "phone": "+14155862662",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BRwPg-h2wWSDiviSAU05Qw/o.jpg",
+  "url": "https://www.yelp.com/biz/yicks-liquors-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.435829162598,
+    "latitude": 37.7228813171387
+  },
+  "review_count": 16,
+  "price": "$$",
+  "name": "Yick's Liquors"
+}

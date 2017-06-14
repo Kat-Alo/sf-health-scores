@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 18.66367852334,
+  "display_phone": "(415) 566-5311",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4041 Judah St",
+    "state": "CA",
+    "display_address": [
+      "4041 Judah St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "thai-cottage-restaurant-san-francisco",
+  "phone": "+14155665311",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5KAtR8ZnQ-Ic-HppTfPpnA/o.jpg",
+  "url": "https://www.yelp.com/biz/thai-cottage-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.5055466,
+    "latitude": 37.7602448
+  },
+  "review_count": 194,
+  "price": "$$",
+  "name": "Thai Cottage Restaurant"
+}

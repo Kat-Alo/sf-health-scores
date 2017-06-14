@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 14.673315165319998,
+  "display_phone": "(415) 282-4406",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4500 3rd St",
+    "state": "CA",
+    "display_address": [
+      "4500 3rd St",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "save-mor-mart-san-francisco",
+  "phone": "+14152824406",
+  "rating": 5.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/save-mor-mart-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.390159606934,
+    "latitude": 37.7371597290039
+  },
+  "review_count": 1,
+  "price": "$$",
+  "name": "Save Mor Mart"
+}

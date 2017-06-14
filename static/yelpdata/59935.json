@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 16.24459427432,
+  "display_phone": "(415) 821-3949",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3489 Mission St",
+    "state": "CA",
+    "display_address": [
+      "3489 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zante-pizza-and-indian-cuisine-san-francisco",
+  "phone": "+14158213949",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BmZuHVKeXTbFm7Q_W90IKQ/o.jpg",
+  "url": "https://www.yelp.com/biz/zante-pizza-and-indian-cuisine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42257,
+    "latitude": 37.7411
+  },
+  "review_count": 887,
+  "price": "$$",
+  "name": "Zante Pizza & Indian Cuisine"
+}

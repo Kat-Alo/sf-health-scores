@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 12434.901862059998,
+  "display_phone": "(510) 836-3139",
+  "is_closed": false,
+  "transactions": [
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94607",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "304 10th St",
+    "state": "CA",
+    "display_address": [
+      "304 10th St",
+      "Oakland, CA 94607"
+    ],
+    "city": "Oakland"
+  },
+  "id": "kim-huong-oakland",
+  "phone": "+15108363139",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J2NRccahNMCtEmk2UDyMeA/o.jpg",
+  "url": "https://www.yelp.com/biz/kim-huong-oakland?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.2694545,
+    "latitude": 37.8003429
+  },
+  "review_count": 300,
+  "price": "$",
+  "name": "Kim Huong"
+}

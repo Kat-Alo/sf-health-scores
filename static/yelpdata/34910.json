@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 22.62614719114,
+  "display_phone": "(415) 409-3300",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "799 O'Farrell St",
+    "state": "CA",
+    "display_address": [
+      "799 O'Farrell St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "piccolo-pizza-san-francisco-15",
+  "phone": "+14154093300",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wP-nl-Vew8dqYhwLPYDapg/o.jpg",
+  "url": "https://www.yelp.com/biz/piccolo-pizza-san-francisco-15?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4177129,
+    "latitude": 37.7850558
+  },
+  "review_count": 208,
+  "price": "$",
+  "name": "Piccolo Pizza"
+}

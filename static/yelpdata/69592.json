@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "soulfood",
+      "title": "Soul Food"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 10.92471812748,
+  "display_phone": "(415) 734-7598",
+  "is_closed": false,
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "422 Larkin St",
+    "state": "CA",
+    "display_address": [
+      "422 Larkin St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "soul-groove-san-francisco-10",
+  "phone": "+14157347598",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bwD6n4rx6_ku_lT7Wt01qQ/o.jpg",
+  "url": "https://www.yelp.com/biz/soul-groove-san-francisco-10?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4172066,
+    "latitude": 37.7817513
+  },
+  "review_count": 387,
+  "price": "$$",
+  "name": "Soul Groove"
+}

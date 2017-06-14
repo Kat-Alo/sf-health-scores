@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 16.23441358948,
+  "display_phone": "(415) 885-1000",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2226 Polk St",
+    "state": "CA",
+    "display_address": [
+      "2226 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "polkers-gourmet-burgers-san-francisco",
+  "phone": "+14158851000",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_Js0oysRUB4OvUNeiX6aYQ/o.jpg",
+  "url": "https://www.yelp.com/biz/polkers-gourmet-burgers-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421847,
+    "latitude": 37.7972056
+  },
+  "review_count": 791,
+  "price": "$$",
+  "name": "Polkers Gourmet Burgers"
+}

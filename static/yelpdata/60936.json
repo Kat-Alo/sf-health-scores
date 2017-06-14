@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 80.71885527264,
+  "display_phone": "(415) 504-7888",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "Ste A",
+    "address3": "Lakeshore Plaza",
+    "address1": "1511 Sloat Blvd",
+    "state": "CA",
+    "display_address": [
+      "1511 Sloat Blvd",
+      "Ste A",
+      "Lakeshore Plaza",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nubi-yogurt-san-francisco",
+  "phone": "+14155047888",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7jVPc8y9DgFT_H4im8tHZQ/o.jpg",
+  "url": "https://www.yelp.com/biz/nubi-yogurt-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.489261,
+    "latitude": 37.733823
+  },
+  "review_count": 306,
+  "price": "$",
+  "name": "Nubi Yogurt"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 4.694446872142,
+  "display_phone": "(415) 922-1225",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3673 Sacramento St",
+    "state": "CA",
+    "display_address": [
+      "3673 Sacramento St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "magic-flute-ristorante-san-francisco",
+  "phone": "+14159221225",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tURk05hdz8HwWMlqwVbVhg/o.jpg",
+  "url": "https://www.yelp.com/biz/magic-flute-ristorante-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4530909,
+    "latitude": 37.7874104
+  },
+  "review_count": 480,
+  "price": "$$",
+  "name": "Magic Flute Ristorante"
+}

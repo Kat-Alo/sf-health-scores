@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "gastropubs",
+      "title": "Gastropubs"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 33.3427245484,
+  "display_phone": "(415) 829-7982",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "598 Haight St",
+    "state": "CA",
+    "display_address": [
+      "598 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "maven-san-francisco",
+  "phone": "+14158297982",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p3xKm7Aq-kDw_XWGUJ1UPA/o.jpg",
+  "url": "https://www.yelp.com/biz/maven-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.432007,
+    "latitude": 37.772233
+  },
+  "review_count": 565,
+  "price": "$$",
+  "name": "Maven"
+}

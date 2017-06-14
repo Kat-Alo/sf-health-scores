@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 16.430717664,
+  "display_phone": "(415) 333-0168",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5131 Mission St",
+    "state": "CA",
+    "display_address": [
+      "5131 Mission St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mcgarden-bakery-san-francisco",
+  "phone": "+14153330168",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XBuHLE_BxYd_1EbTBx-mMw/o.jpg",
+  "url": "https://www.yelp.com/biz/mcgarden-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4406626,
+    "latitude": 37.7165911
+  },
+  "review_count": 18,
+  "price": "$",
+  "name": "McGarden Bakery"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    }
+  ],
+  "distance": 22.62422724852,
+  "display_phone": "(415) 665-1223",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "915 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "915 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "shannon-arms-san-francisco",
+  "phone": "+14156651223",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zxr4XRowNliTRds0XwjQ6w/o.jpg",
+  "url": "https://www.yelp.com/biz/shannon-arms-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.475923225284,
+    "latitude": 37.7429737150669
+  },
+  "review_count": 90,
+  "price": "$",
+  "name": "Shannon Arms"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 20.40448550794,
+  "display_phone": "(415) 221-4428",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4101 California St",
+    "state": "CA",
+    "display_address": [
+      "4101 California St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "third-ave-food-mart-san-francisco-2",
+  "phone": "+14152214428",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nLEKBgORmdNtQcDN2qkZtw/o.jpg",
+  "url": "https://www.yelp.com/biz/third-ave-food-mart-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.461532592773,
+    "latitude": 37.7851600646973
+  },
+  "review_count": 20,
+  "price": "$",
+  "name": "Third Ave Food Mart"
+}

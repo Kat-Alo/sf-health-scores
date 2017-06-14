@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 12.175833044738,
+  "display_phone": "(415) 788-2088",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "635 Clay St",
+    "state": "CA",
+    "display_address": [
+      "635 Clay St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mangia-tutti-ristorante-san-francisco",
+  "phone": "+14157882088",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/omiDctybfG6RrHf3Ksvkpg/o.jpg",
+  "url": "https://www.yelp.com/biz/mangia-tutti-ristorante-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.403747558594,
+    "latitude": 37.7944374084473
+  },
+  "review_count": 334,
+  "price": "$$",
+  "name": "Mangia Tutti Ristorante"
+}

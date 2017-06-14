@@ -1,0 +1,31 @@
+{
+  "categories": [],
+  "distance": 24.508320210679997,
+  "display_phone": "(415) 666-1888",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "408 22nd Ave",
+    "state": "CA",
+    "display_address": [
+      "408 22nd Ave",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "self-help-for-the-elderly-san-francisco-7",
+  "phone": "+14156661888",
+  "rating": 1.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/self-help-for-the-elderly-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48123,
+    "latitude": 37.77994
+  },
+  "review_count": 1,
+  "name": "Self Help For the Elderly"
+}

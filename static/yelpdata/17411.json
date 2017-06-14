@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "latin",
+      "title": "Latin American"
+    },
+    {
+      "alias": "nicaraguan",
+      "title": "Nicaraguan"
+    }
+  ],
+  "distance": 20.409578264369998,
+  "display_phone": "(415) 821-2702",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "3385 Mission St",
+    "state": "CA",
+    "display_address": [
+      "3385 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "oye-managua-san-francisco",
+  "phone": "+14158212702",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3BgZCD2WHAM529UBnLMHOg/o.jpg",
+  "url": "https://www.yelp.com/biz/oye-managua-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421745300293,
+    "latitude": 37.7422752380371
+  },
+  "review_count": 198,
+  "price": "$$",
+  "name": "Oye Managua"
+}

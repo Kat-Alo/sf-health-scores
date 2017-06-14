@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    },
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    },
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    }
+  ],
+  "distance": 20.53625022044,
+  "display_phone": "(415) 771-8110",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "90 Turk St",
+    "state": "CA",
+    "display_address": [
+      "90 Turk St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tip-top-grocery-market-san-francisco",
+  "phone": "+14157718110",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BtFTKnNghlYoHr6VaViZjQ/o.jpg",
+  "url": "https://www.yelp.com/biz/tip-top-grocery-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41057,
+    "latitude": 37.78345
+  },
+  "review_count": 4,
+  "price": "$",
+  "name": "Tip Top Grocery Market"
+}

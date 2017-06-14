@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "filipino",
+      "title": "Filipino"
+    }
+  ],
+  "distance": 164.1014868946,
+  "display_phone": "(650) 455-0522",
+  "is_closed": false,
+  "transactions": [
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1068 Mission St",
+    "state": "CA",
+    "display_address": [
+      "1068 Mission St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ritas-catering-and-eatery-san-francisco",
+  "phone": "+16504550522",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZzDlbi1R2uu0mwl5yYuh2w/o.jpg",
+  "url": "https://www.yelp.com/biz/ritas-catering-and-eatery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4098289,
+    "latitude": 37.7356245
+  },
+  "review_count": 11,
+  "price": "$",
+  "name": "Rita's Catering & Eatery"
+}

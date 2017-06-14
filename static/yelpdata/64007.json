@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 2269.962482752,
+  "display_phone": "(415) 861-8840",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1555 Mariposa St",
+    "state": "CA",
+    "display_address": [
+      "1555 Mariposa St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "live-oak-school-san-francisco",
+  "phone": "+14158618840",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PZEf5WTLD1Bo4RPEoilRSQ/o.jpg",
+  "url": "https://www.yelp.com/biz/live-oak-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.399370219154,
+    "latitude": 37.7635179570409
+  },
+  "review_count": 10,
+  "name": "Live Oak School"
+}

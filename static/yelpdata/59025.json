@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 17.596686103339998,
+  "display_phone": "(415) 834-9898",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "132 Bush St",
+    "state": "CA",
+    "display_address": [
+      "132 Bush St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushi-umi-san-francisco-2",
+  "phone": "+14158349898",
+  "rating": 2.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YRNCCRYRaUW32aloTP_n3w/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-umi-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40016,
+    "latitude": 37.79145
+  },
+  "review_count": 124,
+  "price": "$$",
+  "name": "Sushi Umi"
+}

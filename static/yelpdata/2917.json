@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 27.515507185239997,
+  "display_phone": "(415) 677-9494",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "500 California St",
+    "state": "CA",
+    "display_address": [
+      "500 California St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "omni-san-francisco-hotel-san-francisco",
+  "phone": "+14156779494",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l0tot1eLgn70zChbEYWsAA/o.jpg",
+  "url": "https://www.yelp.com/biz/omni-san-francisco-hotel-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4028272,
+    "latitude": 37.792877
+  },
+  "review_count": 507,
+  "price": "$$$",
+  "name": "Omni San Francisco Hotel"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 24.31210947788,
+  "display_phone": "(415) 908-3900",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "342 Howard St",
+    "state": "CA",
+    "display_address": [
+      "342 Howard St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "town-hall-san-francisco",
+  "phone": "+14159083900",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lW6gUYD4tL5gz15VvR5XZw/o.jpg",
+  "url": "https://www.yelp.com/biz/town-hall-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3949794,
+    "latitude": 37.7895383
+  },
+  "review_count": 1804,
+  "price": "$$$",
+  "name": "Town Hall"
+}

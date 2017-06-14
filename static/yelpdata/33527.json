@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 42382.66413488,
+  "display_phone": "(707) 649-9236",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94589",
+    "country": "US",
+    "address2": "Ste 400",
+    "address3": "",
+    "address1": "4380 Sonoma Blvd",
+    "state": "CA",
+    "display_address": [
+      "4380 Sonoma Blvd",
+      "Ste 400",
+      "Vallejo, CA 94589"
+    ],
+    "city": "Vallejo"
+  },
+  "id": "popeyes-chicken-and-biscuits-vallejo-4",
+  "phone": "+17076499236",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sU_lTvJHCvFkv17SgXs9Gg/o.jpg",
+  "url": "https://www.yelp.com/biz/popeyes-chicken-and-biscuits-vallejo-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.255616236742,
+    "latitude": 38.1375202121276
+  },
+  "review_count": 18,
+  "price": "$",
+  "name": "Popeyes Chicken and Biscuits"
+}

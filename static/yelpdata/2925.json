@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 12.263561869619998,
+  "display_phone": "(415) 673-6672",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "609 Sutter St",
+    "state": "CA",
+    "display_address": [
+      "609 Sutter St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marines-memorial-club-and-hotel-san-francisco-4",
+  "phone": "+14156736672",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Rbv_f5nhoEqcCs8OvFECdA/o.jpg",
+  "url": "https://www.yelp.com/biz/marines-memorial-club-and-hotel-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41041,
+    "latitude": 37.788858
+  },
+  "review_count": 259,
+  "price": "$$",
+  "name": "Marines' Memorial Club & Hotel"
+}

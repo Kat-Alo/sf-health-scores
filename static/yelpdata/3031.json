@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 20.22407205658,
+  "display_phone": "(415) 885-1660",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1411 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1411 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "victors-pizza-san-francisco",
+  "phone": "+14158851660",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OQlltMQkfVVLs_mMaO8NFA/o.jpg",
+  "url": "https://www.yelp.com/biz/victors-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42073,
+    "latitude": 37.78991
+  },
+  "review_count": 795,
+  "price": "$$",
+  "name": "Victor's Pizza"
+}

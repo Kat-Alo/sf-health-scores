@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 13972.907866560001,
+  "display_phone": "(415) 777-4200",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "330 1st St",
+    "state": "CA",
+    "display_address": [
+      "330 1st St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "local-kitchen-and-wine-merchant-san-francisco-2",
+  "phone": "+14157774200",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cwG8XtOQvKsE4-8Co7XgSw/o.jpg",
+  "url": "https://www.yelp.com/biz/local-kitchen-and-wine-merchant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.394218444824,
+    "latitude": 37.7867851257324
+  },
+  "review_count": 954,
+  "price": "$$",
+  "name": "Local Kitchen & Wine Merchant"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 22.677544682719997,
+  "display_phone": "(415) 751-7375",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "852 Stanyan St",
+    "state": "CA",
+    "display_address": [
+      "852 Stanyan St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lava-java-san-francisco",
+  "phone": "+14157517375",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ADZmirJ137FV97Ntrdpsmw/o.jpg",
+  "url": "https://www.yelp.com/biz/lava-java-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4528939,
+    "latitude": 37.7669286
+  },
+  "review_count": 154,
+  "price": "$",
+  "name": "Lava Java"
+}

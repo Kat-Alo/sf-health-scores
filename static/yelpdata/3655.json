@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 33.89746243706,
+  "display_phone": "(415) 861-9199",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2424 Mariposa St",
+    "state": "CA",
+    "display_address": [
+      "2424 Mariposa St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "verdi-club-san-francisco",
+  "phone": "+14158619199",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aTrI4BJ0E3W8dsOZ-1v00g/o.jpg",
+  "url": "https://www.yelp.com/biz/verdi-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407928466797,
+    "latitude": 37.7633934020996
+  },
+  "review_count": 91,
+  "name": "Verdi Club"
+}

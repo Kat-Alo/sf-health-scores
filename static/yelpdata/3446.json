@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 123.10742890399999,
+  "display_phone": "(415) 771-4383",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1965 Al Scoma Way",
+    "state": "CA",
+    "display_address": [
+      "1965 Al Scoma Way",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "scomas-restaurant-san-francisco-3",
+  "phone": "+14157714383",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TruPuYz9N_gfQoc2EibB9A/o.jpg",
+  "url": "https://www.yelp.com/biz/scomas-restaurant-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.418462,
+    "latitude": 37.808944
+  },
+  "review_count": 2669,
+  "price": "$$$",
+  "name": "Scoma's Restaurant"
+}

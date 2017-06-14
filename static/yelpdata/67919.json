@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 13.4055527523,
+  "display_phone": "(415) 859-9383",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "678 Chenery St",
+    "state": "CA",
+    "display_address": [
+      "678 Chenery St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tataki-canyon-san-francisco",
+  "phone": "+14158599383",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XsqI_Nx_zFto7_KLSEbJ-g/o.jpg",
+  "url": "https://www.yelp.com/biz/tataki-canyon-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4336,
+    "latitude": 37.73465
+  },
+  "review_count": 256,
+  "price": "$$",
+  "name": "Tataki Canyon"
+}

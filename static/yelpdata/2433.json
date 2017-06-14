@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 17.43777343438,
+  "display_phone": "(415) 285-1783",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2950 25th St",
+    "state": "CA",
+    "display_address": [
+      "2950 25th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "puerto-alegre-restaurant-no-2-san-francisco",
+  "phone": "+14152851783",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ksAa0-JsXLbZFLa8hwyGKg/o.jpg",
+  "url": "https://www.yelp.com/biz/puerto-alegre-restaurant-no-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4091796875,
+    "latitude": 37.7513771057129
+  },
+  "review_count": 15,
+  "price": "$",
+  "name": "Puerto Alegre Restaurant No 2"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 25.627635492759996,
+  "display_phone": "(415) 759-6850",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1735 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "1735 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taraval-okazu-ya-restaurant-san-francisco",
+  "phone": "+14157596850",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zMTw3R3LEnkV4sw6cvYyQw/o.jpg",
+  "url": "https://www.yelp.com/biz/taraval-okazu-ya-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48486,
+    "latitude": 37.74239
+  },
+  "review_count": 779,
+  "price": "$$",
+  "name": "Taraval Okazu Ya Restaurant"
+}

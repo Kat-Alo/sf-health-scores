@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 46092.34089416,
+  "display_phone": "(925) 556-4034",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94568",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "7499 Dublin Blvd",
+    "state": "CA",
+    "display_address": [
+      "7499 Dublin Blvd",
+      "Dublin, CA 94568"
+    ],
+    "city": "Dublin"
+  },
+  "id": "safeway-gas-station-dublin",
+  "phone": "+19255564034",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7Oxkt9wngkLj0_IofoLsDw/o.jpg",
+  "url": "https://www.yelp.com/biz/safeway-gas-station-dublin?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.92701,
+    "latitude": 37.70586
+  },
+  "review_count": 128,
+  "price": "$$",
+  "name": "Safeway Gas Station"
+}

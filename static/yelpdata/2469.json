@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 15.82277177626,
+  "display_phone": "(415) 567-3397",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1207 Union St",
+    "state": "CA",
+    "display_address": [
+      "1207 Union St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "okoze-sushi-san-francisco",
+  "phone": "+14155673397",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/epYqe4-8YK8tYaL5ZQK2Nw/o.jpg",
+  "url": "https://www.yelp.com/biz/okoze-sushi-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41929,
+    "latitude": 37.79899
+  },
+  "review_count": 585,
+  "price": "$$$",
+  "name": "Okoze Sushi"
+}

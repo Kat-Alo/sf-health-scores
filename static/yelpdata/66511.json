@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "hospitals",
+      "title": "Hospitals"
+    }
+  ],
+  "distance": 173.5544764668,
+  "display_phone": "(415) 206-8000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1001 Potrero Ave",
+    "state": "CA",
+    "display_address": [
+      "1001 Potrero Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zuckerberg-san-francisco-general-hospital-and-trauma-center-san-francisco",
+  "phone": "+14152068000",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vizYp4lSNekSa_4PcSbmdQ/o.jpg",
+  "url": "https://www.yelp.com/biz/zuckerberg-san-francisco-general-hospital-and-trauma-center-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405473168262,
+    "latitude": 37.755571430516
+  },
+  "review_count": 212,
+  "name": "Zuckerberg San Francisco General Hospital and Trauma Center"
+}

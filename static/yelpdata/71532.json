@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "bubbletea",
+      "title": "Bubble Tea"
+    },
+    {
+      "alias": "taiwanese",
+      "title": "Taiwanese"
+    }
+  ],
+  "distance": 26.373031891220002,
+  "display_phone": "(415) 535-8531",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "6901 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "6901 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "xpresso-tea-san-francisco",
+  "phone": "+14155358531",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rN3wFUnAkd-NBODGKTnKwQ/o.jpg",
+  "url": "https://www.yelp.com/biz/xpresso-tea-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4936066,
+    "latitude": 37.7793694
+  },
+  "review_count": 34,
+  "price": "$",
+  "name": "Xpresso Tea"
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    },
+    {
+      "alias": "swimminglessons",
+      "title": "Swimming Lessons/Schools"
+    },
+    {
+      "alias": "nonprofit",
+      "title": "Community Service/Non-Profit"
+    }
+  ],
+  "distance": 1954.591388332,
+  "display_phone": "(415) 957-9622",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "169 Steuart St",
+    "state": "CA",
+    "display_address": [
+      "169 Steuart St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "embarcadero-ymca-san-francisco",
+  "phone": "+14159579622",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VY6vYKPoOyRbnoiHsRLr5w/o.jpg",
+  "url": "https://www.yelp.com/biz/embarcadero-ymca-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.392117,
+    "latitude": 37.792553
+  },
+  "review_count": 230,
+  "name": "Embarcadero YMCA"
+}

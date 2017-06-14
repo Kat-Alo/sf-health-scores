@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 4.478644516984,
+  "display_phone": "(415) 829-2024",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "568 Haight St",
+    "state": "CA",
+    "display_address": [
+      "568 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "uva-enoteca-san-francisco",
+  "phone": "+14158292024",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3a8n5vc6IHrYZFuD9Acl9w/o.jpg",
+  "url": "https://www.yelp.com/biz/uva-enoteca-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43152461946,
+    "latitude": 37.7720139920712
+  },
+  "review_count": 810,
+  "price": "$$",
+  "name": "Uva Enoteca"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "gourmet",
+      "title": "Specialty Food"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 40368.15669648,
+  "display_phone": "(888) 316-2887",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94583",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Ramon, CA 94583"
+    ],
+    "city": "San Ramon"
+  },
+  "id": "gourmet-butters-san-ramon",
+  "phone": "+18883162887",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lu0dbTvgvfvpI6EgvRUFpQ/o.jpg",
+  "url": "https://www.yelp.com/biz/gourmet-butters-san-ramon?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.96663,
+    "latitude": 37.77399
+  },
+  "review_count": 3,
+  "price": "$$",
+  "name": "Gourmet Butters"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 24.95198306188,
+  "display_phone": "(415) 351-1234",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "1233 Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "1233 Van Ness Ave",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kyoto-noodle-express-san-francisco",
+  "phone": "+14153511234",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fr2M30Ix-3XZMC2a7xCa4g/o.jpg",
+  "url": "https://www.yelp.com/biz/kyoto-noodle-express-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.422088623047,
+    "latitude": 37.7871513366699
+  },
+  "review_count": 16,
+  "price": "$",
+  "name": "Kyoto Noodle Express"
+}

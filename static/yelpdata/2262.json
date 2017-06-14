@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    }
+  ],
+  "distance": 22.63234636882,
+  "display_phone": "(415) 296-7465",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "600 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "600 Stockton St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-ritz-carlton-san-francisco-san-francisco-2",
+  "phone": "+14152967465",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QisyiqdqX7we4HMcBB5IiA/o.jpg",
+  "url": "https://www.yelp.com/biz/the-ritz-carlton-san-francisco-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407137304544,
+    "latitude": 37.7918190322579
+  },
+  "review_count": 384,
+  "price": "$$$$",
+  "name": "The Ritz-Carlton, San Francisco"
+}

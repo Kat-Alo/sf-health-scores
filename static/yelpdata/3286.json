@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 9.84455647826,
+  "display_phone": "(415) 771-9700",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1200 Polk St",
+    "state": "CA",
+    "display_address": [
+      "1200 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "el-super-burrito-san-francisco",
+  "phone": "+14157719700",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l8nG_Dtvwpm2bPHiXEgHNg/o.jpg",
+  "url": "https://www.yelp.com/biz/el-super-burrito-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420070916414,
+    "latitude": 37.7879027277231
+  },
+  "review_count": 278,
+  "price": "$",
+  "name": "El Super Burrito"
+}

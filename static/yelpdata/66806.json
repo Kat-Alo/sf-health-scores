@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "fondue",
+      "title": "Fondue"
+    }
+  ],
+  "distance": 19821.97202022,
+  "display_phone": "(415) 461-6358",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94939",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "125 E Sir Francis Drake Blvd",
+    "state": "CA",
+    "display_address": [
+      "125 E Sir Francis Drake Blvd",
+      "Larkspur, CA 94939"
+    ],
+    "city": "Larkspur"
+  },
+  "id": "the-melting-pot-larkspur",
+  "phone": "+14154616358",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dPk0K9pC_myty3Mr87WTdQ/o.jpg",
+  "url": "https://www.yelp.com/biz/the-melting-pot-larkspur?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.50552,
+    "latitude": 37.94485
+  },
+  "review_count": 772,
+  "price": "$$$",
+  "name": "The Melting Pot"
+}

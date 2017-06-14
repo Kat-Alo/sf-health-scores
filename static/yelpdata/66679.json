@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 8.08714754222,
+  "display_phone": "(415) 399-0733",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "699 Jackson St",
+    "state": "CA",
+    "display_address": [
+      "699 Jackson St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-woey-loy-goey-restaurant-san-francisco-2",
+  "phone": "+14153990733",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3XCDtPVXulDtlFFrlpZ9Wg/o.jpg",
+  "url": "https://www.yelp.com/biz/new-woey-loy-goey-restaurant-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40649,
+    "latitude": 37.7958799
+  },
+  "review_count": 227,
+  "price": "$",
+  "name": "New Woey Loy Goey Restaurant"
+}

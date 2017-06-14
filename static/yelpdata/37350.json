@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "lounges",
+      "title": "Lounges"
+    }
+  ],
+  "distance": 102.8387733014,
+  "display_phone": "(415) 744-5000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "20 Yerba Buena Ln",
+    "state": "CA",
+    "display_address": [
+      "20 Yerba Buena Ln",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "press-club-san-francisco",
+  "phone": "+14157445000",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/swIEgvIs8bHhyULpVYgTWw/o.jpg",
+  "url": "https://www.yelp.com/biz/press-club-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404646873474,
+    "latitude": 37.7859531718409
+  },
+  "review_count": 1039,
+  "price": "$$$",
+  "name": "Press Club"
+}

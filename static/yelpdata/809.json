@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "healthtrainers",
+      "title": "Trainers"
+    },
+    {
+      "alias": "gyms",
+      "title": "Gyms"
+    }
+  ],
+  "distance": 3835.48047642,
+  "display_phone": "(415) 968-5571",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "Ste 4C",
+    "address3": "",
+    "address1": "3450 3rd St",
+    "state": "CA",
+    "display_address": [
+      "3450 3rd St",
+      "Ste 4C",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "triptych-strength-personal-training-san-francisco",
+  "phone": "+14159685571",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mYZ4uC6ELL-FZBOFodDCSw/o.jpg",
+  "url": "https://www.yelp.com/biz/triptych-strength-personal-training-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3877224,
+    "latitude": 37.7456845
+  },
+  "review_count": 16,
+  "name": "Triptych Strength Personal Training"
+}

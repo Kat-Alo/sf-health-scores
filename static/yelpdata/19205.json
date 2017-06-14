@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "fishnchips",
+      "title": "Fish & Chips"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 31.841348731639997,
+  "display_phone": "(415) 437-2722",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "2073 Market St",
+    "state": "CA",
+    "display_address": [
+      "2073 Market St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "woodhouse-fish-company-san-francisco",
+  "phone": "+14154372722",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vXYPtg1hnNL0VjMeHid5rw/o.jpg",
+  "url": "https://www.yelp.com/biz/woodhouse-fish-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42844209075,
+    "latitude": 37.7676615910331
+  },
+  "review_count": 1444,
+  "price": "$$",
+  "name": "Woodhouse Fish Company"
+}

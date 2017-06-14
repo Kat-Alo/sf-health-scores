@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 7.906491724256,
+  "display_phone": "(415) 921-3449",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "691 McAllister St",
+    "state": "CA",
+    "display_address": [
+      "691 McAllister St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "super-sam-food-san-francisco",
+  "phone": "+14159213449",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/quKmbMD6Ayf6V5sTUPc5bQ/o.jpg",
+  "url": "https://www.yelp.com/biz/super-sam-food-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42343775928,
+    "latitude": 37.779640853405
+  },
+  "review_count": 8,
+  "price": "$$",
+  "name": "Super Sam Food"
+}

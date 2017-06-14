@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 2613.0066612739997,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "Ste 100",
+    "address3": "",
+    "address1": "1355 Market St",
+    "state": "CA",
+    "display_address": [
+      "1355 Market St",
+      "Ste 100",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mara-san-francisco-2",
+  "phone": "",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1CujaQ9p_TtgqX5cP9dzaw/o.jpg",
+  "url": "https://www.yelp.com/biz/mara-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41636,
+    "latitude": 37.7767399
+  },
+  "review_count": 47,
+  "price": "$$",
+  "name": "Mara"
+}

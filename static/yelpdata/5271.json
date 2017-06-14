@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "generaldentistry",
+      "title": "General Dentistry"
+    },
+    {
+      "alias": "cosmeticdentists",
+      "title": "Cosmetic Dentists"
+    }
+  ],
+  "distance": 57329.029580639995,
+  "display_phone": "(408) 730-5800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94086",
+    "country": "US",
+    "address2": "Ste 225",
+    "address3": "",
+    "address1": "1021 S Wolfe Rd",
+    "state": "CA",
+    "display_address": [
+      "1021 S Wolfe Rd",
+      "Ste 225",
+      "Sunnyvale, CA 94086"
+    ],
+    "city": "Sunnyvale"
+  },
+  "id": "sepideh-mostashiri-dds-sunnyvale",
+  "phone": "+14087305800",
+  "rating": 5.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/sepideh-mostashiri-dds-sunnyvale?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.01473236084,
+    "latitude": 37.355281829834
+  },
+  "review_count": 9,
+  "name": "Sepideh Mostashiri, DDS"
+}

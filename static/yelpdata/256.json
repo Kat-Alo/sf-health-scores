@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "theater",
+      "title": "Performing Arts"
+    },
+    {
+      "alias": "musicians",
+      "title": "Musicians"
+    }
+  ],
+  "distance": 1753.0405435439998,
+  "display_phone": "(415) 377-6239",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "450 29th St",
+    "state": "CA",
+    "display_address": [
+      "450 29th St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "dan-zemelman-pianist-san-francisco",
+  "phone": "+14153776239",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k5bbhhTs2fxsbKjJ_03x5w/o.jpg",
+  "url": "https://www.yelp.com/biz/dan-zemelman-pianist-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.430061340332,
+    "latitude": 37.7437362670898
+  },
+  "review_count": 53,
+  "name": "Dan Zemelman - Pianist"
+}

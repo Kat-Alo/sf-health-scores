@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 65.6291748812,
+  "display_phone": "(415) 882-4581",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "405 Howard St",
+    "state": "CA",
+    "display_address": [
+      "405 Howard St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "spice-kit-san-francisco",
+  "phone": "+14158824581",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LSD13CquEaokdsBP8Ek_bw/o.jpg",
+  "url": "https://www.yelp.com/biz/spice-kit-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.395511129383,
+    "latitude": 37.7884869508888
+  },
+  "review_count": 496,
+  "price": "$",
+  "name": "Spice Kit"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    }
+  ],
+  "distance": 18.43563826402,
+  "display_phone": "(415) 221-5550",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5335 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "5335 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "royal-market-and-bakery-san-francisco",
+  "phone": "+14152215550",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mSyh3-vloBpSaXT6SN_J2g/o.jpg",
+  "url": "https://www.yelp.com/biz/royal-market-and-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47672,
+    "latitude": 37.78014
+  },
+  "review_count": 123,
+  "price": "$$",
+  "name": "Royal Market & Bakery"
+}

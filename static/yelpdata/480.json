@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 16.585363972619998,
+  "display_phone": "(415) 788-3779",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1322 Grant Ave",
+    "state": "CA",
+    "display_address": [
+      "1322 Grant Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mos-grill-san-francisco",
+  "phone": "+14157883779",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G0kRmwpU0g0ApynW2xNB1Q/o.jpg",
+  "url": "https://www.yelp.com/biz/mos-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407195642591,
+    "latitude": 37.7990761399269
+  },
+  "review_count": 710,
+  "price": "$$",
+  "name": "Mo's Grill"
+}

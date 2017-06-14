@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 49.4131673133,
+  "display_phone": "(415) 346-9964",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3 Masonic Ave",
+    "state": "CA",
+    "display_address": [
+      "3 Masonic Ave",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "trader-joes-san-francisco",
+  "phone": "+14153469964",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EgkkaHGVnF0imXZmFHX0Zg/o.jpg",
+  "url": "https://www.yelp.com/biz/trader-joes-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.447852470813,
+    "latitude": 37.7833841121786
+  },
+  "review_count": 510,
+  "price": "$$",
+  "name": "Trader Joe's"
+}

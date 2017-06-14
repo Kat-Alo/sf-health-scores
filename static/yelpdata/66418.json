@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    },
+    {
+      "alias": "meats",
+      "title": "Meat Shops"
+    }
+  ],
+  "distance": 37.1158704586,
+  "display_phone": "(415) 221-9890",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "5716 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "5716 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "turtle-tower-san-francisco-9",
+  "phone": "+14152219890",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YgBMUbG2YBKoDakgaFTWOw/o.jpg",
+  "url": "https://www.yelp.com/biz/turtle-tower-san-francisco-9?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.481256214936,
+    "latitude": 37.7804635625426
+  },
+  "review_count": 783,
+  "price": "$",
+  "name": "Turtle Tower"
+}

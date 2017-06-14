@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 17.84963894586,
+  "display_phone": "(415) 864-7468",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1398 Haight St",
+    "state": "CA",
+    "display_address": [
+      "1398 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "magnolia-pub-and-brewery-san-francisco",
+  "phone": "+14158647468",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qv9LRZFbqRbgx3QVWMzLHA/o.jpg",
+  "url": "https://www.yelp.com/biz/magnolia-pub-and-brewery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4451952,
+    "latitude": 37.7703644
+  },
+  "review_count": 1638,
+  "price": "$$",
+  "name": "Magnolia Pub & Brewery"
+}

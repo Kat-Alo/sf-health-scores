@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 6.035877306464,
+  "display_phone": "(415) 753-8867",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "627 Irving St",
+    "state": "CA",
+    "display_address": [
+      "627 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "plutos-san-francisco-5",
+  "phone": "+14157538867",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/99YdgY03yQXhBnK7syZBWQ/o.jpg",
+  "url": "https://www.yelp.com/biz/plutos-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.464775,
+    "latitude": 37.764082
+  },
+  "review_count": 1058,
+  "price": "$",
+  "name": "Pluto's"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 14.856425870519999,
+  "display_phone": "(415) 333-4344",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1300 Ocean Ave",
+    "state": "CA",
+    "display_address": [
+      "1300 Ocean Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vikings-giant-submarines-san-francisco",
+  "phone": "+14153334344",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pP4M1y6fDrSFCLGMAygosg/o.jpg",
+  "url": "https://www.yelp.com/biz/vikings-giant-submarines-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4566716,
+    "latitude": 37.724133
+  },
+  "review_count": 128,
+  "price": "$",
+  "name": "Viking's Giant Submarines"
+}

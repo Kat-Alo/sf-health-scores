@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 4.29440791752,
+  "display_phone": "(415) 379-9880",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "211 23rd Ave",
+    "state": "CA",
+    "display_address": [
+      "211 23rd Ave",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pizzetta-211-san-francisco",
+  "phone": "+14153799880",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1uWcAal9dbi2iOvULeLI4w/o.jpg",
+  "url": "https://www.yelp.com/biz/pizzetta-211-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.482908368111,
+    "latitude": 37.7836279571056
+  },
+  "review_count": 1054,
+  "price": "$$",
+  "name": "Pizzetta 211"
+}

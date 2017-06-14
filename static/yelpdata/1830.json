@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 14.4637420825,
+  "display_phone": "(415) 788-8050",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "745 Columbus Ave",
+    "state": "CA",
+    "display_address": [
+      "745 Columbus Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushi-on-north-beach-katsu-san-francisco",
+  "phone": "+14157888050",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o_jxQLltBkLiegVgjFjW8w/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-on-north-beach-katsu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41227,
+    "latitude": 37.8015199
+  },
+  "review_count": 448,
+  "price": "$$",
+  "name": "Sushi On North Beach - Katsu"
+}

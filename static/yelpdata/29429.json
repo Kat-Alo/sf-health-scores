@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 7.895529382978,
+  "display_phone": "(415) 931-2777",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3352 Steiner St",
+    "state": "CA",
+    "display_address": [
+      "3352 Steiner St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-plant-caf\u00e9-organic-san-francisco-10",
+  "phone": "+14159312777",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oVenE3OeEdZD3kbk8AMpCA/o.jpg",
+  "url": "https://www.yelp.com/biz/the-plant-caf%C3%A9-organic-san-francisco-10?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.437772130688,
+    "latitude": 37.8003396729648
+  },
+  "review_count": 886,
+  "price": "$$",
+  "name": "The Plant Caf\u00e9 Organic"
+}

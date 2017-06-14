@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 21.034574304739998,
+  "display_phone": "(415) 682-9477",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "675 Portola Dr",
+    "state": "CA",
+    "display_address": [
+      "675 Portola Dr",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "starbucks-san-francisco-128",
+  "phone": "+14156829477",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/biEcb7irCtvw84Dbula7Gw/o.jpg",
+  "url": "https://www.yelp.com/biz/starbucks-san-francisco-128?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.45256,
+    "latitude": 37.7445499
+  },
+  "review_count": 99,
+  "price": "$",
+  "name": "Starbucks"
+}

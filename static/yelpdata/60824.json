@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "venues",
+      "title": "Venues & Event Spaces"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 60529.5868029,
+  "display_phone": "(408) 766-7000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "95014",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "10165 North De Anza Blvd",
+    "state": "CA",
+    "display_address": [
+      "10165 North De Anza Blvd",
+      "Cupertino, CA 95014"
+    ],
+    "city": "Cupertino"
+  },
+  "id": "w-xyz-bar-cupertino",
+  "phone": "+14087667000",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZtZ4hMKU5sy_P1Olq4q8Qg/o.jpg",
+  "url": "https://www.yelp.com/biz/w-xyz-bar-cupertino?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.03288,
+    "latitude": 37.325498
+  },
+  "review_count": 31,
+  "price": "$$",
+  "name": "W XYZ Bar"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 11.95243621412,
+  "display_phone": "(415) 285-6000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "419 Cortland Ave",
+    "state": "CA",
+    "display_address": [
+      "419 Cortland Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vega-san-francisco-2",
+  "phone": "+14152856000",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V_El6HAM9f6rJIibx33Ivw/o.jpg",
+  "url": "https://www.yelp.com/biz/vega-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41742,
+    "latitude": 37.73934
+  },
+  "review_count": 446,
+  "price": "$$",
+  "name": "Vega"
+}

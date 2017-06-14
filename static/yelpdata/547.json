@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 21.63289955796,
+  "display_phone": "(415) 387-8761",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3600 Balboa St",
+    "state": "CA",
+    "display_address": [
+      "3600 Balboa St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "little-henrys-san-francisco-2",
+  "phone": "+14153878761",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0VFdZjm7M-aQZuy0UwdfMA/o.jpg",
+  "url": "https://www.yelp.com/biz/little-henrys-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49752,
+    "latitude": 37.77582
+  },
+  "review_count": 230,
+  "price": "$$",
+  "name": "Little Henry's"
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "soup",
+      "title": "Soup"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 26.424617675580002,
+  "display_phone": "(415) 781-7687",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "580 California St",
+    "state": "CA",
+    "display_address": [
+      "580 California St",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-soup-san-francisco",
+  "phone": "+14157817687",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Kgw5n2oCZpqwjpT9RnDQVw/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-soup-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4041434,
+    "latitude": 37.7929816
+  },
+  "review_count": 115,
+  "price": "$",
+  "name": "San Francisco Soup"
+}

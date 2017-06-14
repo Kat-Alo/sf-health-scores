@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "menscloth",
+      "title": "Men's Clothing"
+    },
+    {
+      "alias": "womenscloth",
+      "title": "Women's Clothing"
+    },
+    {
+      "alias": "shoes",
+      "title": "Shoe Stores"
+    }
+  ],
+  "distance": 495.3964695324,
+  "display_phone": "(415) 362-3900",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "150 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "150 Stockton St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "neiman-marcus-san-francisco",
+  "phone": "+14153623900",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hXra8nC3qkBaf_yCV3kXgg/o.jpg",
+  "url": "https://www.yelp.com/biz/neiman-marcus-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406417000525,
+    "latitude": 37.787434124218
+  },
+  "review_count": 440,
+  "price": "$$$$",
+  "name": "Neiman Marcus"
+}

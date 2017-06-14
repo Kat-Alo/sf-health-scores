@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 103.25346803259998,
+  "display_phone": "(415) 931-8880",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "Kaiser Hospital",
+    "address1": "2238 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "2238 Geary Blvd",
+      "Kaiser Hospital",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sugar-bowl-bakery-and-restaurant-san-francisco-6",
+  "phone": "+14159318880",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eiZdXnm8LmDvtB97Ct0qqQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sugar-bowl-bakery-and-restaurant-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.440377,
+    "latitude": 37.783994
+  },
+  "review_count": 57,
+  "price": "$",
+  "name": "Sugar Bowl Bakery & Restaurant"
+}

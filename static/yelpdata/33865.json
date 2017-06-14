@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 1799.0061907559998,
+  "display_phone": "(415) 731-2658",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1325 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1325 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nabe-san-francisco-3",
+  "phone": "+14157312658",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jW9NDCforrIBjt6Yx1SiXA/o.jpg",
+  "url": "https://www.yelp.com/biz/nabe-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.466346937888,
+    "latitude": 37.7636930075876
+  },
+  "review_count": 410,
+  "price": "$$",
+  "name": "Nabe"
+}

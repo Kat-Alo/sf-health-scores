@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "dimsum",
+      "title": "Dim Sum"
+    }
+  ],
+  "distance": 17.19544867322,
+  "display_phone": "(415) 421-2015",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "683 Broadway",
+    "state": "CA",
+    "display_address": [
+      "683 Broadway",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "yummy-bbq-kitchen-san-francisco",
+  "phone": "+14154212015",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9PLzE9-c9FxQQ7eCzkujOA/o.jpg",
+  "url": "https://www.yelp.com/biz/yummy-bbq-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40835,
+    "latitude": 37.79746
+  },
+  "review_count": 19,
+  "price": "$",
+  "name": "Yummy BBQ Kitchen"
+}

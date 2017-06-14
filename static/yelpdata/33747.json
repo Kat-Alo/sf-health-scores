@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "eventplanning",
+      "title": "Party & Event Planning"
+    }
+  ],
+  "distance": 1355.209040133,
+  "display_phone": "(415) 440-5610",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "145 Jefferson St",
+    "state": "CA",
+    "display_address": [
+      "145 Jefferson St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rainforest-cafe-san-francisco-7",
+  "phone": "+14154405610",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qOPsa2Tm0kfLH_Rqd5vPOw/o.jpg",
+  "url": "https://www.yelp.com/biz/rainforest-cafe-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.414706498384,
+    "latitude": 37.8080568824974
+  },
+  "review_count": 955,
+  "price": "$$",
+  "name": "Rainforest Cafe"
+}

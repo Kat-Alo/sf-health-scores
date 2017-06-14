@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 30.053611783299996,
+  "display_phone": "(415) 387-5054",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3567 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "3567 Geary Blvd",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "round-table-pizza-san-francisco-6",
+  "phone": "+14153875054",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KtYo9Rgv7FSgGLbuymGPvg/o.jpg",
+  "url": "https://www.yelp.com/biz/round-table-pizza-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4575121,
+    "latitude": 37.7811591
+  },
+  "review_count": 95,
+  "price": "$$",
+  "name": "Round Table Pizza"
+}

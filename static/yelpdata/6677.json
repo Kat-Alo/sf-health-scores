@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 21.90033163246,
+  "display_phone": "(415) 586-5046",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "644 Persia Ave",
+    "state": "CA",
+    "display_address": [
+      "644 Persia Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "snack-and-bottle-shop-san-francisco",
+  "phone": "+14155865046",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yaZ4Vlagl31TxexOA5EgMw/o.jpg",
+  "url": "https://www.yelp.com/biz/snack-and-bottle-shop-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.430686950684,
+    "latitude": 37.7203521728516
+  },
+  "review_count": 4,
+  "price": "$$$",
+  "name": "Snack & Bottle Shop"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 21.472054071659997,
+  "display_phone": "(415) 387-8226",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3440 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "3440 Geary Blvd",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panchos-salsa-bar-and-grill-san-francisco-2",
+  "phone": "+14153878226",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-1ZoRDWjc06yfgvvh3xaFw/o.jpg",
+  "url": "https://www.yelp.com/biz/panchos-salsa-bar-and-grill-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.45618,
+    "latitude": 37.78169
+  },
+  "review_count": 379,
+  "price": "$",
+  "name": "Pancho's Salsa Bar & Grill"
+}

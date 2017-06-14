@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 191.89786253399998,
+  "display_phone": "(415) 989-7437",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "Ste 103",
+    "address3": "",
+    "address1": "Pier 39",
+    "state": "CA",
+    "display_address": [
+      "Pier 39",
+      "Ste 103",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pier-market-seafood-restaurant-san-francisco",
+  "phone": "+14159897437",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y6XrB39-jUdgEYTIBKZVXQ/o.jpg",
+  "url": "https://www.yelp.com/biz/pier-market-seafood-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.410550415516,
+    "latitude": 37.8099386456994
+  },
+  "review_count": 1016,
+  "price": "$$",
+  "name": "Pier Market Seafood Restaurant"
+}

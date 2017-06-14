@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "wraps",
+      "title": "Wraps"
+    }
+  ],
+  "distance": 57.4166323942,
+  "display_phone": "(415) 405-2164",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "750 Font Blvd",
+    "state": "CA",
+    "display_address": [
+      "750 Font Blvd",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taza-smoothies-and-wraps-san-francisco",
+  "phone": "+14154052164",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JWB2yDhROu39MsnlOIPz2g/o.jpg",
+  "url": "https://www.yelp.com/biz/taza-smoothies-and-wraps-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4830109,
+    "latitude": 37.7232495
+  },
+  "review_count": 52,
+  "price": "$",
+  "name": "Taza Smoothies & Wraps"
+}

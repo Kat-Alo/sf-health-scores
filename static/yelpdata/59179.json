@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "ethiopian",
+      "title": "Ethiopian"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 18.19777620268,
+  "display_phone": "(415) 474-4900",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "901 Divisadero St",
+    "state": "CA",
+    "display_address": [
+      "901 Divisadero St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "oasis-cafe-san-francisco-3",
+  "phone": "+14154744900",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XSaHGp03mseWsUrVJkXBiQ/o.jpg",
+  "url": "https://www.yelp.com/biz/oasis-cafe-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.438572457672,
+    "latitude": 37.7778538803103
+  },
+  "review_count": 147,
+  "price": "$$",
+  "name": "Oasis Cafe"
+}

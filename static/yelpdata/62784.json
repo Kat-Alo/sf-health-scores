@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "servicestations",
+      "title": "Gas Stations"
+    }
+  ],
+  "distance": 49421.05629798,
+  "display_phone": "(510) 651-8600",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94539",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "42816 Mission Blvd",
+    "state": "CA",
+    "display_address": [
+      "42816 Mission Blvd",
+      "Fremont, CA 94539"
+    ],
+    "city": "Fremont"
+  },
+  "id": "mission-pass-shell-fremont",
+  "phone": "+15106518600",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VOLfuf9cNV3C31YFHUUUJA/o.jpg",
+  "url": "https://www.yelp.com/biz/mission-pass-shell-fremont?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.922912,
+    "latitude": 37.539093
+  },
+  "review_count": 6,
+  "name": "Mission Pass Shell"
+}

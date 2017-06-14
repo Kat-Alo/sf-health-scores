@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 97.5810112412,
+  "display_phone": "(415) 975-3888",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "Ste 12",
+    "address3": "",
+    "address1": "845 Market St",
+    "state": "CA",
+    "display_address": [
+      "845 Market St",
+      "Ste 12",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "loving-hut-san-francisco",
+  "phone": "+14159753888",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_DmW8ALhTl3amuu8YoJU3g/o.jpg",
+  "url": "https://www.yelp.com/biz/loving-hut-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406015,
+    "latitude": 37.784308
+  },
+  "review_count": 532,
+  "price": "$",
+  "name": "Loving Hut"
+}

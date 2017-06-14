@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 11.627954163157998,
+  "display_phone": "(415) 391-8717",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "653 Commercial St",
+    "state": "CA",
+    "display_address": [
+      "653 Commercial St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mercedes-restaurant-san-francisco",
+  "phone": "+14153918717",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8ZO98KtvalGWS-YQrf5rBA/o.jpg",
+  "url": "https://www.yelp.com/biz/mercedes-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40389251709,
+    "latitude": 37.7939796447754
+  },
+  "review_count": 260,
+  "price": "$$",
+  "name": "Mercedes Restaurant"
+}

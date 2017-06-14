@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 13.166506216719998,
+  "display_phone": "(415) 643-9634",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3933 24th St",
+    "state": "CA",
+    "display_address": [
+      "3933 24th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "noe-bagel-san-francisco",
+  "phone": "+14156439634",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/etgd2h-jutbvBh8iAeVN6w/o.jpg",
+  "url": "https://www.yelp.com/biz/noe-bagel-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.430416867137,
+    "latitude": 37.7514756470919
+  },
+  "review_count": 67,
+  "price": "$",
+  "name": "Noe Bagel"
+}

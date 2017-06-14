@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "moroccan",
+      "title": "Moroccan"
+    },
+    {
+      "alias": "ethiopian",
+      "title": "Ethiopian"
+    }
+  ],
+  "distance": 22.001560727799998,
+  "display_phone": "(415) 826-9660",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4800 3rd St",
+    "state": "CA",
+    "display_address": [
+      "4800 3rd St",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "radio-africa-kitchen-san-francisco",
+  "phone": "+14158269660",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ehDc8usgqcrPO58gXfxqOA/o.jpg",
+  "url": "https://www.yelp.com/biz/radio-africa-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39108,
+    "latitude": 37.73475
+  },
+  "review_count": 291,
+  "price": "$$",
+  "name": "Radio Africa Kitchen"
+}

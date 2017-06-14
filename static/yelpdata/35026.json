@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 20.55671619722,
+  "display_phone": "(415) 776-3999",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "601 Larkin St",
+    "state": "CA",
+    "display_address": [
+      "601 Larkin St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mangosteen-san-francisco",
+  "phone": "+14157763999",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6NYdZ8iRgxUVaITWtXlITw/o.jpg",
+  "url": "https://www.yelp.com/biz/mangosteen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.417816162109,
+    "latitude": 37.7834053039551
+  },
+  "review_count": 446,
+  "price": "$$",
+  "name": "Mangosteen"
+}

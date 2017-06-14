@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 24.823593135359996,
+  "display_phone": "(415) 776-1757",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "955 Larkin St",
+    "state": "CA",
+    "display_address": [
+      "955 Larkin St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "little-henrys-san-francisco",
+  "phone": "+14157761757",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iCeCYgV_rdIVIebWg_lZCQ/o.jpg",
+  "url": "https://www.yelp.com/biz/little-henrys-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4183891,
+    "latitude": 37.7867407
+  },
+  "review_count": 180,
+  "price": "$",
+  "name": "Little Henry's"
+}

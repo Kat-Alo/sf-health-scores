@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "szechuan",
+      "title": "Szechuan"
+    },
+    {
+      "alias": "taiwanese",
+      "title": "Taiwanese"
+    },
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    }
+  ],
+  "distance": 568.5398781812,
+  "display_phone": "(415) 752-8885",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": null,
+    "address1": "291 6th Ave",
+    "state": "CA",
+    "display_address": [
+      "291 6th Ave",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "spices-san-francisco-6",
+  "phone": "+14157528885",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BXGfR4wZscEyCM10XheWiw/o.jpg",
+  "url": "https://www.yelp.com/biz/spices-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.464614868164,
+    "latitude": 37.783203125
+  },
+  "review_count": 38,
+  "price": "$$",
+  "name": "Spices"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "tapas",
+      "title": "Tapas Bars"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 21.63289955796,
+  "display_phone": "(415) 647-9400",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4063 24th St",
+    "state": "CA",
+    "display_address": [
+      "4063 24th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "le-zinc-san-francisco-2",
+  "phone": "+14156479400",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BcwKhkadAQRE_Vr5lYCBRQ/o.jpg",
+  "url": "https://www.yelp.com/biz/le-zinc-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433235168457,
+    "latitude": 37.7510986328125
+  },
+  "review_count": 506,
+  "price": "$$",
+  "name": "Le Zinc"
+}

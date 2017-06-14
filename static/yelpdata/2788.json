@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 24.50160926288,
+  "display_phone": "(415) 291-9268",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1701 Powell St",
+    "state": "CA",
+    "display_address": [
+      "1701 Powell St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sushi-hunter-san-francisco",
+  "phone": "+14152919268",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oqCPMC46B_Fr6w0EpTjLVw/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-hunter-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.411171,
+    "latitude": 37.800385
+  },
+  "review_count": 530,
+  "price": "$$",
+  "name": "Sushi Hunter"
+}

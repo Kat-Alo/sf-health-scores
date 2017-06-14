@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 13.64894289654,
+  "display_phone": "(415) 351-2188",
+  "is_closed": true,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "700 Polk St",
+    "state": "CA",
+    "display_address": [
+      "700 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kens-kitchen-san-francisco",
+  "phone": "+14153512188",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t9McGpXGlj14r7ulIVFkMw/o.jpg",
+  "url": "https://www.yelp.com/biz/kens-kitchen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41901,
+    "latitude": 37.78338
+  },
+  "review_count": 263,
+  "price": "$",
+  "name": "Ken's Kitchen"
+}

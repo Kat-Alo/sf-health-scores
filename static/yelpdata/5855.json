@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "specialtyschools",
+      "title": "Specialty Schools"
+    }
+  ],
+  "distance": 157.8413152286,
+  "display_phone": "(415) 695-5700",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "555 Portola Dr",
+    "state": "CA",
+    "display_address": [
+      "555 Portola Dr",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-unified-school-district-san-francisco-3",
+  "phone": "+14156955700",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cvahjsPGEXz62I3ziEa-NQ/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-unified-school-district-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.45263581671,
+    "latitude": 37.745527266083
+  },
+  "review_count": 16,
+  "name": "San Francisco Unified School District"
+}

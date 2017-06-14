@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "french",
+      "title": "French"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 39.74797982474,
+  "display_phone": "(415) 398-2680",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "352 Grant Ave",
+    "state": "CA",
+    "display_address": [
+      "352 Grant Ave",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "caf\u00e9-de-la-presse-san-francisco-3",
+  "phone": "+14153982680",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BeJ1_Uf77pH-4vkIXism4A/o.jpg",
+  "url": "https://www.yelp.com/biz/caf%C3%A9-de-la-presse-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.405442148447,
+    "latitude": 37.7902999520302
+  },
+  "review_count": 1354,
+  "price": "$$",
+  "name": "Caf\u00e9 de la Presse"
+}

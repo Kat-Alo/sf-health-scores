@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 22.77599605722,
+  "display_phone": "(415) 512-1693",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "337 3rd St",
+    "state": "CA",
+    "display_address": [
+      "337 3rd St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pazzia-restaurant-and-pizzeria-san-francisco",
+  "phone": "+14155121693",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6J5YwySA2QBGyV3utdtJ2w/o.jpg",
+  "url": "https://www.yelp.com/biz/pazzia-restaurant-and-pizzeria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.398016998777,
+    "latitude": 37.7834151615544
+  },
+  "review_count": 840,
+  "price": "$$",
+  "name": "Pazzia Restaurant & Pizzeria"
+}

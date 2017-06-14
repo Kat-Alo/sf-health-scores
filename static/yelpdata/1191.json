@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    }
+  ],
+  "distance": 25.10234208874,
+  "display_phone": "(415) 810-3237",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "537 Balboa St",
+    "state": "CA",
+    "display_address": [
+      "537 Balboa St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tekka-japanese-restaurant-san-francisco",
+  "phone": "+14158103237",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FdgRZzwJLpe_fM7F6n8big/o.jpg",
+  "url": "https://www.yelp.com/biz/tekka-japanese-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4647183,
+    "latitude": 37.7770524
+  },
+  "review_count": 369,
+  "price": "$$$",
+  "name": "Tekka Japanese Restaurant"
+}

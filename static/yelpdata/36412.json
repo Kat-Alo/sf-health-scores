@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "hawaiian",
+      "title": "Hawaiian"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "poke",
+      "title": "Poke"
+    }
+  ],
+  "distance": 23.54979247866,
+  "display_phone": "(415) 757-0889",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2815 California St",
+    "state": "CA",
+    "display_address": [
+      "2815 California St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "limu-and-shoyu-san-francisco",
+  "phone": "+14157570889",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/40lvH40ZEYnSoKa_K1gJAA/o.jpg",
+  "url": "https://www.yelp.com/biz/limu-and-shoyu-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44073,
+    "latitude": 37.78783
+  },
+  "review_count": 74,
+  "price": "$$",
+  "name": "Limu & Shoyu"
+}

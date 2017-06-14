@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 16.243752589499998,
+  "display_phone": "(415) 824-4199",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2969 24th St",
+    "state": "CA",
+    "display_address": [
+      "2969 24th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tortas-los-picudos-san-francisco",
+  "phone": "+14158244199",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bmML5D_cg40vATFnSV3OGA/o.jpg",
+  "url": "https://www.yelp.com/biz/tortas-los-picudos-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41135,
+    "latitude": 37.75254
+  },
+  "review_count": 244,
+  "price": "$",
+  "name": "Tortas Los Picudos"
+}

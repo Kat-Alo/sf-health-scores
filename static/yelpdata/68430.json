@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 1324.3856407942,
+  "display_phone": "(415) 495-4765",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "1 Market St",
+    "address3": "",
+    "address1": "Bayside Cuisines Food Ct",
+    "state": "CA",
+    "display_address": [
+      "Bayside Cuisines Food Ct",
+      "1 Market St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-soup-company-san-francisco-2",
+  "phone": "+14154954765",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hmBmdMQy7GyoJhceE24v_A/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-soup-company-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39486,
+    "latitude": 37.79387
+  },
+  "review_count": 52,
+  "price": "$",
+  "name": "San Francisco Soup Company"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    },
+    {
+      "alias": "vegetarian",
+      "title": "Vegetarian"
+    }
+  ],
+  "distance": 7.93475591894,
+  "display_phone": "(415) 252-8190",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "553 Haight St",
+    "state": "CA",
+    "display_address": [
+      "553 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "love-n-haight-deli-san-francisco",
+  "phone": "+14152528190",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e6DTwTr-H2ZrfrkXHyVx8g/o.jpg",
+  "url": "https://www.yelp.com/biz/love-n-haight-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.431261,
+    "latitude": 37.772004
+  },
+  "review_count": 389,
+  "price": "$",
+  "name": "Love N Haight Deli"
+}

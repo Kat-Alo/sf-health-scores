@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 1674.5239026899999,
+  "display_phone": "(415) 896-5644",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94017",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "128 King St",
+    "state": "CA",
+    "display_address": [
+      "128 King St",
+      "San Francisco, CA 94017"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pedros-cantina-san-francisco",
+  "phone": "+14158965644",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/P9Krfbjc9TrkxJ0IRWn50Q/o.jpg",
+  "url": "https://www.yelp.com/biz/pedros-cantina-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.390652432344,
+    "latitude": 37.7794606114164
+  },
+  "review_count": 485,
+  "price": "$$",
+  "name": "Pedro's Cantina"
+}

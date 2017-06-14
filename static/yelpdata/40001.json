@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "comfortfood",
+      "title": "Comfort Food"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 2542.799525642,
+  "display_phone": "(415) 233-9966",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1224 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1224 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nopalito-san-francisco-3",
+  "phone": "+14152339966",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ivWbAmbGMo0_aruu2kTKsg/o.jpg",
+  "url": "https://www.yelp.com/biz/nopalito-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.466281482937,
+    "latitude": 37.765409579693
+  },
+  "review_count": 892,
+  "price": "$$",
+  "name": "Nopalito"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 12.65690226836,
+  "display_phone": "(415) 346-9211",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2244 Fillmore St",
+    "state": "CA",
+    "display_address": [
+      "2244 Fillmore St",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "via-veneto-san-francisco",
+  "phone": "+14153469211",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZKU3B0JbFkarDa7R1u_X7Q/o.jpg",
+  "url": "https://www.yelp.com/biz/via-veneto-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433876037598,
+    "latitude": 37.7904777526855
+  },
+  "review_count": 200,
+  "price": "$$",
+  "name": "Via Veneto"
+}

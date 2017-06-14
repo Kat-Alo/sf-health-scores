@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    }
+  ],
+  "distance": 3.649063704058,
+  "display_phone": "(415) 334-2251",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2788 Diamond St",
+    "state": "CA",
+    "display_address": [
+      "2788 Diamond St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "manzoni-san-francisco-2",
+  "phone": "+14153342251",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/woYMuiM4bWwaq_cL7Y81jQ/o.jpg",
+  "url": "https://www.yelp.com/biz/manzoni-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433823272586,
+    "latitude": 37.7348084002733
+  },
+  "review_count": 185,
+  "price": "$$",
+  "name": "Manzoni"
+}

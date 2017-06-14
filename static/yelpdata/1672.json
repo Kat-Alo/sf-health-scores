@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 34.98686008854,
+  "display_phone": "(415) 495-8985",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "Ste 140",
+    "address3": "",
+    "address1": "101 Mission St",
+    "state": "CA",
+    "display_address": [
+      "101 Mission St",
+      "Ste 140",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "working-girls-cafe-san-francisco-2",
+  "phone": "+14154958985",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nHaiQ3-PZuRCIVfXobJynQ/o.jpg",
+  "url": "https://www.yelp.com/biz/working-girls-cafe-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.394199561731,
+    "latitude": 37.7923363983791
+  },
+  "review_count": 216,
+  "price": "$",
+  "name": "Working Girls' Cafe"
+}

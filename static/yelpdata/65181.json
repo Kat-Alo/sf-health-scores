@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "markets",
+      "title": "Fruits & Veggies"
+    }
+  ],
+  "distance": 12.341225077472,
+  "display_phone": "(415) 255-8959",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4201 18th St",
+    "state": "CA",
+    "display_address": [
+      "4201 18th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "mollie-stones-san-francisco-5",
+  "phone": "+14152558959",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9H4XYm9UC9VAG6sdWnOrbw/o.jpg",
+  "url": "https://www.yelp.com/biz/mollie-stones-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4363937,
+    "latitude": 37.7606812
+  },
+  "review_count": 124,
+  "price": "$$$",
+  "name": "Mollie Stone's"
+}

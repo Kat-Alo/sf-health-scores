@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 12.79517676116,
+  "display_phone": "(415) 864-8840",
+  "is_closed": false,
+  "transactions": [
+    "pickup",
+    "delivery"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3071 16th St",
+    "state": "CA",
+    "display_address": [
+      "3071 16th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pancho-villa-taqueria-san-francisco",
+  "phone": "+14158648840",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O2SSf_9ES8CsH5lnXvGT-Q/o.jpg",
+  "url": "https://www.yelp.com/biz/pancho-villa-taqueria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4210934,
+    "latitude": 37.764857
+  },
+  "review_count": 2038,
+  "price": "$",
+  "name": "Pancho Villa Taqueria"
+}

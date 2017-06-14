@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "diners",
+      "title": "Diners"
+    }
+  ],
+  "distance": 3171.3110083079996,
+  "display_phone": "(415) 431-3288",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "449 Castro St",
+    "state": "CA",
+    "display_address": [
+      "449 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sliders-san-francisco-3",
+  "phone": "+14154313288",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HJAPV4PaxPrkE2vdn-HIdQ/o.jpg",
+  "url": "https://www.yelp.com/biz/sliders-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43479,
+    "latitude": 37.76173
+  },
+  "review_count": 492,
+  "price": "$",
+  "name": "Slider's"
+}

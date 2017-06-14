@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 3.243680453164,
+  "display_phone": "(415) 346-5661",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3165 Steiner St",
+    "state": "CA",
+    "display_address": [
+      "3165 Steiner St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-hollow-cow-market-san-francisco",
+  "phone": "+14153465661",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7aLtSO3c43DCsYRwMe4-Tg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-hollow-cow-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43752270937,
+    "latitude": 37.798510864377
+  },
+  "review_count": 46,
+  "price": "$",
+  "name": "The Hollow Cow Market"
+}

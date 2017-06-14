@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 9.724606413502,
+  "display_phone": "(415) 397-8800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94104",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "56 Belden Pl",
+    "state": "CA",
+    "display_address": [
+      "56 Belden Pl",
+      "San Francisco, CA 94104"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sauce-belden-san-francisco-2",
+  "phone": "+14153978800",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6neV_CV1KTTzAYUzaZLTJA/o.jpg",
+  "url": "https://www.yelp.com/biz/sauce-belden-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40366,
+    "latitude": 37.7914699
+  },
+  "review_count": 546,
+  "price": "$$",
+  "name": "Sauce - Belden"
+}

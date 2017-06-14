@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 2107.572512854,
+  "display_phone": "(415) 227-0500",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "130 Townsend St",
+    "state": "CA",
+    "display_address": [
+      "130 Townsend St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tres-truck-san-francisco-4",
+  "phone": "+14152270500",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/D4chzoo-bD9YoZqeTYPXOQ/o.jpg",
+  "url": "https://www.yelp.com/biz/tres-truck-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.411460876465,
+    "latitude": 37.7698440551758
+  },
+  "review_count": 26,
+  "price": "$",
+  "name": "Tres Truck"
+}

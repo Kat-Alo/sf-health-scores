@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "juicebars",
+      "title": "Juice Bars & Smoothies"
+    },
+    {
+      "alias": "delis",
+      "title": "Delis"
+    }
+  ],
+  "distance": 22.83165669046,
+  "display_phone": "(415) 929-6888",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "625 Larkin St",
+    "state": "CA",
+    "display_address": [
+      "625 Larkin St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lees-sandwiches-san-francisco",
+  "phone": "+14159296888",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/isJX93E4oz_oDNSabhdOQw/o.jpg",
+  "url": "https://www.yelp.com/biz/lees-sandwiches-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.417861938477,
+    "latitude": 37.7836227416992
+  },
+  "review_count": 635,
+  "price": "$",
+  "name": "Lee's Sandwiches"
+}

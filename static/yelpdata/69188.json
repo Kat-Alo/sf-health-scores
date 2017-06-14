@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 11.242091240859999,
+  "display_phone": "(415) 933-8031",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1705 Haight St",
+    "state": "CA",
+    "display_address": [
+      "1705 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "siam-lotus-thai-cuisine-san-francisco",
+  "phone": "+14159338031",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U-rGrKq9PZZJGHDJiZM2vQ/o.jpg",
+  "url": "https://www.yelp.com/biz/siam-lotus-thai-cuisine-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.450924366713,
+    "latitude": 37.7694404125214
+  },
+  "review_count": 363,
+  "price": "$$",
+  "name": "Siam Lotus Thai Cuisine"
+}

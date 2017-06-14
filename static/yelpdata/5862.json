@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "collegeuniv",
+      "title": "Colleges & Universities"
+    }
+  ],
+  "distance": 63425.193407239996,
+  "display_phone": "(408) 924-1000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "95192",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1 Washington Sq",
+    "state": "CA",
+    "display_address": [
+      "1 Washington Sq",
+      "San Jose, CA 95192"
+    ],
+    "city": "San Jose"
+  },
+  "id": "san-jose-state-university-san-jose-2",
+  "phone": "+14089241000",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ROCEjyB2nGMfRspVJNJg3w/o.jpg",
+  "url": "https://www.yelp.com/biz/san-jose-state-university-san-jose-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -121.882369614662,
+    "latitude": 37.3361233265162
+  },
+  "review_count": 285,
+  "name": "San Jose State University"
+}

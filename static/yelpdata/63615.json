@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "ramen",
+      "title": "Ramen"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 18.50141038048,
+  "display_phone": "(415) 665-7888",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2240 Irving St",
+    "state": "CA",
+    "display_address": [
+      "2240 Irving St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "saiwaii-ramen-san-francisco-3",
+  "phone": "+14156657888",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NcFmQ1KwUnp1z8NTgYfqyg/o.jpg",
+  "url": "https://www.yelp.com/biz/saiwaii-ramen-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.48227,
+    "latitude": 37.76355
+  },
+  "review_count": 1044,
+  "price": "$$",
+  "name": "Saiwaii Ramen"
+}

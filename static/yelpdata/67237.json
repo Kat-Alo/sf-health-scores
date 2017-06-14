@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 1205.896406141,
+  "display_phone": "(415) 324-9026",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-jefa-taco-truck-san-francisco-4",
+  "phone": "+14153249026",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3q-gGlsvouY8W78_2HZ1XA/o.jpg",
+  "url": "https://www.yelp.com/biz/la-jefa-taco-truck-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4065359,
+    "latitude": 37.7390499
+  },
+  "review_count": 11,
+  "price": "$",
+  "name": "La Jefa Taco Truck"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "peruvian",
+      "title": "Peruvian"
+    }
+  ],
+  "distance": 4.854959707863999,
+  "display_phone": "(415) 894-7712",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3364 26th St",
+    "state": "CA",
+    "display_address": [
+      "3364 26th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rinc\u00f3n-peruano-restaurant-san-francisco-5",
+  "phone": "+14158947712",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AP5QfVG_YC1LUQUpR9F3TQ/o.jpg",
+  "url": "https://www.yelp.com/biz/rinc%C3%B3n-peruano-restaurant-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4174215,
+    "latitude": 37.74917
+  },
+  "review_count": 72,
+  "price": "$$",
+  "name": "Rinc\u00f3n Peruano Restaurant"
+}

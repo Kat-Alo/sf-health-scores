@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 24.40705088184,
+  "display_phone": "(415) 771-6889",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "476 Turk St",
+    "state": "CA",
+    "display_address": [
+      "476 Turk St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "turk-and-larkin-deli-san-francisco",
+  "phone": "+14157716889",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lHPfEqK4if-2x8lB4DE53A/o.jpg",
+  "url": "https://www.yelp.com/biz/turk-and-larkin-deli-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41689,
+    "latitude": 37.78263
+  },
+  "review_count": 97,
+  "price": "$",
+  "name": "Turk & Larkin Deli"
+}

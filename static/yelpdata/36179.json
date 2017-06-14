@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 14.990398597499999,
+  "display_phone": "(415) 252-9887",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "340 Grove St",
+    "state": "CA",
+    "display_address": [
+      "340 Grove St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-sage-cafe-san-francisco",
+  "phone": "+14152529887",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QSZQBatTjIGxFojstaVIpg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-sage-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.422230094671,
+    "latitude": 37.77797318995
+  },
+  "review_count": 80,
+  "price": "$",
+  "name": "The Sage Cafe"
+}

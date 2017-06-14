@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    }
+  ],
+  "distance": 26.483411693799997,
+  "display_phone": "(415) 379-7119",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "6900 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "6900 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-art-bistro-san-francisco",
+  "phone": "+14153797119",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HsI1NYHwPCt76TayaB_qvg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-art-bistro-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49368,
+    "latitude": 37.77998
+  },
+  "review_count": 240,
+  "price": "$",
+  "name": "The Art Bistro"
+}

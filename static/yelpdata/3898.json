@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 14.51172616394,
+  "display_phone": "(415) 546-6985",
+  "is_closed": true,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "198 2nd St",
+    "state": "CA",
+    "display_address": [
+      "198 2nd St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ristorante-umbria-san-francisco",
+  "phone": "+14155466985",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YgIYsjtzLEfSB6gffDOScQ/o.jpg",
+  "url": "https://www.yelp.com/biz/ristorante-umbria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.398445637513,
+    "latitude": 37.7868695662536
+  },
+  "review_count": 625,
+  "price": "$$",
+  "name": "Ristorante Umbria"
+}

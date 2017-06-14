@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "vegan",
+      "title": "Vegan"
+    }
+  ],
+  "distance": 492.0830154998,
+  "display_phone": "(415) 590-2494",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "Ste 160",
+    "address3": "",
+    "address1": "455 Market St",
+    "state": "CA",
+    "display_address": [
+      "455 Market St",
+      "Ste 160",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "onigilly-san-francisco-14",
+  "phone": "+14155902494",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p_IMYlYw6GvzLuFR9izoQw/o.jpg",
+  "url": "https://www.yelp.com/biz/onigilly-san-francisco-14?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39860187264,
+    "latitude": 37.7906871982707
+  },
+  "review_count": 67,
+  "price": "$",
+  "name": "Onigilly"
+}

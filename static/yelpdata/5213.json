@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "cookingschools",
+      "title": "Cooking Schools"
+    },
+    {
+      "alias": "eventplanning",
+      "title": "Party & Event Planning"
+    }
+  ],
+  "distance": 7561.864920778,
+  "display_phone": "(415) 441-3595",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "271 Francisco St",
+    "state": "CA",
+    "display_address": [
+      "271 Francisco St",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "parties-that-cook-san-francisco",
+  "phone": "+14154413595",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YJOiD40T1OFY3zTvMlIQKw/o.jpg",
+  "url": "https://www.yelp.com/biz/parties-that-cook-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40963,
+    "latitude": 37.80503
+  },
+  "review_count": 112,
+  "name": "Parties That Cook"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "diners",
+      "title": "Diners"
+    }
+  ],
+  "distance": 20.47300476778,
+  "display_phone": "(415) 777-1200",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "68 4th St",
+    "state": "CA",
+    "display_address": [
+      "68 4th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-keystone-san-francisco-2",
+  "phone": "+14157771200",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/34kf58YIpGcAWjeaMpEvTQ/o.jpg",
+  "url": "https://www.yelp.com/biz/the-keystone-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40513,
+    "latitude": 37.78486
+  },
+  "review_count": 149,
+  "price": "$$",
+  "name": "The Keystone"
+}

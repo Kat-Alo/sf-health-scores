@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 23.144937252219997,
+  "display_phone": "(415) 441-1118",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "846 Divisadero St",
+    "state": "CA",
+    "display_address": [
+      "846 Divisadero St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "little-star-pizza-san-francisco",
+  "phone": "+14154411118",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C-lgf5TcabWh0YvlTAGGTw/o.jpg",
+  "url": "https://www.yelp.com/biz/little-star-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43798,
+    "latitude": 37.77753
+  },
+  "review_count": 2600,
+  "price": "$$",
+  "name": "Little Star Pizza"
+}

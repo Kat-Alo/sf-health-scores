@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 7.673041829460001,
+  "display_phone": "(415) 986-6668",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "848 Grant Ave",
+    "state": "CA",
+    "display_address": [
+      "848 Grant Ave",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "maggies-cafe-san-francisco",
+  "phone": "+14159866668",
+  "rating": 2.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uwELdb431kE_tESJ2asy9w/o.jpg",
+  "url": "https://www.yelp.com/biz/maggies-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.406265258789,
+    "latitude": 37.7949104309082
+  },
+  "review_count": 77,
+  "price": "$",
+  "name": "Maggie's Cafe"
+}

@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 16.117498257159998,
+  "display_phone": "(415) 681-2007",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3817 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "3817 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-playa-taqueria-san-francisco",
+  "phone": "+14156812007",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YCk-H_LsPCnlt08QXmCm7Q/o.jpg",
+  "url": "https://www.yelp.com/biz/la-playa-taqueria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.504629567266,
+    "latitude": 37.7529468387365
+  },
+  "review_count": 296,
+  "price": "$",
+  "name": "La Playa Taqueria"
+}

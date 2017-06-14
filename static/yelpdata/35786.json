@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 121.36692769399998,
+  "display_phone": "(415) 405-3499",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "Centennial Square",
+    "address1": "750 Font Blvd",
+    "state": "CA",
+    "display_address": [
+      "750 Font Blvd",
+      "Centennial Square",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "subway-san-francisco-43",
+  "phone": "+14154053499",
+  "rating": 2.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2YofGNuRRdKQP41KvJ1umg/o.jpg",
+  "url": "https://www.yelp.com/biz/subway-san-francisco-43?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.482240623738,
+    "latitude": 37.7231580162738
+  },
+  "review_count": 60,
+  "price": "$",
+  "name": "Subway"
+}

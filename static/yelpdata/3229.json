@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 24.261479641479998,
+  "display_phone": "(415) 387-4747",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "5929 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "5929 Geary Blvd",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tommys-mexican-restaurant-san-francisco-4",
+  "phone": "+14153874747",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jX0wlxCCfOzAOD71CVLi1A/o.jpg",
+  "url": "https://www.yelp.com/biz/tommys-mexican-restaurant-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4831,
+    "latitude": 37.77985
+  },
+  "review_count": 1053,
+  "price": "$$",
+  "name": "Tommy's Mexican Restaurant"
+}

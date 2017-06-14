@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 1829.3836097939998,
+  "display_phone": "(415) 681-0330",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1326 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1326 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "social-kitchen-and-brewery-san-francisco",
+  "phone": "+14156810330",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qN4CxT-Byt0pWzDpM-gq6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/social-kitchen-and-brewery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.466062,
+    "latitude": 37.763896
+  },
+  "review_count": 808,
+  "price": "$$",
+  "name": "Social Kitchen & Brewery"
+}

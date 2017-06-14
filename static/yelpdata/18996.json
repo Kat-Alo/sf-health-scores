@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 23.49060900016,
+  "display_phone": "(415) 641-1011",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1026 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "1026 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ritual-coffee-roasters-san-francisco",
+  "phone": "+14156411011",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ha7_66K4bjcyFNkeUfNBuw/o.jpg",
+  "url": "https://www.yelp.com/biz/ritual-coffee-roasters-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42137,
+    "latitude": 37.75642
+  },
+  "review_count": 1737,
+  "price": "$$",
+  "name": "Ritual Coffee Roasters"
+}

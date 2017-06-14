@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 19.72500365253,
+  "display_phone": "(415) 913-7886",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3214 16th St",
+    "state": "CA",
+    "display_address": [
+      "3214 16th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "krua-thai-san-francisco",
+  "phone": "+14159137886",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N4Cmw6nlE5NtC66ukmmCSQ/o.jpg",
+  "url": "https://www.yelp.com/biz/krua-thai-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.424469,
+    "latitude": 37.7649803
+  },
+  "review_count": 283,
+  "price": "$$",
+  "name": "Krua Thai"
+}

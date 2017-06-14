@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "irish",
+      "title": "Irish"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 23.66814817028,
+  "display_phone": "(415) 882-7240",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "579 Howard St",
+    "state": "CA",
+    "display_address": [
+      "579 Howard St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kate-o-briens-irish-bar-and-grill-san-francisco",
+  "phone": "+14158827240",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QKxzfMUHTy75T1r38Hw4yQ/o.jpg",
+  "url": "https://www.yelp.com/biz/kate-o-briens-irish-bar-and-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39748,
+    "latitude": 37.78705
+  },
+  "review_count": 414,
+  "price": "$$",
+  "name": "Kate O'Brien's Irish Bar & Grill"
+}

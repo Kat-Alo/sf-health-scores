@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 621.155511394,
+  "display_phone": "(415) 243-0299",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "75 Yerba Buena Ln",
+    "state": "CA",
+    "display_address": [
+      "75 Yerba Buena Ln",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tropisue\u00f1o-san-francisco-3",
+  "phone": "+14152430299",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hUZgDmue1VRfvIXai6I0wg/o.jpg",
+  "url": "https://www.yelp.com/biz/tropisue%C3%B1o-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.403918653727,
+    "latitude": 37.7853008468227
+  },
+  "review_count": 3308,
+  "price": "$$",
+  "name": "Tropisue\u00f1o"
+}

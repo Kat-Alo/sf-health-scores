@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "parks",
+      "title": "Parks"
+    },
+    {
+      "alias": "landmarks",
+      "title": "Landmarks & Historical Buildings"
+    },
+    {
+      "alias": "hiking",
+      "title": "Hiking"
+    }
+  ],
+  "distance": 59349.514107799994,
+  "display_phone": "(415) 669-1534",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94937",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "27999 Sir Francis Drake Blvd",
+    "state": "CA",
+    "display_address": [
+      "27999 Sir Francis Drake Blvd",
+      "Inverness, CA 94937"
+    ],
+    "city": "Inverness"
+  },
+  "id": "point-reyes-lighthouse-inverness-2",
+  "phone": "+14156691534",
+  "rating": 4.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PLDZ5pUQcKt7LoknDRtg-Q/o.jpg",
+  "url": "https://www.yelp.com/biz/point-reyes-lighthouse-inverness-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -123.023529052734,
+    "latitude": 37.9952157269931
+  },
+  "review_count": 194,
+  "name": "Point Reyes Lighthouse"
+}

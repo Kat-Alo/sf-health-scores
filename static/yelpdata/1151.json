@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "modern_european",
+      "title": "Modern European"
+    },
+    {
+      "alias": "cuban",
+      "title": "Cuban"
+    }
+  ],
+  "distance": 4.002114758699999,
+  "display_phone": "(415) 285-2257",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1793 Church St",
+    "state": "CA",
+    "display_address": [
+      "1793 Church St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pomelo-san-francisco",
+  "phone": "+14152852257",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/86eMJtv80m-gpXhtODoHbg/o.jpg",
+  "url": "https://www.yelp.com/biz/pomelo-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.426442294,
+    "latitude": 37.7422996413
+  },
+  "review_count": 657,
+  "price": "$$",
+  "name": "Pomelo"
+}

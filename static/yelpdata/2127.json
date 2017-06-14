@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    }
+  ],
+  "distance": 17.827935386620002,
+  "display_phone": "(415) 775-2910",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "2075 Chestnut St",
+    "state": "CA",
+    "display_address": [
+      "2075 Chestnut St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "noahs-bagels-san-francisco-9",
+  "phone": "+14157752910",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jOw1s3smUEEtYjrvFVeL3w/o.jpg",
+  "url": "https://www.yelp.com/biz/noahs-bagels-san-francisco-9?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43733215332,
+    "latitude": 37.8003730773926
+  },
+  "review_count": 142,
+  "price": "$",
+  "name": "Noah's Bagels"
+}

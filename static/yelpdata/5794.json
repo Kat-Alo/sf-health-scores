@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 27.481509877739995,
+  "display_phone": "(415) 759-2700",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2162 24th Ave",
+    "state": "CA",
+    "display_address": [
+      "2162 24th Ave",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "abraham-lincoln-high-school-san-francisco",
+  "phone": "+14157592700",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bHNxtcIKeU5Ifnd4BwBoWw/o.jpg",
+  "url": "https://www.yelp.com/biz/abraham-lincoln-high-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4811884,
+    "latitude": 37.7470814
+  },
+  "review_count": 29,
+  "name": "Abraham Lincoln High School"
+}

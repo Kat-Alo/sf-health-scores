@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 20.545132167899997,
+  "display_phone": "(415) 348-8800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "826 Folsom St",
+    "state": "CA",
+    "display_address": [
+      "826 Folsom St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "zero-zero-san-francisco",
+  "phone": "+14153488800",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IRaEeTYhGCZOIoG63ad7fQ/o.jpg",
+  "url": "https://www.yelp.com/biz/zero-zero-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40204,
+    "latitude": 37.78163
+  },
+  "review_count": 2721,
+  "price": "$$",
+  "name": "Zero Zero"
+}

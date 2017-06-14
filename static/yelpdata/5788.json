@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 25.85759891338,
+  "display_phone": "(415) 759-2841",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2650 42nd Ave",
+    "state": "CA",
+    "display_address": [
+      "2650 42nd Ave",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "ulloa-elementary-school-san-francisco",
+  "phone": "+14157592841",
+  "rating": 4.5,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/ulloa-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.499722691731,
+    "latitude": 37.7371162006477
+  },
+  "review_count": 9,
+  "name": "Ulloa Elementary School"
+}

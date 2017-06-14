@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 9.626571858061999,
+  "display_phone": "(415) 285-0231",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "999 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "999 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "valencia-whole-foods-san-francisco-2",
+  "phone": "+14152850231",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jB5ppVxzHJGWEsfm3TkyFA/o.jpg",
+  "url": "https://www.yelp.com/biz/valencia-whole-foods-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421055957675,
+    "latitude": 37.7570499479771
+  },
+  "review_count": 137,
+  "price": "$$$",
+  "name": "Valencia Whole Foods"
+}

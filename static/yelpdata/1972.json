@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 10.48376540484,
+  "display_phone": "(415) 387-7440",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4150 Geary Blvd",
+    "state": "CA",
+    "display_address": [
+      "4150 Geary Blvd",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "kfc-san-francisco-18",
+  "phone": "+14153877440",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oc591dFJ7bHNMBTHT1OiKA/o.jpg",
+  "url": "https://www.yelp.com/biz/kfc-san-francisco-18?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.464,
+    "latitude": 37.7812
+  },
+  "review_count": 68,
+  "price": "$",
+  "name": "KFC"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 11.132908304437999,
+  "display_phone": "(415) 981-0531",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "710 Kearny St",
+    "state": "CA",
+    "display_address": [
+      "710 Kearny St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "joy-hing-bar-b-que-noodle-san-francisco-2",
+  "phone": "+14159810531",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pjwSJubxgYjdyHBtpP0lfw/o.jpg",
+  "url": "https://www.yelp.com/biz/joy-hing-bar-b-que-noodle-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.404839,
+    "latitude": 37.7946837
+  },
+  "review_count": 90,
+  "price": "$$",
+  "name": "Joy Hing Bar-B-Que Noodle"
+}

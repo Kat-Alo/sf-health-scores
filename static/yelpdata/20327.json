@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "contractors",
+      "title": "Contractors"
+    },
+    {
+      "alias": "architects",
+      "title": "Architects"
+    }
+  ],
+  "distance": 4623.242267578,
+  "display_phone": "(415) 285-8728",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1327 Evans Ave",
+    "state": "CA",
+    "display_address": [
+      "1327 Evans Ave",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "travis-general-contractors-san-francisco-2",
+  "phone": "+14152858728",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3LFRTaL4C9jV9qEmhAnsOQ/o.jpg",
+  "url": "https://www.yelp.com/biz/travis-general-contractors-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.382971942425,
+    "latitude": 37.7397832274437
+  },
+  "review_count": 3,
+  "name": "Travis General Contractors"
+}

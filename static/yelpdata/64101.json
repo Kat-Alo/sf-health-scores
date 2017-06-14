@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    }
+  ],
+  "distance": 12.85570967125,
+  "display_phone": "(415) 564-6530",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1460 48th Ave",
+    "state": "CA",
+    "display_address": [
+      "1460 48th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "your-market-san-francisco",
+  "phone": "+14155646530",
+  "rating": 4.5,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/your-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.507659912109,
+    "latitude": 37.7591896057129
+  },
+  "review_count": 7,
+  "price": "$$",
+  "name": "Your Market"
+}

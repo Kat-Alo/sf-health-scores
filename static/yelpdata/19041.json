@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "asianfusion",
+      "title": "Asian Fusion"
+    }
+  ],
+  "distance": 45.468401385499995,
+  "display_phone": "(415) 495-2007",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "227 King St",
+    "state": "CA",
+    "display_address": [
+      "227 King St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nama-sushi-sf-san-francisco",
+  "phone": "+14154952007",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aZAL-JHGWjKNbOcPG-pdsQ/o.jpg",
+  "url": "https://www.yelp.com/biz/nama-sushi-sf-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3925832,
+    "latitude": 37.7770192
+  },
+  "review_count": 502,
+  "price": "$$",
+  "name": "Nama Sushi SF"
+}

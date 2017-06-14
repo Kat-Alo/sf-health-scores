@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 796.4432631341999,
+  "display_phone": "(415) 929-1300",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "Fishermans Wharf",
+    "address1": "2815 Taylor St",
+    "state": "CA",
+    "display_address": [
+      "2815 Taylor St",
+      "Fishermans Wharf",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "nicks-lighthouse-san-francisco",
+  "phone": "+14159291300",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-zTekLS1Ifz0yQWgUNgeEA/o.jpg",
+  "url": "https://www.yelp.com/biz/nicks-lighthouse-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4159711,
+    "latitude": 37.8082863
+  },
+  "review_count": 757,
+  "price": "$$",
+  "name": "Nick's Lighthouse"
+}

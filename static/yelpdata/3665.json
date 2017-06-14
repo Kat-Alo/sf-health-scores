@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "carwash",
+      "title": "Car Wash"
+    },
+    {
+      "alias": "auto_detailing",
+      "title": "Auto Detailing"
+    }
+  ],
+  "distance": 34.38737450118,
+  "display_phone": "(415) 558-9274",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1601 Mission St",
+    "state": "CA",
+    "display_address": [
+      "1601 Mission St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tower-car-wash-san-francisco",
+  "phone": "+14155589274",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vrmy034Ek9FRANibXnCHNw/o.jpg",
+  "url": "https://www.yelp.com/biz/tower-car-wash-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.418762207031,
+    "latitude": 37.7720413208008
+  },
+  "review_count": 427,
+  "name": "Tower Car Wash"
+}

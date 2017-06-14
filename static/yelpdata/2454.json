@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 16.5433553706,
+  "display_phone": "(415) 648-8383",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "901 S Van Ness Ave",
+    "state": "CA",
+    "display_address": [
+      "901 S Van Ness Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-jalisco-san-francisco-2",
+  "phone": "+14156488383",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CWufOhzhVR7xWEeD0NT3kA/o.jpg",
+  "url": "https://www.yelp.com/biz/san-jalisco-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41668,
+    "latitude": 37.75865
+  },
+  "review_count": 637,
+  "price": "$$",
+  "name": "San Jalisco"
+}

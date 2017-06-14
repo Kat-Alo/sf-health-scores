@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    },
+    {
+      "alias": "soup",
+      "title": "Soup"
+    }
+  ],
+  "distance": 20.00509157679,
+  "display_phone": "(415) 771-2142",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1307 Sutter St",
+    "state": "CA",
+    "display_address": [
+      "1307 Sutter St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wok-shop-cafe-san-francisco",
+  "phone": "+14157712142",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gLmn7oDa5XKEpJi5Gmmq8Q/o.jpg",
+  "url": "https://www.yelp.com/biz/wok-shop-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4220831,
+    "latitude": 37.7873544
+  },
+  "review_count": 483,
+  "price": "$",
+  "name": "Wok Shop Cafe"
+}

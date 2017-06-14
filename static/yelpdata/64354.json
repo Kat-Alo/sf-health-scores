@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "csa",
+      "title": "CSA"
+    }
+  ],
+  "distance": 4167.006447628,
+  "display_phone": "(415) 971-5703",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "",
+    "state": "CA",
+    "display_address": [
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "greenhearts-family-farm-san-francisco-2",
+  "phone": "+14159715703",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zrcFSgU2ZoVzA9lqpwPdgg/o.jpg",
+  "url": "https://www.yelp.com/biz/greenhearts-family-farm-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44632,
+    "latitude": 37.76992
+  },
+  "review_count": 142,
+  "price": "$$",
+  "name": "Greenhearts Family Farm"
+}

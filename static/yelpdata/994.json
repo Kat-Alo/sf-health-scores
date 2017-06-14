@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 16.78894709196,
+  "display_phone": "(415) 333-4009",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "705 Monterey Blvd",
+    "state": "CA",
+    "display_address": [
+      "705 Monterey Blvd",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "railroad-expresso-san-francisco",
+  "phone": "+14153334009",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xiKntYqpJluOjFnHStOMQg/o.jpg",
+  "url": "https://www.yelp.com/biz/railroad-expresso-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.45138168335,
+    "latitude": 37.7314931899309
+  },
+  "review_count": 45,
+  "price": "$",
+  "name": "Railroad Expresso"
+}

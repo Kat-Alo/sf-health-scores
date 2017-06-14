@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "yoga",
+      "title": "Yoga"
+    },
+    {
+      "alias": "pilates",
+      "title": "Pilates"
+    },
+    {
+      "alias": "meditationcenters",
+      "title": "Meditation Centers"
+    }
+  ],
+  "distance": 27733.74656396,
+  "display_phone": "(650) 762-9642",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94404",
+    "country": "US",
+    "address2": "Ste C",
+    "address3": "",
+    "address1": "1191 Chess Dr",
+    "state": "CA",
+    "display_address": [
+      "1191 Chess Dr",
+      "Ste C",
+      "Foster City, CA 94404"
+    ],
+    "city": "Foster City"
+  },
+  "id": "butterfly-yoga-foster-city-2",
+  "phone": "+16507629642",
+  "rating": 5.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5ofIYWeYdBVSbOGWOPRBdg/o.jpg",
+  "url": "https://www.yelp.com/biz/butterfly-yoga-foster-city-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.273511663079,
+    "latitude": 37.5642498634863
+  },
+  "review_count": 42,
+  "name": "Butterfly Yoga"
+}

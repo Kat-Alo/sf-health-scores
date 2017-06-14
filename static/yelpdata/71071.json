@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 26.65967143862,
+  "display_phone": "(415) 563-5746",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "807 Ellis St",
+    "state": "CA",
+    "display_address": [
+      "807 Ellis St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "thai-4-you-san-francisco",
+  "phone": "+14155635746",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A5Tx68N7ZAvgiVAqagfx9g/o.jpg",
+  "url": "https://www.yelp.com/biz/thai-4-you-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4195957,
+    "latitude": 37.7838537
+  },
+  "review_count": 38,
+  "price": "$",
+  "name": "Thai 4 You"
+}

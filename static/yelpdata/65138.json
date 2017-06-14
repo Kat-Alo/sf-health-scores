@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    }
+  ],
+  "distance": 15.16661489014,
+  "display_phone": "(415) 834-5001",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "422 Haight St",
+    "state": "CA",
+    "display_address": [
+      "422 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wing-wings-san-francisco",
+  "phone": "+14158345001",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PsEijo1n6BYAxOZE8UJ31w/o.jpg",
+  "url": "https://www.yelp.com/biz/wing-wings-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42926,
+    "latitude": 37.77249
+  },
+  "review_count": 416,
+  "price": "$$",
+  "name": "Wing Wings"
+}

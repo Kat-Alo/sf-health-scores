@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "delis",
+      "title": "Delis"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "fooddeliveryservices",
+      "title": "Food Delivery Services"
+    }
+  ],
+  "distance": 46.63470456755999,
+  "display_phone": "(415) 376-4741",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "500 Parnassus Ave",
+    "state": "CA",
+    "display_address": [
+      "500 Parnassus Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "palio-caffe-ucsf-san-francisco",
+  "phone": "+14153764741",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KPi3xg_wkaPAScsQQtHdyA/o.jpg",
+  "url": "https://www.yelp.com/biz/palio-caffe-ucsf-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4581135,
+    "latitude": 37.7635825
+  },
+  "review_count": 48,
+  "price": "$",
+  "name": "Palio Caffe - UCSF"
+}

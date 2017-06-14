@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 20.82296379748,
+  "display_phone": "(415) 558-0690",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "248 Church St",
+    "state": "CA",
+    "display_address": [
+      "248 Church St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "thorough-bread-and-pastry-san-francisco",
+  "phone": "+14155580690",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/evNEA3zzpjsuUcWgZd0XZg/o.jpg",
+  "url": "https://www.yelp.com/biz/thorough-bread-and-pastry-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.429034858942,
+    "latitude": 37.7665123809431
+  },
+  "review_count": 703,
+  "price": "$",
+  "name": "Thorough Bread & Pastry"
+}

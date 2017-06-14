@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 18.798539606,
+  "display_phone": "(415) 864-2262",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "572 Castro St",
+    "state": "CA",
+    "display_address": [
+      "572 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "swirl-on-castro-san-francisco",
+  "phone": "+14158642262",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wuk3N4qb9XyS6f7WRuxEtw/o.jpg",
+  "url": "https://www.yelp.com/biz/swirl-on-castro-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43525,
+    "latitude": 37.75972
+  },
+  "review_count": 101,
+  "price": "$$",
+  "name": "Swirl on Castro"
+}

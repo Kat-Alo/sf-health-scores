@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "foodtrucks",
+      "title": "Food Trucks"
+    }
+  ],
+  "distance": 2710.3142778359997,
+  "display_phone": "(415) 559-6127",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2598 Harrison St",
+    "state": "CA",
+    "display_address": [
+      "2598 Harrison St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tacos-san-buena-san-francisco-2",
+  "phone": "+14155596127",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4wIRcSAPInDvzz4mzl9_ew/o.jpg",
+  "url": "https://www.yelp.com/biz/tacos-san-buena-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41249,
+    "latitude": 37.75603
+  },
+  "review_count": 66,
+  "price": "$",
+  "name": "Tacos San Buena"
+}

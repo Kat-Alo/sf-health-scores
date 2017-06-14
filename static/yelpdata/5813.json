@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 4.771518808478,
+  "display_phone": "(415) 695-5675",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1220 Noe St",
+    "state": "CA",
+    "display_address": [
+      "1220 Noe St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "james-lick-middle-school-san-francisco",
+  "phone": "+14156955675",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aO6WFuLtYZqHc_UDXdpvUg/o.jpg",
+  "url": "https://www.yelp.com/biz/james-lick-middle-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.431735172868,
+    "latitude": 37.7494706958532
+  },
+  "review_count": 3,
+  "name": "James Lick Middle School"
+}

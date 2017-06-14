@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "foodstands",
+      "title": "Food Stands"
+    },
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 2165.171917992,
+  "display_phone": "(415) 431-4311",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "300 De Haro St",
+    "state": "CA",
+    "display_address": [
+      "300 De Haro St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "jiffy-dog-san-francisco-7",
+  "phone": "+14154314311",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WedbkvHqsn4NVgpiwDlDxA/o.jpg",
+  "url": "https://www.yelp.com/biz/jiffy-dog-san-francisco-7?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40202,
+    "latitude": 37.76573
+  },
+  "review_count": 42,
+  "price": "$",
+  "name": "Jiffy Dog"
+}

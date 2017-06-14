@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 20.7584662783,
+  "display_phone": "(415) 282-6777",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3218 Mission St",
+    "state": "CA",
+    "display_address": [
+      "3218 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "blue-plate-san-francisco",
+  "phone": "+14152826777",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5iaI4aBsGYRaaRE1V4e8-w/o.jpg",
+  "url": "https://www.yelp.com/biz/blue-plate-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420433044434,
+    "latitude": 37.7452735900879
+  },
+  "review_count": 1250,
+  "price": "$$$",
+  "name": "Blue Plate"
+}

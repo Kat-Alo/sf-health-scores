@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "salad",
+      "title": "Salad"
+    }
+  ],
+  "distance": 442.4524343992,
+  "display_phone": "(415) 433-3222",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "222 Front St",
+    "state": "CA",
+    "display_address": [
+      "222 Front St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lees-deli-san-francisco-8",
+  "phone": "+14154333222",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d7fM3iTP_TlwYcrkw0MKnQ/o.jpg",
+  "url": "https://www.yelp.com/biz/lees-deli-san-francisco-8?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.398696521496,
+    "latitude": 37.7938224413859
+  },
+  "review_count": 98,
+  "price": "$",
+  "name": "Lee's Deli"
+}

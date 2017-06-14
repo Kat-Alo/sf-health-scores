@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "cupcakes",
+      "title": "Cupcakes"
+    }
+  ],
+  "distance": 15.44708825133,
+  "display_phone": "(415) 563-2253",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "3249 Scott St",
+    "state": "CA",
+    "display_address": [
+      "3249 Scott St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "karas-cupcakes-san-francisco",
+  "phone": "+14155632253",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GrFxdNfPvdlVrueRY7XERg/o.jpg",
+  "url": "https://www.yelp.com/biz/karas-cupcakes-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.441248035303,
+    "latitude": 37.7998077067649
+  },
+  "review_count": 1187,
+  "price": "$$",
+  "name": "Kara's Cupcakes"
+}

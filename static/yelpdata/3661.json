@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 17.5653747843,
+  "display_phone": "(415) 863-8205",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "515 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "515 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taqueria-la-cumbre-san-francisco",
+  "phone": "+14158638205",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3RNgfcwdqWm1OSmtzD8_-Q/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-la-cumbre-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421592712402,
+    "latitude": 37.7645683288574
+  },
+  "review_count": 789,
+  "price": "$",
+  "name": "Taqueria La Cumbre"
+}

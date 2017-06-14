@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 69.6311769861,
+  "display_phone": "(415) 243-9775",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "Ste C16",
+    "address3": "",
+    "address1": "865 Market St",
+    "state": "CA",
+    "display_address": [
+      "865 Market St",
+      "Ste C16",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panda-express-san-francisco-3",
+  "phone": "+14152439775",
+  "rating": 3.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BkFxAvaF-Tk3yDhQgRLOgA/o.jpg",
+  "url": "https://www.yelp.com/biz/panda-express-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407172,
+    "latitude": 37.78377
+  },
+  "review_count": 136,
+  "price": "$",
+  "name": "Panda Express"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "brasseries",
+      "title": "Brasseries"
+    }
+  ],
+  "distance": 85.4595267348,
+  "display_phone": "(415) 434-1100",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1 Ferry Bldg",
+    "state": "CA",
+    "display_address": [
+      "1 Ferry Bldg",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marketbar-san-francisco-3",
+  "phone": "+14154341100",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Iyg44I5yB_WDolBRxt94hQ/o.jpg",
+  "url": "https://www.yelp.com/biz/marketbar-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.392873665299,
+    "latitude": 37.794919856544
+  },
+  "review_count": 1111,
+  "price": "$$",
+  "name": "MarketBar"
+}

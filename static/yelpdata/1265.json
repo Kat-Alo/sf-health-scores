@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "distance": 5753.57879278,
+  "display_phone": "(415) 954-6915",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "Fl 4",
+    "address3": "",
+    "address1": "251 Geary St",
+    "state": "CA",
+    "display_address": [
+      "251 Geary St",
+      "Fl 4",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "macys-west-starbucks-coffee-company-san-francisco",
+  "phone": "+14159546915",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kmTX8yLBOBQkQZt0ZHFqDA/o.jpg",
+  "url": "https://www.yelp.com/biz/macys-west-starbucks-coffee-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407394,
+    "latitude": 37.787174
+  },
+  "review_count": 1,
+  "price": "$$",
+  "name": "Macy's West - Starbucks Coffee Company"
+}

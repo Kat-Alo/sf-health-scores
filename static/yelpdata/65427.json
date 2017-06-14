@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 11.472213020536,
+  "display_phone": "(415) 863-6800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "557 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "557 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "locanda-san-francisco",
+  "phone": "+14158636800",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RkJdfaHsARFEmhguWHF4bg/o.jpg",
+  "url": "https://www.yelp.com/biz/locanda-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.421749308705,
+    "latitude": 37.7640129625797
+  },
+  "review_count": 853,
+  "price": "$$$",
+  "name": "Locanda"
+}

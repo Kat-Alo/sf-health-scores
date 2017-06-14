@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 13.6396956289,
+  "display_phone": "(415) 558-8123",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2304 Market St",
+    "state": "CA",
+    "display_address": [
+      "2304 Market St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "super-duper-burgers-san-francisco-4",
+  "phone": "+14155588123",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wdOiH8wnWeg4j8uIc9m94w/o.jpg",
+  "url": "https://www.yelp.com/biz/super-duper-burgers-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433698,
+    "latitude": 37.7640087
+  },
+  "review_count": 1068,
+  "price": "$",
+  "name": "Super Duper Burgers"
+}

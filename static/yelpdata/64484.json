@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "icecream",
+      "title": "Ice Cream & Frozen Yogurt"
+    }
+  ],
+  "distance": 2119.2955891499996,
+  "display_phone": "(415) 205-8261",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1717 17th St",
+    "state": "CA",
+    "display_address": [
+      "1717 17th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "twirl-and-dip-san-francisco-4",
+  "phone": "+14152058261",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WIoENz-ck2q9YpEZBTfKzA/o.jpg",
+  "url": "https://www.yelp.com/biz/twirl-and-dip-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.401195744383,
+    "latitude": 37.7648443461729
+  },
+  "review_count": 40,
+  "price": "$",
+  "name": "Twirl and Dip"
+}

@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "breweries",
+      "title": "Breweries"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    }
+  ],
+  "distance": 3370.0601530899994,
+  "display_phone": "(415) 552-1155",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "450 Rhode Island",
+    "state": "CA",
+    "display_address": [
+      "450 Rhode Island",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "whole-foods-market-steep-brew-san-francisco",
+  "phone": "+14155521155",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GPUKcJqOMAh3Tqbn7u-4JQ/o.jpg",
+  "url": "https://www.yelp.com/biz/whole-foods-market-steep-brew-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.402721047401,
+    "latitude": 37.7646888820841
+  },
+  "review_count": 74,
+  "price": "$$",
+  "name": "Whole Foods Market Steep Brew"
+}

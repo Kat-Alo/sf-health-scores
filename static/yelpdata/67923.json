@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "soulfood",
+      "title": "Soul Food"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 9.122666582642,
+  "display_phone": "(415) 822-8531",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1429 Mendell St",
+    "state": "CA",
+    "display_address": [
+      "1429 Mendell St",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "old-skool-cafe-san-francisco",
+  "phone": "+14158228531",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R_by1RobMdskOczYj6Y-hw/o.jpg",
+  "url": "https://www.yelp.com/biz/old-skool-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.390515,
+    "latitude": 37.734266
+  },
+  "review_count": 415,
+  "price": "$$",
+  "name": "Old Skool Cafe"
+}

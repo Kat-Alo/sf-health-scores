@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 347.94983308359997,
+  "display_phone": "(415) 695-1199",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1199 Valencia St",
+    "state": "CA",
+    "display_address": [
+      "1199 Valencia St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "beretta-san-francisco",
+  "phone": "+14156951199",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Au1vrkX9VqUtKfzI3QMkdA/o.jpg",
+  "url": "https://www.yelp.com/biz/beretta-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.420636,
+    "latitude": 37.753868
+  },
+  "review_count": 3016,
+  "price": "$$",
+  "name": "Beretta"
+}

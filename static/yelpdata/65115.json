@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "hotpot",
+      "title": "Hot Pot"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "tapasmallplates",
+      "title": "Tapas/Small Plates"
+    }
+  ],
+  "distance": 24.869831887569998,
+  "display_phone": "(415) 592-8988",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1155 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "1155 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "one-boiling-pot-san-francisco",
+  "phone": "+14155928988",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RFFdcVOelwzFjLzgvgM1_g/o.jpg",
+  "url": "https://www.yelp.com/biz/one-boiling-pot-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.478839121759,
+    "latitude": 37.7428389158481
+  },
+  "review_count": 75,
+  "price": "$$",
+  "name": "One Boiling Pot"
+}

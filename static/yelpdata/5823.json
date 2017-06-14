@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    }
+  ],
+  "distance": 39.75419509582,
+  "display_phone": "(415) 695-5787",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "465 Missouri St",
+    "state": "CA",
+    "display_address": [
+      "465 Missouri St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "daniel-webster-elementary-school-san-francisco",
+  "phone": "+14156955787",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MQci6u8T7S8N3_-qdlKlWw/o.jpg",
+  "url": "https://www.yelp.com/biz/daniel-webster-elementary-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.39584,
+    "latitude": 37.76052
+  },
+  "review_count": 14,
+  "name": "Daniel Webster Elementary School"
+}

@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "comfortfood",
+      "title": "Comfort Food"
+    }
+  ],
+  "distance": 64.5009148874,
+  "display_phone": "(415) 552-2469",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "215 Church St",
+    "state": "CA",
+    "display_address": [
+      "215 Church St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "chow-church-san-francisco",
+  "phone": "+14155522469",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/usQoVE6hNjnhGg8a7VQmlg/o.jpg",
+  "url": "https://www.yelp.com/biz/chow-church-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.428558349609,
+    "latitude": 37.7671928405762
+  },
+  "review_count": 1818,
+  "price": "$$",
+  "name": "Chow - Church"
+}

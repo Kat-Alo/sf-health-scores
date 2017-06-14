@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "health",
+      "title": "Health & Medical"
+    },
+    {
+      "alias": "education",
+      "title": "Education"
+    }
+  ],
+  "distance": 334.599649674,
+  "display_phone": "(415) 879-0038",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "The Flood Building, 870 Market St, Ste 460",
+    "address3": "",
+    "address1": "Bodymapping For Yoga - Functional Anatomy Workshops",
+    "state": "CA",
+    "display_address": [
+      "Bodymapping For Yoga - Functional Anatomy Workshops",
+      "The Flood Building, 870 Market St, Ste 460",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "walk-in-balance-center-for-the-alexander-technique-san-francisco-3",
+  "phone": "+14158790038",
+  "rating": 5.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t5tRC78-2spBDFwH_uPhcg/o.jpg",
+  "url": "https://www.yelp.com/biz/walk-in-balance-center-for-the-alexander-technique-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4076576,
+    "latitude": 37.7850789
+  },
+  "review_count": 43,
+  "name": "Walk in Balance - Center for the Alexander Technique"
+}

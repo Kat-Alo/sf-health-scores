@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "danceclubs",
+      "title": "Dance Clubs"
+    },
+    {
+      "alias": "cocktailbars",
+      "title": "Cocktail Bars"
+    }
+  ],
+  "distance": 22.21945409842,
+  "display_phone": "(415) 800-7145",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94133",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1326 Grant Ave",
+    "state": "CA",
+    "display_address": [
+      "1326 Grant Ave",
+      "San Francisco, CA 94133"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tope-san-francisco-2",
+  "phone": "+14158007145",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XtCOQ_YvjnAg3EQnjmdICQ/o.jpg",
+  "url": "https://www.yelp.com/biz/tope-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407200932364,
+    "latitude": 37.7991025478526
+  },
+  "review_count": 134,
+  "price": "$",
+  "name": "Tope"
+}

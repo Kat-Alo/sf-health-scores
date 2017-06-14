@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    },
+    {
+      "alias": "highschools",
+      "title": "Middle Schools & High Schools"
+    },
+    {
+      "alias": "preschools",
+      "title": "Preschools"
+    }
+  ],
+  "distance": 67.39926702577999,
+  "display_phone": "(415) 337-0100",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "50 Thomas More Way",
+    "state": "CA",
+    "display_address": [
+      "50 Thomas More Way",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "st-thomas-more-school-san-francisco",
+  "phone": "+14153370100",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ziKY0KFAe19_aOLuAZdxLQ/o.jpg",
+  "url": "https://www.yelp.com/biz/st-thomas-more-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4731873,
+    "latitude": 37.7122789
+  },
+  "review_count": 10,
+  "name": "St Thomas More School"
+}

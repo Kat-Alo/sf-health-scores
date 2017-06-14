@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "autorepair",
+      "title": "Auto Repair"
+    }
+  ],
+  "distance": 1557.7486473236,
+  "display_phone": "(415) 585-6988",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1200 Geneva Ave",
+    "state": "CA",
+    "display_address": [
+      "1200 Geneva Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "f-t-i-arco-gas-station-san-francisco",
+  "phone": "+14155856988",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g4d1Udhou4Kp_rQnD9SCOA/o.jpg",
+  "url": "https://www.yelp.com/biz/f-t-i-arco-gas-station-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.436012268066,
+    "latitude": 37.7138214111328
+  },
+  "review_count": 28,
+  "name": "F T I Arco Gas Station"
+}

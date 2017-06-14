@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "pakistani",
+      "title": "Pakistani"
+    }
+  ],
+  "distance": 9.8477204407,
+  "display_phone": "(415) 778-6311",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "180 Howard St",
+    "state": "CA",
+    "display_address": [
+      "180 Howard St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "rotee-express-san-francisco",
+  "phone": "+14157786311",
+  "rating": 2.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zAhJ3q9R4a7uf8d6guXfDA/o.jpg",
+  "url": "https://www.yelp.com/biz/rotee-express-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.393176491996,
+    "latitude": 37.790951107214
+  },
+  "review_count": 189,
+  "price": "$",
+  "name": "Rotee Express"
+}

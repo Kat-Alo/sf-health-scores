@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "wineries",
+      "title": "Wineries"
+    }
+  ],
+  "distance": 10.938598202178,
+  "display_phone": "(415) 731-6222",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "250 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "250 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "san-francisco-wine-trading-company-san-francisco",
+  "phone": "+14157316222",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/swDvhTLVOmUNNv6cf-ZLew/o.jpg",
+  "url": "https://www.yelp.com/biz/san-francisco-wine-trading-company-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4690018,
+    "latitude": 37.7435913
+  },
+  "review_count": 102,
+  "price": "$$",
+  "name": "San Francisco Wine Trading Company"
+}

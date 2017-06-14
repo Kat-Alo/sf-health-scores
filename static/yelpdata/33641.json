@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    }
+  ],
+  "distance": 8.909732232298,
+  "display_phone": "(415) 665-7684",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "53 W Portal Ave",
+    "state": "CA",
+    "display_address": [
+      "53 W Portal Ave",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "roti-indian-bistro-san-francisco",
+  "phone": "+14156657684",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MFqhaLPKjmQ8OlhSpiLu4g/o.jpg",
+  "url": "https://www.yelp.com/biz/roti-indian-bistro-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4662449,
+    "latitude": 37.7401922
+  },
+  "review_count": 616,
+  "price": "$$",
+  "name": "Roti Indian Bistro"
+}

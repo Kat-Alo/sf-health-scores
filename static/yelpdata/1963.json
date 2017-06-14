@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 16.35387409301,
+  "display_phone": "(415) 664-9511",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "33 W Portal Ave",
+    "state": "CA",
+    "display_address": [
+      "33 W Portal Ave",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "spiazzo-ristorante-san-francisco",
+  "phone": "+14156649511",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w_o0WJvk32VFYM5sYjxgkg/o.jpg",
+  "url": "https://www.yelp.com/biz/spiazzo-ristorante-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46588,
+    "latitude": 37.74035
+  },
+  "review_count": 494,
+  "price": "$$",
+  "name": "Spiazzo Ristorante"
+}

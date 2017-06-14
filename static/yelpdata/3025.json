@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    }
+  ],
+  "distance": 14.861252281179999,
+  "display_phone": "(415) 665-2199",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1375 Noriega St",
+    "state": "CA",
+    "display_address": [
+      "1375 Noriega St",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "peking-restaurant-san-francisco",
+  "phone": "+14156652199",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PK-nQj5sijKoB7f9Wv7CnQ/o.jpg",
+  "url": "https://www.yelp.com/biz/peking-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4782758,
+    "latitude": 37.7540083
+  },
+  "review_count": 125,
+  "price": "$",
+  "name": "Peking Restaurant"
+}

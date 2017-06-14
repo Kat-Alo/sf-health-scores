@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "hotdog",
+      "title": "Hot Dogs"
+    },
+    {
+      "alias": "streetvendors",
+      "title": "Street Vendors"
+    }
+  ],
+  "distance": 897.548391014,
+  "display_phone": "",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2800 Mission St",
+    "state": "CA",
+    "display_address": [
+      "2800 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "leos-hot-dogs-san-francisco",
+  "phone": "",
+  "rating": 4.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AOc2jhSeMFcYv3tTNJJmiQ/o.jpg",
+  "url": "https://www.yelp.com/biz/leos-hot-dogs-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.418716430664,
+    "latitude": 37.7519912719727
+  },
+  "review_count": 10,
+  "price": "$",
+  "name": "Leo's Hot Dogs"
+}

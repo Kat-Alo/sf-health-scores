@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "chinese",
+      "title": "Chinese"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    },
+    {
+      "alias": "bbq",
+      "title": "Barbeque"
+    }
+  ],
+  "distance": 23.172640430979996,
+  "display_phone": "(415) 392-0111",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1041 Stockton St",
+    "state": "CA",
+    "display_address": [
+      "1041 Stockton St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-golden-daisy-san-francisco",
+  "phone": "+14153920111",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MZnDZ6og7XPEJbqu5nlkhg/o.jpg",
+  "url": "https://www.yelp.com/biz/new-golden-daisy-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40848,
+    "latitude": 37.79554
+  },
+  "review_count": 172,
+  "price": "$",
+  "name": "New Golden Daisy"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 62.51364713783999,
+  "display_phone": "(415) 227-4077",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "149 New Montgomery St",
+    "state": "CA",
+    "display_address": [
+      "149 New Montgomery St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "cafe-madeleine-san-francisco-3",
+  "phone": "+14152274077",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z-5Fyy-tsnDPLapegPXO_w/o.jpg",
+  "url": "https://www.yelp.com/biz/cafe-madeleine-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.399665622613,
+    "latitude": 37.7869478294579
+  },
+  "review_count": 394,
+  "price": "$",
+  "name": "Cafe Madeleine"
+}

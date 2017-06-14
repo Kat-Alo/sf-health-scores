@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 21.58719269262,
+  "display_phone": "(415) 647-1500",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2884 24th St",
+    "state": "CA",
+    "display_address": [
+      "2884 24th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "la-palma-mexicatessen-san-francisco",
+  "phone": "+14156471500",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ri9gXZL5zH_NHvWTczLdJg/o.jpg",
+  "url": "https://www.yelp.com/biz/la-palma-mexicatessen-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.409942626953,
+    "latitude": 37.7529792785645
+  },
+  "review_count": 522,
+  "price": "$",
+  "name": "La Palma Mexicatessen"
+}

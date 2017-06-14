@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "indpak",
+      "title": "Indian"
+    },
+    {
+      "alias": "pakistani",
+      "title": "Pakistani"
+    }
+  ],
+  "distance": 75.56197308099999,
+  "display_phone": "(415) 974-1111",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "101 Spear St",
+    "state": "CA",
+    "display_address": [
+      "101 Spear St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "muskaan-cuisine-of-india-san-francisco",
+  "phone": "+14159741111",
+  "rating": 1.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TIyswR6flND9-UJLBU6VEg/o.jpg",
+  "url": "https://www.yelp.com/biz/muskaan-cuisine-of-india-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3938405,
+    "latitude": 37.7925598
+  },
+  "review_count": 74,
+  "price": "$",
+  "name": "Muskaan Cuisine of India"
+}

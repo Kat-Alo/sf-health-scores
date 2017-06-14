@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "hotels",
+      "title": "Hotels"
+    }
+  ],
+  "distance": 6.453244185799999,
+  "display_phone": "(415) 397-7000",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "335 Powell St",
+    "state": "CA",
+    "display_address": [
+      "335 Powell St",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-westin-st-francis-san-francisco-on-union-square-san-francisco",
+  "phone": "+14153977000",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7R7EH8zbMSJp_7cma4T5Tg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-westin-st-francis-san-francisco-on-union-square-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.408389763786,
+    "latitude": 37.7877520297158
+  },
+  "review_count": 1159,
+  "price": "$$$",
+  "name": "The Westin St. Francis San Francisco on Union Square"
+}

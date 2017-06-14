@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    }
+  ],
+  "distance": 6.1685117062999995,
+  "display_phone": "(415) 861-8610",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2001 17th St",
+    "state": "CA",
+    "display_address": [
+      "2001 17th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "live-sushi-bar-san-francisco",
+  "phone": "+14158618610",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w9xK_39mtoeADeHLmEsNjw/o.jpg",
+  "url": "https://www.yelp.com/biz/live-sushi-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4036308,
+    "latitude": 37.764681
+  },
+  "review_count": 1076,
+  "price": "$$",
+  "name": "Live Sushi Bar"
+}

@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 3.5868664145399998,
+  "display_phone": "(415) 282-0203",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2830 Mission St",
+    "state": "CA",
+    "display_address": [
+      "2830 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taqueria-san-jose-san-francisco",
+  "phone": "+14152820203",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9YJnu0yA_P4XJ0fivYF35A/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-san-jose-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.418481707573,
+    "latitude": 37.7517130225897
+  },
+  "review_count": 282,
+  "price": "$",
+  "name": "Taqueria San Jose"
+}

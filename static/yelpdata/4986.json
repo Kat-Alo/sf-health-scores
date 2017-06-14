@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 11.091834085222,
+  "display_phone": "(415) 661-2222",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2415 19th Ave",
+    "state": "CA",
+    "display_address": [
+      "2415 19th Ave",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "seniores-pizza-san-francisco-5",
+  "phone": "+14156612222",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PZcCICbgx9h2vv1vnNeKiQ/o.jpg",
+  "url": "https://www.yelp.com/biz/seniores-pizza-san-francisco-5?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.47582914532,
+    "latitude": 37.742688286051
+  },
+  "review_count": 1096,
+  "price": "$",
+  "name": "Seniore's Pizza"
+}

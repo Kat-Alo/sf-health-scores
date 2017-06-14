@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "italian",
+      "title": "Italian"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 24.68421141664,
+  "display_phone": "(415) 778-8500",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "85 5th St",
+    "state": "CA",
+    "display_address": [
+      "85 5th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "soma-restaurant-and-bar-san-francisco",
+  "phone": "+14157788500",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/COihckh-OOldwZ77CLkshQ/o.jpg",
+  "url": "https://www.yelp.com/biz/soma-restaurant-and-bar-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40651,
+    "latitude": 37.78301
+  },
+  "review_count": 181,
+  "price": "$$",
+  "name": "SOMA Restaurant & Bar"
+}

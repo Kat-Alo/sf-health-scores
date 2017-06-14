@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    },
+    {
+      "alias": "cheesesteaks",
+      "title": "Cheesesteaks"
+    }
+  ],
+  "distance": 14.421933038639999,
+  "display_phone": "(415) 431-0800",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1270 Mission St",
+    "state": "CA",
+    "display_address": [
+      "1270 Mission St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sf-pizza-san-francisco",
+  "phone": "+14154310800",
+  "rating": 2.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CRktnc6iJmtd8HBqLrNSiw/o.jpg",
+  "url": "https://www.yelp.com/biz/sf-pizza-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4143235,
+    "latitude": 37.7767319
+  },
+  "review_count": 79,
+  "price": "$",
+  "name": "SF Pizza"
+}

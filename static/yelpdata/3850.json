@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 10.377125064684,
+  "display_phone": "(415) 864-5000",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "599 Castro St",
+    "state": "CA",
+    "display_address": [
+      "599 Castro St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "thai-house-express-san-francisco-2",
+  "phone": "+14158645000",
+  "rating": 3.5,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ip-yjFhkfXOH0zSQJqzlsw/o.jpg",
+  "url": "https://www.yelp.com/biz/thai-house-express-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4348137,
+    "latitude": 37.7593103
+  },
+  "review_count": 512,
+  "price": "$$",
+  "name": "Thai House Express"
+}

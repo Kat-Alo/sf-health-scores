@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    }
+  ],
+  "distance": 41.53946653527999,
+  "display_phone": "(415) 227-8660",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "760 2nd St",
+    "state": "CA",
+    "display_address": [
+      "760 2nd St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "momos-san-francisco",
+  "phone": "+14152278660",
+  "rating": 3.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EH8X76NqDvuR9FBAyysUsQ/o.jpg",
+  "url": "https://www.yelp.com/biz/momos-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.390213,
+    "latitude": 37.779842
+  },
+  "review_count": 757,
+  "price": "$$",
+  "name": "MoMo's"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 17.5072695636,
+  "display_phone": "(415) 587-4992",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "1934 Ocean Ave",
+    "state": "CA",
+    "display_address": [
+      "1934 Ocean Ave",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "sophias-pizzeria-san-francisco",
+  "phone": "+14155874992",
+  "rating": 3.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hSVGDvlHYCWj6dKc4vhGkw/o.jpg",
+  "url": "https://www.yelp.com/biz/sophias-pizzeria-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46323,
+    "latitude": 37.7259
+  },
+  "review_count": 147,
+  "price": "$$",
+  "name": "Sophia's Pizzeria"
+}

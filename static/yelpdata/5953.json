@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "churches",
+      "title": "Churches"
+    }
+  ],
+  "distance": 4574.779085619999,
+  "display_phone": "(415) 288-3800",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94108",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "660 California St",
+    "state": "CA",
+    "display_address": [
+      "660 California St",
+      "San Francisco, CA 94108"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "old-st-marys-cathedral-san-francisco",
+  "phone": "+14152883800",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gZMQYeAQfLwy7XpLZ15akg/o.jpg",
+  "url": "https://www.yelp.com/biz/old-st-marys-cathedral-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.40551,
+    "latitude": 37.79269
+  },
+  "review_count": 41,
+  "name": "Old St Mary's Cathedral"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "burgers",
+      "title": "Burgers"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "vietnamese",
+      "title": "Vietnamese"
+    }
+  ],
+  "distance": 18.01414729,
+  "display_phone": "(415) 586-5333",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94131",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2906 Diamond St",
+    "state": "CA",
+    "display_address": [
+      "2906 Diamond St",
+      "San Francisco, CA 94131"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "vikings-giant-submarines-san-francisco-3",
+  "phone": "+14155865333",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/53Yv3u8Dbql96_Ozg0zl_Q/o.jpg",
+  "url": "https://www.yelp.com/biz/vikings-giant-submarines-san-francisco-3?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.434189067459,
+    "latitude": 37.7336061267502
+  },
+  "review_count": 122,
+  "price": "$",
+  "name": "Viking's Giant Submarines"
+}

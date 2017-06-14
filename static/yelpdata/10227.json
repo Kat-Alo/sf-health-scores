@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "pubs",
+      "title": "Pubs"
+    },
+    {
+      "alias": "irish",
+      "title": "Irish"
+    }
+  ],
+  "distance": 15.475775541500001,
+  "display_phone": "(415) 550-7510",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3200 24th St",
+    "state": "CA",
+    "display_address": [
+      "3200 24th St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-napper-tandy-san-francisco",
+  "phone": "+14155507510",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XnFcLF8Fjxi3QgBXrhxGqw/o.jpg",
+  "url": "https://www.yelp.com/biz/the-napper-tandy-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.416591,
+    "latitude": 37.752471
+  },
+  "review_count": 288,
+  "price": "$$",
+  "name": "The Napper Tandy"
+}

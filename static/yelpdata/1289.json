@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "diners",
+      "title": "Diners"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 469.90165930719996,
+  "display_phone": "(415) 864-9795",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94114",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3991 17th St",
+    "state": "CA",
+    "display_address": [
+      "3991 17th St",
+      "San Francisco, CA 94114"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "orphan-andys-san-francisco",
+  "phone": "+14158649795",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CpI8_zNthVz3i7ngAs3Yng/o.jpg",
+  "url": "https://www.yelp.com/biz/orphan-andys-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43486,
+    "latitude": 37.76238
+  },
+  "review_count": 744,
+  "price": "$$",
+  "name": "Orphan Andy's"
+}

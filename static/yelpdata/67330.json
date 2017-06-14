@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    },
+    {
+      "alias": "sportsbars",
+      "title": "Sports Bars"
+    },
+    {
+      "alias": "chicken_wings",
+      "title": "Chicken Wings"
+    }
+  ],
+  "distance": 14826.51226327,
+  "display_phone": "(650) 588-4900",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94066",
+    "country": "US",
+    "address2": "Ste 210",
+    "address3": "",
+    "address1": "1150 El Camino Real",
+    "state": "CA",
+    "display_address": [
+      "1150 El Camino Real",
+      "Ste 210",
+      "San Bruno, CA 94066"
+    ],
+    "city": "San Bruno"
+  },
+  "id": "hooters-san-bruno",
+  "phone": "+16505884900",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CNWZTubbJ1sK-uyTfCRl1w/o.jpg",
+  "url": "https://www.yelp.com/biz/hooters-san-bruno?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.418435150525,
+    "latitude": 37.6366449718849
+  },
+  "review_count": 516,
+  "price": "$$",
+  "name": "Hooters"
+}

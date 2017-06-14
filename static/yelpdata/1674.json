@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "comfortfood",
+      "title": "Comfort Food"
+    },
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    }
+  ],
+  "distance": 30.48337315558,
+  "display_phone": "(415) 977-5155",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "Nordstrom",
+    "address1": "865 Market St",
+    "state": "CA",
+    "display_address": [
+      "865 Market St",
+      "Nordstrom",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "cafe-bistro-san-francisco-4",
+  "phone": "+14159775155",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GrDJpwnbd566bU_Ca-pUSQ/o.jpg",
+  "url": "https://www.yelp.com/biz/cafe-bistro-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407336422229,
+    "latitude": 37.7841105806419
+  },
+  "review_count": 750,
+  "price": "$$",
+  "name": "Cafe Bistro"
+}

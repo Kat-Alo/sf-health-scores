@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 30.669932676399995,
+  "display_phone": "(415) 585-5263",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "145 Bosworth St",
+    "state": "CA",
+    "display_address": [
+      "145 Bosworth St",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "new-bosworth-market-san-francisco",
+  "phone": "+14155855263",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QJVz9hOEl48IfeLpCNpn5Q/o.jpg",
+  "url": "https://www.yelp.com/biz/new-bosworth-market-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.42835,
+    "latitude": 37.73327
+  },
+  "review_count": 21,
+  "price": "$",
+  "name": "New Bosworth Market"
+}

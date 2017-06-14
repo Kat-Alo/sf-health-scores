@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "bars",
+      "title": "Bars"
+    }
+  ],
+  "distance": 20.60163126728,
+  "display_phone": "(415) 648-4142",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3349 23rd St",
+    "state": "CA",
+    "display_address": [
+      "3349 23rd St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "velvet-cantina-san-francisco",
+  "phone": "+14156484142",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-ldYn_T8Bhi-E5ZDmghYTQ/o.jpg",
+  "url": "https://www.yelp.com/biz/velvet-cantina-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.419701,
+    "latitude": 37.753802
+  },
+  "review_count": 1116,
+  "price": "$$",
+  "name": "Velvet Cantina"
+}

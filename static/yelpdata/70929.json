@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "convenience",
+      "title": "Convenience Stores"
+    }
+  ],
+  "distance": 19.380322453359998,
+  "display_phone": "(415) 665-1446",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94116",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1026 Taraval St",
+    "state": "CA",
+    "display_address": [
+      "1026 Taraval St",
+      "San Francisco, CA 94116"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lindas-deli-san-francisco-2",
+  "phone": "+14156651446",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hPZ9WiKQkwjavVG2dRkS7Q/o.jpg",
+  "url": "https://www.yelp.com/biz/lindas-deli-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4774,
+    "latitude": 37.74322
+  },
+  "review_count": 7,
+  "price": "$$$$",
+  "name": "Linda's Deli"
+}

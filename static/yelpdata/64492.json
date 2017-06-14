@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "healthmarkets",
+      "title": "Health Markets"
+    },
+    {
+      "alias": "organic_stores",
+      "title": "Organic Stores"
+    }
+  ],
+  "distance": 63.33380542599999,
+  "display_phone": "(415) 876-6740",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "690 Stanyan St",
+    "state": "CA",
+    "display_address": [
+      "690 Stanyan St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "whole-foods-market-san-francisco-26",
+  "phone": "+14158766740",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gTx08eAC8sf_0No18fpcXw/o.jpg",
+  "url": "https://www.yelp.com/biz/whole-foods-market-san-francisco-26?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.452832472283,
+    "latitude": 37.7695167749401
+  },
+  "review_count": 308,
+  "price": "$$$",
+  "name": "Whole Foods Market"
+}

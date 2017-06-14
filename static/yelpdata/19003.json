@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    },
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    }
+  ],
+  "distance": 20.37141839896,
+  "display_phone": "(415) 431-4232",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3091 16th St",
+    "state": "CA",
+    "display_address": [
+      "3091 16th St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "panchitas-restaurant-no-2-san-francisco",
+  "phone": "+14154314232",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7-luSPm0nXUT9LEIZwYCGg/o.jpg",
+  "url": "https://www.yelp.com/biz/panchitas-restaurant-no-2-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4216,
+    "latitude": 37.76471
+  },
+  "review_count": 496,
+  "price": "$",
+  "name": "Panchita's Restaurant No 2"
+}

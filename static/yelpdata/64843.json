@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    },
+    {
+      "alias": "syrian",
+      "title": "Syrian"
+    }
+  ],
+  "distance": 17.17769926236,
+  "display_phone": "(415) 896-4172",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94117",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "700 Haight St",
+    "state": "CA",
+    "display_address": [
+      "700 Haight St",
+      "San Francisco, CA 94117"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "palmyra-san-francisco",
+  "phone": "+14158964172",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GH81nzFSkrGYtGgm7_zZjQ/o.jpg",
+  "url": "https://www.yelp.com/biz/palmyra-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.433937,
+    "latitude": 37.771851
+  },
+  "review_count": 671,
+  "price": "$",
+  "name": "Palmyra"
+}

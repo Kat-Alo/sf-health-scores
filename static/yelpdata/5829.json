@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 61.58989241519999,
+  "display_phone": "(415) 750-8483",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "4545 Anza St",
+    "state": "CA",
+    "display_address": [
+      "4545 Anza St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lafayette-elementary-school-san-francisco-2",
+  "phone": "+14157508483",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-uMfQ34SVmPHnpY4m_QzEA/o.jpg",
+  "url": "https://www.yelp.com/biz/lafayette-elementary-school-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.496869936585,
+    "latitude": 37.7775668352842
+  },
+  "review_count": 4,
+  "name": "Lafayette Elementary School"
+}

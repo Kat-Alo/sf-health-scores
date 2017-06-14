@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    },
+    {
+      "alias": "hotdogs",
+      "title": "Fast Food"
+    }
+  ],
+  "distance": 730.3762673059999,
+  "display_phone": "(415) 777-3657",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94107",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "795 Folsom St",
+    "state": "CA",
+    "display_address": [
+      "795 Folsom St",
+      "San Francisco, CA 94107"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "subway-san-francisco-20",
+  "phone": "+14157773657",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2if6SpuNy1ujIQ5ILn1mlA/o.jpg",
+  "url": "https://www.yelp.com/biz/subway-san-francisco-20?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4007702,
+    "latitude": 37.7821489
+  },
+  "review_count": 32,
+  "price": "$",
+  "name": "Subway"
+}

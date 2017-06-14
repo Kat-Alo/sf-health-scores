@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "movietheaters",
+      "title": "Cinema"
+    }
+  ],
+  "distance": 63.7155086872,
+  "display_phone": "(844) 462-7342",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94132",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "501 Buckingham Way",
+    "state": "CA",
+    "display_address": [
+      "501 Buckingham Way",
+      "San Francisco, CA 94132"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "united-artists-stonestown-twin-san-francisco-2",
+  "phone": "+18444627342",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q_ezyv2Xy98etK1ye_IXfw/o.jpg",
+  "url": "https://www.yelp.com/biz/united-artists-stonestown-twin-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.478285580873,
+    "latitude": 37.7301447093487
+  },
+  "review_count": 140,
+  "name": "United Artists Stonestown Twin"
+}

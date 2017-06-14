@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 26.013251059499996,
+  "display_phone": "(415) 391-4444",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94102",
+    "country": "US",
+    "address2": "8th Fl",
+    "address3": "",
+    "address1": "251 Geary St",
+    "state": "CA",
+    "display_address": [
+      "251 Geary St",
+      "8th Fl",
+      "San Francisco, CA 94102"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-cheesecake-factory-san-francisco-2",
+  "phone": "+14153914444",
+  "rating": 3.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/glUCWzmmLujmMX_IP3kNig/o.jpg",
+  "url": "https://www.yelp.com/biz/the-cheesecake-factory-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.407448,
+    "latitude": 37.787189
+  },
+  "review_count": 2530,
+  "price": "$$",
+  "name": "The Cheesecake Factory"
+}

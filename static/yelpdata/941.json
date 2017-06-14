@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "seafood",
+      "title": "Seafood"
+    }
+  ],
+  "distance": 3.421034066382,
+  "display_phone": "(415) 822-1770",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "984 Gilman Ave",
+    "state": "CA",
+    "display_address": [
+      "984 Gilman Ave",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "two-jacks-seafood-san-francisco",
+  "phone": "+14158221770",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l6s98EAnMMVV8OStjNcqWA/o.jpg",
+  "url": "https://www.yelp.com/biz/two-jacks-seafood-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.387777790427,
+    "latitude": 37.7180794626474
+  },
+  "review_count": 10,
+  "price": "$$",
+  "name": "Two Jacks Seafood"
+}

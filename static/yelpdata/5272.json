@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "wholesalers",
+      "title": "Wholesalers"
+    }
+  ],
+  "distance": 41.94586672812,
+  "display_phone": "(415) 522-5500",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "500 Florida St",
+    "state": "CA",
+    "display_address": [
+      "500 Florida St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "pan-o-rama-baking-san-francisco",
+  "phone": "+14155225500",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lNFTKOpAkUF3gnqpWThkdA/o.jpg",
+  "url": "https://www.yelp.com/biz/pan-o-rama-baking-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41148,
+    "latitude": 37.76259
+  },
+  "review_count": 40,
+  "price": "$",
+  "name": "Pan-O-Rama Baking"
+}

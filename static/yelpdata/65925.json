@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "alias": "greek",
+      "title": "Greek"
+    },
+    {
+      "alias": "mediterranean",
+      "title": "Mediterranean"
+    },
+    {
+      "alias": "tradamerican",
+      "title": "American (Traditional)"
+    }
+  ],
+  "distance": 67.94968705522,
+  "display_phone": "(415) 781-0313",
+  "is_closed": false,
+  "transactions": [
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94111",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "91 Drumm St",
+    "state": "CA",
+    "display_address": [
+      "91 Drumm St",
+      "San Francisco, CA 94111"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "oasis-grill-san-francisco",
+  "phone": "+14157810313",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Sg5cz9hi_p6G22TFja2xRA/o.jpg",
+  "url": "https://www.yelp.com/biz/oasis-grill-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.396736520868,
+    "latitude": 37.7944464239893
+  },
+  "review_count": 1073,
+  "price": "$",
+  "name": "Oasis Grill"
+}

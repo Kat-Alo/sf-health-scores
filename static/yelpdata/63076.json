@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "vintage",
+      "title": "Used, Vintage & Consignment"
+    },
+    {
+      "alias": "thrift_stores",
+      "title": "Thrift Stores"
+    }
+  ],
+  "distance": 1458.8238049955999,
+  "display_phone": "(415) 575-2240",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94103",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1580 Mission St",
+    "state": "CA",
+    "display_address": [
+      "1580 Mission St",
+      "San Francisco, CA 94103"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "goodwill-industries-san-francisco-6",
+  "phone": "+14155752240",
+  "rating": 4.0,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9kO1AWCEYRFruBsDRk-6OQ/o.jpg",
+  "url": "https://www.yelp.com/biz/goodwill-industries-san-francisco-6?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41823,
+    "latitude": 37.77362
+  },
+  "review_count": 165,
+  "price": "$",
+  "name": "Goodwill Industries"
+}

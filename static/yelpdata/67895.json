@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "cafes",
+      "title": "Cafes"
+    },
+    {
+      "alias": "newamerican",
+      "title": "American (New)"
+    },
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 16.58658707102,
+  "display_phone": "(415) 647-7702",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "500 Precita Ave",
+    "state": "CA",
+    "display_address": [
+      "500 Precita Ave",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "precita-park-cafe-san-francisco",
+  "phone": "+14156477702",
+  "rating": 3.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/95sJrIg-lVKATMbUEdn_xw/o.jpg",
+  "url": "https://www.yelp.com/biz/precita-park-cafe-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.410399,
+    "latitude": 37.746972
+  },
+  "review_count": 335,
+  "price": "$$",
+  "name": "Precita Park Cafe"
+}

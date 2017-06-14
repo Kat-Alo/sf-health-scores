@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "grocery",
+      "title": "Grocery"
+    },
+    {
+      "alias": "mideastern",
+      "title": "Middle Eastern"
+    }
+  ],
+  "distance": 47.46435796172,
+  "display_phone": "(415) 824-6555",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94110",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2990 Mission St",
+    "state": "CA",
+    "display_address": [
+      "2990 Mission St",
+      "San Francisco, CA 94110"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "samiramis-imports-san-francisco-2",
+  "phone": "+14158246555",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hUiGiowCLlldr_HUH-fADg/o.jpg",
+  "url": "https://www.yelp.com/biz/samiramis-imports-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.41834,
+    "latitude": 37.749645
+  },
+  "review_count": 131,
+  "price": "$",
+  "name": "Samiramis Imports"
+}

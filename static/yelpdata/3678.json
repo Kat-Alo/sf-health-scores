@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "pizza",
+      "title": "Pizza"
+    }
+  ],
+  "distance": 27.9683738519,
+  "display_phone": "(415) 681-9595",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94127",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "737 Portola Drive",
+    "state": "CA",
+    "display_address": [
+      "737 Portola Drive",
+      "San Francisco, CA 94127"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "round-table-pizza-san-francisco-4",
+  "phone": "+14156819595",
+  "rating": 2.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bNIFAWkpb-16GCu8x4F9ow/o.jpg",
+  "url": "https://www.yelp.com/biz/round-table-pizza-san-francisco-4?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4535,
+    "latitude": 37.74389
+  },
+  "review_count": 155,
+  "price": "$$",
+  "name": "Round Table Pizza"
+}

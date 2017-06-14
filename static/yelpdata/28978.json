@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "japanese",
+      "title": "Japanese"
+    },
+    {
+      "alias": "sushi",
+      "title": "Sushi Bars"
+    },
+    {
+      "alias": "gluten_free",
+      "title": "Gluten-Free"
+    }
+  ],
+  "distance": 11.10590647605,
+  "display_phone": "(415) 346-3431",
+  "is_closed": true,
+  "transactions": [],
+  "location": {
+    "zip_code": "94123",
+    "country": "US",
+    "address2": null,
+    "address3": "",
+    "address1": "2909 Webster St",
+    "state": "CA",
+    "display_address": [
+      "2909 Webster St",
+      "San Francisco, CA 94123"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "umami-san-francisco",
+  "phone": "+14153463431",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A1Hk2368G2e4b_im6ZGcqw/o.jpg",
+  "url": "https://www.yelp.com/biz/umami-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.4340472,
+    "latitude": 37.797645
+  },
+  "review_count": 1147,
+  "price": "$$$",
+  "name": "Umami"
+}

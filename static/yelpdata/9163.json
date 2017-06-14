@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    },
+    {
+      "alias": "restaurants",
+      "title": "Restaurants"
+    }
+  ],
+  "distance": 54.38308764911999,
+  "display_phone": "(415) 777-1277",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "Rincon Ctr",
+    "address1": "101 Spear St",
+    "state": "CA",
+    "display_address": [
+      "101 Spear St",
+      "Rincon Ctr",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wraps-to-go-san-francisco",
+  "phone": "+14157771277",
+  "rating": 3.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rtOExbr-BwCOpOIMdlGBEg/o.jpg",
+  "url": "https://www.yelp.com/biz/wraps-to-go-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.3938405,
+    "latitude": 37.7925598
+  },
+  "review_count": 60,
+  "price": "$",
+  "name": "Wraps To Go"
+}

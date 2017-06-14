@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "bagels",
+      "title": "Bagels"
+    }
+  ],
+  "distance": 32.63456184018,
+  "display_phone": "(415) 441-3003",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94109",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "2139 Polk St",
+    "state": "CA",
+    "display_address": [
+      "2139 Polk St",
+      "San Francisco, CA 94109"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "the-bagelry-san-francisco",
+  "phone": "+14154413003",
+  "rating": 3.5,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5_vcWQ2bL8hsIeXqh3H_RQ/o.jpg",
+  "url": "https://www.yelp.com/biz/the-bagelry-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.422172546387,
+    "latitude": 37.7964859008789
+  },
+  "review_count": 218,
+  "price": "$",
+  "name": "The Bagelry"
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 17808.86631696,
+  "display_phone": "(650) 624-3160",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94066",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "130 Cambridge Ln",
+    "state": "CA",
+    "display_address": [
+      "130 Cambridge Ln",
+      "San Bruno, CA 94066"
+    ],
+    "city": "San Bruno"
+  },
+  "id": "john-muir-elementary-school-san-bruno",
+  "phone": "+16506243160",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pOTPvl99VdW9l9ySZGUAgA/o.jpg",
+  "url": "https://www.yelp.com/biz/john-muir-elementary-school-san-bruno?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43611907959,
+    "latitude": 37.6139869689941
+  },
+  "review_count": 2,
+  "name": "John Muir Elementary School"
+}

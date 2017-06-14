@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "ramen",
+      "title": "Ramen"
+    },
+    {
+      "alias": "noodles",
+      "title": "Noodles"
+    }
+  ],
+  "distance": 19.52354647133,
+  "display_phone": "(415) 387-0874",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94121",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "3639 Balboa St",
+    "state": "CA",
+    "display_address": [
+      "3639 Balboa St",
+      "San Francisco, CA 94121"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "miki-restaurant-san-francisco",
+  "phone": "+14153870874",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9HJqrO_H1869RcftIG2eAA/o.jpg",
+  "url": "https://www.yelp.com/biz/miki-restaurant-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.49795,
+    "latitude": 37.77547
+  },
+  "review_count": 417,
+  "price": "$$",
+  "name": "Miki Restaurant"
+}

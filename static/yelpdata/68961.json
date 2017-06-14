@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "mexican",
+      "title": "Mexican"
+    },
+    {
+      "alias": "salvadoran",
+      "title": "Salvadoran"
+    }
+  ],
+  "distance": 26003.7076733,
+  "display_phone": "(510) 235-2288",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94805",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "12345 San Pablo Ave",
+    "state": "CA",
+    "display_address": [
+      "12345 San Pablo Ave",
+      "Richmond, CA 94805"
+    ],
+    "city": "Richmond"
+  },
+  "id": "taqueria-la-bamba-richmond",
+  "phone": "+15102352288",
+  "rating": 4.0,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KZlslvgSiSivB51MGM96rg/o.jpg",
+  "url": "https://www.yelp.com/biz/taqueria-la-bamba-richmond?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.32586,
+    "latitude": 37.93639
+  },
+  "review_count": 334,
+  "price": "$",
+  "name": "Taqueria La Bamba"
+}

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "beer_and_wine",
+      "title": "Beer, Wine & Spirits"
+    },
+    {
+      "alias": "galleries",
+      "title": "Art Galleries"
+    },
+    {
+      "alias": "wine_bars",
+      "title": "Wine Bars"
+    }
+  ],
+  "distance": 5.674927128299999,
+  "display_phone": "(415) 243-9463",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94105",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "30 Steuart St",
+    "state": "CA",
+    "display_address": [
+      "30 Steuart St",
+      "San Francisco, CA 94105"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "wine-and-wall-san-francisco",
+  "phone": "+14152439463",
+  "rating": 4.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5SZCZyHyFPoIiRXANwju-A/o.jpg",
+  "url": "https://www.yelp.com/biz/wine-and-wall-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.394416809082,
+    "latitude": 37.794189453125
+  },
+  "review_count": 11,
+  "price": "$$$",
+  "name": "Wine & Wall"
+}

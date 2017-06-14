@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "alias": "catering",
+      "title": "Caterers"
+    }
+  ],
+  "distance": 38.056964210400004,
+  "display_phone": "(415) 550-6464",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94124",
+    "country": "US",
+    "address2": "Ste 4D",
+    "address3": "",
+    "address1": "3450 3rd St",
+    "state": "CA",
+    "display_address": [
+      "3450 3rd St",
+      "Ste 4D",
+      "San Francisco, CA 94124"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "taste-catering-and-event-planning-san-francisco",
+  "phone": "+14155506464",
+  "rating": 5.0,
+  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uRAaiySFGoQ1hl9I05vuRg/o.jpg",
+  "url": "https://www.yelp.com/biz/taste-catering-and-event-planning-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.387359619141,
+    "latitude": 37.7455940246582
+  },
+  "review_count": 28,
+  "name": "Taste Catering & Event Planning"
+}

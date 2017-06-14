@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "alias": "thai",
+      "title": "Thai"
+    }
+  ],
+  "distance": 1342.89847427,
+  "display_phone": "(415) 731-9999",
+  "is_closed": false,
+  "transactions": [
+    "delivery",
+    "pickup"
+  ],
+  "location": {
+    "zip_code": "94122",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1243 9th Ave",
+    "state": "CA",
+    "display_address": [
+      "1243 9th Ave",
+      "San Francisco, CA 94122"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "marnee-thai-san-francisco-2",
+  "phone": "+14157319999",
+  "rating": 4.0,
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gdeX343-yYSVXbH1za3E-A/o.jpg",
+  "url": "https://www.yelp.com/biz/marnee-thai-san-francisco-2?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46671,
+    "latitude": 37.76513
+  },
+  "review_count": 1427,
+  "price": "$$",
+  "name": "Marnee Thai"
+}

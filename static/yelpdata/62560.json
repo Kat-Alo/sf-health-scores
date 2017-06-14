@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    },
+    {
+      "alias": "breakfast_brunch",
+      "title": "Breakfast & Brunch"
+    },
+    {
+      "alias": "sandwiches",
+      "title": "Sandwiches"
+    }
+  ],
+  "distance": 20.839081337579998,
+  "display_phone": "(415) 585-8853",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94112",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1818 San Jose Ave",
+    "state": "CA",
+    "display_address": [
+      "1818 San Jose Ave",
+      "San Francisco, CA 94112"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "tasty-coffee-san-francisco",
+  "phone": "+14155858853",
+  "rating": 4.5,
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4_1c6V14Viu6iIaR3katbA/o.jpg",
+  "url": "https://www.yelp.com/biz/tasty-coffee-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.44053,
+    "latitude": 37.7287899
+  },
+  "review_count": 30,
+  "price": "$",
+  "name": "Tasty Coffee"
+}

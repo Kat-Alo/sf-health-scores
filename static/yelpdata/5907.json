@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "alias": "elementaryschools",
+      "title": "Elementary Schools"
+    }
+  ],
+  "distance": 2760.323391798,
+  "display_phone": "(415) 749-3516",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94115",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "1512 Golden Gate Ave",
+    "state": "CA",
+    "display_address": [
+      "1512 Golden Gate Ave",
+      "San Francisco, CA 94115"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "lilienthal-claire-k-8-school-san-francisco",
+  "phone": "+14157493516",
+  "rating": 2.0,
+  "image_url": "",
+  "url": "https://www.yelp.com/biz/lilienthal-claire-k-8-school-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.43595,
+    "latitude": 37.77953
+  },
+  "review_count": 1,
+  "name": "Lilienthal Claire K-8 School"
+}

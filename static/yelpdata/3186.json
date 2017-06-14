@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "alias": "bakeries",
+      "title": "Bakeries"
+    },
+    {
+      "alias": "desserts",
+      "title": "Desserts"
+    }
+  ],
+  "distance": 20.42382494672,
+  "display_phone": "(415) 752-1580",
+  "is_closed": false,
+  "transactions": [],
+  "location": {
+    "zip_code": "94118",
+    "country": "US",
+    "address2": "",
+    "address3": "",
+    "address1": "521 Clement St",
+    "state": "CA",
+    "display_address": [
+      "521 Clement St",
+      "San Francisco, CA 94118"
+    ],
+    "city": "San Francisco"
+  },
+  "id": "schuberts-bakery-san-francisco",
+  "phone": "+14157521580",
+  "rating": 4.5,
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wzN0rOrBwj6FMT0vt1Dhvg/o.jpg",
+  "url": "https://www.yelp.com/biz/schuberts-bakery-san-francisco?adjust_creative=0T9f6kHMnzQCXJKBQD97qw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0T9f6kHMnzQCXJKBQD97qw",
+  "coordinates": {
+    "longitude": -122.46493,
+    "latitude": 37.78267
+  },
+  "review_count": 1438,
+  "price": "$$",
+  "name": "Schubert's Bakery"
+}
