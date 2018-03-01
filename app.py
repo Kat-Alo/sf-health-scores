@@ -17,6 +17,8 @@ def index():
 def detail(biz_id):
     template = 'detail.html'
 
+    biz_id = biz_id.replace('.html', '')
+
     inspection_list = []
     business = None
 
@@ -40,6 +42,8 @@ def price_detail(biz_price):
     high_risk = 0
     low_score = 0
 
+    biz_price = biz_price.replace('.html', '')
+
     business_list = get_price_data(biz_price)
 
     for row in business_list:
@@ -56,6 +60,8 @@ def category_detail(biz_category):
     high_risk = 0
     low_score = 0
 
+    biz_category = biz_category.replace('.html', '')
+
     business_list = get_category_data(biz_category)
 
     for row in business_list:
@@ -71,6 +77,8 @@ def rating_detail(biz_rating):
     template = 'ratingdetail.html'
     high_risk = 0
     low_score = 0
+
+    biz_rating = biz_rating.replace('.html', '')
 
     business_list = get_rating_data(biz_rating)
 
