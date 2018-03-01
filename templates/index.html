@@ -1,74 +1,16 @@
 <!doctype html class="homepage">
-<script src="sorttable.js"></script>
 <html lang="en">
     <head>
         <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
-                <link rel="stylesheet" href="/static/css/mystyles.css" />
-                <style>
-                    * {
-                      box-sizing: border-box;
-                  }
+        <link rel="stylesheet" href="/static/css/mystyles.css" />
+        <link rel="stylesheet" href="/static/css/tablesort.css" />
 
-                  #myInput {
-                      background-image: url('/css/searchicon.png');
-                      background-position: 10px 10px;
-                      background-repeat: no-repeat;
-                      width: 100%;
-                      font-size: 16px;
-                      padding: 12px 20px 12px 40px;
-                      border: 1px solid #ddd;
-                      margin-bottom: 12px;
-                  }
 
-                  #myTable {
-                      border-collapse: collapse;
-                      width: 100%;
-                      border: 1px solid #ddd;
-                      font-size: 18px;
-                  }
+        <script src='/static/javascripts/searchTable.js'></script>
+        <script src='/static/javascripts/tablesort.min.js'></script>
+        <script src='/static/javascripts/tablesort.number.js'></script>
 
-                  #myTable th, #myTable td {
-                      text-align: left;
-                      padding: 12px;
-                  }
 
-                  #myTable tr {
-                      border-bottom: 1px solid #ddd;
-                  }
-
-                  #myTable tr.header, #myTable tr:hover {
-                      background-color: #f1f1f1;
-                  }
-                  a:link {
-                        color: #F7B733;
-                        background: #DFDCE3;
-                    }
-                    a:hover{
-                        color: #DFDCE3;
-                        background: #F7B733;
-                    }
-                    a:visited{
-                        color: #F7B733;
-                        background: #DFDCE3;
-                    }
-                    a:active{
-                        color: #F7B733;
-                        background: #DFDCE3;
-                    }
-                    .floating-box{
-                        display: inline-block;
-                        width: 325px;
-                        height: 175px;
-                        margin: 15px;
-                        border: 5px solid #FC4A1A;
-                        background-color: #FC4A1A;
-                        color: #DFDCE3;
-                    }
-                    h1{
-                        font-size: 45px;
-                    }
-
-              </style>
     </head>
     <body class="mainpage">
 
@@ -95,6 +37,8 @@
 
              <div style="height:500px;overflow:auto;">
              <table border=1 cellpadding=7 class="sortable" id="myTable">
+
+<thead>
                 <tr>
                     <th>Name</th>
                     <th>Inspection Score</th>
@@ -103,6 +47,9 @@
                     <th>Yelp Price</th>
                     <th>Yelp Category</th>
                 </tr>
+</thead>
+
+<tbody>
                 {% for obj in object_list %}
                 <tr>
                     <td><a href="/business/{{ obj.business_id }}">{{ obj.business_name }}</a></td>
@@ -113,6 +60,8 @@
                     <td><a href="/category/{{ obj.yelp_category }}">{{ obj.yelp_category }}</a></td>
                 </tr>
                 {% endfor %}
+
+</tbody>
         </table>
         </div>
         </div>
@@ -124,103 +73,13 @@
             See the source code on <a href="https://github.com/Kat-Alo/sf-health-scores/">Github</a>.</li>
         </ul>
 
+
+
         <script type="text/javascript">
-        function searchFunction(){
-            var input, filter, table, tr, td, i;
-            input = document.getElementById("myInput");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("myTable");
-            tr = table.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                //search business column
-                td = tr[i].getElementsByTagName("td")[0];
-                if (td) {
-                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-                //search risk category column
-                td = tr[i].getElementsByTagName("td")[2];
-                if (td) {
-                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-                //search yelp category column
-                td = tr[i].getElementsByTagName("td")[5];
-                if (td) {
-                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-            }
-        }
-        //need to figure out why function below can't be called in searchFunction() to iterate over columns
-        function searchColumns(row, col){
-          td = tr[row].getElementsByTagName("td")[col];
-                if (td) {
-                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        tr[i].style.display = "";
-                    } else {
-                        tr[i].style.display = "none";
-                    }
-                }
-        }
-        function sortTable(n) {
-          var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-          table = document.getElementById("myTable");
-          switching = true;
-          dir = "asc";
-          while (switching) {
-            switching = false;
-            rows = table.getElementsByTagName("TR");
-            for (i = 1; i < (rows.length - 1); i++) {
-              // Start by saying there should be no switching:
-              shouldSwitch = false;
-              /* Get the two elements you want to compare,
-              one from current row and one from the next: */
-              x = rows[i].getElementsByTagName("TD")[n];
-              y = rows[i + 1].getElementsByTagName("TD")[n];
-              /* Check if the two rows should switch place,
-              based on the direction, asc or desc: */
-              if (dir == "asc") {
-                if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
-                  // If so, mark as a switch and break the loop:
-                  shouldSwitch= true;
-                  break;
-                }
-              } else if (dir == "desc") {
-                if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
-                  // If so, mark as a switch and break the loop:
-                  shouldSwitch= true;
-                  break;
-                }
-              }
-            }
-            if (shouldSwitch) {
-              /* If a switch has been marked, make the switch
-              and mark that a switch has been done: */
-              rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-              switching = true;
-              // Each time a switch is done, increase this count by 1:
-              switchcount ++;
-            } else {
-              /* If no switching has been done AND the direction is "asc",
-              set the direction to "desc" and run the while loop again. */
-              if (switchcount == 0 && dir == "asc") {
-                dir = "desc";
-                switching = true;
-              }
-            }
-          }
-        }
+          new Tablesort(document.getElementById('myTable'));
         </script>
+
+
     </body>
 </html>
 
