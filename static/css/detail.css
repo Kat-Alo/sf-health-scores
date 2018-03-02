@@ -1,0 +1,16 @@
+.floating-box{
+                    display: inline-block;
+                    width: 325px;
+                    height: 60px;
+                    margin: 15px;
+                    border: 5px solid #F7B733;
+                    background-color: #F7B733;
+                    color: #DFDCE3;
+            }
+            h1{
+                background: #4ABDAC;
+            }
+            body{
+                color: #DFDCE3;
+                font-size: 18px;
+            }
